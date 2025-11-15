@@ -1,0 +1,176 @@
+<film copyable="0" duration="11.3" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[GoAnimate Jacob2010 Edition Outro!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="2"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+      <color value="0"/>
+      <color value="50000"/>
+      <color value="0"/>
+    </palette>
+  </meta>
+  <scene id="SCENE1" adelay="18" lock="Y" index="0" color="327680" guid="A59C7A63-E0E9-B70E-C8F5-F998FF084E6D">
+    <effectAsset id="EFFECT1" themecode="common" index="1">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE0" adelay="30" lock="Y" index="1" color="16514043" guid="955B231D-C0EB-E5E4-1DC9-BA481A3845A9">
+    <prop id="PROP3" index="1">
+      <file>ugc.e5b32bd.png</file>
+      <x>324.325</x>
+      <y>201</y>
+      <xscale>1.5671256</xscale>
+      <yscale>1.5671256</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <trans id="GoTrans" index="2">
+      <fx dur="18" type="anifire.FadeDark.out" ease="null" param="0"/>
+    </trans>
+  </scene>
+  <scene id="SCENE2" adelay="36" lock="Y" index="2" color="16514043" guid="A1A6552A-5F82-6CB7-C071-4B0217706C11">
+    <bubbleAsset id="BUBBLE135" index="2">
+      <x>324.279972</x>
+      <y>306.9053246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-262.7984974" y="-46.8920455" w="525.5969948" h="93.7840909" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Oswald" size="30" align="center" bold="false" italic="false" embed="true"><![CDATA[Created With a GoAnimate Jacob2010 Edition!]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="PROP3" index="1">
+      <file>ugc.e5b32bd.png</file>
+      <x>324.325</x>
+      <y>201</y>
+      <xscale>1.5671256</xscale>
+      <yscale>1.5671256</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="BUBBLE135" type="FETAlpha" atype="BubbleAsset" direction="0" section="5" timing="0" duration="36" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE3" adelay="126" lock="Y" index="3" color="16514043" guid="95ABF7CD-A129-101F-68A6-ACF31A67E9D7">
+    <bubbleAsset id="BUBBLE135" index="2">
+      <x>324.279972</x>
+      <y>306.9053246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-262.7984974" y="-46.8920455" w="525.5969948" h="93.7840909" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Oswald" size="30" align="center" bold="false" italic="false" embed="true"><![CDATA[Created With a GoAnimate Jacob2010 Edition!]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="PROP3" index="1">
+      <file>ugc.e5b32bd.png</file>
+      <x>324.325</x>
+      <y>201</y>
+      <xscale>1.5671256</xscale>
+      <yscale>1.5671256</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE4" adelay="33" lock="Y" index="4" color="0" guid="03F33CE2-6403-2BF7-D2F6-911DE852D6EE">
+    <effectAsset id="EFFECT1" themecode="common" index="1">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <trans id="GoTrans" index="1">
+      <fx dur="24" type="anifire.FadeDark.out" ease="null" param="0"/>
+    </trans>
+  </scene>
+  <scene id="SCENE5" adelay="27" lock="Y" index="5" color="0" guid="2F5175A4-E6D8-4023-9B76-88DCDA427F4D">
+    <effectAsset id="EFFECT1" themecode="common" index="1">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND4" index="0" track="0" vol="1" tts="0">
+    <sfile>common.apples_and_oranges_tag.mp3</sfile>
+    <start>85</start>
+    <stop>210</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND1" index="1" track="0" vol="1" tts="0">
+    <sfile>ugc.05ba04e.mp3</sfile>
+    <start>49</start>
+    <stop>84</stop>
+    <trimStart>58</trimStart>
+    <trimEnd>93</trimEnd>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND5" index="2" track="0" vol="1" tts="0">
+    <sfile>common.new_moon_tag.mp3</sfile>
+    <start>211</start>
+    <stop>243</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+</film>

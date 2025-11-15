@@ -1,0 +1,86 @@
+<film copyable="0" duration="4.0" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[The First Episode Of BKGG Series Thumbnail!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+      <color value="ff6600"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="96" lock="N" index="0" color="632273" guid="7CC0BD52-E241-6ACA-98E4-F55B367AAD0F">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <char id="AVATOR267" index="2" raceCode="1" faceCamera="true">
+      <action face="-1" motionface="-1">ugc.fce0727.run.xml</action>
+      <prop id="PROP14">
+        <file>common.busted.swf</file>
+      </prop>
+      <head id="PROP13" raceCode="1">
+        <file>ugc.fce0727.head.head_schemeing.xml</file>
+      </head>
+      <x>225.1333333</x>
+      <y>233.9553246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR272" index="3" raceCode="1">
+      <action face="-1" motionface="1">ugc.6449458.excited.xml</action>
+      <head id="PROP16" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>110.8308169</x>
+      <y>238.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <bubbleAsset id="BUBBLE275" index="4">
+      <x>322.0178945</x>
+      <y>60.8803246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-278.2910088" y="-49.1217672" w="556.5820176" h="98.2435345" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="16737792" alpha="100" font="Oswald" size="32" align="center" bold="false" italic="false" embed="true"><![CDATA[Bob Kid Steals GTA 5 From Store/Grounded!]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="PROP11" index="1">
+      <file>common.ncc_hhouse01.swf</file>
+      <x>373.4540939</x>
+      <y>179.0553246</y>
+      <xscale>0.836244</xscale>
+      <yscale>0.836244</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT2" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+</film>

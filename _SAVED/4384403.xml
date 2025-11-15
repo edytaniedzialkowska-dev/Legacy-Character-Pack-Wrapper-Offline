@@ -1,0 +1,72 @@
+<film copyable="0" duration="2.5" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[My New PFP On WrapperTube!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+      <color value="ffce95"/>
+      <color value="ffce95"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="60" lock="N" index="0" color="16777215" guid="0FD9E8F1-7939-28B4-2935-FD360BFE3C9F">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>ugc.6271fc5.jpg</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6449458.stand.xml</action>
+      <head id="PROP4" raceCode="1">
+        <file>ugc.6449458.head.head_happy.xml</file>
+      </head>
+      <x>271.6758016</x>
+      <y>331.7570474</y>
+      <xscale>1.9794872</xscale>
+      <yscale>1.9794872</yscale>
+      <rotation>15.6437926</rotation>
+    </char>
+    <prop id="PROP5" index="2">
+      <file>common.msp_handshape.msp_handshape_ncc_hand02.swf</file>
+      <x>356.0512589</x>
+      <y>315.6193722</y>
+      <xscale>2.3158376</xscale>
+      <yscale>2.3158376</yscale>
+      <face>-1</face>
+      <rotation>75.8832781</rotation>
+      <color r="ccColorA">16764565</color>
+    </prop>
+    <prop id="PROP6" index="3">
+      <file>ugc.3b610de.png</file>
+      <x>360.6</x>
+      <y>271.975</y>
+      <xscale>0.2157279</xscale>
+      <yscale>0.2157279</yscale>
+      <face>1</face>
+      <rotation>8.0933844</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="4">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+</film>
