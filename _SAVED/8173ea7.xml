@@ -1,0 +1,53 @@
+<film copyable="0" duration="2.5" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Fat Jacob2010 (Caseoh Jacob)]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="60" lock="N" index="0" color="16777215" guid="3821C2D9-880B-0FDF-AFB9-D41F2CCEE67B">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <char id="AVATOR130" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.9947048.stand.xml</action>
+      <x>322.775</x>
+      <y>223.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR131" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.237c03f.stand.xml</action>
+      <x>321.923728</x>
+      <y>229.450214</y>
+      <xscale>1.0254409</xscale>
+      <yscale>1.0254409</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+</film>

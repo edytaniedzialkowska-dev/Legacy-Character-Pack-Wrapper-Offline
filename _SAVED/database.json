@@ -1,6 +1,153 @@
 {
 	"assets": [
 		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "9947048"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "237c03f"
+		},
+		{
+			"duration": 11755,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian (Readloud)] Bob Kid, How Dear You Taking Off Your Shy Guy's Mask! That's It, You're Grounded For Until Thanksgiving 2025 Is Over! Now Go To Your Room Right Now",
+			"id": "244387f.mp3"
+		},
+		{
+			"duration": 784,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Ivy (Readloud)] Oh Shoot!",
+			"id": "0038825.mp3"
+		},
+		{
+			"duration": 5303,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Dave] Bob Kid, How Dear You Taking Off Your Mask! That's It! I'm Calling Your Jacob On You",
+			"id": "dc93b85.mp3"
+		},
+		{
+			"duration": 1881,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Ivy (Readloud)] There! There's No More Mask!",
+			"id": "f377f60.mp3"
+		},
+		{
+			"duration": 1985,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Ivy (Readloud)] I'm Going Taking Off Your Mask!",
+			"id": "0187fa8.mp3"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "f122721"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "b2b46d2"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "Party Background Jacob2010.swf",
+			"ptype": "placeable",
+			"id": "4e996ff.swf"
+		},
+		{
+			"type": "sound",
+			"subtype": "bgmusic",
+			"title": "Tetris (CD-i) Music - Level 0 (online-audio-converter.com).mp3",
+			"duration": 265117,
+			"id": "ab00674.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "bgmusic",
+			"title": "goani_new_7_creativeexercise2.mp3",
+			"duration": 197878,
+			"id": "57542ef.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "bgmusic",
+			"title": "goani_new_2_mpcreative.mp3",
+			"duration": 53055,
+			"id": "885a8c9.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "ttsvibes-joey-m (1).mp3",
+			"duration": 24408,
+			"id": "6702f36.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "voiceover",
+			"title": "ttsvibes-joey-m (1).mp3",
+			"duration": 24408,
+			"id": "084c9ee.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "ttsvibes-joey-m.mp3",
+			"duration": 3240,
+			"id": "a28f428.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "voiceover",
+			"title": "ttsvibes-joey-m.mp3",
+			"duration": 3240,
+			"id": "82dc466.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "voiceover",
+			"title": "METALBAN.mp3",
+			"duration": 3918,
+			"id": "631809d.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "voiceover",
+			"title": "ttsvibes-classic-electric-m.mp3",
+			"duration": 9120,
+			"id": "d72ca19.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "ok let s go sound effect.mp3",
+			"duration": 4702,
+			"id": "5da0733.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "Metal Slug Okay Sound Effect (HD).mp3",
+			"duration": 2142,
+			"id": "4206a65.mp3"
+		},
+		{
 			"duration": 784,
 			"type": "sound",
 			"subtype": "tts",
@@ -1449,6 +1596,55 @@
 		}
 	],
 	"movies": [
+		{
+			"id": "a1b5be8",
+			"duration": "00:03",
+			"date": "2025-11-16T19:41:23.061Z",
+			"title": "Untitled",
+			"sceneCount": 1
+		},
+		{
+			"id": "63c43ef",
+			"duration": "00:02",
+			"date": "2025-11-16T17:06:57.872Z",
+			"title": "New Stock Character On CL!",
+			"sceneCount": 1
+		},
+		{
+			"id": "8173ea7",
+			"duration": "00:02",
+			"date": "2025-11-16T16:03:26.348Z",
+			"title": "Fat Jacob2010 (Caseoh Jacob)",
+			"sceneCount": 1
+		},
+		{
+			"id": "fb14c9b",
+			"duration": "00:29",
+			"date": "2025-11-16T11:56:48.837Z",
+			"title": "Bob Kid Takes Off Your Shy Guy's Mask/Grounded!",
+			"sceneCount": 11
+		},
+		{
+			"id": "92029e9",
+			"duration": "03:17",
+			"date": "2025-11-16T10:33:26.738Z",
+			"title": "The Community Library Dance!",
+			"sceneCount": 1
+		},
+		{
+			"id": "a07ead9",
+			"duration": "00:24",
+			"date": "2025-11-16T09:57:34.333Z",
+			"title": "HAWK TUAH KUBA AND OOBI64 SIX SEVEN!",
+			"sceneCount": 1
+		},
+		{
+			"id": "db014ff",
+			"duration": "00:11",
+			"date": "2025-11-16T09:49:57.136Z",
+			"title": "TikTok Voices Working On W:O?!",
+			"sceneCount": 3
+		},
 		{
 			"id": "21c5513",
 			"duration": "01:03",
