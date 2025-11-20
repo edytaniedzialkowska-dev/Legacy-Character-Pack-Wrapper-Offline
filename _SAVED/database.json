@@ -2,6 +2,439 @@
 	"assets": [
 		{
 			"type": "sound",
+			"subtype": "bgmusic",
+			"title": "Vacation at the Mall - Pacifica Music (youtube).mp3",
+			"duration": 49842,
+			"id": "d2f02f9.mp3"
+		},
+		{
+			"duration": 2299,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian (Readloud)] Now Let's Dance Party Anyways!",
+			"id": "6cd3ce2.mp3"
+		},
+		{
+			"duration": 2586,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian (Readloud)] Yay! Edited Guy Is Finally Dead!",
+			"id": "7767b79.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "Blood, Gore and Bones Sound Effects - TheGoldenSuperiorWillRiseOneDayLulululu (youtube).mp3",
+			"duration": 120398,
+			"id": "0cc127e.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "AGK Ultimate Beating up Sound effect (EARRAPE WARNING) - OliveSouch (youtube).mp3",
+			"duration": 30380,
+			"id": "b2b8518.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "Angry German Kid Beating Sound Effect Earrape - AK Two The Screwball Hater (youtube).mp3",
+			"duration": 12748,
+			"id": "4a92eca.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "earrape_audio (46).wav",
+			"duration": 1176,
+			"id": "39aa8d3.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "voiceover",
+			"title": "earrape_audio (46).wav",
+			"duration": 1176,
+			"id": "214f4f3.mp3"
+		},
+		{
+			"duration": 549,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Russell] What?",
+			"id": "84f0a29.mp3"
+		},
+		{
+			"duration": 3683,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian (Readloud)] 5th and Final Punishment, Your Gonna I'm Going To?",
+			"id": "3aef2d3.mp3"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "broken-png-17.png",
+			"ptype": "placeable",
+			"id": "f292f38.png"
+		},
+		{
+			"duration": 2821,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian (Readloud)] 4th Punishment, Destroying Your Photo!",
+			"id": "54eafdf.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "earrape_audio (41).wav",
+			"duration": 7392,
+			"id": "6779f88.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "voiceover",
+			"title": "earrape_audio (41).wav",
+			"duration": 7392,
+			"id": "fcc8681.mp3"
+		},
+		{
+			"duration": 3239,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian (Readloud)] 3rd Punishment, Taking Away Your Living Room!",
+			"id": "ba4b11d.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "earrape_audio (37).wav",
+			"duration": 11304,
+			"id": "4b51162.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "voiceover",
+			"title": "earrape_audio (37).wav",
+			"duration": 11304,
+			"id": "1bae0cd.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "earrape_audio (33).wav",
+			"duration": 8520,
+			"id": "4617b4d.mp3"
+		},
+		{
+			"duration": 4180,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian (Readloud)] Oh Shut Up, 2nd Punishment, Destroying Your Living Room!",
+			"id": "3508e49.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "earrape_audio (29).wav",
+			"duration": 23856,
+			"id": "1d96d5f.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "voiceover",
+			"title": "earrape_audio (29).wav",
+			"duration": 23856,
+			"id": "6330f94.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "44d0524.mp3",
+			"duration": 11340,
+			"id": "82d1ed3.mp3"
+		},
+		{
+			"duration": 11340,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Kidaroo] Oh My God Oh My God Oh My God Oh My God Oh My God Oh My God Oh My God Oh God Oh God Oh God Oh God Oh God Oh God Oh God waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!",
+			"id": "44d0524.mp3"
+		},
+		{
+			"duration": 3370,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian (Readloud)] First Punishment, Cutting Your Eyes With The Knife!",
+			"id": "5eef5dd.mp3"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "3927de9"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "8c83790"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "f8df9ba"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "f151a81"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "db90296"
+		},
+		{
+			"duration": 3239,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian (Readloud)] Today Is Punishment Day! Look At The Calendar!",
+			"id": "227b9c1.mp3"
+		},
+		{
+			"duration": 1463,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Russell] Um... I Don't Know!",
+			"id": "4f11d0e.mp3"
+		},
+		{
+			"duration": 2325,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian (Readloud)] Did You Know What's Time Is It Now?",
+			"id": "655441c.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "earrape_audio (26).wav",
+			"duration": 4920,
+			"id": "5d6be56.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "voiceover",
+			"title": "earrape_audio (26).wav",
+			"duration": 4920,
+			"id": "d8be2b9.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "kuwait-eas-alarm-1890-367438.mp3",
+			"duration": 79296,
+			"id": "3074fc2.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "japan-eas-alarm-277877.mp3",
+			"duration": 2952,
+			"id": "20bf29b.mp3"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "Mad Little Boy.png",
+			"ptype": "placeable",
+			"id": "036b08d.png"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "FlashThemesJacob.png",
+			"ptype": "placeable",
+			"id": "f8af87d.png"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "car-crash-sound-effect-376874.mp3",
+			"duration": 2116,
+			"id": "87ccf7c.mp3"
+		},
+		{
+			"duration": 1280,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Justin (Readloud)] Because Of Stupid!",
+			"id": "a95dc9f.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "9c32241.mp3",
+			"duration": 1776,
+			"id": "ccf7274.mp3"
+		},
+		{
+			"duration": 1776,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian (Readloud)] Did You Taking Blank?",
+			"id": "9c32241.mp3"
+		},
+		{
+			"duration": 3918,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian (Readloud)] I Got The Emergency, Because They Internet Archive Is Offline!",
+			"id": "f22bd64.mp3"
+		},
+		{
+			"duration": 3291,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Justin (Readloud)] Someone Taking Down In The Long, Long, Time!",
+			"id": "67f0dd4.mp3"
+		},
+		{
+			"duration": 5329,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian (Readloud)] Hello 9 1 1, The Internet Archive Is Offline, I Got The Emergency",
+			"id": "b275ff7.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "7a09846.mp3",
+			"duration": 3672,
+			"id": "70f7b7d.mp3"
+		},
+		{
+			"duration": 3672,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Kidaroo] How Did Clear Internet Archive? Internet Archive Is Down!",
+			"id": "7a09846.mp3"
+		},
+		{
+			"duration": 2717,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Justin (Readloud)] No Internet Archive? How Did You Know This?",
+			"id": "e3348e3.mp3"
+		},
+		{
+			"duration": 2586,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Charlie (Cepstral)] Oh Man, This is Your Bullshit!",
+			"id": "53ada96.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "950c7bf.mp3",
+			"duration": 2456,
+			"id": "76ca095.mp3"
+		},
+		{
+			"duration": 2456,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian (Readloud)] You Got a Internet Archive Is Down?",
+			"id": "950c7bf.mp3"
+		},
+		{
+			"duration": 2037.9999999999998,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Dave] Thank You! God Bless",
+			"id": "4df1c08.mp3"
+		},
+		{
+			"duration": 10684,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Dave] Welcome To Internet Archive, Unfortunately, Internet Archive services are temporarily offline In The Moment! Please Using To Second One Until Internet Archive Services Fixes Soon!",
+			"id": "217aac3.mp3"
+		},
+		{
+			"duration": 1071,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Ivy (Readloud)] Listen Listen!",
+			"id": "2c91507.mp3"
+		},
+		{
+			"duration": 679,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian (Readloud)] What?",
+			"id": "127e7a7.mp3"
+		},
+		{
+			"duration": 1933,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Ivy (Readloud)] Internet Archive Is Offline!",
+			"id": "05c8ba1.mp3"
+		},
+		{
+			"duration": 1985,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian (Readloud)] Internet Archive Is Offline!",
+			"id": "2b89636.mp3"
+		},
+		{
+			"duration": 1097,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian (Readloud)] What Happend?",
+			"id": "2103d2d.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "f4d6576.mp3",
+			"duration": 3631,
+			"id": "befa863.mp3"
+		},
+		{
+			"duration": 3631,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Ivy (Readloud)] Why Internet Archive Is Offline? No Goddamn The Hell No!",
+			"id": "f4d6576.mp3"
+		},
+		{
+			"duration": 4336,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian (Readloud)] Why Internet Archive Is Offline? No Goddamn The Hell No!",
+			"id": "50c6222.mp3"
+		},
+		{
+			"type": "bg",
+			"subtype": "0",
+			"title": "bandicam 2025-11-20 16-30-47-196.jpg",
+			"id": "17781b0.jpg"
+		},
+		{
+			"type": "sound",
 			"subtype": "soundeffect",
 			"title": "earrape_audio (25) (mp3cut.net).mp3",
 			"duration": 12888,
@@ -1834,6 +2267,20 @@
 		}
 	],
 	"movies": [
+		{
+			"id": "9217298",
+			"duration": "04:06",
+			"date": "2025-11-20T17:19:00.683Z",
+			"title": "Edited Guy's Extreme Hyper Punishment Day! (+18)",
+			"sceneCount": 39
+		},
+		{
+			"id": "9217297",
+			"duration": "00:12",
+			"date": "2025-11-20T16:33:25.618Z",
+			"title": "Warning Screen Template!",
+			"sceneCount": 2
+		},
 		{
 			"id": "ae0ed95",
 			"duration": "02:32",

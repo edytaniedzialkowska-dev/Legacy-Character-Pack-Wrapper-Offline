@@ -1,0 +1,104 @@
+<film copyable="0" duration="12.1" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Warning Screen Template!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+      <color value="0"/>
+      <color value="0"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="237" lock="N" index="0" color="0" guid="85B88C1D-C6D9-BF3B-E9E0-CD7BAEBFBD6C">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bubbleAsset id="BUBBLE142" index="2">
+      <x>186.4808169</x>
+      <y>126.0553246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-154.9260509" y="-78.2910353" w="309.8521019" h="156.5820706" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="14295073" alpha="100" font="Oswald" size="51" align="center" bold="false" italic="false" embed="true"><![CDATA[STOP RIGHT THERE!]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <bubbleAsset id="BUBBLE143" index="3">
+      <x>194.7678945</x>
+      <y>252.6886579</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-163.2338308" y="-59.8295455" w="326.4676617" h="119.6590909" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="16514043" alpha="100" font="Oswald" size="19" align="center" bold="false" italic="false" embed="true"><![CDATA[This Video Contains Strong Language, Weird Stuff, Killing, Rated M, 18 Plus Mature, Ultimate Punishments, And Extreme Punishments]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="PROP8" index="1">
+      <file>ugc.036b08d.png</file>
+      <x>474.025</x>
+      <y>201.775</y>
+      <xscale>0.765589</xscale>
+      <yscale>0.765589</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="4">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE1" adelay="54" lock="Y" index="1" color="0" guid="FA2FAD03-75B9-EF7A-8AE9-3DEBFCB6A645">
+    <effectAsset id="EFFECT3" themecode="common" index="1">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <trans id="GoTrans" index="1">
+      <fx dur="30" type="anifire.FadeDark.out" ease="null" param="0"/>
+    </trans>
+  </scene>
+  <sound id="SOUND1" index="0" track="0" vol="1" tts="0">
+    <sfile>ugc.3074fc2.mp3</sfile>
+    <start>1</start>
+    <stop>237</stop>
+    <trimEnd>237</trimEnd>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND3" index="1" track="0" vol="1" tts="0">
+    <sfile>common.new_moon_tag.mp3</sfile>
+    <start>238</start>
+    <stop>270</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+</film>
