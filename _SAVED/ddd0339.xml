@@ -1,0 +1,510 @@
+<film copyable="0" duration="30.9" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[I JUMPSCARE SZYMON!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="81" lock="Y" index="0" color="16777215" guid="E9269235-7BC4-EAE4-445A-1310ABBC7D95">
+    <bg id="BG130" index="0">
+      <file>ugc.6271fc5.jpg</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6449458.xarms.xml</action>
+      <head id="PROP4" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>316.5806895</x>
+      <y>210.7949662</y>
+      <xscale>1.1937394</xscale>
+      <yscale>1.1937394</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE2" adelay="42" lock="Y" index="1" color="16777215" guid="54CFAAB8-D35A-C6E4-14AC-CE2E722F315F">
+    <bg id="BG130" index="0">
+      <file>ugc.6271fc5.jpg</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6449458.xarms.xml</action>
+      <head id="PROP6" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>316.5806895</x>
+      <y>210.7949662</y>
+      <xscale>1.1937394</xscale>
+      <yscale>1.1937394</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP7" index="2">
+      <file>common.msp_ncc_fire.msp_ncc_fire_ncc_fire01.swf</file>
+      <x>288.1808169</x>
+      <y>72.9553246</y>
+      <xscale>1.2735635</xscale>
+      <yscale>1.2735635</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="3">
+      <file>common.msp_ncc_fire.msp_ncc_fire_ncc_fire01.swf</file>
+      <x>314.4808169</x>
+      <y>72.9636782</y>
+      <xscale>1.2735635</xscale>
+      <yscale>1.2735635</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="4">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE3" adelay="147" lock="N" index="2" color="16777215" guid="847570B8-9710-8CCB-8AC2-384889E8E7B8">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>ugc.6271fc5.jpg</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6449458.excited.xml</action>
+      <head id="PROP10" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>322.850887</x>
+      <y>603.5321994</y>
+      <xscale>5.1975623</xscale>
+      <yscale>5.1975623</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP7" index="2">
+      <file>common.msp_ncc_fire.msp_ncc_fire_ncc_fire01.swf</file>
+      <x>205.25</x>
+      <y>50.05</y>
+      <xscale>4.1463412</xscale>
+      <yscale>4.1463412</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP14" index="3">
+      <file>common.msp_ncc_fire.msp_ncc_fire_ncc_fire01.swf</file>
+      <x>314.1463415</x>
+      <y>46.1823171</y>
+      <xscale>4.1463412</xscale>
+      <yscale>4.1463412</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="7">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT5" themecode="common" index="4">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="earthquake" type="EARTHQUAKE"/>
+      <x>322</x>
+      <y>179</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT6" index="5">
+      <effect id="ncc_sci004fx.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.ncc_sci004fx.swf</file>
+    </effectAsset>
+    <effectAsset id="EFFECT7" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="dra" type="DRA"/>
+      <x>322</x>
+      <y>179</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE4" adelay="18" lock="Y" index="3" color="16777215" guid="F432FDEF-D72A-52BE-9BC2-87B13350EEE5">
+    <bg id="BG130" index="0">
+      <file>ugc.6271fc5.jpg</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6449458.xarms.xml</action>
+      <head id="PROP15" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>318.1849661</x>
+      <y>211.4848442</y>
+      <xscale>1.2062013</xscale>
+      <yscale>1.2062013</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE5" adelay="30" lock="Y" index="4" color="16777215" guid="7C1B0F9E-A7F1-6C3B-3418-231D66E94990">
+    <bg id="BG130" index="0">
+      <file>ugc.6271fc5.jpg</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6449458.xarms.xml</action>
+      <head id="PROP18" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>-115.9650339</x>
+      <y>211.4348442</y>
+      <xscale>1.2062013</xscale>
+      <yscale>1.2062013</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR171" index="2" raceCode="1" faceCamera="true">
+      <action face="-1" motionface="1">ugc.2dea75b.fearful.xml</action>
+      <head id="PROP20" raceCode="1">
+        <file>ugc.2dea75b.head.head_shocked.xml</file>
+      </head>
+      <x>322.6</x>
+      <y>249.6053246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE6" adelay="258" lock="Y" index="5" color="16777215" guid="E32BFF02-5B54-429A-1A3D-E9010EEAFC2F">
+    <bg id="BG130" index="0">
+      <file>ugc.6271fc5.jpg</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6449458.xarms.xml</action>
+      <head id="PROP21" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>-115.9650339</x>
+      <y>211.4348442</y>
+      <xscale>1.2062013</xscale>
+      <yscale>1.2062013</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR171" index="2" raceCode="1" faceCamera="true">
+      <action face="-1" motionface="1">ugc.2dea75b.fearful.xml</action>
+      <head id="PROP24" raceCode="1">
+        <file>ugc.2dea75b.head.head_cry.xml</file>
+      </head>
+      <x>322.6</x>
+      <y>249.6053246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE7" adelay="15" lock="Y" index="6" color="16777215" guid="A67DA64A-A7EF-7C43-B123-CFB69EDD6F7A">
+    <bg id="BG130" index="0">
+      <file>ugc.6271fc5.jpg</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6449458.xarms.xml</action>
+      <head id="PROP25" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>-115.9650339</x>
+      <y>211.4348442</y>
+      <xscale>1.2062013</xscale>
+      <yscale>1.2062013</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR171" index="2" raceCode="1" faceCamera="true">
+      <action face="-1,-1" motionface="-1">ugc.2dea75b.run.xml</action>
+      <head id="PROP26" raceCode="1">
+        <file>ugc.2dea75b.head.head_cry.xml</file>
+      </head>
+      <x>322.6,688.5</x>
+      <y>249.6053246,252.6666667</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="AVATOR171" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE8" adelay="15" lock="Y" index="7" color="16777215" guid="718130A5-F9E8-A251-A04A-FA9940E16BD5">
+    <bg id="BG130" index="0">
+      <file>ugc.6271fc5.jpg</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6449458.xarms.xml</action>
+      <head id="PROP28" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>-115.9650339</x>
+      <y>211.4348442</y>
+      <xscale>1.2062013</xscale>
+      <yscale>1.2062013</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR171" index="2" raceCode="1" faceCamera="true">
+      <action face="-1" motionface="-1">ugc.2dea75b.stand.xml</action>
+      <head id="PROP29" raceCode="1">
+        <file>ugc.2dea75b.head.head_cry.xml</file>
+      </head>
+      <x>688.5</x>
+      <y>252.6666667</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE9" adelay="18" lock="Y" index="8" color="16777215" guid="483A71CA-F8E2-121C-FF64-066B0889E351">
+    <bg id="BG130" index="0">
+      <file>ugc.6271fc5.jpg</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.6449458.xarms.xml</action>
+      <head id="PROP32" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>317.5849661</x>
+      <y>211.4348442</y>
+      <xscale>1.2062013</xscale>
+      <yscale>1.2062013</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE10" adelay="87" lock="N" index="9" color="16777215" guid="A721D0FD-DA81-FC1E-D39C-CE957CACF314">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>ugc.6271fc5.jpg</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6449458.xarms.xml</action>
+      <x>317.5849661</x>
+      <y>211.4348442</y>
+      <xscale>1.2062013</xscale>
+      <yscale>1.2062013</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE11" adelay="30" lock="Y" index="10" color="16777215" guid="8D049440-190F-B9DA-5285-156C26AAAAA1">
+    <bg id="BG130" index="0">
+      <file>ugc.6271fc5.jpg</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6449458.xarms.xml</action>
+      <x>317.5849661</x>
+      <y>211.4348442</y>
+      <xscale>1.2062013</xscale>
+      <yscale>1.2062013</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND12" index="0" track="0" vol="8" tts="0">
+    <sfile>ugc.1632473.mp3</sfile>
+    <start>319</start>
+    <stop>591</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND0" index="1" track="0" vol="8" tts="0">
+    <sfile>ugc.464c798.mp3</sfile>
+    <start>1</start>
+    <stop>129</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND16" index="2" track="0" vol="1" tts="0">
+    <sfile>ugc.607ed4b.mp3</sfile>
+    <start>592</start>
+    <stop>606</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND13" index="3" track="1" vol="8" tts="0">
+    <sfile>ugc.1632473.mp3</sfile>
+    <start>319</start>
+    <stop>591</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND7" index="4" track="1" vol="8" tts="0">
+    <sfile>ugc.9ed0411.mp3</sfile>
+    <start>124</start>
+    <stop>270</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND2" index="5" track="1" vol="1" tts="0">
+    <sfile>common.campfire_04_30.mp3</sfile>
+    <start>82</start>
+    <stop>123</stop>
+    <trimEnd>42</trimEnd>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND15" index="6" track="2" vol="1" tts="0">
+    <sfile>ugc.da6dcac.mp3</sfile>
+    <start>577</start>
+    <stop>591</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND8" index="7" track="2" vol="8" tts="0">
+    <sfile>ugc.9ed0411.mp3</sfile>
+    <start>124</start>
+    <stop>270</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND5" index="0" track="0" vol="8" tts="1">
+    <sfile>ugc.16799ff.mp3</sfile>
+    <start>124</start>
+    <stop>270</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND18" index="1" track="0" vol="1" tts="1">
+    <sfile>ugc.ed68acc.mp3</sfile>
+    <start>625</start>
+    <stop>711</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[There, Much Better! Now Let's Do My Animation!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND10" index="2" track="0" vol="8" tts="1">
+    <sfile>ugc.cac1920.mp3</sfile>
+    <start>319</start>
+    <stop>591</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[lib]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND6" index="3" track="1" vol="8" tts="1">
+    <sfile>ugc.16799ff.mp3</sfile>
+    <start>124</start>
+    <stop>270</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND11" index="4" track="1" vol="8" tts="1">
+    <sfile>ugc.cac1920.mp3</sfile>
+    <start>319</start>
+    <stop>591</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[lib]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND5,~~~AVATOR131,SCENE3~~~</linkage>
+  <linkage>SOUND10,~~~AVATOR171</linkage>
+  <linkage>SOUND18,~~~AVATOR131,SCENE10~~~</linkage>
+</film>

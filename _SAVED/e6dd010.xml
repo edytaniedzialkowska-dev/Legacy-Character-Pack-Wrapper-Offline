@@ -1,0 +1,170 @@
+<film copyable="0" duration="197.9" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Jacob's Party!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="4749" lock="Y" index="0" color="16777215" guid="B94FCFCD-4D11-C467-008D-A6DC0EEAD551" combgId="custom.cbg_sittingroom">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR262" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.6449458.dance.xml</action>
+      <x>344.775</x>
+      <y>215.85</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR265" index="3" raceCode="1">
+      <action face="-1" motionface="1">ugc.6449458.dame_tu_cosita.xml</action>
+      <x>248.2333333</x>
+      <y>234.175</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR267" index="4" raceCode="1">
+      <action face="1" motionface="1">ugc.6449458.dance_cross.xml</action>
+      <x>420.4333333</x>
+      <y>216.075</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR269" index="5" raceCode="1">
+      <action face="1" motionface="1">ugc.6449458.headbang.xml</action>
+      <x>441.8333333</x>
+      <y>229.05</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR271" index="6" raceCode="1">
+      <action face="-1" motionface="1">ugc.6449458.silly_dance.xml</action>
+      <x>197.9333333</x>
+      <y>242.275</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR273" index="7" raceCode="1">
+      <action face="-1" motionface="1">ugc.6449458.silly_dance_new.xml</action>
+      <x>166.3833333</x>
+      <y>239.275</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR275" index="8" raceCode="1">
+      <action face="-1" motionface="1">ugc.6449458.twerk.xml</action>
+      <x>108.2</x>
+      <y>243.675</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR277" index="9" raceCode="1">
+      <action face="1" motionface="1">ugc.6449458.dance_b_move.xml</action>
+      <x>483.5</x>
+      <y>247.525</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR279" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.6449458.silly_dance_new.xml</action>
+      <x>531.5</x>
+      <y>249.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR281" index="11" raceCode="1">
+      <action face="1" motionface="1">ugc.6449458.dance_b_bounce.xml</action>
+      <x>576.225</x>
+      <y>259.125</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR283" index="12" raceCode="1">
+      <action face="-1" motionface="1">ugc.6449458.caramelldansen.xml</action>
+      <x>73.125</x>
+      <y>258.7916667</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <bubbleAsset id="BUBBLE261" index="1">
+      <x>309.854972</x>
+      <y>88.0053246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-216.4842689" y="-56.1530172" w="432.9685378" h="112.3060345" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Oswald" size="72" align="center" bold="false" italic="false" embed="true"><![CDATA[JACOB'S PARTY]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <effectAsset id="EFFECT0" themecode="common" index="14">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT1" themecode="common" index="13">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="earthquake" type="EARTHQUAKE"/>
+      <x>322</x>
+      <y>179</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND3" index="0" track="0" vol="8" tts="0">
+    <sfile>ugc.57542ef.mp3</sfile>
+    <start>1</start>
+    <stop>4749</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND4" index="1" track="1" vol="8" tts="0">
+    <sfile>ugc.57542ef.mp3</sfile>
+    <start>1</start>
+    <stop>4749</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND5" index="2" track="2" vol="8" tts="0">
+    <sfile>ugc.57542ef.mp3</sfile>
+    <start>1</start>
+    <stop>4749</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+</film>

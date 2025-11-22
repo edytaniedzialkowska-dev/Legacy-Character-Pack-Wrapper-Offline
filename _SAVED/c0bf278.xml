@@ -1,0 +1,94 @@
+<film copyable="0" duration="16.0" published="1" pshare="0">
+  <meta>
+    <title><![CDATA[Testing Of W:OR9.0.0!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="324" lock="N" index="0" color="16777215" guid="931DB4CF-6416-0045-EB70-3092EC668112">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>ugc.6271fc5.jpg</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6449458.xarms.xml</action>
+      <x>319.7789793</x>
+      <y>230.7152878</y>
+      <xscale>1.1375899</xscale>
+      <yscale>1.1375899</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE1" adelay="60" lock="N" index="1" color="16777215" guid="14E2D8C3-5F68-F9CF-2F0A-FA77B984B724">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>ugc.6271fc5.jpg</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1">
+      <action face="1,1" motionface="1">ugc.6449458.walk.xml</action>
+      <x>319.7789793,-113.9210207</x>
+      <y>230.7152878,230.7152878</y>
+      <xscale>1.1375899,1.1375899</xscale>
+      <yscale>1.1375899,1.1375899</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="AVATOR131" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <sound id="SOUND4" index="0" track="0" vol="1" tts="0">
+    <sfile>ugc.7f6d956.mp3</sfile>
+    <start>325</start>
+    <stop>384</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND3" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.9146f02.mp3</sfile>
+    <start>1</start>
+    <stop>324</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Greetings Y'all, It's Me Jacob2010, And This is a Test Of The Wrapper Offline Remastered 9.0.0! So Anyways This is Me Jacob2010, See You Soon!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND3,~~~AVATOR131,SCENE0~~~</linkage>
+</film>

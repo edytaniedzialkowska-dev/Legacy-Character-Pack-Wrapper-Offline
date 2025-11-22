@@ -1,0 +1,3381 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+<title>Free service - text to speech and save to mp3!</title>
+<meta name="description" content="Free service - text to speech and save to mp3!">
+<meta name="keywords" content="service, provides, opportunity, voice, texts, articles, reports, chapters, book, sequence, haracters, name, mp3, file, save, generated, mobile, device, storing, offline, laptop, online, desktop, free, Best, free, service, text-to-speech, text, to speech, speech, English,  American,   Australian,   Welsh,   British,  French,   Canadian, Spanish,   Castilian, Portuguese,   Brasilian, Italian, German, Russian, Norwegian, Danish, Turkish, Icelandic, Swedish, Dutch, Polish">
+<meta name="generator" content="DataLife Engine (http://dle-news.ru)">
+<link rel="search" type="application/opensearchdescription+xml" href="https://readloud.net/index.php?do=opensearch" title="Free service - text to speech and save to mp3!">
+<link rel="canonical" href="https://readloud.net/">
+<link rel="alternate" type="application/rss+xml" title="Free service - text to speech and save to mp3!" href="https://readloud.net/rss.xml">
+<link href="/engine/editor/css/default.css?v=26" rel="stylesheet" type="text/css">
+<script src="/engine/classes/js/jquery.js?v=26"></script>
+<script src="/engine/classes/js/jqueryui.js?v=26" defer></script>
+<script src="/engine/classes/js/dle_js.js?v=26" defer></script>
+	<meta name="HandheldFriendly" content="true">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width"> 
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+	<link rel="shortcut icon" href="/templates/voicedtext/images/favicon.ico">
+	<link rel="apple-touch-icon" href="/templates/voicedtext/images/touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/templates/voicedtext/images/touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/templates/voicedtext/images/touch-icon-iphone-retina.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/templates/voicedtext/images/touch-icon-ipad-retina.png">
+
+	<link href="/templates/voicedtext/css/engine.css" type="text/css" rel="stylesheet">
+	<link href="/templates/voicedtext/css/styles.css" type="text/css" rel="stylesheet">
+
+
+<!--
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7930471424631469"     crossorigin="anonymous"></script>
+	-->
+<!--
+<script type='text/javascript' src='//againstmascaraordinal.com/65/ef/b2/65efb2cdaf0968a9eea377ab7dde7252.js'></script>
+-->
+<script async type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+
+<!--
+<script data-cfasync="false" async type="text/javascript" src="//my.mambasscious.com/sCHD3UbzL2B80/117310"></script>
+-->
+
+<!--
+<script src="/jquery.cookie.js"></script>
+
+ <style type="text/css">
+#bg_popup{
+position: fixed;
+z-index: 99999;
+background: rgba(0, 0, 0, 0);
+left: 50%;
+transform: translateX(-50%);
+bottom: 10px;
+width: 300px;
+height: 250px;
+display: none;}
+   
+#popup {
+width: 300px;
+}
+
+
+   
+.close{
+display:block;
+position:absolute;
+top:-15px;
+right:-15px;
+width:24px;
+height:24px;
+color:#555;
+background-image: url(/images/close-icon-circle.png);
+background-repeat: no-repeat;
+cursor:pointer;}
+  </style>
+
+  -->
+  
+  <!--
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="24b10009-4108-4b41-bfa0-90704a431b37" type="text/javascript" async></script>
+-->
+
+<!--
+<script type='text/javascript' src='//againstmascaraordinal.com/65/ef/b2/65efb2cdaf0968a9eea377ab7dde7252.js'></script>
+-->
+
+<!--
+<script data-cfasync="false" async type="text/javascript" src="//ro.craniolgozzan.com/spDD7QUxxAB4whSg/115670"></script>
+    
+  -->
+  <meta name="bfc25be7cf78355085b0a02fc2cbe4f7a58f0702" content="bfc25be7cf78355085b0a02fc2cbe4f7a58f0702" />
+  
+</head>
+<body>
+	<div class="page">
+		<div class="wrp">
+			<div class="body">
+				<!-- The left column -->
+				<div id="body_left">
+					<div class="body_left_in">
+					<!-- Header -->
+					<header id="header">
+						<!-- Logo -->
+						<a class="logotype" href="/" title="DataLife Engine">
+							<svg class="icon icon-logo"><use xlink:href="#icon-logo"></use></svg>
+						</a>
+						<!-- / Logo -->
+						
+						<!-- The button menu -->
+						<button class="h_btn" id="menubtn">
+							<span class="menu_toggle">
+								<i class="mt_1"></i><i class="mt_2"></i><i class="mt_3"></i>
+							</span>
+						</button>
+						<!-- / The button menu -->
+						
+					</header>
+					<!-- / Header -->
+					</div>
+					<!-- button "Up" -->
+					<a href="/" id="upper"><svg class="icon icon-up"><use xlink:href="#icon-up"></use></svg></a>
+					<!-- / button "Up" -->
+					<div id="menu">
+						<!--
+
+<div class="greenmenu">
+
+	<form id="q_search" method="post">
+		<div class="q_search">
+			<input id="story" name="story" placeholder="Search..." type="search">
+			<button class="q_search_btn" type="submit" title="Find"><svg class="icon icon-search"><use xlink:href="#icon-search"></use></svg><span class="title_hide">Find</span></button>
+		</div>
+		<input type="hidden" name="do" value="search">
+		<input type="hidden" name="subaction" value="search">
+	</form>
+
+	<nav class="menu">
+			
+				
+				
+		<b data-toggle="collapse" data-target="#fmenu_1" aria-expanded="false" class="collapsed">
+			<i></i> <a href="/voice/1-british_male.html">British Male</a>
+		</b>
+		
+	
+	
+		<b data-toggle="collapse" data-target="#fmenu_2" aria-expanded="false" class="collapsed">
+			<i></i> <a href="/voice/2-american_girl.html">American Girl</a>
+		</b>
+		
+	
+		<b data-toggle="collapse" data-target="#fmenu_3" aria-expanded="false" class="collapsed">
+			<i></i> <a href="/voice/3-american_male.html">American Male</a>
+		</b>
+		
+	
+	</nav>
+</div>
+
+-->
+
+<div class="greenmenu">
+	<!-- 
+	<form id="q_search" method="post">
+		<div class="q_search">
+			<input id="story" name="story" placeholder="Search..." type="search">
+			<button class="q_search_btn" type="submit" title="Find"><svg class="icon icon-search"><use xlink:href="#icon-search"></use></svg><span class="title_hide">Find</span></button>
+		</div>
+		<input type="hidden" name="do" value="search">
+		<input type="hidden" name="subaction" value="search">
+	</form>
+	 -->
+	<nav class="menu">
+		<ul>
+<li><a href="https://readloud.net/english/">English <span style="float: right;">16</span></a>
+	<ul><li><a href="https://readloud.net/english/american/">American <span style="float: right;">9</span></a>
+	
+	</li><li><a href="https://readloud.net/english/australian/">Australian <span style="float: right;">2</span></a>
+	
+	</li><li><a href="https://readloud.net/english/welsh/">Welsh <span style="float: right;">2</span></a>
+	
+	</li><li><a href="https://readloud.net/english/british/">British <span style="float: right;">3</span></a>
+	
+	</li></ul>
+	</li><li><a href="https://readloud.net/french/">French <span style="float: right;">2</span></a>
+	<ul><li><a href="https://readloud.net/french/canadian/">Canadian <span style="float: right;">1</span></a>
+	
+	</li></ul>
+	</li><li><a href="https://readloud.net/spanish/">Spanish <span style="float: right;">2</span></a>
+	<ul><li><a href="https://readloud.net/spanish/castilian/">Castilian <span style="float: right;">2</span></a>
+	
+	</li></ul>
+	</li><li><a href="https://readloud.net/portuguese/">Portuguese <span style="float: right;">2</span></a>
+	<ul><li><a href="https://readloud.net/portuguese/brasilian/">Brazilian <span style="float: right;">1</span></a>
+	
+	</li></ul>
+	</li><li><a href="https://readloud.net/italian/">Italian <span style="float: right;">2</span></a>
+	
+	</li><li><a href="https://readloud.net/german/">German <span style="float: right;">2</span></a>
+	
+	</li><li><a href="https://readloud.net/russian/">Russian <span style="float: right;">1</span></a>
+	
+	</li><li><a href="https://readloud.net/norwegian/">Norwegian <span style="float: right;">1</span></a>
+	
+	</li><li><a href="https://readloud.net/danish/">Danish <span style="float: right;">2</span></a>
+	
+	</li><li><a href="https://readloud.net/turkish/">Turkish <span style="float: right;">1</span></a>
+	
+	</li><li><a href="https://readloud.net/icelandic/">Icelandic <span style="float: right;">1</span></a>
+	
+	</li><li><a href="https://readloud.net/swedish/">Swedish <span style="float: right;">1</span></a>
+	
+	</li><li><a href="https://readloud.net/dutch/">Dutch <span style="float: right;">2</span></a>
+	
+	</li><li><a href="https://readloud.net/polish/">Polish <span style="float: right;">5</span></a>
+	
+	</li>
+</ul>
+	</nav>
+</div>
+					</div>
+				</div>
+				<!-- / The left column -->
+				<div class="body_right">
+				
+				
+					
+					<!-- Carousel and news -->
+					<aside id="topside" class="structure">
+						<div id="breadcrumbs">
+						<div id="dle-speedbar"><div class="speedbar"><div class="over"><ul itemscope itemtype="http://schema.org/BreadcrumbList" class="speedbar"><li>Home</li></ul></div></div></div>
+					</div>
+					
+					
+					<div class="share" style ="    float: right;     margin-right: 10px;">
+			<script async src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" charset="utf-8"></script>
+			<script async src="//yastatic.net/share2/share.js" charset="utf-8"></script>
+			<div class="ya-share2" data-services="twitter,facebook" data-size="s"></div>
+		</div>
+		
+		
+					<center>
+
+
+
+					
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<img id="image01" style = "display: block;  margin-left: auto;  margin-right: auto;" src="/cleardot.gif">  
+
+
+
+	<script type = "text/javascript"> 
+
+function showImg() 
+{ 
+var image = document.getElementById('image01'); 
+image.src='/rr0.gif'; //first image 
+} 
+
+</script> 
+
+<script type = "text/javascript"> 
+// Applied globally on all textareas with the "autoExpand" class
+$(document)
+    .one('focus.autoExpand', 'textarea.autoExpand', function(){
+        var savedValue = this.value;
+        this.value = '';
+        this.baseScrollHeight = this.scrollHeight;
+        this.value = savedValue;
+    })
+    .on('input.autoExpand', 'textarea.autoExpand', function(){
+        var minRows = this.getAttribute('data-min-rows')|0, rows;
+        this.rows = minRows;
+        rows = Math.ceil((this.scrollHeight - this.baseScrollHeight) / 24);
+        this.rows = minRows + rows + 2;
+    });
+
+</script> 
+
+<div  style="   width:90%;  display: inline-block;  vertical-align: top;   ">
+
+<form  style="width:100%; margin-bottom: -50px; " method="POST" action="" alt="Listen Audio Version of This Page" title="Listen Audio Version of This Page"  >
+
+
+   <textarea maxlength="30000"  style="     font-size: 16px; width:100%; display: block;  box-sizing: padding-box;   " class='autoExpand' rows='15' data-min-rows='11' name="but1" placeholder="">   The service provides an opportunity to voice any of your texts, including articles, reports, separate chapters or entire book in a sequence (no more than 30,000 characters at a time).
+   The name of the mp3 file is formed from the first 20 characters of the text.
+   Save the generated mp3 file to your device for storing and future use offline.
+   Please select Language and Voice.
+   Adjustable Speed, Pitch and Pauses between sentences and paragraphs.
+   (Replace this text with yours)</textarea>
+     
+	 <select name="fruits" style="  vertical-align: top;    background-repeat: no-repeat;    	 border:0;  position: relative;top: -43px; ">
+<option value="Eric" >Eric - Male voice ( English / American )</option>
+<option value="Brian" >Brian - Male voice ( English / British )</option>
+<option value="Ivy" >Ivy - Child's girl voice ( English / American )</option>
+<option value="Joey" >Joey - Male voice ( English / American )</option>
+<option value="Salli" >Sally - Girl's voice ( English / American )</option>
+<option value="Giorgio" >Giorgio - Voce maschile ( Italian )</option>
+<option value="Justin" >Justin - Child's boy voice ( English / American )</option>
+<option value="Ricardo" >Ricardo - Voz masculina ( Portuguese / Brazilian )</option>
+<option value="Jennifer" >Jennifer - Female voice ( English / American )</option>
+<option value="Emma" >Emma - Female voice ( English / British )</option>
+<option value="Kimberly" >Kimberly - Female voice ( English / American )</option>
+<option value="Conchita" >Conchita - Voz femenina ( Spanish / Castilian )</option>
+<option value="Amy" >Amy - Female voice ( English / British )</option>
+<option value="Kendra" >Kendra - Female voice ( English / American )</option>
+<option value="Russell" >Russell - Male voice ( English / Australian )</option>
+<option value="Marlene" >Marlene - Frauenstimme ( German )</option>
+<option value="Enrique" >Enrique - Voz masculina ( Spanish / Castilian )</option>
+<option value="Skippy the Chipmunk" >Skippy the Chipmunk - Funny toy voice ( English / American )</option>
+<option value="Geraint" >Geraint - Male voice ( English / Welsh )</option>
+<option value="Nicole" >Nicole - Female voice ( English / Australian )</option>
+<option value="Carla" >Carla - Voce femminile ( Italian )</option>
+<option value="Gwyneth" >Gwyneth - Female voice ( English / Welsh )</option>
+<option value="Ruben" >Ruben - Mannelijke stem ( Dutch )</option>
+<option value="Hans" >Hans - Männerstimme ( German )</option>
+<option value="Mathieu" >Mathieu - Voix masculine ( French )</option>
+<option value="Cristiano" >Cristiano - Voz masculina ( Portuguese )</option>
+<option value="Astrid" >Astrid - Kvinnlig röst ( Swedish )</option>
+<option value="Tatyana" >Татьяна - Женский голос ( Russian )</option>
+<option value="Mads" >Mads - Mandlig stemme ( Danish )</option>
+<option value="Chantal" >Chantal - Voix de femme ( French / Canadian )</option>
+<option value="Filiz" >Filiz - Kadın sesi ( Turkish )</option>
+<option value="Naja" >Naja - Kvinde stemme ( Danish )</option>
+<option value="Liv" >Liv - Kvinne stemme ( Norwegian )</option>
+<option value="Lotte" >Lotte - Vrouwelijke stem ( Dutch )</option>
+<option value="Jan" >Jan - Męski głos ( Polish )</option>
+<option value="Jacek" >Jacek - Męski głos ( Polish )</option>
+<option value="Agnieszka" >Agnieszka - Kobiecy głos ( Polish )</option>
+<option value="Karl" >Karl - Male rödd ( Icelandic )</option>
+<option value="Ewa" >Ewa - Kobiecy głos ( Polish )</option>
+<option value="Maja" >Maja - Kobiecy głos ( Polish )</option>
+    </select>
+   
+     <span><br> <br> 
+ 
+   &nbsp; <input type="submit"  title="Listen Audio Version of This Page" alt="Listen Audio Version of This Page" onclick="showImg()" style=" background: url(/listen120_8.png);     background-size:200px 30px;    vertical-align: top;    background-repeat: no-repeat;    width:200px;	 height:30px;	 border:0;  cursor: pointer;position: relative;top: -55px; color: rgba(253, 253, 253, 0); "  name="butt0"> 
+   
+     
+	 
+	 
+	 <style>
+  @media (min-width: 340px) { #linesss {display:inline-block;} }
+</style>
+
+
+<div style ="overflow:hidden;width:100%; position: relative; top: -35px;">
+  <div style ="white-space:nowrap;">
+    <div id = "linesss" style ="width:33%;" >
+
+   <label style = "font-weight: bold;
+    font-size: large;" for="Speed"> Speed </label><b>(<output id="numS">0</output>)</b> </br>
+<input  type="range"    style = "width: 80px !important;" id="butS"  oninput="numS.value = this.value" name="butS" value="0"
+         min="-10" max="10">
+
+</div>
+    <div id = "linesss" style ="width:33%;" >
+
+ 
+  <label  style = "font-weight: bold;
+    font-size: large;" for="Pitch"> Pitch </label><b>(<output id="numP">0</output>)</b> </br>
+  <input type="range"   style = "width: 80px !important;" id="butP"  oninput="numP.value = this.value"  name="butP" value="0"
+         min="-10" max="10">
+
+</div>
+    <div id = "linesss" style ="width:33%;" >
+
+
+  <label  style = "font-weight: bold;
+    font-size: large;" for="Pitch"> Pauses</label> <b>(<output id="numPauses">0</output>)</b> </br>
+   <input type="range"   style = "width: 80px !important;" id="butPauses" oninput="numPauses.value = this.value"  name="butPauses" value="0"
+         min="0" max="2000">
+
+</div>
+  </div>
+</div>
+
+
+
+
+<br>
+</form>
+				</div>
+<br><br>
+
+	<script type = "text/javascript"> 
+
+function showImg() 
+{ 
+var image = document.getElementById('image02'); 
+image.src='/rr0.gif'; //first image 
+} 
+
+</script> 
+<img id="image02" style = "display: block;  margin-left: auto;  margin-right: auto;" src="/cleardot.gif"> 
+<!--
+	<div style="clear: both;"></div>
+<div id="awn-z2492039"></div>
+-->
+
+</center>
+
+
+					
+			</aside>		
+					<!-- / Carousel and news -->
+					
+					
+					
+					 
+
+
+					<div id="mainside" class="structure">
+						<div class="str_left">
+							
+							<center>
+<br>
+<!--
+убрать после бана гугла
+1*4
+-->
+<!--
+<div><script data-cfasync="false" async type="text/javascript" src="//dw.loobyfleyed.com/t7y0Eywga0s/115669"></script></div>
+-->
+
+
+
+<center>
+
+				
+
+<script async="async" data-cfasync="false" src="//bedsidemeasuring.com/0158785218dd628f8909e27e1a062dc7/invoke.js"></script>
+<div id="container-0158785218dd628f8909e27e1a062dc7"></div>
+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7930471424631469"
+     crossorigin="anonymous"></script>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7930471424631469"
+     data-ad-slot="6965004340"
+     data-ad-format="horizontal"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+
+</center>
+<!--
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7930471424631469"
+     crossorigin="anonymous"></script>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7930471424631469"
+     data-ad-slot="6965004340"
+     data-ad-format="horizontal"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+-->
+
+
+							</center>
+							
+							
+							
+							
+							<section id="content">
+							<div id='dle-content'><hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/english/">English</a> / <a href="https://readloud.net/english/american/">American</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Male voice - Eric" alt="Use This Voice: Male voice - Eric"> <a href="https://readloud.net/english/american/3-male-voice-eric.html">Male voice - Eric</a> <img src="/RRs.png" height="16" title="Use This Voice: Male voice - Eric" alt="Use This Voice: Male voice - Eric"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Listen to example</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/A_classic_American_m_643.mp3'></audio></a></center><br />A classic American male voice has standard pronunciation that will be acceptable to most listeners. It is easy and familiar to perceive.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/english/american/3-male-voice-eric.html" title="Use This Voice: Male voice - Eric alt="Use This Voice: Male voice - Eric" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Male voice - Eric" alt="Use This Voice: Male voice - Eric"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/english/american/3-male-voice-eric.html"  title="Use this voice: Male voice - Eric" alt="Use this voice: Male voice - Eric" class="btn">Male voice - Eric</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-3'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '3'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '3'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '3'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '3'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '3'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 192"><a href="https://readloud.net/english/american/3-male-voice-eric.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>192</a></li>
+			<li class="meta_views" title="Views: 6 288 632"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>6 288 632</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/english/">English</a>  / <a href="https://readloud.net/english/british/">British</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Male voice - Brian" alt="Use This Voice: Male voice - Brian"> <a href="https://readloud.net/english/british/1-male-voice-brian.html">Male voice - Brian</a> <img src="/RRs.png" height="16" title="Use This Voice: Male voice - Brian" alt="Use This Voice: Male voice - Brian"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center> <div style = "font-size: 75%;">Listen to example</div>  <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/British_pronunciatio_581.mp3'></audio></a></center><br />British pronunciation is characterized by strict and precise pronouncing of words in imperative intonation. Such a voice of the text is always more understandable and is perceived more easily with long-term listening.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/english/british/1-male-voice-brian.html" title="Use This Voice: Male voice - Brian alt="Use This Voice: Male voice - Brian" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Male voice - Brian" alt="Use This Voice: Male voice - Brian"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/english/british/1-male-voice-brian.html"  title="Use this voice: Male voice - Brian" alt="Use this voice: Male voice - Brian" class="btn">Male voice - Brian</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-1'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '1'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '1'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '1'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '1'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '1'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 162"><a href="https://readloud.net/english/british/1-male-voice-brian.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>162</a></li>
+			<li class="meta_views" title="Views: 3 122 598"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>3 122 598</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/english/">English</a>   / <a href="https://readloud.net/english/american/">American</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Male voice - Joey" alt="Use This Voice: Male voice - Joey"> <a href="https://readloud.net/english/american/29-male-voice-joey.html">Male voice - Joey</a> <img src="/RRs.png" height="16" title="Use This Voice: Male voice - Joey" alt="Use This Voice: Male voice - Joey"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Listen to example</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/When_you_need_to_voi_726.mp3'></audio></a></center><br />When you need to voice a large and complex text, turning it into an audio file or an audiobook, you can always refer to the online service - readloud.net. The best system of automatic scoring texts will make for you the conversion. The generated mp3 file is available for listening online and for saving. The voice sounds very natural and practically does not differ from the live voice acting.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/english/american/29-male-voice-joey.html" title="Use This Voice: Male voice - Joey alt="Use This Voice: Male voice - Joey" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Male voice - Joey" alt="Use This Voice: Male voice - Joey"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/english/american/29-male-voice-joey.html"  title="Use this voice: Male voice - Joey" alt="Use this voice: Male voice - Joey" class="btn">Male voice - Joey</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-29'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:60%;">60</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '29'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '29'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '29'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '29'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '29'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 43"><a href="https://readloud.net/english/american/29-male-voice-joey.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>43</a></li>
+			<li class="meta_views" title="Views: 2 177 858"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>2 177 858</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/english/">English</a>    / <a href="https://readloud.net/english/american/">American</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Girl&#039;s voice - Sally" alt="Use This Voice: Girl&#039;s voice - Sally"> <a href="https://readloud.net/english/american/2-girl-s-voice-sally.html">Girl&#039;s voice - Sally</a> <img src="/RRs.png" height="16" title="Use This Voice: Girl&#039;s voice - Sally" alt="Use This Voice: Girl&#039;s voice - Sally"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Listen to example</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/The_pronunciation_of_653.mp3'></audio></a></center><br />The pronunciation of the American girl sounds more sexy and pleasant. Such a voice acting is suitable for love stories or seductive texts.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/english/american/2-girl-s-voice-sally.html" title="Use This Voice: Girl&#039;s voice - Sally alt="Use This Voice: Girl&#039;s voice - Sally" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Girl&#039;s voice - Sally" alt="Use This Voice: Girl&#039;s voice - Sally"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/english/american/2-girl-s-voice-sally.html"  title="Use this voice: Girl&#039;s voice - Sally" alt="Use this voice: Girl&#039;s voice - Sally" class="btn">Girl&#039;s voice - Sally</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-2'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '2'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '2'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '2'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '2'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '2'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 42"><a href="https://readloud.net/english/american/2-girl-s-voice-sally.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>42</a></li>
+			<li class="meta_views" title="Views: 1 957 128"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>1 957 128</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/english/">English</a>     / <a href="https://readloud.net/english/american/">American</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Child&#039;s girl voice - Ivy" alt="Use This Voice: Child&#039;s girl voice - Ivy"> <a href="https://readloud.net/english/american/25-child-s-girl-voice-ivy.html">Child&#039;s girl voice - Ivy</a> <img src="/RRs.png" height="16" title="Use This Voice: Child&#039;s girl voice - Ivy" alt="Use This Voice: Child&#039;s girl voice - Ivy"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center> <div style = "font-size: 75%;">Listen to example</div>  <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/A_childs_voice_can__761.mp3'></audio></a></center><br />A child’s voice can be voiced by an interesting tale or book. The audiobook created in this way will be much better perceived by children.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/english/american/25-child-s-girl-voice-ivy.html" title="Use This Voice: Child&#039;s girl voice - Ivy alt="Use This Voice: Child&#039;s girl voice - Ivy" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Child&#039;s girl voice - Ivy" alt="Use This Voice: Child&#039;s girl voice - Ivy"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/english/american/25-child-s-girl-voice-ivy.html"  title="Use this voice: Child&#039;s girl voice - Ivy" alt="Use this voice: Child&#039;s girl voice - Ivy" class="btn">Child&#039;s girl voice - Ivy</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-25'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '25'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '25'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '25'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '25'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '25'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 51"><a href="https://readloud.net/english/american/25-child-s-girl-voice-ivy.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>51</a></li>
+			<li class="meta_views" title="Views: 1 484 622"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>1 484 622</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/italian/">Italian</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Voce maschile - Giorgio" alt="Use This Voice: Voce maschile - Giorgio"> <a href="https://readloud.net/italian/22-voce-maschile-giorgio.html">Voce maschile - Giorgio</a> <img src="/RRs.png" height="16" title="Use This Voice: Voce maschile - Giorgio" alt="Use This Voice: Voce maschile - Giorgio"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center> <div style = "font-size: 75%;">Ascolta l`esempio</div>  <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Quando_devi_pronunci_831.mp3'></audio></a></center><br />Quando devi pronunciare un testo grande e complesso, trasformandolo in un file audio o in un audiolibro, puoi sempre fare riferimento al servizio online - readloud.net. Il miglior sistema di segnapunti automatici farà la conversione per te. Il file mp3 generato è disponibile per l'ascolto online e per il salvataggio. La voce suona molto naturale e praticamente non differisce dalla recitazione vocale dal vivo.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/italian/22-voce-maschile-giorgio.html" title="Use This Voice: Voce maschile - Giorgio alt="Use This Voice: Voce maschile - Giorgio" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Voce maschile - Giorgio" alt="Use This Voice: Voce maschile - Giorgio"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/italian/22-voce-maschile-giorgio.html"  title="Use this voice: Voce maschile - Giorgio" alt="Use this voice: Voce maschile - Giorgio" class="btn">Voce maschile - Giorgio</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-22'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '22'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '22'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '22'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '22'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '22'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 17"><a href="https://readloud.net/italian/22-voce-maschile-giorgio.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>17</a></li>
+			<li class="meta_views" title="Views: 1 028 620"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>1 028 620</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/english/">English</a>       / <a href="https://readloud.net/english/british/">British</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Female voice - Amy" alt="Use This Voice: Female voice - Amy"> <a href="https://readloud.net/english/british/5-female-voice-amy.html">Female voice - Amy</a> <img src="/RRs.png" height="16" title="Use This Voice: Female voice - Amy" alt="Use This Voice: Female voice - Amy"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Listen to example</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Need_to_sound_BBC_l_700.mp3'></audio></a></center><br />Need to sound BBC, like you're having a spot of tea or perhaps a little bit Cockney? Talent listed here can perform a variety of British accents. If you need something more specific, as we know there are nearly as many accents in Britain as there are streets (perhaps a slight exaggeration!), do a keyword search for particular accent and dialects.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/english/british/5-female-voice-amy.html" title="Use This Voice: Female voice - Amy alt="Use This Voice: Female voice - Amy" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Female voice - Amy" alt="Use This Voice: Female voice - Amy"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/english/british/5-female-voice-amy.html"  title="Use this voice: Female voice - Amy" alt="Use this voice: Female voice - Amy" class="btn">Female voice - Amy</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-5'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '5'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '5'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '5'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '5'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '5'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 20"><a href="https://readloud.net/english/british/5-female-voice-amy.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>20</a></li>
+			<li class="meta_views" title="Views: 1 015 335"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>1 015 335</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/english/">English</a>        / <a href="https://readloud.net/english/american/">American</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Female voice - Kimberly" alt="Use This Voice: Female voice - Kimberly"> <a href="https://readloud.net/english/american/33-female-voice-kimberly.html">Female voice - Kimberly</a> <img src="/RRs.png" height="16" title="Use This Voice: Female voice - Kimberly" alt="Use This Voice: Female voice - Kimberly"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center> <div style = "font-size: 75%;">Listen to example</div>  <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/When_you_need_to_voi_965.mp3'></audio></a></center><br />When you need to voice a large and complex text, turning it into an audio file or an audiobook, you can always refer to the online service - readloud.net. The best system of automatic scoring texts will make for you the conversion. The generated mp3 file is available for listening online and for saving. The voice sounds very natural and practically does not differ from the live voice acting.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/english/american/33-female-voice-kimberly.html" title="Use This Voice: Female voice - Kimberly alt="Use This Voice: Female voice - Kimberly" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Female voice - Kimberly" alt="Use This Voice: Female voice - Kimberly"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/english/american/33-female-voice-kimberly.html"  title="Use this voice: Female voice - Kimberly" alt="Use this voice: Female voice - Kimberly" class="btn">Female voice - Kimberly</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-33'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:60%;">60</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '33'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '33'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '33'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '33'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '33'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 28"><a href="https://readloud.net/english/american/33-female-voice-kimberly.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>28</a></li>
+			<li class="meta_views" title="Views: 895 843"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>895 843</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/english/">English</a>         / <a href="https://readloud.net/english/american/">American</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Child&#039;s boy voice - Justin" alt="Use This Voice: Child&#039;s boy voice - Justin"> <a href="https://readloud.net/english/american/30-child-s-boy-voice-justin.html">Child&#039;s boy voice - Justin</a> <img src="/RRs.png" height="16" title="Use This Voice: Child&#039;s boy voice - Justin" alt="Use This Voice: Child&#039;s boy voice - Justin"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center> <div style = "font-size: 75%;">Listen to example</div>  <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/A_childs_voice_can__117.mp3'></audio></a></center><br />A child’s voice can be voiced by an interesting tale or book. The audiobook created in this way will be much better perceived by children.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/english/american/30-child-s-boy-voice-justin.html" title="Use This Voice: Child&#039;s boy voice - Justin alt="Use This Voice: Child&#039;s boy voice - Justin" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Child&#039;s boy voice - Justin" alt="Use This Voice: Child&#039;s boy voice - Justin"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/english/american/30-child-s-boy-voice-justin.html"  title="Use this voice: Child&#039;s boy voice - Justin" alt="Use this voice: Child&#039;s boy voice - Justin" class="btn">Child&#039;s boy voice - Justin</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-30'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '30'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '30'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '30'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '30'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '30'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 32"><a href="https://readloud.net/english/american/30-child-s-boy-voice-justin.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>32</a></li>
+			<li class="meta_views" title="Views: 884 559"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>884 559</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/english/">English</a>          / <a href="https://readloud.net/english/american/">American</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Female voice - Jennifer" alt="Use This Voice: Female voice - Jennifer"> <a href="https://readloud.net/english/american/28-female-voice-jennifer.html">Female voice - Jennifer</a> <img src="/RRs.png" height="16" title="Use This Voice: Female voice - Jennifer" alt="Use This Voice: Female voice - Jennifer"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center> <div style = "font-size: 75%;">Listen to example</div>  <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/When_you_need_to_voi_689.mp3'></audio></a></center><br />When you need to voice a large and complex text, turning it into an audio file or an audiobook, you can always refer to the online service - readloud.net. The best system of automatic scoring texts will make for you the conversion. The generated mp3 file is available for listening online and for saving. The voice sounds very natural and practically does not differ from the live voice acting.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/english/american/28-female-voice-jennifer.html" title="Use This Voice: Female voice - Jennifer alt="Use This Voice: Female voice - Jennifer" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Female voice - Jennifer" alt="Use This Voice: Female voice - Jennifer"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/english/american/28-female-voice-jennifer.html"  title="Use this voice: Female voice - Jennifer" alt="Use this voice: Female voice - Jennifer" class="btn">Female voice - Jennifer</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-28'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '28'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '28'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '28'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '28'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '28'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 62"><a href="https://readloud.net/english/american/28-female-voice-jennifer.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>62</a></li>
+			<li class="meta_views" title="Views: 845 454"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>845 454</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/english/">English</a>           / <a href="https://readloud.net/english/british/">British</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Female voice - Emma" alt="Use This Voice: Female voice - Emma"> <a href="https://readloud.net/english/british/17-female-voice-emma.html">Female voice - Emma</a> <img src="/RRs.png" height="16" title="Use This Voice: Female voice - Emma" alt="Use This Voice: Female voice - Emma"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center> <div style = "font-size: 75%;">Listen to example</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/WWhen_you_need_to_vo_828.mp3'></audio></a></center><br />When you need to voice a large and complex text, turning it into an audio file or an audiobook, you can always refer to the online service - readloud.net. The best system of automatic scoring texts will make for you the conversion. The generated mp3 file is available for listening online and for saving. The voice sounds very natural and practically does not differ from the live voice acting.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/english/british/17-female-voice-emma.html" title="Use This Voice: Female voice - Emma alt="Use This Voice: Female voice - Emma" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Female voice - Emma" alt="Use This Voice: Female voice - Emma"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/english/british/17-female-voice-emma.html"  title="Use this voice: Female voice - Emma" alt="Use this voice: Female voice - Emma" class="btn">Female voice - Emma</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-17'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '17'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '17'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '17'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '17'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '17'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 16"><a href="https://readloud.net/english/british/17-female-voice-emma.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>16</a></li>
+			<li class="meta_views" title="Views: 716 737"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>716 737</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/italian/">Italian</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Voce femminile - Carla" alt="Use This Voice: Voce femminile - Carla"> <a href="https://readloud.net/italian/8-voce-femminile-carla.html">Voce femminile - Carla</a> <img src="/RRs.png" height="16" title="Use This Voice: Voce femminile - Carla" alt="Use This Voice: Voce femminile - Carla"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Ascolta l`esempio</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Quando_devi_pronunci_698.mp3'></audio></a></center><br />Quando devi pronunciare un testo grande e complesso, trasformandolo in un file audio o in un audiolibro, puoi sempre fare riferimento al servizio online - readloud.net. Il miglior sistema di segnapunti automatici farà la conversione per te. Il file mp3 generato è disponibile per l'ascolto online e per il salvataggio. La voce suona molto naturale e praticamente non differisce dalla recitazione vocale dal vivo.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/italian/8-voce-femminile-carla.html" title="Use This Voice: Voce femminile - Carla alt="Use This Voice: Voce femminile - Carla" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Voce femminile - Carla" alt="Use This Voice: Voce femminile - Carla"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/italian/8-voce-femminile-carla.html"  title="Use this voice: Voce femminile - Carla" alt="Use this voice: Voce femminile - Carla" class="btn">Voce femminile - Carla</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-8'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '8'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '8'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '8'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '8'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '8'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 3"><a href="https://readloud.net/italian/8-voce-femminile-carla.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>3</a></li>
+			<li class="meta_views" title="Views: 690 212"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>690 212</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/english/">English</a>             / <a href="https://readloud.net/english/american/">American</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Female voice - Kendra" alt="Use This Voice: Female voice - Kendra"> <a href="https://readloud.net/english/american/32-female-voice-kendra.html">Female voice - Kendra</a> <img src="/RRs.png" height="16" title="Use This Voice: Female voice - Kendra" alt="Use This Voice: Female voice - Kendra"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Listen to example</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/When_you_need_to_voi_868.mp3'></audio></a></center><br />When you need to voice a large and complex text, turning it into an audio file or an audiobook, you can always refer to the online service - readloud.net. The best system of automatic scoring texts will make for you the conversion. The generated mp3 file is available for listening online and for saving. The voice sounds very natural and practically does not differ from the live voice acting.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/english/american/32-female-voice-kendra.html" title="Use This Voice: Female voice - Kendra alt="Use This Voice: Female voice - Kendra" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Female voice - Kendra" alt="Use This Voice: Female voice - Kendra"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/english/american/32-female-voice-kendra.html"  title="Use this voice: Female voice - Kendra" alt="Use this voice: Female voice - Kendra" class="btn">Female voice - Kendra</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-32'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '32'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '32'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '32'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '32'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '32'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 20"><a href="https://readloud.net/english/american/32-female-voice-kendra.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>20</a></li>
+			<li class="meta_views" title="Views: 665 195"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>665 195</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/portuguese/">Portuguese</a>              / <a href="https://readloud.net/portuguese/brasilian/">Brazilian</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Voz masculina - Ricardo" alt="Use This Voice: Voz masculina - Ricardo"> <a href="https://readloud.net/portuguese/brasilian/46-voz-masculina-ricardo.html">Voz masculina - Ricardo</a> <img src="/RRs.png" height="16" title="Use This Voice: Voz masculina - Ricardo" alt="Use This Voice: Voz masculina - Ricardo"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Ouça o exemplo</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Quando_voc_precisa_185.mp3'></audio></a></center><br />Quando você precisa dar voz a um texto grande e complexo, transformando-o em um arquivo de áudio ou em um audiolivro, você sempre pode consultar o serviço online - readloud.net. O melhor sistema de textos de pontuação automática fará a conversão para você. O arquivo mp3 gerado está disponível para escuta online e para salvar. A voz soa muito natural e praticamente não difere da voz ao vivo.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/portuguese/brasilian/46-voz-masculina-ricardo.html" title="Use This Voice: Voz masculina - Ricardo alt="Use This Voice: Voz masculina - Ricardo" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Voz masculina - Ricardo" alt="Use This Voice: Voz masculina - Ricardo"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/portuguese/brasilian/46-voz-masculina-ricardo.html"  title="Use this voice: Voz masculina - Ricardo" alt="Use this voice: Voz masculina - Ricardo" class="btn">Voz masculina - Ricardo</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-46'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '46'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '46'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '46'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '46'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '46'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 26"><a href="https://readloud.net/portuguese/brasilian/46-voz-masculina-ricardo.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>26</a></li>
+			<li class="meta_views" title="Views: 649 175"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>649 175</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/german/">German</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Frauenstimme - Marlene" alt="Use This Voice: Frauenstimme - Marlene"> <a href="https://readloud.net/german/39-frauenstimme-marlene.html">Frauenstimme - Marlene</a> <img src="/RRs.png" height="16" title="Use This Voice: Frauenstimme - Marlene" alt="Use This Voice: Frauenstimme - Marlene"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center> <div style = "font-size: 75%;">Hören Sie sich ein Beispiel an</div>  <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Wenn_Sie_einen_gro_173.mp3'></audio></a></center><br />Wenn Sie einen großen und komplexen Text sprechen und daraus eine Audiodatei oder ein Hörbuch machen möchten, können Sie immer auf den Onlinedienst - readloud.net zurückgreifen. Das beste System der automatischen Bewertungstexte wird für Sie die Konvertierung vornehmen. Die erzeugte MP3-Datei steht zum Online-Abhören und zum Speichern zur Verfügung. Die Stimme klingt sehr natürlich und unterscheidet sich praktisch nicht von der Live-Sprechfunktion.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/german/39-frauenstimme-marlene.html" title="Use This Voice: Frauenstimme - Marlene alt="Use This Voice: Frauenstimme - Marlene" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Frauenstimme - Marlene" alt="Use This Voice: Frauenstimme - Marlene"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/german/39-frauenstimme-marlene.html"  title="Use this voice: Frauenstimme - Marlene" alt="Use this voice: Frauenstimme - Marlene" class="btn">Frauenstimme - Marlene</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-39'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '39'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '39'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '39'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '39'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '39'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 5"><a href="https://readloud.net/german/39-frauenstimme-marlene.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>5</a></li>
+			<li class="meta_views" title="Views: 301 473"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>301 473</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/english/">English</a>                / <a href="https://readloud.net/english/australian/">Australian</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Male voice - Russell" alt="Use This Voice: Male voice - Russell"> <a href="https://readloud.net/english/australian/48-male-voice-russell.html">Male voice - Russell</a> <img src="/RRs.png" height="16" title="Use This Voice: Male voice - Russell" alt="Use This Voice: Male voice - Russell"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Listen to example</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/When_you_need_to_voi_403.mp3'></audio></a></center><br />When you need to voice a large and complex text, turning it into an audio file or an audiobook, you can always refer to the online service - readloud.net. The best system of automatic scoring texts will make for you the conversion. The generated mp3 file is available for listening online and for saving. The voice sounds very natural and practically does not differ from the live voice acting.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/english/australian/48-male-voice-russell.html" title="Use This Voice: Male voice - Russell alt="Use This Voice: Male voice - Russell" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Male voice - Russell" alt="Use This Voice: Male voice - Russell"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/english/australian/48-male-voice-russell.html"  title="Use this voice: Male voice - Russell" alt="Use this voice: Male voice - Russell" class="btn">Male voice - Russell</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-48'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '48'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '48'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '48'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '48'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '48'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 16"><a href="https://readloud.net/english/australian/48-male-voice-russell.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>16</a></li>
+			<li class="meta_views" title="Views: 254 133"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>254 133</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/spanish/">Spanish</a>                 / <a href="https://readloud.net/spanish/castilian/">Castilian</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Voz femenina - Conchita" alt="Use This Voice: Voz femenina - Conchita"> <a href="https://readloud.net/spanish/castilian/14-voz-femenina-conchita.html">Voz femenina - Conchita</a> <img src="/RRs.png" height="16" title="Use This Voice: Voz femenina - Conchita" alt="Use This Voice: Voz femenina - Conchita"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Escucha el ejemplo</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Cuando_necesite_expr_814.mp3'></audio></a></center><br />Cuando necesite expresar un texto grande y complejo, convirtiéndolo en un archivo de audio o un audiolibro, siempre puede consultar el servicio en línea - readloud.net. El mejor sistema de textos de puntuación automática hará para usted la conversión. El archivo mp3 generado está disponible para escuchar en línea y para guardar. La voz suena muy natural y prácticamente no difiere de la actuación de voz en vivo.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/spanish/castilian/14-voz-femenina-conchita.html" title="Use This Voice: Voz femenina - Conchita alt="Use This Voice: Voz femenina - Conchita" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Voz femenina - Conchita" alt="Use This Voice: Voz femenina - Conchita"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/spanish/castilian/14-voz-femenina-conchita.html"  title="Use this voice: Voz femenina - Conchita" alt="Use this voice: Voz femenina - Conchita" class="btn">Voz femenina - Conchita</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-14'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '14'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '14'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '14'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '14'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '14'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 11"><a href="https://readloud.net/spanish/castilian/14-voz-femenina-conchita.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>11</a></li>
+			<li class="meta_views" title="Views: 235 437"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>235 437</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/spanish/">Spanish</a>                  / <a href="https://readloud.net/spanish/castilian/">Castilian</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Voz masculina - Enrique" alt="Use This Voice: Voz masculina - Enrique"> <a href="https://readloud.net/spanish/castilian/18-voz-masculina-enrique.html">Voz masculina - Enrique</a> <img src="/RRs.png" height="16" title="Use This Voice: Voz masculina - Enrique" alt="Use This Voice: Voz masculina - Enrique"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center> <div style = "font-size: 75%;">Escucha el ejemplo</div>  <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Cuando_necesite_expr_781.mp3'></audio></a></center><br />Cuando necesite expresar un texto grande y complejo, convirtiéndolo en un archivo de audio o un audiolibro, siempre puede consultar el servicio en línea - readloud.net. El mejor sistema de textos de puntuación automática hará para usted la conversión. El archivo mp3 generado está disponible para escuchar en línea y para guardar. La voz suena muy natural y prácticamente no difiere de la actuación de voz en vivo.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/spanish/castilian/18-voz-masculina-enrique.html" title="Use This Voice: Voz masculina - Enrique alt="Use This Voice: Voz masculina - Enrique" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Voz masculina - Enrique" alt="Use This Voice: Voz masculina - Enrique"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/spanish/castilian/18-voz-masculina-enrique.html"  title="Use this voice: Voz masculina - Enrique" alt="Use this voice: Voz masculina - Enrique" class="btn">Voz masculina - Enrique</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-18'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '18'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '18'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '18'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '18'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '18'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 16"><a href="https://readloud.net/spanish/castilian/18-voz-masculina-enrique.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>16</a></li>
+			<li class="meta_views" title="Views: 235 158"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>235 158</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/french/">French</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Voix masculine - Mathieu" alt="Use This Voice: Voix masculine - Mathieu"> <a href="https://readloud.net/french/40-voix-masculine-mathieu.html">Voix masculine - Mathieu</a> <img src="/RRs.png" height="16" title="Use This Voice: Voix masculine - Mathieu" alt="Use This Voice: Voix masculine - Mathieu"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Écoutez l`exemple</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Lorsque_vous_devez_e_507.mp3'></audio></a></center><br />Lorsque vous devez exprimer un texte volumineux et complexe, en le transformant en fichier audio ou en livre audio, vous pouvez toujours vous référer au service en ligne - readloud.net. Le meilleur système de notation automatique des textes fera pour vous la conversion. Le fichier mp3 généré est disponible pour une écoute en ligne et pour une sauvegarde. La voix semble très naturelle et ne diffère pratiquement pas du jeu des voix en direct.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/french/40-voix-masculine-mathieu.html" title="Use This Voice: Voix masculine - Mathieu alt="Use This Voice: Voix masculine - Mathieu" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Voix masculine - Mathieu" alt="Use This Voice: Voix masculine - Mathieu"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/french/40-voix-masculine-mathieu.html"  title="Use this voice: Voix masculine - Mathieu" alt="Use this voice: Voix masculine - Mathieu" class="btn">Voix masculine - Mathieu</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-40'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '40'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '40'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '40'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '40'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '40'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 10"><a href="https://readloud.net/french/40-voix-masculine-mathieu.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>10</a></li>
+			<li class="meta_views" title="Views: 208 504"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>208 504</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/german/">German</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Männerstimme - Hans" alt="Use This Voice: Männerstimme - Hans"> <a href="https://readloud.net/german/24-mannerstimme-hans.html">Männerstimme - Hans</a> <img src="/RRs.png" height="16" title="Use This Voice: Männerstimme - Hans" alt="Use This Voice: Männerstimme - Hans"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Hören Sie sich ein Beispiel an</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Wenn_Sie_einen_gro_301.mp3'></audio></a></center><br />Wenn Sie einen großen und komplexen Text sprechen und daraus eine Audiodatei oder ein Hörbuch machen möchten, können Sie immer auf den Onlinedienst - readloud.net zurückgreifen. Das beste System der automatischen Bewertungstexte wird für Sie die Konvertierung vornehmen. Die erzeugte MP3-Datei steht zum Online-Abhören und zum Speichern zur Verfügung. Die Stimme klingt sehr natürlich und unterscheidet sich praktisch nicht von der Live-Sprechfunktion.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/german/24-mannerstimme-hans.html" title="Use This Voice: Männerstimme - Hans alt="Use This Voice: Männerstimme - Hans" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Männerstimme - Hans" alt="Use This Voice: Männerstimme - Hans"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/german/24-mannerstimme-hans.html"  title="Use this voice: Männerstimme - Hans" alt="Use this voice: Männerstimme - Hans" class="btn">Männerstimme - Hans</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-24'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '24'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '24'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '24'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '24'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '24'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 6"><a href="https://readloud.net/german/24-mannerstimme-hans.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>6</a></li>
+			<li class="meta_views" title="Views: 201 992"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>201 992</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/english/">English</a>                     / <a href="https://readloud.net/english/american/">American</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Funny toy voice - Skippy the Chipmunk" alt="Use This Voice: Funny toy voice - Skippy the Chipmunk"> <a href="https://readloud.net/english/american/49-funny-toy-voice-skippy-the-chipmunk.html">Funny toy voice - Skippy the Chipmunk</a> <img src="/RRs.png" height="16" title="Use This Voice: Funny toy voice - Skippy the Chipmunk" alt="Use This Voice: Funny toy voice - Skippy the Chipmunk"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center> <div style = "font-size: 75%;">Listen to example</div>  <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/A_funny_cartoon_voic_906.mp3'></audio></a></center><br />A funny cartoon voice is always useful in the case when you need to play a trick or to voice a funny story.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/english/american/49-funny-toy-voice-skippy-the-chipmunk.html" title="Use This Voice: Funny toy voice - Skippy the Chipmunk alt="Use This Voice: Funny toy voice - Skippy the Chipmunk" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Funny toy voice - Skippy the Chipmunk" alt="Use This Voice: Funny toy voice - Skippy the Chipmunk"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/english/american/49-funny-toy-voice-skippy-the-chipmunk.html"  title="Use this voice: Funny toy voice - Skippy the Chipmunk" alt="Use this voice: Funny toy voice - Skippy the Chipmunk" class="btn">Funny toy voice - Skippy the Chipmunk</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-49'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '49'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '49'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '49'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '49'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '49'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 39"><a href="https://readloud.net/english/american/49-funny-toy-voice-skippy-the-chipmunk.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>39</a></li>
+			<li class="meta_views" title="Views: 189 292"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>189 292</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/english/">English</a>                      / <a href="https://readloud.net/english/welsh/">Welsh</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Male voice - Geraint" alt="Use This Voice: Male voice - Geraint"> <a href="https://readloud.net/english/welsh/21-male-voice-geraint.html">Male voice - Geraint</a> <img src="/RRs.png" height="16" title="Use This Voice: Male voice - Geraint" alt="Use This Voice: Male voice - Geraint"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Listen to example</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/When_you_need_to_voi_502.mp3'></audio></a></center><br />When you need to voice a large and complex text, turning it into an audio file or an audiobook, you can always refer to the online service - readloud.net. The best system of automatic scoring texts will make for you the conversion. The generated mp3 file is available for listening online and for saving. The voice sounds very natural and practically does not differ from the live voice acting.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/english/welsh/21-male-voice-geraint.html" title="Use This Voice: Male voice - Geraint alt="Use This Voice: Male voice - Geraint" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Male voice - Geraint" alt="Use This Voice: Male voice - Geraint"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/english/welsh/21-male-voice-geraint.html"  title="Use this voice: Male voice - Geraint" alt="Use this voice: Male voice - Geraint" class="btn">Male voice - Geraint</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-21'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:60%;">60</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '21'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '21'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '21'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '21'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '21'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 5"><a href="https://readloud.net/english/welsh/21-male-voice-geraint.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>5</a></li>
+			<li class="meta_views" title="Views: 130 653"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>130 653</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/english/">English</a>                       / <a href="https://readloud.net/english/australian/">Australian</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Female voice - Nicole" alt="Use This Voice: Female voice - Nicole"> <a href="https://readloud.net/english/australian/43-female-voice-nicole.html">Female voice - Nicole</a> <img src="/RRs.png" height="16" title="Use This Voice: Female voice - Nicole" alt="Use This Voice: Female voice - Nicole"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Listen to example</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/When_you_need_to_voi_642.mp3'></audio></a></center><br />When you need to voice a large and complex text, turning it into an audio file or an audiobook, you can always refer to the online service - readloud.net. The best system of automatic scoring texts will make for you the conversion. The generated mp3 file is available for listening online and for saving. The voice sounds very natural and practically does not differ from the live voice acting.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/english/australian/43-female-voice-nicole.html" title="Use This Voice: Female voice - Nicole alt="Use This Voice: Female voice - Nicole" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Female voice - Nicole" alt="Use This Voice: Female voice - Nicole"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/english/australian/43-female-voice-nicole.html"  title="Use this voice: Female voice - Nicole" alt="Use this voice: Female voice - Nicole" class="btn">Female voice - Nicole</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-43'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '43'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '43'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '43'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '43'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '43'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 5"><a href="https://readloud.net/english/australian/43-female-voice-nicole.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>5</a></li>
+			<li class="meta_views" title="Views: 83 908"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>83 908</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/russian/">Russian</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Женский голос - Татьяна" alt="Use This Voice: Женский голос - Татьяна"> <a href="https://readloud.net/russian/50-zhenskiy-golos-tatyana.html">Женский голос - Татьяна</a> <img src="/RRs.png" height="16" title="Use This Voice: Женский голос - Татьяна" alt="Use This Voice: Женский голос - Татьяна"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Послушайте пример</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Kogda_vam_n_710.mp3'></audio></a></center><br />Когда вам нужно озвучить большой и сложный текст, превратив его в аудиофайл или аудиокнигу, вы всегда можете обратиться к онлайн-сервису - readloud.net. Лучшая система автоматического озвучивания текстов сделает для вас конвертацию. Созданный mp3-файл доступен для прослушивания онлайн и для сохранения. Голос звучит очень естественно и практически не отличается от живой озвучки.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/russian/50-zhenskiy-golos-tatyana.html" title="Use This Voice: Женский голос - Татьяна alt="Use This Voice: Женский голос - Татьяна" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Женский голос - Татьяна" alt="Use This Voice: Женский голос - Татьяна"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/russian/50-zhenskiy-golos-tatyana.html"  title="Use this voice: Женский голос - Татьяна" alt="Use this voice: Женский голос - Татьяна" class="btn">Женский голос - Татьяна</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-50'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '50'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '50'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '50'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '50'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '50'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 33"><a href="https://readloud.net/russian/50-zhenskiy-golos-tatyana.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>33</a></li>
+			<li class="meta_views" title="Views: 78 698"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>78 698</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/english/">English</a>                         / <a href="https://readloud.net/english/welsh/">Welsh</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Female voice - Gwyneth" alt="Use This Voice: Female voice - Gwyneth"> <a href="https://readloud.net/english/welsh/23-female-voice-gwyneth.html">Female voice - Gwyneth</a> <img src="/RRs.png" height="16" title="Use This Voice: Female voice - Gwyneth" alt="Use This Voice: Female voice - Gwyneth"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Listen to example</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/When_you_need_to_voi_858.mp3'></audio></a></center><br />When you need to voice a large and complex text, turning it into an audio file or an audiobook, you can always refer to the online service - readloud.net. The best system of automatic scoring texts will make for you the conversion. The generated mp3 file is available for listening online and for saving. The voice sounds very natural and practically does not differ from the live voice acting.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/english/welsh/23-female-voice-gwyneth.html" title="Use This Voice: Female voice - Gwyneth alt="Use This Voice: Female voice - Gwyneth" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Female voice - Gwyneth" alt="Use This Voice: Female voice - Gwyneth"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/english/welsh/23-female-voice-gwyneth.html"  title="Use this voice: Female voice - Gwyneth" alt="Use this voice: Female voice - Gwyneth" class="btn">Female voice - Gwyneth</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-23'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '23'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '23'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '23'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '23'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '23'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 4"><a href="https://readloud.net/english/welsh/23-female-voice-gwyneth.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>4</a></li>
+			<li class="meta_views" title="Views: 52 851"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>52 851</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/portuguese/">Portuguese</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Voz masculina - Cristiano" alt="Use This Voice: Voz masculina - Cristiano"> <a href="https://readloud.net/portuguese/15-voz-masculina-cristiano.html">Voz masculina - Cristiano</a> <img src="/RRs.png" height="16" title="Use This Voice: Voz masculina - Cristiano" alt="Use This Voice: Voz masculina - Cristiano"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Ouça o exemplo</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Quando_voc_precisa_524.mp3'></audio></a></center><br />Quando você precisa dar voz a um texto grande e complexo, transformando-o em um arquivo de áudio ou em um audiolivro, você sempre pode consultar o serviço online - readloud.net. O melhor sistema de textos de pontuação automática fará a conversão para você. O arquivo mp3 gerado está disponível para escuta online e para salvar. A voz soa muito natural e praticamente não difere da voz ao vivo.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/portuguese/15-voz-masculina-cristiano.html" title="Use This Voice: Voz masculina - Cristiano alt="Use This Voice: Voz masculina - Cristiano" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Voz masculina - Cristiano" alt="Use This Voice: Voz masculina - Cristiano"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/portuguese/15-voz-masculina-cristiano.html"  title="Use this voice: Voz masculina - Cristiano" alt="Use this voice: Voz masculina - Cristiano" class="btn">Voz masculina - Cristiano</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-15'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '15'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '15'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '15'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '15'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '15'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 6"><a href="https://readloud.net/portuguese/15-voz-masculina-cristiano.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>6</a></li>
+			<li class="meta_views" title="Views: 40 077"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>40 077</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/dutch/">Dutch</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Mannelijke stem - Ruben" alt="Use This Voice: Mannelijke stem - Ruben"> <a href="https://readloud.net/dutch/47-mannelijke-stem-ruben.html">Mannelijke stem - Ruben</a> <img src="/RRs.png" height="16" title="Use This Voice: Mannelijke stem - Ruben" alt="Use This Voice: Mannelijke stem - Ruben"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center> <div style = "font-size: 75%;">Luister naar voorbeeld</div>  <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Wanneer_u_een_grote__197.mp3'></audio></a></center><br />Wanneer u een grote en complexe tekst moet inspreken, een audiobestand of een gesproken boek wilt omzetten, u altijd verwijzen naar de online service - readloud.net. Het beste systeem van automatische scorings teksten zal maken voor u de conversie. De gegenereerde MP3-bestand is beschikbaar voor het luisteren online en voor het opslaan. De stem klinkt heel natuurlijk en praktisch niet afwijken van de Live Voice Acting.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/dutch/47-mannelijke-stem-ruben.html" title="Use This Voice: Mannelijke stem - Ruben alt="Use This Voice: Mannelijke stem - Ruben" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Mannelijke stem - Ruben" alt="Use This Voice: Mannelijke stem - Ruben"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/dutch/47-mannelijke-stem-ruben.html"  title="Use this voice: Mannelijke stem - Ruben" alt="Use this voice: Mannelijke stem - Ruben" class="btn">Mannelijke stem - Ruben</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-47'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:60%;">60</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '47'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '47'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '47'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '47'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '47'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 3"><a href="https://readloud.net/dutch/47-mannelijke-stem-ruben.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>3</a></li>
+			<li class="meta_views" title="Views: 39 272"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>39 272</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/swedish/">Swedish</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Kvinnlig röst - Astrid" alt="Use This Voice: Kvinnlig röst - Astrid"> <a href="https://readloud.net/swedish/10-kvinnlig-rost-astrid.html">Kvinnlig röst - Astrid</a> <img src="/RRs.png" height="16" title="Use This Voice: Kvinnlig röst - Astrid" alt="Use This Voice: Kvinnlig röst - Astrid"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center> <div style = "font-size: 75%;">Lyssna på exempel</div>  <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Nr_du_behver_r_812.mp3'></audio></a></center><br />När du behöver rösta en stor och komplex text, gör den till en ljudfil eller en ljudbok, kan du alltid se onlinetjänsten - readloud.net. Det bästa systemet med automatisk scoring texter kommer att göra för dig omvandlingen. Den genererade mp3-filen är tillgänglig för att lyssna på nätet och för att spara. Rösten låter väldigt naturlig och skiljer sig praktiskt taget från den levande röstverkan.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/swedish/10-kvinnlig-rost-astrid.html" title="Use This Voice: Kvinnlig röst - Astrid alt="Use This Voice: Kvinnlig röst - Astrid" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Kvinnlig röst - Astrid" alt="Use This Voice: Kvinnlig röst - Astrid"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/swedish/10-kvinnlig-rost-astrid.html"  title="Use this voice: Kvinnlig röst - Astrid" alt="Use this voice: Kvinnlig röst - Astrid" class="btn">Kvinnlig röst - Astrid</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-10'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '10'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '10'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '10'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '10'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '10'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 2"><a href="https://readloud.net/swedish/10-kvinnlig-rost-astrid.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>2</a></li>
+			<li class="meta_views" title="Views: 24 567"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>24 567</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/french/">French</a>                             / <a href="https://readloud.net/french/canadian/">Canadian</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Voix de femme - Chantal" alt="Use This Voice: Voix de femme - Chantal"> <a href="https://readloud.net/french/canadian/13-voix-de-femme-chantal.html">Voix de femme - Chantal</a> <img src="/RRs.png" height="16" title="Use This Voice: Voix de femme - Chantal" alt="Use This Voice: Voix de femme - Chantal"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center> <div style = "font-size: 75%;">Écoutez l`exemple</div>  <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Lorsque_vous_devez_e_876.mp3'></audio></a></center><br />Lorsque vous devez exprimer un texte volumineux et complexe, en le transformant en fichier audio ou en livre audio, vous pouvez toujours vous référer au service en ligne - readloud.net. Le meilleur système de notation automatique des textes fera pour vous la conversion. Le fichier mp3 généré est disponible pour une écoute en ligne et pour une sauvegarde. La voix semble très naturelle et ne diffère pratiquement pas du jeu des voix en direct.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/french/canadian/13-voix-de-femme-chantal.html" title="Use This Voice: Voix de femme - Chantal alt="Use This Voice: Voix de femme - Chantal" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Voix de femme - Chantal" alt="Use This Voice: Voix de femme - Chantal"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/french/canadian/13-voix-de-femme-chantal.html"  title="Use this voice: Voix de femme - Chantal" alt="Use this voice: Voix de femme - Chantal" class="btn">Voix de femme - Chantal</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-13'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '13'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '13'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '13'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '13'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '13'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 6"><a href="https://readloud.net/french/canadian/13-voix-de-femme-chantal.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>6</a></li>
+			<li class="meta_views" title="Views: 24 098"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>24 098</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/polish/">Polish</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Kobiecy głos - Maja" alt="Use This Voice: Kobiecy głos - Maja"> <a href="https://readloud.net/polish/38-kobiecy-glos-maja.html">Kobiecy głos - Maja</a> <img src="/RRs.png" height="16" title="Use This Voice: Kobiecy głos - Maja" alt="Use This Voice: Kobiecy głos - Maja"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Posłuchaj przykładu</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Gdy_potrzebujesz_wyr_250.mp3'></audio></a></center><br />Gdy potrzebujesz wyrazić duży i złożony tekst, przekształcając go w plik audio lub książkę audio, zawsze możesz skorzystać z usługi online - readloud.net. Najlepszy system automatycznych tekstów punktacji sprawi, że konwersja będzie dla Ciebie. Wygenerowany plik mp3 jest dostępny do słuchania online i zapisywania. Głos brzmi bardzo naturalnie i praktycznie nie różni się od głosu na żywo.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/polish/38-kobiecy-glos-maja.html" title="Use This Voice: Kobiecy głos - Maja alt="Use This Voice: Kobiecy głos - Maja" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Kobiecy głos - Maja" alt="Use This Voice: Kobiecy głos - Maja"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/polish/38-kobiecy-glos-maja.html"  title="Use this voice: Kobiecy głos - Maja" alt="Use this voice: Kobiecy głos - Maja" class="btn">Kobiecy głos - Maja</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-38'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '38'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '38'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '38'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '38'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '38'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 2"><a href="https://readloud.net/polish/38-kobiecy-glos-maja.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>2</a></li>
+			<li class="meta_views" title="Views: 23 325"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>23 325</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/danish/">Danish</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Mandlig stemme - Mads" alt="Use This Voice: Mandlig stemme - Mads"> <a href="https://readloud.net/danish/37-mandlig-stemme-mads.html">Mandlig stemme - Mads</a> <img src="/RRs.png" height="16" title="Use This Voice: Mandlig stemme - Mads" alt="Use This Voice: Mandlig stemme - Mads"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Lytt til eksempel</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Nr_du_skal_stemme__731.mp3'></audio></a></center><br />Når du skal stemme en stor og kompleks tekst, så den bliver til en lydfil eller en lydbog, kan du altid henvise til onlinetjenesten - readloud.net. Det bedste system med automatisk scoring tekster vil gøre dig til konvertering. Den genererede mp3-fil er tilgængelig til at lytte online og til at gemme. Stemmen lyder meget naturligt og adskiller sig praktisk talt ikke fra live-stemmevirkningen.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/danish/37-mandlig-stemme-mads.html" title="Use This Voice: Mandlig stemme - Mads alt="Use This Voice: Mandlig stemme - Mads" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Mandlig stemme - Mads" alt="Use This Voice: Mandlig stemme - Mads"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/danish/37-mandlig-stemme-mads.html"  title="Use this voice: Mandlig stemme - Mads" alt="Use this voice: Mandlig stemme - Mads" class="btn">Mandlig stemme - Mads</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-37'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '37'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '37'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '37'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '37'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '37'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 1"><a href="https://readloud.net/danish/37-mandlig-stemme-mads.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>1</a></li>
+			<li class="meta_views" title="Views: 18 999"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>18 999</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/polish/">Polish</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Męski głos - Jacek" alt="Use This Voice: Męski głos - Jacek"> <a href="https://readloud.net/polish/26-meski-glos-jacek.html">Męski głos - Jacek</a> <img src="/RRs.png" height="16" title="Use This Voice: Męski głos - Jacek" alt="Use This Voice: Męski głos - Jacek"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Posłuchaj przykładu</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Gdy_potrzebujesz_wyr_799.mp3'></audio></a></center><br />Gdy potrzebujesz wyrazić duży i złożony tekst, przekształcając go w plik audio lub książkę audio, zawsze możesz skorzystać z usługi online - readloud.net. Najlepszy system automatycznych tekstów punktacji sprawi, że konwersja będzie dla Ciebie. Wygenerowany plik mp3 jest dostępny do słuchania online i zapisywania. Głos brzmi bardzo naturalnie i praktycznie nie różni się od głosu na żywo.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/polish/26-meski-glos-jacek.html" title="Use This Voice: Męski głos - Jacek alt="Use This Voice: Męski głos - Jacek" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Męski głos - Jacek" alt="Use This Voice: Męski głos - Jacek"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/polish/26-meski-glos-jacek.html"  title="Use this voice: Męski głos - Jacek" alt="Use this voice: Męski głos - Jacek" class="btn">Męski głos - Jacek</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-26'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:60%;">60</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '26'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '26'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '26'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '26'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '26'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 2"><a href="https://readloud.net/polish/26-meski-glos-jacek.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>2</a></li>
+			<li class="meta_views" title="Views: 17 474"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>17 474</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/turkish/">Turkish</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Kadın sesi - Filiz" alt="Use This Voice: Kadın sesi - Filiz"> <a href="https://readloud.net/turkish/20-kadın-sesi-filiz.html">Kadın sesi - Filiz</a> <img src="/RRs.png" height="16" title="Use This Voice: Kadın sesi - Filiz" alt="Use This Voice: Kadın sesi - Filiz"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Örnek dinleyin</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Byk_ve_karma_171.mp3'></audio></a></center><br />Büyük ve karmaşık bir metni seslendirmek, sesli dosyaya veya sesli kitap haline getirmek istediğinizde, her zaman çevrimiçi hizmete başvurabilirsiniz - readloud.net. Otomatik puanlama metinlerinin en iyi sistemi dönüşüm sizin için yapacaktır. Oluşturulan mp3 dosyası çevrimiçi dinlemek ve kaydetmek için kullanılabilir. Ses çok doğal geliyor ve pratik olarak canlı ses veriminden farklı değil.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/turkish/20-kadın-sesi-filiz.html" title="Use This Voice: Kadın sesi - Filiz alt="Use This Voice: Kadın sesi - Filiz" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Kadın sesi - Filiz" alt="Use This Voice: Kadın sesi - Filiz"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/turkish/20-kadın-sesi-filiz.html"  title="Use this voice: Kadın sesi - Filiz" alt="Use this voice: Kadın sesi - Filiz" class="btn">Kadın sesi - Filiz</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-20'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:20%;">20</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '20'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '20'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '20'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '20'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '20'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 8"><a href="https://readloud.net/turkish/20-kadın-sesi-filiz.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>8</a></li>
+			<li class="meta_views" title="Views: 17 308"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>17 308</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/dutch/">Dutch</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Vrouwelijke stem - Lotte" alt="Use This Voice: Vrouwelijke stem - Lotte"> <a href="https://readloud.net/dutch/36-vrouwelijke-stem-lotte.html">Vrouwelijke stem - Lotte</a> <img src="/RRs.png" height="16" title="Use This Voice: Vrouwelijke stem - Lotte" alt="Use This Voice: Vrouwelijke stem - Lotte"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Luister naar voorbeeld</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Wanneer_u_een_grote__276.mp3'></audio></a></center><br />Wanneer u een grote en complexe tekst moet inspreken, een audiobestand of een gesproken boek wilt omzetten, u altijd verwijzen naar de online service - readloud.net. Het beste systeem van automatische scorings teksten zal maken voor u de conversie. De gegenereerde MP3-bestand is beschikbaar voor het luisteren online en voor het opslaan. De stem klinkt heel natuurlijk en praktisch niet afwijken van de Live Voice Acting.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/dutch/36-vrouwelijke-stem-lotte.html" title="Use This Voice: Vrouwelijke stem - Lotte alt="Use This Voice: Vrouwelijke stem - Lotte" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Vrouwelijke stem - Lotte" alt="Use This Voice: Vrouwelijke stem - Lotte"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/dutch/36-vrouwelijke-stem-lotte.html"  title="Use this voice: Vrouwelijke stem - Lotte" alt="Use this voice: Vrouwelijke stem - Lotte" class="btn">Vrouwelijke stem - Lotte</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-36'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '36'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '36'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '36'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '36'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '36'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 3"><a href="https://readloud.net/dutch/36-vrouwelijke-stem-lotte.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>3</a></li>
+			<li class="meta_views" title="Views: 13 833"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>13 833</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/danish/">Danish</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Kvinde stemme - Naja" alt="Use This Voice: Kvinde stemme - Naja"> <a href="https://readloud.net/danish/42-kvinde-stemme-naja.html">Kvinde stemme - Naja</a> <img src="/RRs.png" height="16" title="Use This Voice: Kvinde stemme - Naja" alt="Use This Voice: Kvinde stemme - Naja"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center> <div style = "font-size: 75%;">Lytt til eksempel</div>  <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Nr_du_skal_stemme__427.mp3'></audio></a></center><br />Når du skal stemme en stor og kompleks tekst, så den bliver til en lydfil eller en lydbog, kan du altid henvise til onlinetjenesten - readloud.net. Det bedste system med automatisk scoring tekster vil gøre dig til konvertering. Den genererede mp3-fil er tilgængelig til at lytte online og til at gemme. Stemmen lyder meget naturligt og adskiller sig praktisk talt ikke fra live-stemmevirkningen.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/danish/42-kvinde-stemme-naja.html" title="Use This Voice: Kvinde stemme - Naja alt="Use This Voice: Kvinde stemme - Naja" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Kvinde stemme - Naja" alt="Use This Voice: Kvinde stemme - Naja"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/danish/42-kvinde-stemme-naja.html"  title="Use this voice: Kvinde stemme - Naja" alt="Use this voice: Kvinde stemme - Naja" class="btn">Kvinde stemme - Naja</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-42'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '42'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '42'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '42'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '42'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '42'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 1"><a href="https://readloud.net/danish/42-kvinde-stemme-naja.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>1</a></li>
+			<li class="meta_views" title="Views: 12 938"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>12 938</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/polish/">Polish</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Męski głos - Jan" alt="Use This Voice: Męski głos - Jan"> <a href="https://readloud.net/polish/27-meski-glos-jan.html">Męski głos - Jan</a> <img src="/RRs.png" height="16" title="Use This Voice: Męski głos - Jan" alt="Use This Voice: Męski głos - Jan"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Posłuchaj przykładu</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Gdy_potrzebujesz_wyr_674.mp3'></audio></a></center><br />Gdy potrzebujesz wyrazić duży i złożony tekst, przekształcając go w plik audio lub książkę audio, zawsze możesz skorzystać z usługi online - readloud.net. Najlepszy system automatycznych tekstów punktacji sprawi, że konwersja będzie dla Ciebie. Wygenerowany plik mp3 jest dostępny do słuchania online i zapisywania. Głos brzmi bardzo naturalnie i praktycznie nie różni się od głosu na żywo.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/polish/27-meski-glos-jan.html" title="Use This Voice: Męski głos - Jan alt="Use This Voice: Męski głos - Jan" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Męski głos - Jan" alt="Use This Voice: Męski głos - Jan"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/polish/27-meski-glos-jan.html"  title="Use this voice: Męski głos - Jan" alt="Use this voice: Męski głos - Jan" class="btn">Męski głos - Jan</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-27'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '27'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '27'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '27'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '27'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '27'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 3"><a href="https://readloud.net/polish/27-meski-glos-jan.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>3</a></li>
+			<li class="meta_views" title="Views: 12 631"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>12 631</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/norwegian/">Norwegian</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Kvinne stemme - Liv" alt="Use This Voice: Kvinne stemme - Liv"> <a href="https://readloud.net/norwegian/34-kvinne-stemme-liv.html">Kvinne stemme - Liv</a> <img src="/RRs.png" height="16" title="Use This Voice: Kvinne stemme - Liv" alt="Use This Voice: Kvinne stemme - Liv"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Lytt til eksempel</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Nr_du_trenger__s_176.mp3'></audio></a></center><br />Når du trenger å stemme en stor og kompleks tekst, snu den til en lydfil eller en lydbok, kan du alltid henvise til onlinetjenesten - readloud.net. Det beste systemet med automatisk scoring tekster vil gjøre for deg konverteringen. Den genererte mp3-filen er tilgjengelig for å lytte på nettet og for å lagre. Stemmen høres veldig naturlig ut, og adskiller seg praktisk talt ikke fra live-stemme-skuespillet.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/norwegian/34-kvinne-stemme-liv.html" title="Use This Voice: Kvinne stemme - Liv alt="Use This Voice: Kvinne stemme - Liv" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Kvinne stemme - Liv" alt="Use This Voice: Kvinne stemme - Liv"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/norwegian/34-kvinne-stemme-liv.html"  title="Use this voice: Kvinne stemme - Liv" alt="Use this voice: Kvinne stemme - Liv" class="btn">Kvinne stemme - Liv</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-34'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:60%;">60</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '34'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '34'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '34'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '34'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '34'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 3"><a href="https://readloud.net/norwegian/34-kvinne-stemme-liv.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>3</a></li>
+			<li class="meta_views" title="Views: 12 465"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>12 465</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/polish/">Polish</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Kobiecy głos - Agnieszka" alt="Use This Voice: Kobiecy głos - Agnieszka"> <a href="https://readloud.net/polish/9-kobiecy-glos-agnieszka.html">Kobiecy głos - Agnieszka</a> <img src="/RRs.png" height="16" title="Use This Voice: Kobiecy głos - Agnieszka" alt="Use This Voice: Kobiecy głos - Agnieszka"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center> <div style = "font-size: 75%;">Posłuchaj przykładu</div>  <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Gdy_potrzebujesz_wyr_500.mp3'></audio></a></center><br />Gdy potrzebujesz wyrazić duży i złożony tekst, przekształcając go w plik audio lub książkę audio, zawsze możesz skorzystać z usługi online - readloud.net. Najlepszy system automatycznych tekstów punktacji sprawi, że konwersja będzie dla Ciebie. Wygenerowany plik mp3 jest dostępny do słuchania online i zapisywania. Głos brzmi bardzo naturalnie i praktycznie nie różni się od głosu na żywo.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/polish/9-kobiecy-glos-agnieszka.html" title="Use This Voice: Kobiecy głos - Agnieszka alt="Use This Voice: Kobiecy głos - Agnieszka" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Kobiecy głos - Agnieszka" alt="Use This Voice: Kobiecy głos - Agnieszka"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/polish/9-kobiecy-glos-agnieszka.html"  title="Use this voice: Kobiecy głos - Agnieszka" alt="Use this voice: Kobiecy głos - Agnieszka" class="btn">Kobiecy głos - Agnieszka</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-9'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:100%;">100</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '9'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '9'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '9'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '9'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '9'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 2"><a href="https://readloud.net/polish/9-kobiecy-glos-agnieszka.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>2</a></li>
+			<li class="meta_views" title="Views: 9 845"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>9 845</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/polish/">Polish</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Kobiecy głos - Ewa" alt="Use This Voice: Kobiecy głos - Ewa"> <a href="https://readloud.net/polish/19-kobiecy-glos-ewa.html">Kobiecy głos - Ewa</a> <img src="/RRs.png" height="16" title="Use This Voice: Kobiecy głos - Ewa" alt="Use This Voice: Kobiecy głos - Ewa"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Posłuchaj przykładu</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/Gdy_potrzebujesz_wyr_336.mp3'></audio></a></center><br />Gdy potrzebujesz wyrazić duży i złożony tekst, przekształcając go w plik audio lub książkę audio, zawsze możesz skorzystać z usługi online - readloud.net. Najlepszy system automatycznych tekstów punktacji sprawi, że konwersja będzie dla Ciebie. Wygenerowany plik mp3 jest dostępny do słuchania online i zapisywania. Głos brzmi bardzo naturalnie i praktycznie nie różni się od głosu na żywo.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/polish/19-kobiecy-glos-ewa.html" title="Use This Voice: Kobiecy głos - Ewa alt="Use This Voice: Kobiecy głos - Ewa" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Kobiecy głos - Ewa" alt="Use This Voice: Kobiecy głos - Ewa"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/polish/19-kobiecy-glos-ewa.html"  title="Use this voice: Kobiecy głos - Ewa" alt="Use this voice: Kobiecy głos - Ewa" class="btn">Kobiecy głos - Ewa</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-19'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:60%;">60</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '19'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '19'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '19'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '19'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '19'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 4"><a href="https://readloud.net/polish/19-kobiecy-glos-ewa.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>4</a></li>
+			<li class="meta_views" title="Views: 9 420"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>9 420</li>
+		</ul>
+	</div>
+</article>
+<hr>
+<article class="block story shortstory">
+	
+	<center>
+	<h5 class="title">( <a href="https://readloud.net/icelandic/">Icelandic</a> )</h5>
+	 <h2 class="title"> <img src="/LLs.png" height="16" title="Use This Voice: Male rödd - Karl" alt="Use This Voice: Male rödd - Karl"> <a href="https://readloud.net/icelandic/31-male-rodd-karl.html">Male rödd - Karl</a> <img src="/RRs.png" height="16" title="Use This Voice: Male rödd - Karl" alt="Use This Voice: Male rödd - Karl"> </h2>
+	 
+
+	 
+	</center>
+	<div class="story_top">
+		
+		
+	</div>
+	<div class="text">
+		 <center>  <div style = "font-size: 75%;">Hlustaðu á dæmi</div> <audio controls="controls" style="width: 90%;  vertical-align: middle;"><source src='/php_files/egar__arft_a_413.mp3'></audio></a></center><br />Þegar þú þarft að raða stórum og flóknum texta, breyta því í hljóðskrá eða hljóðrit, geturðu alltaf átt við netþjónustu - readloud.net. Besta kerfið með sjálfvirkum textaritum mun gera þér kleift að umbreyta. The mynda mp3 skrá er hægt að hlusta á netinu og til að vista. Röddin hljómar mjög eðlilegt og er í raun ekki frábrugðin lifandi röddarmyndinni.
+		
+	</div>
+	<div class="category grey">
+	
+	<!--
+		<center><a href="https://readloud.net/icelandic/31-male-rodd-karl.html" title="Use This Voice: Male rödd - Karl alt="Use This Voice: Male rödd - Karl" class="btn"><img src="/tts_online_service_002.png" height="26" title="Use This Voice: Male rödd - Karl" alt="Use This Voice: Male rödd - Karl"></a></center>
+		-->
+	</div>
+	
+	
+	<div class="story_tools">
+		<div class="story_tools_in">
+			<a href="https://readloud.net/icelandic/31-male-rodd-karl.html"  title="Use this voice: Male rödd - Karl" alt="Use this voice: Male rödd - Karl" class="btn">Male rödd - Karl</a>
+		
+			<div class="rate">
+				<div class="rate_stars"><div id='ratig-layer-31'>
+	<div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:60%;">60</li>
+		<li><a href="#" title="Useless" class="r1-unit" onclick="doRate('1', '31'); return false;">1</a></li>
+		<li><a href="#" title="Poor" class="r2-unit" onclick="doRate('2', '31'); return false;">2</a></li>
+		<li><a href="#" title="Fair" class="r3-unit" onclick="doRate('3', '31'); return false;">3</a></li>
+		<li><a href="#" title="Good" class="r4-unit" onclick="doRate('4', '31'); return false;">4</a></li>
+		<li><a href="#" title="Excellent" class="r5-unit" onclick="doRate('5', '31'); return false;">5</a></li>
+		</ul>
+	</div>
+</div></div>
+				
+				
+				
+			</div>
+		
+		
+		</div>
+		
+		<ul class="meta grey">
+			<li class="meta_author" title="Author">
+				<svg class="icon icon-author"><use xlink:href="#icon-author"></use></svg>
+			</li>
+			<li class="meta_coms" title="Comments: 2"><a href="https://readloud.net/icelandic/31-male-rodd-karl.html#comment"><svg class="icon icon-coms"><use xlink:href="#icon-coms"></use></svg>2</a></li>
+			<li class="meta_views" title="Views: 8 963"><svg class="icon icon-view"><use xlink:href="#icon-view"></use></svg>8 963</li>
+		</ul>
+	</div>
+</article>
+</div>
+							</section>
+							
+						</div>
+						<aside class="str_right" id="rightside">
+<br>
+<script async type="text/javascript">		
+			function copyToClipboard(element) {
+  var $temp = $("<input>");
+  $("body").append($temp);
+  $temp.val($(element).text()).select();
+  document.execCommand("copy");
+  $temp.remove();
+}
+</script>
+
+			
+<center>
+
+<!--
+Support ReadLoud by BTC
+<br>
+<a href="bitcoin:1GgCvZEUehynS49Ep9MqEFQP9XRgnETHWN?message=main&time=1652892374" title="Support ReadLoud by BTC"><img src="/images/qrcode.png" style=" "alt="Support ReadLoud by BTC" title="Support ReadLoud by BTC"></a>	<p id="p1">1GgCvZEUehynS49Ep9MqEFQP9XRgnETHWN</p>
+<button style=" width:145px;" onclick="copyToClipboard('#p1')">copy to clipboard</button>	
+-->
+
+<script async type="text/javascript">
+	atOptions = {
+		'key' : '0c622628a40223351224c53d40ea18e1',
+		'format' : 'iframe',
+		'height' : 600,
+		'width' : 160,
+		'params' : {}
+	};
+</script>
+<script async type="text/javascript" src="//bedsidemeasuring.com/0c622628a40223351224c53d40ea18e1/invoke.js"></script>
+
+</center>
+
+
+
+	<!-- Popular, similar, discussed -->
+	<div class="block">
+
+		<div class="tab-content">
+			
+			
+
+		</div>
+	</div>
+	<!-- / Popular, similar, discussed -->
+	<div class="block_sep"></div>
+
+
+	<!-- Banner 300X500 -->
+	 
+	<div class="block">
+		<div class="banner">
+	<!--		 <img src="/templates/voicedtext/images/tmp/banner_300x500.png" alt=""> -->
+		</div>
+	</div>
+	
+	<!-- / Banner 300X500 -->
+
+
+</aside>
+						<div class="rightside_bg"></div>
+						
+<center>	
+<!--					
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7930471424631469"
+     crossorigin="anonymous"></script>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7930471424631469"
+     data-ad-slot="6965004340"
+     data-ad-format="vertical"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+-->
+
+
+</center>						
+					</div>
+					
+	<div style = "
+    width: 67.74%; border-bottom:  1px solid #e7e7e7;">				
+					
+							
+					
+					<h5 style =" margin:20px;  opacity: .5;">
+ &nbsp; The service provides an opportunity to voice any of your texts, including articles, reports, separate chapters or entire book in a sequence (no more than 30,000 characters at a time). <br>
+ &nbsp; The name of the mp3 file is formed from the first 20 characters of the text. <br>
+ &nbsp; Save the generated mp3 file to your device for storing and future use offline. <br>
+  &nbsp; Different languages ​​and voices are available! <br> 
+ &nbsp; Insert your text in this field and test to voice it!<br>
+  &nbsp; <a href='https://library.land'>
+You can voice big Library of any books</a> and listen them! <br>
+</h5> 
+					
+					
+				
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+					<footer id="footer">
+						
+
+<ul class="foot_menu">
+
+
+	<li>
+		<b data-toggle="collapse" data-target="#fmenu_3" aria-expanded="false" class="collapsed">
+			<i></i> English & French
+		</b>
+		<div class="collapse" id="fmenu_3">
+		<nav >
+	
+<a href="https://readloud.net/english/">English </a>
+	<a href="https://readloud.net/english/american/"> &nbsp; American</a>
+	
+	<a href="https://readloud.net/english/australian/"> &nbsp; Australian</a>
+	
+	<a href="https://readloud.net/english/welsh/"> &nbsp; Welsh </a>
+	
+<a href="https://readloud.net/english/british/"> &nbsp; British</a>
+	
+	
+	&nbsp; <a href="https://readloud.net/french/">French </a>
+	<a href="https://readloud.net/french/canadian/"> &nbsp; Canadian </a>
+	
+
+	
+
+	
+
+	</nav>
+		</div>
+	</li>
+	
+		<li>
+		<b data-toggle="collapse" data-target="#fmenu_1" aria-expanded="false" class="collapsed">
+			<i></i> Spanish & Portuguese
+		</b>
+		<div class="collapse" id="fmenu_1">
+		<nav >
+
+
+	<a href="https://readloud.net/spanish/">Spanish </a>
+	<a href="https://readloud.net/spanish/castilian/"> &nbsp; Castilian </a>
+	
+	&nbsp; <a href="https://readloud.net/portuguese/">Portuguese </a>
+	<a href="https://readloud.net/portuguese/brasilian/"> &nbsp; Brasilian </a>
+	
+
+	
+
+	</nav>
+		</div>
+	</li>
+	
+	<li>
+		<b data-toggle="collapse" data-target="#fmenu_5" aria-expanded="false" class="collapsed">
+			<i></i> Rest of Voices
+		</b>
+		<div class="collapse" id="fmenu_5">
+			<nav>
+			<a href="https://readloud.net/italian/">Italian </a>
+	
+	<a href="https://readloud.net/german/">German </a>
+	
+	<a href="https://readloud.net/russian/">Russian </a>
+	
+ <a href="https://readloud.net/norwegian/">Norwegian </a>
+	
+	<a href="https://readloud.net/danish/">Danish </a>
+	
+	<a href="https://readloud.net/turkish/">Turkish </a>
+	
+	<a href="https://readloud.net/icelandic/">Icelandic </a>
+	
+	<a href="https://readloud.net/swedish/">Swedish </a>
+	
+	<a href="https://readloud.net/dutch/">Dutch </a>
+	
+	<a href="https://readloud.net/polish/">Polish </a>
+			</nav>
+		</div>
+	</li>
+</ul>
+						
+
+
+<div class="footer grey">
+	<div class="copyright">
+			  
+	</div>
+	<div class="ca"  >
+		<span><svg class="icon icon-ca"><use xlink:href="#icon-ca"></use></svg></span>
+		<div>Design <b>Centroarts</b></div>
+	</div>
+</div>
+					</footer>
+				</div>
+			</div>
+			
+<script async type="text/javascript">		
+			function copyToClipboard(element) {
+  var $temp = $("<input>");
+  $("body").append($temp);
+  $temp.val($(element).text()).select();
+  document.execCommand("copy");
+  $temp.remove();
+}
+</script>
+
+			
+<center>
+<br>
+Support ReadLoud by BTC
+<br>
+<a href="bitcoin:1GgCvZEUehynS49Ep9MqEFQP9XRgnETHWN?message=main&time=1652892374" title="Support ReadLoud by BTC"><img src="/images/qrcode.png" style=" "alt="Support ReadLoud by BTC" title="Support ReadLoud by BTC"></a>	<p id="p1">1GgCvZEUehynS49Ep9MqEFQP9XRgnETHWN</p>
+<button style=" width:145px;" onclick="copyToClipboard('#p1')">copy to clipboard</button>	
+
+</center><div class="foot grey">
+	<div class="soc_links">
+		<b class="title"> 
+	 Axpoc Co. © 2019 - 2025</b>
+	</div>
+	<ul class="counters">
+		<li>
+			
+		</li>
+		<li>
+			 
+		</li>
+		<li>
+			
+			<b class="title">   readloud.net @ gmail.com</b>
+		</li>
+		
+	</ul>
+</div>
+		</div>
+	</div>
+	<script>
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '3210520107ae7aa267c49524046c2f117d2219c5';
+var dle_group      = 5;
+var dle_skin       = 'voicedtext';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = ["Yes", "No", "Enter", "Cancel", "Save", "Delete", "Loading. Please, wait..."];
+var menu_short     = 'Quick edit';
+var menu_full      = 'Full edit';
+var menu_profile   = 'View profile';
+var menu_send      = 'Send message';
+var menu_uedit     = 'Admin Center';
+var dle_info       = 'Information';
+var dle_confirm    = 'Confirm';
+var dle_prompt     = 'Enter the information';
+var dle_req_field  = 'Please fill in all the required fields';
+var dle_del_agree  = 'Are you sure you want to delete it? This action cannot be undone';
+var dle_spam_agree = 'Are you sure you want to mark the user as a spammer? This will remove all his comments';
+var dle_complaint  = 'Enter the text of your complaint to the Administration:';
+var dle_big_text   = 'Highlighted section of text is too large.';
+var dle_orfo_title = 'Enter a comment to the detected error on the page for Administration ';
+var dle_p_send     = 'Send';
+var dle_p_send_ok  = 'Notification has been sent successfully ';
+var dle_save_ok    = 'Changes are saved successfully. Refresh the page?';
+var dle_reply_title= 'Reply to the comment';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Delete article';
+var dle_sub_agree  = 'Do you really want to subscribe to this article’s comments?';
+var dle_captcha_type  = '0';
+var allow_dle_delete_news   = false;
+var dle_search_delay   = false;
+var dle_search_value   = '';
+jQuery(function($){
+FastSearch();
+});
+//-->
+</script>
+	<script src="/templates/voicedtext/js/lib.js"></script>
+	<script src="/templates/voicedtext/js/svgxuse.min.js"></script>
+	<script>
+		jQuery(function($){
+			$.get("/templates/voicedtext/images/sprite.svg", function(data) {
+			  var div = document.createElement("div");
+			  div.innerHTML = new XMLSerializer().serializeToString(data.documentElement);
+			  document.body.insertBefore(div, document.body.childNodes[0]);
+			});
+		});
+	</script>
+	
+
+
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137378599-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-137378599-1');
+</script>
+
+<!--
+<div id="bg_popup">
+  <div id="popup">
+  <a  id="setCookie" class="close" href="#" title="Close" onclick="document.getElementById('bg_popup').style.display='none'; return false;"></a>
+
+
+<script async type="text/javascript">
+	atOptions = {
+		'key' : '11c977bca7a3f42b724a1668d3956ef3',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript"  async src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.hiprofitnetworks.com/11c977bca7a3f42b724a1668d3956ef3/invoke.js"></scr' + 'ipt>');
+</script>
+
+
+
+
+</div>
+</div>
+
+
+
+<script async type="text/javascript">
+$(document).ready(function(){
+$("#setCookie").click(function () {
+$.cookie("popup00", "", { expires: 30, path: '/' });
+$("#bg_popup").hide();
+});
+ 
+if ( $.cookie("popup00") == null )
+{
+setTimeout(function(){
+$("#bg_popup").show();
+}, 4000)
+}
+else { $("#bg_popup").hide();
+}
+});
+    </script>
+-->
+
+
+
+
+
+
+
+
+
+<!--
+<center>
+<div id="overlay5" style ="		position: fixed;		bottom: 1px !important;			
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, 0%);	display: none;		width: auto;		height: auto;		z-index: 999;		-webkit-animation: fade 2.6s;		-moz-animation: fade 2.6s;		animation: fade 2.6s;		padding:0px;">
+	
+<span class="spasibo" onclick="document.getElementById('overlay5').style.display='none';$.cookie('hiderolikmodal', true, {expires: 1, path: '/'});" style="display: flex; font-size: 30px;  justify-content: center;  outline: none; position: absolute; left: 50%; transform: translate(-50%, 0%); top: -36px; -webkit-tap-highlight-color: transparent;  cursor:pointer;">×</span>
+ 
+ <a target="_blank" style = "
+  font-family: 'Rubik One', sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+  background: rgba(255, 255, 255, .1);
+  display: table;
+  margin: 0px;
+  color: white;
+  border-radius: 5px;
+  mix-blend-mode: multiply;
+  padding: 5px 0px;
+"href="https://www.paypal.com/paypalme/readloud">
+ <img src="/images/ppp4.png"  />
+ </a>
+
+	
+</div>
+	</center>
+	 <script async type="text/javascript">
+	jQuery.cookie=function(b,j,m){if(typeof j!="undefined"){m=m||{};if(j===null){j="";m.expires=-1}var e="";if(m.expires&&(typeof m.expires=="number"||m.expires.toUTCString)){var f;if(typeof m.expires=="number"){f=new Date();f.setTime(f.getTime()+(m.expires*60*60*1000))}else{f=m.expires}e="; expires="+f.toUTCString()}var l=m.path?"; path="+(m.path):"";var g=m.domain?"; domain="+(m.domain):"";var a=m.secure?"; secure":"";document.cookie=[b,"=",encodeURIComponent(j),e,l,g,a].join("")}else{var d=null;if(document.cookie&&document.cookie!=""){var k=document.cookie.split(";");for(var h=0;h<k.length;h++){var c=jQuery.trim(k[h]);if(c.substring(0,b.length+1)==(b+"=")){d=decodeURIComponent(c.substring(b.length+1));break}}}return d}};
+	  </script>
+
+     <script async type="text/javascript">
+        $(function() {
+            // Проверяем запись в куках о посещении
+            // Если запись есть - ничего не делаем
+            if (!$.cookie('hiderolikmodal')) {
+           // если cookie не установлено появится окно
+           // с задержкой 10 секунд
+            var delay_popup = 2000;
+            setTimeout("document.getElementById('overlay5').style.display='block'", delay_popup);
+            }
+            // Запоминаем в куках, что посетитель уже заходил
+            
+        });
+        </script>
+
+
+
+-->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137378599-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-137378599-1');
+</script>
+
+
+<script>
+
+function checkConfirm() {
+
+    if($("#cc067530a2906bec30b39168fdf0_CH2").is(":checked")) {
+        return true;
+    }
+      window.alert('Need confirmation that you are not a robot, check the appropriate box.');
+    return false;
+
+}
+</script>
+
+
+
+	<center>183</center>	
+	
+</body>
+</html>
+
+<!-- DataLife Engine Copyright SoftNews Media Group (http://dle-news.ru) -->

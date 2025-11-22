@@ -1,0 +1,201 @@
+<film copyable="0" duration="35.1" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[#STOPLOGOKIDS]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="201" lock="N" index="0" color="16777215" guid="A443B321-DF6B-4E2C-5CF4-4DCEF8AAD737">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>ugc.6271fc5.jpg</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6449458.excited.xml</action>
+      <head id="PROP4" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>312.7618422</x>
+      <y>222.1972865</y>
+      <xscale>1.077277</xscale>
+      <yscale>1.077277</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE1" adelay="327" lock="N" index="1" color="16777215" guid="D697B8F6-31A7-CC37-1B6E-9CBBE8F399BD">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>ugc.6271fc5.jpg</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6449458.xarms.xml</action>
+      <head id="PROP5" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>312.7922929</x>
+      <y>222.1972865</y>
+      <xscale>1.077277</xscale>
+      <yscale>1.077277</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE2" adelay="243" lock="N" index="2" color="16777215" guid="1856293D-2DF2-D48C-BA00-8A27C3AA5B6F">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>ugc.6271fc5.jpg</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6449458.xarms.xml</action>
+      <head id="PROP6" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>312.7922929</x>
+      <y>222.1972865</y>
+      <xscale>1.077277</xscale>
+      <yscale>1.077277</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE3" adelay="42" lock="Y" index="3" color="16777215" guid="13385671-90A1-DEBC-BDF0-E0D7E9D675B7">
+    <bg id="BG130" index="0">
+      <file>ugc.6271fc5.jpg</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6449458.xarms.xml</action>
+      <head id="PROP7" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>312.7922929</x>
+      <y>222.1972865</y>
+      <xscale>1.077277</xscale>
+      <yscale>1.077277</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE4" adelay="30" lock="Y" index="4" color="16777215" guid="19A2F0C5-1C58-A0CB-731A-4D7F49513837">
+    <bg id="BG130" index="0">
+      <file>ugc.6271fc5.jpg</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6449458.xarms.xml</action>
+      <head id="PROP8" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>312.7922929</x>
+      <y>222.1972865</y>
+      <xscale>1.077277</xscale>
+      <yscale>1.077277</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND1" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.00aba7c.mp3</sfile>
+    <start>1</start>
+    <stop>201</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Stop LogoKids, This is Not a Logo Editing Kids Is Not Allowed and Posting On YouTube Age Idiot 13 Years Old]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND3" index="1" track="0" vol="1" tts="1">
+    <sfile>ugc.ba1bc2b.mp3</sfile>
+    <start>202</start>
+    <stop>528</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[And So, I'm Making 15 Years Old Logo Editing Stuff, Also, I'm Hate a Logo Kids! I'm Hate a Piss Off Logo Kids, I'm Just Watching To Video Logo Kids Rant On You!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND5" index="2" track="0" vol="1" tts="1">
+    <sfile>ugc.668cc1b.mp3</sfile>
+    <start>529</start>
+    <stop>771</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Logo Kids On YouTube And Posting and Uploading And Making a Bad and Very Bad Videos On Me, And We Will Getting a Community Guidelines Strikes You What That!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND7" index="3" track="0" vol="1" tts="1">
+    <sfile>ugc.5204631.mp3</sfile>
+    <start>772</start>
+    <stop>810</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Stop Logo Kids!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND1,~~~AVATOR131,SCENE0~~~</linkage>
+  <linkage>SOUND3,~~~AVATOR131,SCENE1~~~</linkage>
+  <linkage>SOUND5,~~~AVATOR131,SCENE2~~~</linkage>
+  <linkage>SOUND7,~~~AVATOR131,SCENE3~~~</linkage>
+</film>

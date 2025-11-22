@@ -1,0 +1,1237 @@
+<film copyable="0" duration="42.8" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Big Childish Bob Joins Szymon's House/GD By Szymon]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[Community_Library,splaat_icecreamjaxxie]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="84" lock="N" index="0" color="16777215" guid="2BD976FF-5A56-1B39-39CB-6E2DB17AA1BA" combgId="custom.cbg_bedroom">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_bedroom_BG65" index="0">
+      <file>custom.bedroom_bg.swf</file>
+    </bg>
+    <char id="AVATOR294" index="4" raceCode="1">
+      <action face="-1" motionface="1">ugc.b31aa9e.stand.xml</action>
+      <x>171.2558494</x>
+      <y>210.5111087</y>
+      <xscale>1.4919386</xscale>
+      <yscale>1.4919386</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP124" index="3" attached="Y">
+      <file>custom.bedroom_blanket_bed.swf</file>
+      <x>434</x>
+      <y>251</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP126" index="2" attached="Y">
+      <file>custom.bedroom_lamp.swf</file>
+      <x>422</x>
+      <y>207</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP127" index="1" attached="Y">
+      <file>custom.bedroom_drawer02.swf</file>
+      <x>422.6</x>
+      <y>280.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE1" adelay="39" lock="Y" index="1" color="16777215" guid="4233FBF8-A55C-35F5-5D7F-D336F8F24D2E">
+    <bg id="cbg_bedroom_BG65" index="0">
+      <file>custom.bedroom_bg.swf</file>
+    </bg>
+    <char id="AVATOR294" index="4" raceCode="1">
+      <action face="-1" motionface="1">ugc.b31aa9e.stand.xml</action>
+      <head id="PROP33" raceCode="1">
+        <file>ugc.b31aa9e.head.head_happy.xml</file>
+      </head>
+      <x>171.2691506</x>
+      <y>210.5111087</y>
+      <xscale>1.4919386</xscale>
+      <yscale>1.4919386</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP127" index="1" attached="Y">
+      <file>custom.bedroom_drawer02.swf</file>
+      <x>422.6</x>
+      <y>280.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP126" index="2" attached="Y">
+      <file>custom.bedroom_lamp.swf</file>
+      <x>422</x>
+      <y>207</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP124" index="3" attached="Y">
+      <file>custom.bedroom_blanket_bed.swf</file>
+      <x>434</x>
+      <y>251</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE2" adelay="33" lock="Y" index="2" color="16777215" guid="BC3DBEC1-B388-9B8F-8BB5-5B47CC32A72B">
+    <bg id="cbg_bedroom_BG65" index="0">
+      <file>custom.bedroom_bg.swf</file>
+    </bg>
+    <char id="AVATOR294" index="4" raceCode="1">
+      <action face="-1" motionface="1">ugc.b31aa9e.stand.xml</action>
+      <head id="PROP37" raceCode="1">
+        <file>ugc.b31aa9e.head.head_happy.xml</file>
+      </head>
+      <x>171.2691506</x>
+      <y>210.5111087</y>
+      <xscale>1.4919386</xscale>
+      <yscale>1.4919386</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR310" index="5" raceCode="0">
+      <action face="-1,-1" motionface="1">Community_Library.splaat_icecreamjaxxie.angry.swf</action>
+      <x>809.3116892,336.5116892</x>
+      <y>255.3417929,249</y>
+      <xscale>0.7932828,0.7932828</xscale>
+      <yscale>0.7932828,0.7932828</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="PROP127" index="1" attached="Y">
+      <file>custom.bedroom_drawer02.swf</file>
+      <x>422.6</x>
+      <y>280.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP126" index="2" attached="Y">
+      <file>custom.bedroom_lamp.swf</file>
+      <x>422</x>
+      <y>207</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP124" index="3" attached="Y">
+      <file>custom.bedroom_blanket_bed.swf</file>
+      <x>434</x>
+      <y>251</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="AVATOR310" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE3" adelay="96" lock="N" index="3" color="16777215" guid="4348BA29-05A7-B470-F470-56174A025AD6">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_bedroom_BG65" index="0">
+      <file>custom.bedroom_bg.swf</file>
+    </bg>
+    <char id="AVATOR294" index="4" raceCode="1">
+      <action face="-1" motionface="1">ugc.b31aa9e.excited.xml</action>
+      <head id="PROP43" raceCode="1">
+        <file>ugc.b31aa9e.head.head_angry.xml</file>
+      </head>
+      <x>171.2691506</x>
+      <y>210.5111087</y>
+      <xscale>1.4919386</xscale>
+      <yscale>1.4919386</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR310" index="5" raceCode="0">
+      <action face="-1" motionface="-1">Community_Library.splaat_icecreamjaxxie.shocked.swf</action>
+      <x>336.5116892</x>
+      <y>249</y>
+      <xscale>0.7932828</xscale>
+      <yscale>0.7932828</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP127" index="1" attached="Y">
+      <file>custom.bedroom_drawer02.swf</file>
+      <x>422.6</x>
+      <y>280.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP126" index="2" attached="Y">
+      <file>custom.bedroom_lamp.swf</file>
+      <x>422</x>
+      <y>207</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP124" index="3" attached="Y">
+      <file>custom.bedroom_blanket_bed.swf</file>
+      <x>434</x>
+      <y>251</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="7">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT5" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="earthquake" type="EARTHQUAKE"/>
+      <x>322</x>
+      <y>179</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE4" adelay="63" lock="Y" index="4" color="16777215" guid="2A5BA087-5823-AB1A-923B-CC93BFD036D8">
+    <bg id="cbg_bedroom_BG65" index="0">
+      <file>custom.bedroom_bg.swf</file>
+    </bg>
+    <char id="AVATOR294" index="4" raceCode="1">
+      <action face="-1" motionface="1">ugc.b31aa9e.excited.xml</action>
+      <head id="PROP59" raceCode="1">
+        <file>ugc.b31aa9e.head.head_angry.xml</file>
+      </head>
+      <x>171.2691506</x>
+      <y>210.5111087</y>
+      <xscale>1.4919386</xscale>
+      <yscale>1.4919386</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR310" index="5" raceCode="0">
+      <action face="1,1" motionface="-1">Community_Library.splaat_icecreamjaxxie.crying.swf</action>
+      <x>336.5432828,775.25</x>
+      <y>252.6666667,256.025</y>
+      <xscale>0.7932828,0.7932828</xscale>
+      <yscale>0.7932828,0.7932828</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="PROP127" index="1" attached="Y">
+      <file>custom.bedroom_drawer02.swf</file>
+      <x>422.6</x>
+      <y>280.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP126" index="2" attached="Y">
+      <file>custom.bedroom_lamp.swf</file>
+      <x>422</x>
+      <y>207</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP124" index="3" attached="Y">
+      <file>custom.bedroom_blanket_bed.swf</file>
+      <x>434</x>
+      <y>251</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="1" target="AVATOR310" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE5" adelay="12" lock="Y" index="5" color="16777215" guid="CBA6DA2D-61CD-A188-4376-7F7B67366021">
+    <bg id="cbg_bedroom_BG65" index="0">
+      <file>custom.bedroom_bg.swf</file>
+    </bg>
+    <char id="AVATOR294" index="4" raceCode="1">
+      <action face="-1" motionface="1">ugc.b31aa9e.excited.xml</action>
+      <head id="PROP63" raceCode="1">
+        <file>ugc.b31aa9e.head.head_angry.xml</file>
+      </head>
+      <x>171.2691506</x>
+      <y>210.5111087</y>
+      <xscale>1.4919386</xscale>
+      <yscale>1.4919386</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP127" index="1" attached="Y">
+      <file>custom.bedroom_drawer02.swf</file>
+      <x>422.6</x>
+      <y>280.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP126" index="2" attached="Y">
+      <file>custom.bedroom_lamp.swf</file>
+      <x>422</x>
+      <y>207</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP124" index="3" attached="Y">
+      <file>custom.bedroom_blanket_bed.swf</file>
+      <x>434</x>
+      <y>251</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE6" adelay="96" lock="Y" index="6" color="16777215" guid="8C9C7D55-9B28-FDCB-9B0B-185E02DAF95F">
+    <bg id="cbg_bedroom_BG65" index="0">
+      <file>custom.bedroom_bg.swf</file>
+    </bg>
+    <char id="AVATOR294" index="4" raceCode="1">
+      <action face="-1" motionface="1">ugc.b31aa9e.excited.xml</action>
+      <head id="PROP67" raceCode="1">
+        <file>ugc.b31aa9e.head.head_angry.xml</file>
+      </head>
+      <x>171.2691506</x>
+      <y>210.5111087</y>
+      <xscale>1.4919386</xscale>
+      <yscale>1.4919386</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP127" index="1" attached="Y">
+      <file>custom.bedroom_drawer02.swf</file>
+      <x>422.6</x>
+      <y>280.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP126" index="2" attached="Y">
+      <file>custom.bedroom_lamp.swf</file>
+      <x>422</x>
+      <y>207</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP124" index="3" attached="Y">
+      <file>custom.bedroom_blanket_bed.swf</file>
+      <x>434</x>
+      <y>251</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE7" adelay="6" lock="Y" index="7" color="16777215" guid="EC36EA9E-23CF-5B87-E059-A0AB3B3B7D44">
+    <bg id="cbg_bedroom_BG65" index="0">
+      <file>custom.bedroom_bg.swf</file>
+    </bg>
+    <char id="AVATOR294" index="4" raceCode="1">
+      <action face="-1,-1" motionface="-1">ugc.b31aa9e.excited.xml</action>
+      <head id="PROP71" raceCode="1">
+        <file>ugc.b31aa9e.head.head_angry.xml</file>
+      </head>
+      <x>171.2691506,172.475</x>
+      <y>210.5111087,327.5111087</y>
+      <xscale>1.4919386,5.1466471</xscale>
+      <yscale>1.4919386,0.2294906</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="PROP127" index="1" attached="Y">
+      <file>custom.bedroom_drawer02.swf</file>
+      <x>422.6</x>
+      <y>280.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP126" index="2" attached="Y">
+      <file>custom.bedroom_lamp.swf</file>
+      <x>422</x>
+      <y>207</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP124" index="3" attached="Y">
+      <file>custom.bedroom_blanket_bed.swf</file>
+      <x>434</x>
+      <y>251</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="2" target="AVATOR294" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE8" adelay="6" lock="Y" index="8" color="16777215" guid="6083B879-02E7-63C2-4B31-D4810AE787D2">
+    <bg id="cbg_bedroom_BG65" index="0">
+      <file>custom.bedroom_bg.swf</file>
+    </bg>
+    <char id="AVATOR294" index="4" raceCode="1">
+      <action face="-1,-1" motionface="-1">ugc.b31aa9e.excited.xml</action>
+      <head id="PROP76" raceCode="1">
+        <file>ugc.b31aa9e.head.head_angry.xml</file>
+      </head>
+      <x>172.475,198.4333333</x>
+      <y>327.5111087,-107.1</y>
+      <xscale>5.1466471,0.2823329</xscale>
+      <yscale>0.2294906,1.6196538</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="PROP127" index="1" attached="Y">
+      <file>custom.bedroom_drawer02.swf</file>
+      <x>422.6</x>
+      <y>280.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP126" index="2" attached="Y">
+      <file>custom.bedroom_lamp.swf</file>
+      <x>422</x>
+      <y>207</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP124" index="3" attached="Y">
+      <file>custom.bedroom_blanket_bed.swf</file>
+      <x>434</x>
+      <y>251</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="3" target="AVATOR294" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE9" adelay="18" lock="Y" index="9" color="16777215" guid="96772280-1563-7AB9-DF44-C78B3488867B">
+    <bg id="cbg_bedroom_BG65" index="0">
+      <file>custom.bedroom_bg.swf</file>
+    </bg>
+    <char id="AVATOR294" index="4" raceCode="1">
+      <action face="-1" motionface="-1">ugc.b31aa9e.excited.xml</action>
+      <head id="PROP83" raceCode="1">
+        <file>ugc.b31aa9e.head.head_angry.xml</file>
+      </head>
+      <x>198.4333333</x>
+      <y>-107.1</y>
+      <xscale>0.2823329</xscale>
+      <yscale>1.6196538</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP127" index="1" attached="Y">
+      <file>custom.bedroom_drawer02.swf</file>
+      <x>422.6</x>
+      <y>280.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP126" index="2" attached="Y">
+      <file>custom.bedroom_lamp.swf</file>
+      <x>422</x>
+      <y>207</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP124" index="3" attached="Y">
+      <file>custom.bedroom_blanket_bed.swf</file>
+      <x>434</x>
+      <y>251</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE10" adelay="27" lock="Y" index="10" color="16777215" guid="BFF6219C-E80E-7CFF-FB53-D8F83D442966" combgId="custom.cbg_living_room">
+    <bg id="cbg_living_room_BG2" index="0">
+      <file>custom.living_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR294" index="4" raceCode="1">
+      <action face="-1" motionface="1">ugc.b31aa9e.excited.xml</action>
+      <head id="PROP89" raceCode="1">
+        <file>ugc.b31aa9e.head.head_angry.xml</file>
+      </head>
+      <x>198.4333333</x>
+      <y>-107.1</y>
+      <xscale>0.2823329</xscale>
+      <yscale>1.6196538</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_living_room_PROP2" index="3" attached="Y">
+      <file>custom.msp_TV_version.msp_TV_version_living_room_tv01.swf</file>
+      <x>76.6</x>
+      <y>283</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_room_PROP1" index="2" attached="Y">
+      <file>custom.living_room_sofa.swf</file>
+      <x>369.6</x>
+      <y>250</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_room_PROP0" index="1" attached="Y">
+      <file>custom.msp_living_rm_door.msp_living_rm_door_living_room_door_close.swf</file>
+      <x>292.6</x>
+      <y>129</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE11" adelay="6" lock="Y" index="11" color="16777215" guid="50122B0B-5BC2-5708-F75A-B06BBFF4898F">
+    <bg id="cbg_living_room_BG2" index="0">
+      <file>custom.living_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR294" index="4" raceCode="1">
+      <action face="-1,-1" motionface="-1">ugc.b31aa9e.excited.xml</action>
+      <head id="PROP157" raceCode="1">
+        <file>ugc.b31aa9e.head.head_angry.xml</file>
+      </head>
+      <x>198.4333333,277.3833333</x>
+      <y>-107.1,251.65</y>
+      <xscale>0.2823329,2.1075895</xscale>
+      <yscale>1.6196538,1.0607235</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="cbg_living_room_PROP0" index="1" attached="Y">
+      <file>custom.msp_living_rm_door.msp_living_rm_door_living_room_door_close.swf</file>
+      <x>292.6</x>
+      <y>129</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_room_PROP1" index="2" attached="Y">
+      <file>custom.living_room_sofa.swf</file>
+      <x>369.6</x>
+      <y>250</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_room_PROP2" index="3" attached="Y">
+      <file>custom.msp_TV_version.msp_TV_version_living_room_tv01.swf</file>
+      <x>76.6</x>
+      <y>283</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="4" target="AVATOR294" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE12" adelay="6" lock="Y" index="12" color="16777215" guid="22BDB59C-6ADA-C1BA-E821-40FD0CB70131">
+    <bg id="cbg_living_room_BG2" index="0">
+      <file>custom.living_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR294" index="4" raceCode="1">
+      <action face="-1,-1" motionface="-1">ugc.b31aa9e.xarms.xml</action>
+      <head id="PROP162" raceCode="1">
+        <file>ugc.b31aa9e.head.head_angry.xml</file>
+      </head>
+      <x>277.3833333,278.725</x>
+      <y>251.65,251.65</y>
+      <xscale>2.1075895,1.0836198</xscale>
+      <yscale>1.0607235,1.0607235</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="cbg_living_room_PROP0" index="1" attached="Y">
+      <file>custom.msp_living_rm_door.msp_living_rm_door_living_room_door_close.swf</file>
+      <x>292.6</x>
+      <y>129</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_room_PROP1" index="2" attached="Y">
+      <file>custom.living_room_sofa.swf</file>
+      <x>369.6</x>
+      <y>250</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_room_PROP2" index="3" attached="Y">
+      <file>custom.msp_TV_version.msp_TV_version_living_room_tv01.swf</file>
+      <x>76.6</x>
+      <y>283</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="5" target="AVATOR294" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE13" adelay="48" lock="Y" index="13" color="16777215" guid="641FF245-CBC0-FA22-C727-3FF14CA99EE6">
+    <bg id="cbg_living_room_BG2" index="0">
+      <file>custom.living_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR294" index="4" raceCode="1">
+      <action face="-1" motionface="-1">ugc.b31aa9e.xarms.xml</action>
+      <head id="PROP169" raceCode="1">
+        <file>ugc.b31aa9e.head.head_angry.xml</file>
+      </head>
+      <x>278.725</x>
+      <y>251.65</y>
+      <xscale>1.0836198</xscale>
+      <yscale>1.0607235</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_living_room_PROP0" index="1" attached="Y">
+      <file>custom.msp_living_rm_door.msp_living_rm_door_living_room_door_close.swf</file>
+      <x>292.6</x>
+      <y>129</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_room_PROP1" index="2" attached="Y">
+      <file>custom.living_room_sofa.swf</file>
+      <x>369.6</x>
+      <y>250</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_room_PROP2" index="3" attached="Y">
+      <file>custom.msp_TV_version.msp_TV_version_living_room_tv01.swf</file>
+      <x>76.6</x>
+      <y>283</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE14" adelay="60" lock="N" index="14" color="16777215" guid="D8AAC58A-2B58-F263-3D41-3C37833836A4">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_living_room_BG2" index="0">
+      <file>custom.living_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR294" index="4" raceCode="1">
+      <action face="-1" motionface="1">ugc.b31aa9e.xarms.xml</action>
+      <head id="PROP175" raceCode="1">
+        <file>ugc.b31aa9e.head.head_angry.xml</file>
+      </head>
+      <x>278.725</x>
+      <y>251.65</y>
+      <xscale>1.0836198</xscale>
+      <yscale>1.0607235</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR544" index="5" raceCode="1">
+      <action face="1,1" motionface="1">ugc.2dea75b.walk.xml</action>
+      <head id="PROP183" raceCode="1">
+        <file>ugc.2dea75b.head.head_angry.xml</file>
+      </head>
+      <x>651.4178945,377.8178945</x>
+      <y>271.5,259.8</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="cbg_living_room_PROP0" index="1" attached="Y">
+      <file>custom.msp_living_rm_door.msp_living_rm_door_living_room_door_close.swf</file>
+      <x>292.6</x>
+      <y>129</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_room_PROP1" index="2" attached="Y">
+      <file>custom.living_room_sofa.swf</file>
+      <x>369.6</x>
+      <y>250</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_room_PROP2" index="3" attached="Y">
+      <file>custom.msp_TV_version.msp_TV_version_living_room_tv01.swf</file>
+      <x>76.6</x>
+      <y>283</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="6" target="AVATOR544" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE16" adelay="309" lock="N" index="15" color="16777215" guid="9A24D37F-6682-A42E-6473-9B721FF067EF">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_living_room_BG2" index="0">
+      <file>custom.living_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR294" index="4" raceCode="1">
+      <action face="-1" motionface="1">ugc.b31aa9e.xarms.xml</action>
+      <head id="PROP200" raceCode="1">
+        <file>ugc.b31aa9e.head.head_shocked.xml</file>
+      </head>
+      <x>278.725</x>
+      <y>251.65</y>
+      <xscale>1.0836198</xscale>
+      <yscale>1.0607235</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR544" index="5" raceCode="1">
+      <action face="1" motionface="-1">ugc.2dea75b.xarms.xml</action>
+      <head id="PROP196" raceCode="1">
+        <file>ugc.2dea75b.head.head_angry.xml</file>
+      </head>
+      <x>377.8</x>
+      <y>259.75</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_living_room_PROP0" index="1" attached="Y">
+      <file>custom.msp_living_rm_door.msp_living_rm_door_living_room_door_close.swf</file>
+      <x>292.6</x>
+      <y>129</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_room_PROP1" index="2" attached="Y">
+      <file>custom.living_room_sofa.swf</file>
+      <x>369.6</x>
+      <y>250</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_room_PROP2" index="3" attached="Y">
+      <file>custom.msp_TV_version.msp_TV_version_living_room_tv01.swf</file>
+      <x>76.6</x>
+      <y>283</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE17" adelay="57" lock="Y" index="16" color="16777215" guid="BD59B5E0-25F1-CC92-10C2-2DA358F506B5">
+    <bg id="cbg_living_room_BG2" index="0">
+      <file>custom.living_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR294" index="4" raceCode="1">
+      <action face="-1" motionface="1">ugc.b31aa9e.xarms.xml</action>
+      <head id="PROP204" raceCode="1">
+        <file>ugc.b31aa9e.head.head_shocked.xml</file>
+      </head>
+      <x>278.725</x>
+      <y>251.65</y>
+      <xscale>1.0836198</xscale>
+      <yscale>1.0607235</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR544" index="5" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.xarms.xml</action>
+      <head id="PROP205" raceCode="1">
+        <file>ugc.2dea75b.head.head_angry.xml</file>
+      </head>
+      <x>377.8</x>
+      <y>259.75</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_living_room_PROP0" index="1" attached="Y">
+      <file>custom.msp_living_rm_door.msp_living_rm_door_living_room_door_close.swf</file>
+      <x>292.6</x>
+      <y>129</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_room_PROP1" index="2" attached="Y">
+      <file>custom.living_room_sofa.swf</file>
+      <x>369.6</x>
+      <y>250</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_room_PROP2" index="3" attached="Y">
+      <file>custom.msp_TV_version.msp_TV_version_living_room_tv01.swf</file>
+      <x>76.6</x>
+      <y>283</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE18" adelay="60" lock="N" index="17" color="16777215" guid="EB9DA80A-F071-DA0A-3466-DA34DD171A86">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_living_room_BG2" index="0">
+      <file>custom.living_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR294" index="4" raceCode="1">
+      <action face="-1,-1" motionface="-1">ugc.b31aa9e.walk.xml</action>
+      <head id="PROP234" raceCode="1">
+        <file>ugc.b31aa9e.head.head_sad.xml</file>
+      </head>
+      <x>278.725,645.275</x>
+      <y>251.65,287.25</y>
+      <xscale>1.0836198,1.0836198</xscale>
+      <yscale>1.0607235,1.0607235</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <char id="AVATOR544" index="5" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.xarms.xml</action>
+      <head id="PROP210" raceCode="1">
+        <file>ugc.2dea75b.head.head_angry.xml</file>
+      </head>
+      <x>377.8</x>
+      <y>259.75</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_living_room_PROP0" index="1" attached="Y">
+      <file>custom.msp_living_rm_door.msp_living_rm_door_living_room_door_close.swf</file>
+      <x>292.6</x>
+      <y>129</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_room_PROP1" index="2" attached="Y">
+      <file>custom.living_room_sofa.swf</file>
+      <x>369.6</x>
+      <y>250</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_living_room_PROP2" index="3" attached="Y">
+      <file>custom.msp_TV_version.msp_TV_version_living_room_tv01.swf</file>
+      <x>76.6</x>
+      <y>283</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="7" target="AVATOR294" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <sound id="SOUND25" index="0" track="0" vol="1" tts="0">
+    <sfile>ugc.7f6d956.mp3</sfile>
+    <start>967</start>
+    <stop>1026</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND20" index="1" track="0" vol="1" tts="0">
+    <sfile>ugc.7f6d956.mp3</sfile>
+    <start>541</start>
+    <stop>600</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND14" index="2" track="0" vol="1" tts="0">
+    <sfile>ugc.91c3b1c.mp3</sfile>
+    <start>316</start>
+    <stop>480</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND9" index="3" track="0" vol="8" tts="0">
+    <sfile>ugc.82acffa.mp3</sfile>
+    <start>157</start>
+    <stop>252</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND10" index="4" track="1" vol="8" tts="0">
+    <sfile>ugc.82acffa.mp3</sfile>
+    <start>157</start>
+    <stop>252</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND11" index="5" track="2" vol="8" tts="0">
+    <sfile>ugc.82acffa.mp3</sfile>
+    <start>157</start>
+    <stop>252</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND1" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.596a8c7.mp3</sfile>
+    <start>1</start>
+    <stop>84</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Hmm... I'm Going To Szymon's House!]]></text>
+      <voice><![CDATA[munchkin]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND3" index="1" track="0" vol="1" tts="1">
+    <sfile>ugc.cefe574.mp3</sfile>
+    <start>85</start>
+    <stop>123</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Wow And This is So Fun!]]></text>
+      <voice><![CDATA[munchkin]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND5" index="2" track="0" vol="1" tts="1">
+    <sfile>ugc.7e08dbd.mp3</sfile>
+    <start>124</start>
+    <stop>156</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[What The Fuck Dude Do That!]]></text>
+      <voice><![CDATA[steven]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND7" index="3" track="0" vol="8" tts="1">
+    <sfile>ugc.2ef5ab3.mp3</sfile>
+    <start>157</start>
+    <stop>252</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Yes I'm Am Frick Off Now, Now Get The Fuck Out Now!]]></text>
+      <voice><![CDATA[munchkin]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND13" index="4" track="0" vol="1" tts="1">
+    <sfile>ugc.f21860b.mp3</sfile>
+    <start>253</start>
+    <stop>315</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!]]></text>
+      <voice><![CDATA[steven]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND16" index="5" track="0" vol="8" tts="1">
+    <sfile>ugc.93834fe.mp3</sfile>
+    <start>328</start>
+    <stop>423</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Come On, Come On! Listening To Start Now!]]></text>
+      <voice><![CDATA[munchkin]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND19" index="6" track="0" vol="1" tts="1">
+    <sfile>ugc.428e268.mp3</sfile>
+    <start>493</start>
+    <stop>540</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Now I'm Joined To Home Now!]]></text>
+      <voice><![CDATA[munchkin]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND22" index="7" track="0" vol="1" tts="1">
+    <sfile>ugc.db608e1.mp3</sfile>
+    <start>601</start>
+    <stop>909</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Oh My Godness! Childish Bob, How Dear You Joining To Szymon's House To You! I'm Had Not Funny To Make! That's It! You're Grounded For 1937292 Weeks and 81 Months!]]></text>
+      <voice><![CDATA[justin1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND24" index="8" track="0" vol="1" tts="1">
+    <sfile>ugc.ed0536e.mp3</sfile>
+    <start>910</start>
+    <stop>966</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Go To Your Room Right Now! And You Die!]]></text>
+      <voice><![CDATA[justin1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND17" index="9" track="1" vol="8" tts="1">
+    <sfile>ugc.93834fe.mp3</sfile>
+    <start>328</start>
+    <stop>423</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Come On, Come On! Listening To Start Now!]]></text>
+      <voice><![CDATA[munchkin]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND8" index="10" track="1" vol="8" tts="1">
+    <sfile>ugc.2ef5ab3.mp3</sfile>
+    <start>157</start>
+    <stop>252</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Yes I'm Am Frick Off Now, Now Get The Fuck Out Now!]]></text>
+      <voice><![CDATA[munchkin]]></voice>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND1,~~~AVATOR294,SCENE0~~~</linkage>
+  <linkage>SOUND3,~~~AVATOR294,SCENE1~~~</linkage>
+  <linkage>SOUND5,~~~AVATOR310,SCENE2~~~</linkage>
+  <linkage>SOUND7,~~~AVATOR294,SCENE3~~~</linkage>
+  <linkage>SOUND13,~~~AVATOR310,SCENE4~~~</linkage>
+  <linkage>SOUND16,~~~AVATOR294,SCENE6~~~</linkage>
+  <linkage>SOUND19,~~~AVATOR294,SCENE13~~~</linkage>
+  <linkage>SOUND22,~~~AVATOR544,SCENE16~~~</linkage>
+  <linkage>SOUND24,~~~AVATOR544,SCENE17~~~</linkage>
+</film>

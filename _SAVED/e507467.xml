@@ -1,0 +1,1373 @@
+<film copyable="0" duration="29.5" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Jacob Gets Punched By Szymon!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+      <color value="ffce95"/>
+      <color value="ffce95"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="18" lock="Y" index="0" color="16777215" guid="DEA81997-5E12-CFB8-DCE4-4FCAB0B4F405" combgId="custom.cbg_sittingroom">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR261" index="5" raceCode="1">
+      <action face="-1" motionface="1">ugc.6449458.stand.xml</action>
+      <head id="PROP10" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>212.154972</x>
+      <y>231.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR264" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.stand.xml</action>
+      <head id="PROP12" raceCode="1">
+        <file>ugc.2dea75b.head.head_angry.xml</file>
+      </head>
+      <x>377.9808169</x>
+      <y>254.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP9" index="4" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="7">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE1" adelay="42" lock="Y" index="1" color="16777215" guid="B9FB432A-5EAD-AC47-6606-AB07312BCF4D">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR261" index="5" raceCode="1">
+      <action face="-1" motionface="1">ugc.6449458.stand.xml</action>
+      <head id="PROP17" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>212.154972</x>
+      <y>231.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR264" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.stand.xml</action>
+      <head id="PROP18" raceCode="1">
+        <file>ugc.2dea75b.head.head_angry.xml</file>
+      </head>
+      <x>377.9808169</x>
+      <y>254.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="4" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="7">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE2" adelay="30" lock="Y" index="2" color="16777215" guid="46C9B760-F06A-4298-D39B-A8107223A66C">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR261" index="5" raceCode="1">
+      <action face="-1" motionface="1">ugc.6449458.stand.xml</action>
+      <head id="PROP23" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>212.154972</x>
+      <y>231.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR264" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.stand.xml</action>
+      <head id="PROP24" raceCode="1">
+        <file>ugc.2dea75b.head.head_angry.xml</file>
+      </head>
+      <x>377.9808169</x>
+      <y>254.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="4" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="7">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE3" adelay="78" lock="Y" index="3" color="16777215" guid="DB622506-7D84-C4DF-8844-36E19EF2BB0A">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR261" index="5" raceCode="1">
+      <action face="-1" motionface="1">ugc.6449458.stand.xml</action>
+      <head id="PROP29" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>212.154972</x>
+      <y>231.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR264" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.excited.xml</action>
+      <head id="PROP30" raceCode="1">
+        <file>ugc.2dea75b.head.head_angry.xml</file>
+      </head>
+      <x>377.9808169</x>
+      <y>254.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="4" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="7">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE4" adelay="27" lock="Y" index="4" color="16777215" guid="89F126A3-4D2B-8290-7392-03EC286A367D">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR261" index="5" raceCode="1">
+      <action face="-1" motionface="1">ugc.6449458.stand.xml</action>
+      <head id="PROP35" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>212.154972</x>
+      <y>231.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR264" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.excited.xml</action>
+      <head id="PROP36" raceCode="1">
+        <file>ugc.2dea75b.head.head_angry.xml</file>
+      </head>
+      <x>377.9808169</x>
+      <y>254.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="4" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="7">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE5" adelay="45" lock="Y" index="5" color="16777215" guid="A5DC6262-8CB7-A8C2-ABEF-A6803A4F7498">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR261" index="5" raceCode="1">
+      <action face="-1" motionface="1">ugc.6449458.stand.xml</action>
+      <head id="PROP41" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>212.154972</x>
+      <y>231.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR264" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.excited.xml</action>
+      <head id="PROP42" raceCode="1">
+        <file>ugc.2dea75b.head.head_angry.xml</file>
+      </head>
+      <x>377.9808169</x>
+      <y>254.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="4" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="7">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE6" adelay="39" lock="Y" index="6" color="16777215" guid="80059E00-8E78-05D0-9682-387E2CB66B86">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR261" index="5" raceCode="1">
+      <action face="-1" motionface="1">ugc.6449458.stand.xml</action>
+      <head id="PROP47" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>212.154972</x>
+      <y>231.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR264" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.xarms.xml</action>
+      <head id="PROP48" raceCode="1">
+        <file>ugc.2dea75b.head.head_angry.xml</file>
+      </head>
+      <x>377.9808169</x>
+      <y>254.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="4" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="7">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE7" adelay="6" lock="Y" index="7" color="16777215" guid="F77B1962-C67C-1EF1-3F08-56930D0BD7E5">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR261" index="5" raceCode="1">
+      <action face="-1" motionface="1">ugc.6449458.stand.xml</action>
+      <head id="PROP53" raceCode="1">
+        <file>ugc.6449458.head.head_angry.xml</file>
+      </head>
+      <x>212.154972</x>
+      <y>231.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR264" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.xarms.xml</action>
+      <head id="PROP54" raceCode="1">
+        <file>ugc.2dea75b.head.head_angry.xml</file>
+      </head>
+      <x>377.1443678</x>
+      <y>254.5748748</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>7.8283709</rotation>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="4" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="7">
+      <file>common.msp_handshape.msp_handshape_ncc_hand05.swf</file>
+      <x>366.5104543,413.6666667</x>
+      <y>245,269.7</y>
+      <xscale>1,0.9529412</xscale>
+      <yscale>1,0.9529412</yscale>
+      <face>1,1</face>
+      <rotation>-45.9381976,-45.9381976</rotation>
+      <color r="ccColorA">16764565</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="8">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="PROP55" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE8" adelay="6" lock="Y" index="8" color="16777215" guid="31070389-E627-0602-F717-4635CD08E053">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR261" index="5" raceCode="1">
+      <action face="-1" motionface="1">ugc.6449458.stand.xml</action>
+      <head id="PROP68" raceCode="1">
+        <file>ugc.6449458.head.head_shocked.xml</file>
+      </head>
+      <x>212.15</x>
+      <y>231.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR264" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.xarms.xml</action>
+      <head id="PROP62" raceCode="1">
+        <file>ugc.2dea75b.head.head_angry.xml</file>
+      </head>
+      <x>377.1443678</x>
+      <y>254.5748748</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>7.8283709</rotation>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="4" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="7">
+      <file>common.msp_handshape.msp_handshape_ncc_hand05.swf</file>
+      <x>413.6666667,241.3166667</x>
+      <y>269.7,186.5</y>
+      <xscale>0.9529412,0.9529412</xscale>
+      <yscale>0.9529412,4.9634622</yscale>
+      <face>1,1</face>
+      <rotation>-45.9381976,-45.9381976</rotation>
+      <color r="ccColorA">16764565</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="8">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="1" target="PROP55" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE9" adelay="6" lock="Y" index="9" color="16777215" guid="B8227CCA-F3C3-4902-9AF3-03C9F8DC3F60">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR261" index="5" raceCode="1">
+      <action face="-1" motionface="1">ugc.6449458.laugh.xml</action>
+      <head id="PROP80" raceCode="1">
+        <file>ugc.6449458.head.head_sick.xml</file>
+      </head>
+      <x>212.15</x>
+      <y>231.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR264" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.xarms.xml</action>
+      <head id="PROP74" raceCode="1">
+        <file>ugc.2dea75b.head.head_angry.xml</file>
+      </head>
+      <x>377.1443678</x>
+      <y>254.5748748</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>7.8283709</rotation>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="4" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="7">
+      <file>common.msp_handshape.msp_handshape_ncc_hand05.swf</file>
+      <x>241.3166667,396.75</x>
+      <y>186.5,256</y>
+      <xscale>0.9529412,0.9529412</xscale>
+      <yscale>4.9634622,1.3291865</yscale>
+      <face>1,1</face>
+      <rotation>-45.9381976,-45.9381976</rotation>
+      <color r="ccColorA">16764565</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP81" index="8">
+      <file>common.ncc_explosion.swf</file>
+      <x>229.4166669</x>
+      <y>159.85</y>
+      <xscale>1.3333249</xscale>
+      <yscale>1.3333249</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="9">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="2" target="PROP55" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE10" adelay="93" lock="Y" index="10" color="16777215" guid="AB5C7AA2-A445-3655-A2E9-8CA031754F36">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR261" index="5" raceCode="1">
+      <action face="-1" motionface="1">ugc.6449458.laugh.xml</action>
+      <head id="PROP86" raceCode="1">
+        <file>ugc.6449458.head.head_sick.xml</file>
+      </head>
+      <x>212.15</x>
+      <y>231.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR264" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.xarms.xml</action>
+      <head id="PROP87" raceCode="1">
+        <file>ugc.2dea75b.head.head_angry.xml</file>
+      </head>
+      <x>382.1381793</x>
+      <y>258.7701762</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0.3457467</rotation>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="4" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP81" index="7">
+      <file>common.ncc_explosion.swf</file>
+      <x>229.4166669</x>
+      <y>159.85</y>
+      <xscale>1.3333249</xscale>
+      <yscale>1.3333249</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="8">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE11" adelay="246" lock="Y" index="11" color="16777215" guid="74F223A9-DF04-DE83-F8E6-A83ADE722D27">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR261" index="5" raceCode="1">
+      <action face="-1" motionface="1">ugc.6449458.laugh.xml</action>
+      <head id="PROP100" raceCode="1">
+        <file>ugc.6449458.head.head_cry.xml</file>
+      </head>
+      <x>212.15</x>
+      <y>231.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR264" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.xarms.xml</action>
+      <head id="PROP97" raceCode="1">
+        <file>ugc.2dea75b.head.head_angry.xml</file>
+      </head>
+      <x>382.1381793</x>
+      <y>258.7701762</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0.3457467</rotation>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="4" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="7">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE12" adelay="27" lock="Y" index="12" color="16777215" guid="D1EAAA4C-1BB7-C0EC-555A-AE45B22A3D0F">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR261" index="5" raceCode="1">
+      <action face="1,1" motionface="1">ugc.6449458.run.xml</action>
+      <head id="PROP105" raceCode="1">
+        <file>ugc.6449458.head.head_cry.xml</file>
+      </head>
+      <x>212.15,-65.9</x>
+      <y>231.55,239.85</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <char id="AVATOR264" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.xarms.xml</action>
+      <head id="PROP106" raceCode="1">
+        <file>ugc.2dea75b.head.head_angry.xml</file>
+      </head>
+      <x>382.1381793</x>
+      <y>258.7701762</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0.3457467</rotation>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="4" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="7">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="3" target="AVATOR261" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE13" adelay="15" lock="Y" index="13" color="16777215" guid="842F8B96-377A-9CB7-6924-A14A55254B4D">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR261" index="5" raceCode="1">
+      <action face="1" motionface="-1">ugc.6449458.stand.xml</action>
+      <head id="PROP112" raceCode="1">
+        <file>ugc.6449458.head.head_cry.xml</file>
+      </head>
+      <x>-65.9</x>
+      <y>239.85</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR264" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.xarms.xml</action>
+      <head id="PROP115" raceCode="1">
+        <file>ugc.2dea75b.head.head_angry.xml</file>
+      </head>
+      <x>382.1381793</x>
+      <y>258.7701762</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0.3457467</rotation>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="4" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="7">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE14" adelay="30" lock="Y" index="14" color="16777215" guid="40E3B42F-AF72-B54E-1F4F-E8A1D47D8D3D">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR261" index="5" raceCode="1">
+      <action face="1" motionface="1">ugc.6449458.stand.xml</action>
+      <head id="PROP120" raceCode="1">
+        <file>ugc.6449458.head.head_cry.xml</file>
+      </head>
+      <x>-65.9</x>
+      <y>239.85</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR264" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.xarms.xml</action>
+      <head id="PROP121" raceCode="1">
+        <file>ugc.2dea75b.head.head_angry.xml</file>
+      </head>
+      <x>382.1381793</x>
+      <y>258.7701762</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0.3457467</rotation>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="4" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="7">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND26" index="0" track="0" vol="8" tts="0">
+    <sfile>ugc.1632473.mp3</sfile>
+    <start>391</start>
+    <stop>663</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND18" index="1" track="0" vol="8" tts="0">
+    <sfile>ugc.e4d2ff4.mp3</sfile>
+    <start>292</start>
+    <stop>306</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND14" index="2" track="0" vol="8" tts="0">
+    <sfile>ugc.882403a.mp3</sfile>
+    <start>196</start>
+    <stop>240</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND6" index="3" track="0" vol="8" tts="0">
+    <sfile>ugc.a8b1583.mp3</sfile>
+    <start>91</start>
+    <stop>168</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND30" index="4" track="0" vol="1" tts="0">
+    <sfile>ugc.607ed4b.mp3</sfile>
+    <start>664</start>
+    <stop>678</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND27" index="5" track="1" vol="8" tts="0">
+    <sfile>ugc.1632473.mp3</sfile>
+    <start>391</start>
+    <stop>663</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND19" index="6" track="1" vol="8" tts="0">
+    <sfile>ugc.e4d2ff4.mp3</sfile>
+    <start>292</start>
+    <stop>306</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND15" index="7" track="1" vol="8" tts="0">
+    <sfile>ugc.882403a.mp3</sfile>
+    <start>196</start>
+    <stop>240</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND7" index="8" track="1" vol="8" tts="0">
+    <sfile>ugc.a8b1583.mp3</sfile>
+    <start>91</start>
+    <stop>168</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND28" index="9" track="2" vol="1" tts="0">
+    <sfile>ugc.da6dcac.mp3</sfile>
+    <start>637</start>
+    <stop>663</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND22" index="10" track="2" vol="8" tts="0">
+    <sfile>ugc.1d57fc0.mp3</sfile>
+    <start>298</start>
+    <stop>390</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND17" index="11" track="2" vol="8" tts="0">
+    <sfile>ugc.464c798.mp3</sfile>
+    <start>169</start>
+    <stop>294</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND8" index="12" track="2" vol="8" tts="0">
+    <sfile>ugc.a8b1583.mp3</sfile>
+    <start>91</start>
+    <stop>168</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND1" index="0" track="0" vol="8" tts="1">
+    <sfile>ugc.ae920cb.mp3</sfile>
+    <start>19</start>
+    <stop>60</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[What Are You Doing In My House?]]></text>
+      <voice><![CDATA[kidaroo]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND4" index="1" track="0" vol="8" tts="1">
+    <sfile>ugc.1876e60.mp3</sfile>
+    <start>91</start>
+    <stop>168</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[You're Not Welcome! Get The Fuck Out Or Else!]]></text>
+      <voice><![CDATA[kidaroo]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND10" index="2" track="0" vol="1" tts="1">
+    <sfile>ugc.50a417c.mp3</sfile>
+    <start>169</start>
+    <stop>195</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Or Else What?]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND12" index="3" track="0" vol="8" tts="1">
+    <sfile>ugc.0fe0d1e.mp3</sfile>
+    <start>196</start>
+    <stop>240</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[I'm Calling Your Mom For This!]]></text>
+      <voice><![CDATA[kidaroo]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND24" index="4" track="0" vol="8" tts="1">
+    <sfile>ugc.cac1920.mp3</sfile>
+    <start>391</start>
+    <stop>663</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND20" index="5" track="0" vol="8" tts="1">
+    <sfile>ugc.631809d.mp3</sfile>
+    <start>298</start>
+    <stop>390</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND25" index="6" track="1" vol="8" tts="1">
+    <sfile>ugc.cac1920.mp3</sfile>
+    <start>391</start>
+    <stop>663</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND21" index="7" track="1" vol="8" tts="1">
+    <sfile>ugc.631809d.mp3</sfile>
+    <start>298</start>
+    <stop>390</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND13" index="8" track="1" vol="8" tts="1">
+    <sfile>ugc.0fe0d1e.mp3</sfile>
+    <start>196</start>
+    <stop>240</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[I'm Calling Your Mom For This!]]></text>
+      <voice><![CDATA[kidaroo]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND5" index="9" track="1" vol="8" tts="1">
+    <sfile>ugc.1876e60.mp3</sfile>
+    <start>91</start>
+    <stop>168</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[You're Not Welcome! Get The Fuck Out Or Else!]]></text>
+      <voice><![CDATA[kidaroo]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND2" index="10" track="1" vol="8" tts="1">
+    <sfile>ugc.ae920cb.mp3</sfile>
+    <start>19</start>
+    <stop>60</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[What Are You Doing In My House?]]></text>
+      <voice><![CDATA[kidaroo]]></voice>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND1,~~~AVATOR264,SCENE1~~~</linkage>
+  <linkage>SOUND4,~~~AVATOR264,SCENE3~~~</linkage>
+  <linkage>SOUND10,~~~AVATOR261,SCENE4~~~</linkage>
+  <linkage>SOUND12,~~~AVATOR264,SCENE5~~~</linkage>
+  <linkage>SOUND24,~~~AVATOR261</linkage>
+</film>

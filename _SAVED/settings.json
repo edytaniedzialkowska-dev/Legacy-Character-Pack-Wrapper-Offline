@@ -1,6 +1,6 @@
 {
-	"DISCORD_RPC": false,
+	"DISCORD_RPC": true,
 	"TRUNCATED_THEMELIST": true,
 	"SHOW_WAVEFORMS": true,
-	"IS_WIDE": "1"
+	"IS_WIDE": "0"
 }
