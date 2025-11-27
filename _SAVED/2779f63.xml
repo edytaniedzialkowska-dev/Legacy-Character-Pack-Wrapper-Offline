@@ -1,0 +1,79 @@
+<film copyable="0" duration="2.5" published="1" pshare="0">
+  <meta>
+    <title><![CDATA[My New Christmas PFP 2025!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+      <color value="ffce95"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="60" lock="N" index="0" color="16777215" guid="D31B0569-1F88-BF76-2A04-345758D7E65C">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG131" index="0">
+      <file>ugc.acf2811.jpg</file>
+    </bg>
+    <char id="AVATOR143" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.0af433f.stand.xml</action>
+      <x>461.0083865</x>
+      <y>359.0309936</y>
+      <xscale>2.3053783</xscale>
+      <yscale>2.3053783</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR132" index="2" raceCode="1" faceCamera="true">
+      <action face="-1" motionface="1">ugc.e707184.xarms.xml</action>
+      <head id="PROP6" raceCode="1">
+        <file>ugc.e707184.head.head_happy.xml</file>
+      </head>
+      <x>253.5279556</x>
+      <y>361.1998241</y>
+      <xscale>2.3061353</xscale>
+      <yscale>2.3061353</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP10" index="3">
+      <file>common.msp_handshape.msp_handshape_ncc_hand02.swf</file>
+      <x>268.1752249</x>
+      <y>331.075</y>
+      <xscale>2.5231008</xscale>
+      <yscale>2.5231008</yscale>
+      <face>-1</face>
+      <rotation>79.4121234</rotation>
+      <color r="ccColorA">16514043</color>
+    </prop>
+    <prop id="PROP11" index="4">
+      <file>ugc.3b610de.png</file>
+      <x>299.4</x>
+      <y>285.95</y>
+      <xscale>0.1642642</xscale>
+      <yscale>0.1642642</yscale>
+      <face>1</face>
+      <rotation>14.0152282</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+</film>
