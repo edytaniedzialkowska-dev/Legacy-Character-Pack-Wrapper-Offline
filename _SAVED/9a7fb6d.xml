@@ -1,0 +1,137 @@
+<film copyable="0" duration="25.3" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[I'm Back For The 3rd Time!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+      <color value="15ff00"/>
+      <color value="ff0004"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="351" lock="N" index="0" color="16777215" guid="F12701EA-72DC-9FF8-400A-EB1B0B0608A6">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>retro.flashing.swf</file>
+      <color r="color1">1441536</color>
+      <color r="color2">16711684</color>
+    </bg>
+    <char id="AVATOR133" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.853cf38.talk.xml</action>
+      <x>318.317205</x>
+      <y>214.7057494</y>
+      <xscale>1.2291128</xscale>
+      <yscale>1.2291128</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE2" adelay="195" lock="N" index="1" color="16777215" guid="8E3E561A-7FC9-7D57-C3F9-6D9A68423514">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>retro.flashing.swf</file>
+      <color r="color1">1441536</color>
+      <color r="color2">16711684</color>
+    </bg>
+    <char id="AVATOR133" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.853cf38.talk.xml</action>
+      <x>318.317205</x>
+      <y>214.7057494</y>
+      <xscale>1.2291128</xscale>
+      <yscale>1.2291128</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE3" adelay="60" lock="N" index="2" color="16777215" guid="BF07DA90-CF7F-70AE-BF4A-A5F9B3758BAA">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>retro.flashing.swf</file>
+      <color r="color1">1441536</color>
+      <color r="color2">16711684</color>
+    </bg>
+    <char id="AVATOR133" index="1" raceCode="1">
+      <action face="1,1" motionface="1">ugc.853cf38.walk.xml</action>
+      <x>318.317205,-71.232795</x>
+      <y>214.7057494,216.7057494</y>
+      <xscale>1.2291128,1.2291128</xscale>
+      <yscale>1.2291128,1.2291128</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="AVATOR133" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <sound id="SOUND4" index="0" track="0" vol="1" tts="0">
+    <sfile>ugc.7f6d956.mp3</sfile>
+    <start>547</start>
+    <stop>606</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND1" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.672e897.mp3</sfile>
+    <start>1</start>
+    <stop>351</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Hey Y'all, It's Me Jacob2010 Fans Here, And I'm Back For The 3rd Time! So I'm Making a Grounded Videos, Ungrounded Videos, Rant Videos, Salute Video, Logo Editing Stuff!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND3" index="1" track="0" vol="1" tts="1">
+    <sfile>ugc.97c9542.mp3</sfile>
+    <start>352</start>
+    <stop>546</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Childish X Stuff, And More! So Anyways This is Me Jacob2010 Fans Signing Off! See You Soon!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND1,~~~AVATOR133,SCENE0~~~</linkage>
+  <linkage>SOUND3,~~~AVATOR133,SCENE2~~~</linkage>
+</film>

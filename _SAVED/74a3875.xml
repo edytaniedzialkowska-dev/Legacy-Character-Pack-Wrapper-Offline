@@ -1,0 +1,2934 @@
+<film copyable="0" duration="127.5" published="1" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Bob Kid Gets a Naughty List/Killed! (FIXED)]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+      <color value="a31d"/>
+      <color value="febd9d"/>
+    </palette>
+  </meta>
+  <scene id="SCENE2" adelay="30" lock="Y" index="0" color="16777215" guid="C62DCE04-CD36-655B-FA88-2AD81B956DD3" combgId="common.cbg_ncc_bedroom">
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR338" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP16" raceCode="1">
+        <file>ugc.fce0727.head.head_asleep.xml</file>
+      </head>
+      <x>239.6518403</x>
+      <y>210.9294946</y>
+      <xscale>0.5741056</xscale>
+      <yscale>0.5741056</yscale>
+      <rotation>35.5877339</rotation>
+    </char>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP53" index="11" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="12" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front.swf</file>
+      <x>163.29</x>
+      <y>245.37125</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="13" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT2" themecode="common" index="14">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE3" adelay="120" lock="N" index="1" color="16777215" guid="E84B3C35-EDF3-8D6C-3686-CFBD2DD7280B">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR338" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.excited.xml</action>
+      <x>239.3693504</x>
+      <y>210.9294946</y>
+      <xscale>0.5741056</xscale>
+      <yscale>0.5741056</yscale>
+      <rotation>35.5877339</rotation>
+    </char>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP53" index="11" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="12" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front.swf</file>
+      <x>163.29</x>
+      <y>245.37125</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="13" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT6" themecode="common" index="14">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="earthquake" type="EARTHQUAKE"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT2" themecode="common" index="15">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE4" adelay="60" lock="N" index="2" color="16777215" guid="CBA038BE-9546-0371-5C0F-94B3491C05B1">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR338" index="13" raceCode="1">
+      <action face="-1,-1" motionface="-1">ugc.fce0727.run.xml</action>
+      <head id="PROP30" raceCode="1">
+        <file>ugc.fce0727.head.head_happy.xml</file>
+      </head>
+      <x>284.966793,691.216793</x>
+      <y>257.741065,288.6</y>
+      <xscale>0.5741056,0.5741056</xscale>
+      <yscale>0.5741056,0.5741056</yscale>
+      <rotation>1.1917836,1.1917836</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP53" index="10" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="11" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front.swf</file>
+      <x>163.29</x>
+      <y>245.37125</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="12" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT2" themecode="common" index="14">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="AVATOR338" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE5" adelay="18" lock="Y" index="3" color="16777215" guid="E9702C71-B6F1-6816-A460-98EFB09F84F1" combgId="custom.cbg_house">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR338" index="9" raceCode="1">
+      <action face="1,1" motionface="1">ugc.fce0727.run.xml</action>
+      <head id="PROP70" raceCode="1">
+        <file>ugc.fce0727.head.head_happy.xml</file>
+      </head>
+      <x>679.9089916,199.65</x>
+      <y>264.9160662,266.725</y>
+      <xscale>0.6809531,0.6809531</xscale>
+      <yscale>0.6809531,0.6809531</yscale>
+      <rotation>1.1917836,1.1917836</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP114" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP280" index="4" attached="Y">
+      <file>custom.xm_gift.swf</file>
+      <x>61</x>
+      <y>303</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP278" index="6" attached="Y">
+      <file>custom.house_top.swf</file>
+      <x>352</x>
+      <y>46</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP279" index="7" attached="Y">
+      <file>custom.xm_tree.swf</file>
+      <x>114</x>
+      <y>215</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP281" index="8" attached="Y">
+      <file>custom.house_deco.swf</file>
+      <x>262</x>
+      <y>67</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT2" themecode="common" index="10">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="1" target="AVATOR338" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE6" adelay="93" lock="Y" index="4" color="16777215" guid="E01441DD-2182-FAE5-C18C-3E6B05B19BFF">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR338" index="9" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP86" raceCode="1">
+        <file>ugc.fce0727.head.head_shocked.xml</file>
+      </head>
+      <x>199.65</x>
+      <y>266.725</y>
+      <xscale>0.6809531</xscale>
+      <yscale>0.6809531</yscale>
+      <rotation>1.1917836</rotation>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP114" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP280" index="4" attached="Y">
+      <file>custom.xm_gift.swf</file>
+      <x>61</x>
+      <y>303</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP278" index="6" attached="Y">
+      <file>custom.house_top.swf</file>
+      <x>352</x>
+      <y>46</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP279" index="7" attached="Y">
+      <file>custom.xm_tree.swf</file>
+      <x>114</x>
+      <y>215</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP281" index="8" attached="Y">
+      <file>custom.house_deco.swf</file>
+      <x>262</x>
+      <y>67</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT2" themecode="common" index="10">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE7" adelay="60" lock="N" index="5" color="16777215" guid="98B378C7-BA90-CE38-1614-A256FFADEE1D">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR338" index="9" raceCode="1">
+      <action face="-1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP95" raceCode="1">
+        <file>ugc.fce0727.head.head_shocked.xml</file>
+      </head>
+      <x>199.65</x>
+      <y>266.725</y>
+      <xscale>0.6809531</xscale>
+      <yscale>0.6809531</yscale>
+      <rotation>1.1917836</rotation>
+    </char>
+    <char id="AVATOR442" index="10" raceCode="1">
+      <action face="1,1" motionface="1">ugc.853cf38.walk.xml</action>
+      <head id="PROP58" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>689.95,314.55</x>
+      <y>245.375,238.725</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP114" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP280" index="4" attached="Y">
+      <file>custom.xm_gift.swf</file>
+      <x>61</x>
+      <y>303</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP278" index="6" attached="Y">
+      <file>custom.house_top.swf</file>
+      <x>352</x>
+      <y>46</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP279" index="7" attached="Y">
+      <file>custom.xm_tree.swf</file>
+      <x>114</x>
+      <y>215</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP281" index="8" attached="Y">
+      <file>custom.house_deco.swf</file>
+      <x>262</x>
+      <y>67</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT2" themecode="common" index="11">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="2" target="AVATOR442" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE8" adelay="42" lock="Y" index="6" color="16777215" guid="0C2BAD3C-BAC3-6E2B-1191-626303222237">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR338" index="9" raceCode="1">
+      <action face="-1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP108" raceCode="1">
+        <file>ugc.fce0727.head.head_shocked.xml</file>
+      </head>
+      <x>199.65</x>
+      <y>266.725</y>
+      <xscale>0.6809531</xscale>
+      <yscale>0.6809531</yscale>
+      <rotation>1.1917836</rotation>
+    </char>
+    <char id="AVATOR442" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.stand.xml</action>
+      <head id="PROP63" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>314.575</x>
+      <y>238.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP114" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP280" index="4" attached="Y">
+      <file>custom.xm_gift.swf</file>
+      <x>61</x>
+      <y>303</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP278" index="6" attached="Y">
+      <file>custom.house_top.swf</file>
+      <x>352</x>
+      <y>46</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP279" index="7" attached="Y">
+      <file>custom.xm_tree.swf</file>
+      <x>114</x>
+      <y>215</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP281" index="8" attached="Y">
+      <file>custom.house_deco.swf</file>
+      <x>262</x>
+      <y>67</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT2" themecode="common" index="11">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE9" adelay="105" lock="N" index="7" color="16777215" guid="9973D018-9F0D-A12B-63C8-F518B26F88BE">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR338" index="9" raceCode="1">
+      <action face="-1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP121" raceCode="1">
+        <file>ugc.fce0727.head.head_shocked.xml</file>
+      </head>
+      <x>199.65</x>
+      <y>266.725</y>
+      <xscale>0.6809531</xscale>
+      <yscale>0.6809531</yscale>
+      <rotation>1.1917836</rotation>
+    </char>
+    <char id="AVATOR442" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.excited.xml</action>
+      <head id="PROP64" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>314.575</x>
+      <y>238.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP114" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP280" index="4" attached="Y">
+      <file>custom.xm_gift.swf</file>
+      <x>61</x>
+      <y>303</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP278" index="6" attached="Y">
+      <file>custom.house_top.swf</file>
+      <x>352</x>
+      <y>46</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP279" index="7" attached="Y">
+      <file>custom.xm_tree.swf</file>
+      <x>114</x>
+      <y>215</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP281" index="8" attached="Y">
+      <file>custom.house_deco.swf</file>
+      <x>262</x>
+      <y>67</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT2" themecode="common" index="11">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE10" adelay="33" lock="Y" index="8" color="16777215" guid="897371EE-EBFC-0E64-8568-E668356FDB28">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR338" index="9" raceCode="1">
+      <action face="-1" motionface="1">ugc.fce0727.fearful.xml</action>
+      <head id="PROP68" raceCode="1">
+        <file>ugc.fce0727.head.head_shocked.xml</file>
+      </head>
+      <x>199.65</x>
+      <y>266.725</y>
+      <xscale>0.6809531</xscale>
+      <yscale>0.6809531</yscale>
+      <rotation>1.1917836</rotation>
+    </char>
+    <char id="AVATOR442" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.excited.xml</action>
+      <head id="PROP132" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>314.575</x>
+      <y>238.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP114" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP280" index="4" attached="Y">
+      <file>custom.xm_gift.swf</file>
+      <x>61</x>
+      <y>303</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP278" index="6" attached="Y">
+      <file>custom.house_top.swf</file>
+      <x>352</x>
+      <y>46</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP279" index="7" attached="Y">
+      <file>custom.xm_tree.swf</file>
+      <x>114</x>
+      <y>215</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP281" index="8" attached="Y">
+      <file>custom.house_deco.swf</file>
+      <x>262</x>
+      <y>67</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT2" themecode="common" index="11">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE11" adelay="33" lock="Y" index="9" color="16777215" guid="843AAF6D-8D0E-7753-640D-E003B28A4D97">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR338" index="9" raceCode="1">
+      <action face="-1" motionface="1">ugc.fce0727.fearful.xml</action>
+      <head id="PROP141" raceCode="1">
+        <file>ugc.fce0727.head.head_shocked.xml</file>
+      </head>
+      <x>199.65</x>
+      <y>266.725</y>
+      <xscale>0.6809531</xscale>
+      <yscale>0.6809531</yscale>
+      <rotation>1.1917836</rotation>
+    </char>
+    <char id="AVATOR442" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <head id="PROP74" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>314.575</x>
+      <y>238.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP114" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP280" index="4" attached="Y">
+      <file>custom.xm_gift.swf</file>
+      <x>61</x>
+      <y>303</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP278" index="6" attached="Y">
+      <file>custom.house_top.swf</file>
+      <x>352</x>
+      <y>46</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP279" index="7" attached="Y">
+      <file>custom.xm_tree.swf</file>
+      <x>114</x>
+      <y>215</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP281" index="8" attached="Y">
+      <file>custom.house_deco.swf</file>
+      <x>262</x>
+      <y>67</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT2" themecode="common" index="11">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE12" adelay="60" lock="N" index="10" color="16777215" guid="B6ED5897-FA92-FC3A-B485-1DEB2965B8B6">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR338" index="9" raceCode="1">
+      <action face="-1,-1" motionface="-1">ugc.fce0727.walk.xml</action>
+      <head id="PROP80" raceCode="1">
+        <file>ugc.fce0727.head.head_shocked.xml</file>
+      </head>
+      <x>199.65,726.1</x>
+      <y>266.725,290.775</y>
+      <xscale>0.6809531,0.6809531</xscale>
+      <yscale>0.6809531,0.6809531</yscale>
+      <rotation>1.1917836,1.1917836</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <char id="AVATOR442" index="10" raceCode="1">
+      <action face="-1,-1" motionface="-1">ugc.853cf38.walk.xml</action>
+      <head id="PROP152" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>314.575,690.775</x>
+      <y>238.7,252.6666667</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP114" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP280" index="4" attached="Y">
+      <file>custom.xm_gift.swf</file>
+      <x>61</x>
+      <y>303</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP278" index="6" attached="Y">
+      <file>custom.house_top.swf</file>
+      <x>352</x>
+      <y>46</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP279" index="7" attached="Y">
+      <file>custom.xm_tree.swf</file>
+      <x>114</x>
+      <y>215</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP281" index="8" attached="Y">
+      <file>custom.house_deco.swf</file>
+      <x>262</x>
+      <y>67</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT2" themecode="common" index="11">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="3" target="AVATOR442" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="4" target="AVATOR338" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE13" adelay="93" lock="Y" index="11" color="16777215" guid="CB88DF21-967E-F63D-00E2-7CF971B6C196" combgId="common.cbg_ncc_spookylab">
+    <bg id="cbg_ncc_spookylab_BG7" index="0">
+      <file>common.nccha_stone.swf</file>
+    </bg>
+    <char id="AVATOR338" index="11" raceCode="1">
+      <action face="-1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP163" raceCode="1">
+        <file>ugc.fce0727.head.head_shocked.xml</file>
+      </head>
+      <x>290.4</x>
+      <y>232.725</y>
+      <xscale>0.6809531</xscale>
+      <yscale>0.6809531</yscale>
+      <rotation>1.1917836</rotation>
+    </char>
+    <char id="AVATOR442" index="12" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.stand.xml</action>
+      <head id="PROP166" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>234.8</x>
+      <y>205.175</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_ncc_spookylab_PROP8" index="1" attached="Y">
+      <file>common.msp_nccha_sp_door.msp_nccha_sp_door_nccha_spooky_door01.swf</file>
+      <x>166.9</x>
+      <y>140.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP10" index="2" attached="Y">
+      <file>common.nccha_spooky_pipe02.swf</file>
+      <x>126.1</x>
+      <y>59.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP9" index="3" attached="Y">
+      <file>common.nccha_spooky_pipe01.swf</file>
+      <x>61.2</x>
+      <y>62.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP11" index="4" attached="Y">
+      <file>common.nccha_spooky_pipe02.swf</file>
+      <x>503.2</x>
+      <y>57.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP12" index="5" attached="Y">
+      <file>common.nccha_spooky_pipe01.swf</file>
+      <x>568.2</x>
+      <y>25.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP13" index="6" attached="Y">
+      <file>common.msp_nccha_spooky_mach.msp_nccha_spooky_mach_nccha_spooky_mach03.swf</file>
+      <x>507.1</x>
+      <y>193.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP16" index="7" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>544.2</x>
+      <y>286.1</y>
+      <xscale>1.47</xscale>
+      <yscale>1.47</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">4402237</color>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP15" index="8" attached="Y">
+      <file>common.msp_nccha_handop.msp_nccha_handop_nccha_02hand_open01.swf</file>
+      <x>487.2</x>
+      <y>270.1</y>
+      <xscale>1.29</xscale>
+      <yscale>1.29</yscale>
+      <face>1</face>
+      <rotation>-92.1</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP18" index="9" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>502.6</x>
+      <y>338.8</y>
+      <xscale>1.61</xscale>
+      <yscale>1.61</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16750848</color>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP19" index="10" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>409.8</x>
+      <y>321.5</y>
+      <xscale>2.07</xscale>
+      <yscale>2.07</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16737894</color>
+    </prop>
+    <effectAsset id="EFFECT2" themecode="common" index="13">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE14" adelay="42" lock="Y" index="12" color="16777215" guid="CC3FC685-B98F-F2AF-3A78-CBD877AB3607">
+    <bg id="cbg_ncc_spookylab_BG7" index="0">
+      <file>common.nccha_stone.swf</file>
+    </bg>
+    <char id="AVATOR338" index="11" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP191" raceCode="1">
+        <file>ugc.fce0727.head.head_shocked.xml</file>
+      </head>
+      <x>290.4</x>
+      <y>232.725</y>
+      <xscale>0.6809531</xscale>
+      <yscale>0.6809531</yscale>
+      <rotation>1.1917836</rotation>
+    </char>
+    <char id="AVATOR442" index="12" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.stand.xml</action>
+      <head id="PROP192" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>234.8</x>
+      <y>205.175</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_ncc_spookylab_PROP8" index="1" attached="Y">
+      <file>common.msp_nccha_sp_door.msp_nccha_sp_door_nccha_spooky_door01.swf</file>
+      <x>166.9</x>
+      <y>140.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP10" index="2" attached="Y">
+      <file>common.nccha_spooky_pipe02.swf</file>
+      <x>126.1</x>
+      <y>59.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP9" index="3" attached="Y">
+      <file>common.nccha_spooky_pipe01.swf</file>
+      <x>61.2</x>
+      <y>62.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP11" index="4" attached="Y">
+      <file>common.nccha_spooky_pipe02.swf</file>
+      <x>503.2</x>
+      <y>57.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP12" index="5" attached="Y">
+      <file>common.nccha_spooky_pipe01.swf</file>
+      <x>568.2</x>
+      <y>25.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP13" index="6" attached="Y">
+      <file>common.msp_nccha_spooky_mach.msp_nccha_spooky_mach_nccha_spooky_mach03.swf</file>
+      <x>507.1</x>
+      <y>193.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP16" index="7" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>544.2</x>
+      <y>286.1</y>
+      <xscale>1.47</xscale>
+      <yscale>1.47</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">4402237</color>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP15" index="8" attached="Y">
+      <file>common.msp_nccha_handop.msp_nccha_handop_nccha_02hand_open01.swf</file>
+      <x>487.2</x>
+      <y>270.1</y>
+      <xscale>1.29</xscale>
+      <yscale>1.29</yscale>
+      <face>1</face>
+      <rotation>-92.1</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP18" index="9" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>502.6</x>
+      <y>338.8</y>
+      <xscale>1.61</xscale>
+      <yscale>1.61</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16750848</color>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP19" index="10" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>409.8</x>
+      <y>321.5</y>
+      <xscale>2.07</xscale>
+      <yscale>2.07</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16737894</color>
+    </prop>
+    <effectAsset id="EFFECT2" themecode="common" index="13">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE15" adelay="99" lock="N" index="13" color="16777215" guid="735BAC4B-5728-BF03-E4DD-F5A065A25277">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_ncc_spookylab_BG7" index="0">
+      <file>common.nccha_stone.swf</file>
+    </bg>
+    <char id="AVATOR338" index="11" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP203" raceCode="1">
+        <file>ugc.fce0727.head.head_shocked.xml</file>
+      </head>
+      <x>290.4</x>
+      <y>232.725</y>
+      <xscale>0.6809531</xscale>
+      <yscale>0.6809531</yscale>
+      <rotation>1.1917836</rotation>
+    </char>
+    <char id="AVATOR442" index="12" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.stand.xml</action>
+      <head id="PROP204" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>234.8</x>
+      <y>205.175</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_ncc_spookylab_PROP8" index="1" attached="Y">
+      <file>common.msp_nccha_sp_door.msp_nccha_sp_door_nccha_spooky_door01.swf</file>
+      <x>166.9</x>
+      <y>140.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP10" index="2" attached="Y">
+      <file>common.nccha_spooky_pipe02.swf</file>
+      <x>126.1</x>
+      <y>59.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP9" index="3" attached="Y">
+      <file>common.nccha_spooky_pipe01.swf</file>
+      <x>61.2</x>
+      <y>62.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP11" index="4" attached="Y">
+      <file>common.nccha_spooky_pipe02.swf</file>
+      <x>503.2</x>
+      <y>57.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP12" index="5" attached="Y">
+      <file>common.nccha_spooky_pipe01.swf</file>
+      <x>568.2</x>
+      <y>25.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP13" index="6" attached="Y">
+      <file>common.msp_nccha_spooky_mach.msp_nccha_spooky_mach_nccha_spooky_mach03.swf</file>
+      <x>507.1</x>
+      <y>193.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP16" index="7" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>544.2</x>
+      <y>286.1</y>
+      <xscale>1.47</xscale>
+      <yscale>1.47</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">4402237</color>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP15" index="8" attached="Y">
+      <file>common.msp_nccha_handop.msp_nccha_handop_nccha_02hand_open01.swf</file>
+      <x>487.2</x>
+      <y>270.1</y>
+      <xscale>1.29</xscale>
+      <yscale>1.29</yscale>
+      <face>1</face>
+      <rotation>-92.1</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP18" index="9" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>502.6</x>
+      <y>338.8</y>
+      <xscale>1.61</xscale>
+      <yscale>1.61</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16750848</color>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP19" index="10" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>409.8</x>
+      <y>321.5</y>
+      <xscale>2.07</xscale>
+      <yscale>2.07</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16737894</color>
+    </prop>
+    <effectAsset id="EFFECT2" themecode="common" index="13">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE16" adelay="81" lock="Y" index="14" color="16777215" guid="43DA782F-2188-F2B3-C6D3-B7D902397885">
+    <bg id="cbg_ncc_spookylab_BG7" index="0">
+      <file>common.nccha_stone.swf</file>
+    </bg>
+    <char id="AVATOR338" index="11" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP215" raceCode="1">
+        <file>ugc.fce0727.head.head_shocked.xml</file>
+      </head>
+      <x>290.4</x>
+      <y>232.725</y>
+      <xscale>0.6809531</xscale>
+      <yscale>0.6809531</yscale>
+      <rotation>1.1917836</rotation>
+    </char>
+    <char id="AVATOR442" index="12" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.stand.xml</action>
+      <head id="PROP216" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>234.8</x>
+      <y>205.175</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_ncc_spookylab_PROP8" index="1" attached="Y">
+      <file>common.msp_nccha_sp_door.msp_nccha_sp_door_nccha_spooky_door01.swf</file>
+      <x>166.9</x>
+      <y>140.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP10" index="2" attached="Y">
+      <file>common.nccha_spooky_pipe02.swf</file>
+      <x>126.1</x>
+      <y>59.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP9" index="3" attached="Y">
+      <file>common.nccha_spooky_pipe01.swf</file>
+      <x>61.2</x>
+      <y>62.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP11" index="4" attached="Y">
+      <file>common.nccha_spooky_pipe02.swf</file>
+      <x>503.2</x>
+      <y>57.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP12" index="5" attached="Y">
+      <file>common.nccha_spooky_pipe01.swf</file>
+      <x>568.2</x>
+      <y>25.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP13" index="6" attached="Y">
+      <file>common.msp_nccha_spooky_mach.msp_nccha_spooky_mach_nccha_spooky_mach03.swf</file>
+      <x>507.1</x>
+      <y>193.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP16" index="7" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>544.2</x>
+      <y>286.1</y>
+      <xscale>1.47</xscale>
+      <yscale>1.47</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">4402237</color>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP15" index="8" attached="Y">
+      <file>common.msp_nccha_handop.msp_nccha_handop_nccha_02hand_open01.swf</file>
+      <x>487.2</x>
+      <y>270.1</y>
+      <xscale>1.29</xscale>
+      <yscale>1.29</yscale>
+      <face>1</face>
+      <rotation>-92.1</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP18" index="9" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>502.6</x>
+      <y>338.8</y>
+      <xscale>1.61</xscale>
+      <yscale>1.61</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16750848</color>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP19" index="10" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>409.8</x>
+      <y>321.5</y>
+      <xscale>2.07</xscale>
+      <yscale>2.07</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16737894</color>
+    </prop>
+    <effectAsset id="EFFECT2" themecode="common" index="13">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE17" adelay="6" lock="Y" index="15" color="16777215" guid="27E64301-CD9D-1BC4-64C0-06F1F04F15BC">
+    <bg id="cbg_ncc_spookylab_BG7" index="0">
+      <file>common.nccha_stone.swf</file>
+    </bg>
+    <char id="AVATOR338" index="11" raceCode="1">
+      <action face="1,1" motionface="-1">ugc.fce0727.stand.xml</action>
+      <head id="PROP227" raceCode="1">
+        <file>ugc.fce0727.head.head_shocked.xml</file>
+      </head>
+      <x>290.4,371.375</x>
+      <y>232.725,156.8</y>
+      <xscale>0.6809531,0.6809531</xscale>
+      <yscale>0.6809531,0.6809531</yscale>
+      <rotation>1.1917836,89.7320247</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <char id="AVATOR442" index="12" raceCode="1">
+      <action face="-1,-1" motionface="-1">ugc.853cf38.grab.xml</action>
+      <head id="PROP110" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>234.8,343.75</x>
+      <y>205.175,191.45</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="cbg_ncc_spookylab_PROP8" index="1" attached="Y">
+      <file>common.msp_nccha_sp_door.msp_nccha_sp_door_nccha_spooky_door01.swf</file>
+      <x>166.9</x>
+      <y>140.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP10" index="2" attached="Y">
+      <file>common.nccha_spooky_pipe02.swf</file>
+      <x>126.1</x>
+      <y>59.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP9" index="3" attached="Y">
+      <file>common.nccha_spooky_pipe01.swf</file>
+      <x>61.2</x>
+      <y>62.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP11" index="4" attached="Y">
+      <file>common.nccha_spooky_pipe02.swf</file>
+      <x>503.2</x>
+      <y>57.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP12" index="5" attached="Y">
+      <file>common.nccha_spooky_pipe01.swf</file>
+      <x>568.2</x>
+      <y>25.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP13" index="6" attached="Y">
+      <file>common.msp_nccha_spooky_mach.msp_nccha_spooky_mach_nccha_spooky_mach03.swf</file>
+      <x>507.1</x>
+      <y>193.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP16" index="7" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>544.2</x>
+      <y>286.1</y>
+      <xscale>1.47</xscale>
+      <yscale>1.47</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">4402237</color>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP15" index="8" attached="Y">
+      <file>common.msp_nccha_handop.msp_nccha_handop_nccha_02hand_open01.swf</file>
+      <x>487.2</x>
+      <y>270.1</y>
+      <xscale>1.29</xscale>
+      <yscale>1.29</yscale>
+      <face>1</face>
+      <rotation>-92.1</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP18" index="9" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>502.6</x>
+      <y>338.8</y>
+      <xscale>1.61</xscale>
+      <yscale>1.61</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16750848</color>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP19" index="10" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>409.8</x>
+      <y>321.5</y>
+      <xscale>2.07</xscale>
+      <yscale>2.07</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16737894</color>
+    </prop>
+    <effectAsset id="EFFECT2" themecode="common" index="13">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="5" target="AVATOR442" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="6" target="AVATOR338" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE18" adelay="108" lock="N" index="16" color="16777215" guid="87BADB9E-09B5-680A-CC00-C3F18EE80526">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_ncc_spookylab_BG7" index="0">
+      <file>common.nccha_stone.swf</file>
+    </bg>
+    <char id="AVATOR338" index="11" raceCode="1">
+      <action face="1,1" motionface="-1">ugc.fce0727.stand.xml</action>
+      <head id="PROP241" raceCode="1">
+        <file>ugc.fce0727.head.head_shocked.xml</file>
+      </head>
+      <x>371.2342695,424.6342695</x>
+      <y>156.7673564,156.75</y>
+      <xscale>0.6809531,0.6809531</xscale>
+      <yscale>0.6809531,0.6809531</yscale>
+      <rotation>89.7320247,89.7320247</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <char id="AVATOR442" index="12" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.grab.xml</action>
+      <head id="PROP111" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>343.75</x>
+      <y>191.45</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_ncc_spookylab_PROP8" index="1" attached="Y">
+      <file>common.msp_nccha_sp_door.msp_nccha_sp_door_nccha_spooky_door01.swf</file>
+      <x>166.9</x>
+      <y>140.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP10" index="2" attached="Y">
+      <file>common.nccha_spooky_pipe02.swf</file>
+      <x>126.1</x>
+      <y>59.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP9" index="3" attached="Y">
+      <file>common.nccha_spooky_pipe01.swf</file>
+      <x>61.2</x>
+      <y>62.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP11" index="4" attached="Y">
+      <file>common.nccha_spooky_pipe02.swf</file>
+      <x>503.2</x>
+      <y>57.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP12" index="5" attached="Y">
+      <file>common.nccha_spooky_pipe01.swf</file>
+      <x>568.2</x>
+      <y>25.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP13" index="6" attached="Y">
+      <file>common.msp_nccha_spooky_mach.msp_nccha_spooky_mach_nccha_spooky_mach03.swf</file>
+      <x>507.1</x>
+      <y>193.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP16" index="7" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>544.2</x>
+      <y>286.1</y>
+      <xscale>1.47</xscale>
+      <yscale>1.47</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">4402237</color>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP15" index="8" attached="Y">
+      <file>common.msp_nccha_handop.msp_nccha_handop_nccha_02hand_open01.swf</file>
+      <x>487.2</x>
+      <y>270.1</y>
+      <xscale>1.29</xscale>
+      <yscale>1.29</yscale>
+      <face>1</face>
+      <rotation>-92.1</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP18" index="9" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>502.6</x>
+      <y>338.8</y>
+      <xscale>1.61</xscale>
+      <yscale>1.61</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16750848</color>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP19" index="10" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>409.8</x>
+      <y>321.5</y>
+      <xscale>2.07</xscale>
+      <yscale>2.07</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16737894</color>
+    </prop>
+    <effectAsset id="EFFECT2" themecode="common" index="13">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="7" target="AVATOR338" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE19" adelay="723" lock="Y" index="17" color="16777215" guid="5B537042-0AE9-58EF-9DE9-F3F25BB6C052">
+    <bg id="cbg_ncc_spookylab_BG7" index="0">
+      <file>common.nccha_stone.swf</file>
+    </bg>
+    <char id="AVATOR338" index="11" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP258" raceCode="1">
+        <file>ugc.fce0727.head.head_shocked.xml</file>
+      </head>
+      <x>424.6342695</x>
+      <y>156.75</y>
+      <xscale>0.6809531</xscale>
+      <yscale>0.6809531</yscale>
+      <rotation>89.7320247</rotation>
+    </char>
+    <char id="AVATOR442" index="12" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.grab.xml</action>
+      <head id="PROP261" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>343.75</x>
+      <y>191.45</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_ncc_spookylab_PROP8" index="1" attached="Y">
+      <file>common.msp_nccha_sp_door.msp_nccha_sp_door_nccha_spooky_door01.swf</file>
+      <x>166.9</x>
+      <y>140.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP10" index="2" attached="Y">
+      <file>common.nccha_spooky_pipe02.swf</file>
+      <x>126.1</x>
+      <y>59.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP9" index="3" attached="Y">
+      <file>common.nccha_spooky_pipe01.swf</file>
+      <x>61.2</x>
+      <y>62.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP11" index="4" attached="Y">
+      <file>common.nccha_spooky_pipe02.swf</file>
+      <x>503.2</x>
+      <y>57.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP12" index="5" attached="Y">
+      <file>common.nccha_spooky_pipe01.swf</file>
+      <x>568.2</x>
+      <y>25.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP13" index="6" attached="Y">
+      <file>common.msp_nccha_spooky_mach.msp_nccha_spooky_mach_nccha_spooky_mach03.swf</file>
+      <x>507.1</x>
+      <y>193.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP16" index="7" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>544.2</x>
+      <y>286.1</y>
+      <xscale>1.47</xscale>
+      <yscale>1.47</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">4402237</color>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP15" index="8" attached="Y">
+      <file>common.msp_nccha_handop.msp_nccha_handop_nccha_02hand_open01.swf</file>
+      <x>487.2</x>
+      <y>270.1</y>
+      <xscale>1.29</xscale>
+      <yscale>1.29</yscale>
+      <face>1</face>
+      <rotation>-92.1</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP18" index="9" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>502.6</x>
+      <y>338.8</y>
+      <xscale>1.61</xscale>
+      <yscale>1.61</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16750848</color>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP19" index="10" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>409.8</x>
+      <y>321.5</y>
+      <xscale>2.07</xscale>
+      <yscale>2.07</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16737894</color>
+    </prop>
+    <prop id="PROP262" index="13">
+      <file>custom.cc_mosaic.swf</file>
+      <x>395.3521254</x>
+      <y>193.15</y>
+      <xscale>7.8899474</xscale>
+      <yscale>7.8899474</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT25" themecode="common" index="14">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="earthquake" type="EARTHQUAKE"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT2" themecode="common" index="15">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE20" adelay="87" lock="N" index="18" color="16777215" guid="0D2D050E-2EBF-D5BE-9CF8-81A376A2D6D6">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_ncc_spookylab_BG7" index="0">
+      <file>common.nccha_stone.swf</file>
+    </bg>
+    <char id="AVATOR338" index="12" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP277" raceCode="1">
+        <file>ugc.fce0727.head.head_asleep.xml</file>
+      </head>
+      <x>456.6842695</x>
+      <y>276.85</y>
+      <xscale>0.6809531</xscale>
+      <yscale>0.6809531</yscale>
+      <rotation>89.7320247</rotation>
+    </char>
+    <char id="AVATOR442" index="13" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <head id="PROP288" raceCode="1">
+        <file>ugc.853cf38.head.head_happy.xml</file>
+      </head>
+      <x>210.7833333</x>
+      <y>206.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_ncc_spookylab_PROP8" index="1" attached="Y">
+      <file>common.msp_nccha_sp_door.msp_nccha_sp_door_nccha_spooky_door01.swf</file>
+      <x>166.9</x>
+      <y>140.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP10" index="2" attached="Y">
+      <file>common.nccha_spooky_pipe02.swf</file>
+      <x>126.1</x>
+      <y>59.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP9" index="3" attached="Y">
+      <file>common.nccha_spooky_pipe01.swf</file>
+      <x>61.2</x>
+      <y>62.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP11" index="4" attached="Y">
+      <file>common.nccha_spooky_pipe02.swf</file>
+      <x>503.2</x>
+      <y>57.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP12" index="5" attached="Y">
+      <file>common.nccha_spooky_pipe01.swf</file>
+      <x>568.2</x>
+      <y>25.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP13" index="6" attached="Y">
+      <file>common.msp_nccha_spooky_mach.msp_nccha_spooky_mach_nccha_spooky_mach03.swf</file>
+      <x>507.1</x>
+      <y>193.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP16" index="7" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>544.2</x>
+      <y>286.1</y>
+      <xscale>1.47</xscale>
+      <yscale>1.47</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">4402237</color>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP15" index="8" attached="Y">
+      <file>common.msp_nccha_handop.msp_nccha_handop_nccha_02hand_open01.swf</file>
+      <x>487.2</x>
+      <y>270.1</y>
+      <xscale>1.29</xscale>
+      <yscale>1.29</yscale>
+      <face>1</face>
+      <rotation>-92.1</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP18" index="9" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>502.6</x>
+      <y>338.8</y>
+      <xscale>1.61</xscale>
+      <yscale>1.61</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16750848</color>
+    </prop>
+    <prop id="PROP282" index="10">
+      <file>common.nccha_blood01.swf</file>
+      <x>436.0159043</x>
+      <y>286.1579522</y>
+      <xscale>4.318087</xscale>
+      <yscale>4.318087</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">14295073</color>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP19" index="11" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>409.8</x>
+      <y>321.5</y>
+      <xscale>2.07</xscale>
+      <yscale>2.07</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16737894</color>
+    </prop>
+    <prop id="PROP284" index="14">
+      <file>common.nccha_blood01.swf</file>
+      <x>496.7159043</x>
+      <y>296.1579522</y>
+      <xscale>4.318087</xscale>
+      <yscale>4.318087</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">14295073</color>
+    </prop>
+    <prop id="PROP285" index="15">
+      <file>common.nccha_blood01.swf</file>
+      <x>423.9659043</x>
+      <y>309.3329522</y>
+      <xscale>4.318087</xscale>
+      <yscale>4.318087</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">14295073</color>
+    </prop>
+    <prop id="PROP286" index="16">
+      <file>common.msp_nccha_handop.msp_nccha_handop_nccha_02hand_open01.swf</file>
+      <x>488.4928225</x>
+      <y>286.0186535</y>
+      <xscale>1.2705882</xscale>
+      <yscale>1.2705882</yscale>
+      <face>-1</face>
+      <rotation>89.2505314</rotation>
+      <color r="ccColorA">16694685</color>
+      <color r="ccColorB">16694685</color>
+      <color r="ccColorC">16694685</color>
+    </prop>
+    <effectAsset id="EFFECT2" themecode="common" index="17">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE21" adelay="1167" lock="Y" index="19" color="16777215" guid="8FDD3C28-8730-C3AB-A14F-CB0EE209A2B5">
+    <bg id="cbg_ncc_spookylab_BG7" index="0">
+      <file>common.nccha_stone.swf</file>
+    </bg>
+    <char id="AVATOR338" index="12" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP300" raceCode="1">
+        <file>ugc.fce0727.head.head_asleep.xml</file>
+      </head>
+      <x>456.6842695</x>
+      <y>276.85</y>
+      <xscale>0.6809531</xscale>
+      <yscale>0.6809531</yscale>
+      <rotation>89.7320247</rotation>
+    </char>
+    <char id="AVATOR442" index="13" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.dance.xml</action>
+      <head id="PROP116" raceCode="1">
+        <file>ugc.853cf38.head.head_happy.xml</file>
+      </head>
+      <x>178.0833333</x>
+      <y>206.05</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_ncc_spookylab_PROP8" index="1" attached="Y">
+      <file>common.msp_nccha_sp_door.msp_nccha_sp_door_nccha_spooky_door01.swf</file>
+      <x>166.9</x>
+      <y>140.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP10" index="2" attached="Y">
+      <file>common.nccha_spooky_pipe02.swf</file>
+      <x>126.1</x>
+      <y>59.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP9" index="3" attached="Y">
+      <file>common.nccha_spooky_pipe01.swf</file>
+      <x>61.2</x>
+      <y>62.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP11" index="4" attached="Y">
+      <file>common.nccha_spooky_pipe02.swf</file>
+      <x>503.2</x>
+      <y>57.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP12" index="5" attached="Y">
+      <file>common.nccha_spooky_pipe01.swf</file>
+      <x>568.2</x>
+      <y>25.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP13" index="6" attached="Y">
+      <file>common.msp_nccha_spooky_mach.msp_nccha_spooky_mach_nccha_spooky_mach03.swf</file>
+      <x>507.1</x>
+      <y>193.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP16" index="7" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>544.2</x>
+      <y>286.1</y>
+      <xscale>1.47</xscale>
+      <yscale>1.47</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">4402237</color>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP15" index="8" attached="Y">
+      <file>common.msp_nccha_handop.msp_nccha_handop_nccha_02hand_open01.swf</file>
+      <x>487.2</x>
+      <y>270.1</y>
+      <xscale>1.29</xscale>
+      <yscale>1.29</yscale>
+      <face>1</face>
+      <rotation>-92.1</rotation>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP18" index="9" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>502.6</x>
+      <y>338.8</y>
+      <xscale>1.61</xscale>
+      <yscale>1.61</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16750848</color>
+    </prop>
+    <prop id="PROP282" index="10">
+      <file>common.nccha_blood01.swf</file>
+      <x>436.0159043</x>
+      <y>286.1579522</y>
+      <xscale>4.318087</xscale>
+      <yscale>4.318087</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">14295073</color>
+    </prop>
+    <prop id="cbg_ncc_spookylab_PROP19" index="11" attached="Y">
+      <file>common.nccha_blood01.swf</file>
+      <x>409.8</x>
+      <y>321.5</y>
+      <xscale>2.07</xscale>
+      <yscale>2.07</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16737894</color>
+    </prop>
+    <prop id="PROP284" index="14">
+      <file>common.nccha_blood01.swf</file>
+      <x>496.7159043</x>
+      <y>296.1579522</y>
+      <xscale>4.318087</xscale>
+      <yscale>4.318087</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">14295073</color>
+    </prop>
+    <prop id="PROP285" index="15">
+      <file>common.nccha_blood01.swf</file>
+      <x>423.9659043</x>
+      <y>309.3329522</y>
+      <xscale>4.318087</xscale>
+      <yscale>4.318087</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">14295073</color>
+    </prop>
+    <prop id="PROP286" index="16">
+      <file>common.msp_nccha_handop.msp_nccha_handop_nccha_02hand_open01.swf</file>
+      <x>488.4928225</x>
+      <y>286.0186535</y>
+      <xscale>1.2705882</xscale>
+      <yscale>1.2705882</yscale>
+      <face>-1</face>
+      <rotation>89.2505314</rotation>
+      <color r="ccColorA">16694685</color>
+      <color r="ccColorB">16694685</color>
+      <color r="ccColorC">16694685</color>
+    </prop>
+    <effectAsset id="EFFECT2" themecode="common" index="17">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND103" index="0" track="0" vol="8" tts="0">
+    <sfile>ugc.0cc127e.mp3</sfile>
+    <start>1696</start>
+    <stop>1800</stop>
+    <trimStart>877</trimStart>
+    <trimEnd>981</trimEnd>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND50" index="1" track="0" vol="8" tts="0">
+    <sfile>ugc.0cc127e.mp3</sfile>
+    <start>1084</start>
+    <stop>1695</stop>
+    <trimStart>877</trimStart>
+    <trimEnd>1488</trimEnd>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND59" index="2" track="0" vol="1" tts="0">
+    <sfile>ugc.d2f02f9.mp3</sfile>
+    <start>1894</start>
+    <stop>3090</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND16" index="3" track="0" vol="8" tts="0">
+    <sfile>ugc.1d57fc0.mp3</sfile>
+    <start>229</start>
+    <stop>321</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND13" index="4" track="0" vol="1" tts="0">
+    <sfile>ugc.5acd83f.mp3</sfile>
+    <start>211</start>
+    <stop>228</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND11" index="5" track="0" vol="1" tts="0">
+    <sfile>ugc.5acd83f.mp3</sfile>
+    <start>151</start>
+    <stop>210</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND8" index="6" track="0" vol="8" tts="0">
+    <sfile>ugc.3d3f31a.mp3</sfile>
+    <start>31</start>
+    <stop>150</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND45" index="7" track="0" vol="8" tts="0">
+    <sfile>common.balloon_pop_15.mp3</sfile>
+    <start>970</start>
+    <stop>981</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND37" index="8" track="0" vol="8" tts="0">
+    <sfile>ugc.1d57fc0.mp3</sfile>
+    <start>655</start>
+    <stop>747</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND33" index="9" track="0" vol="1" tts="0">
+    <sfile>ugc.7f6d956.mp3</sfile>
+    <start>595</start>
+    <stop>654</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND27" index="10" track="0" vol="8" tts="0">
+    <sfile>ugc.470463c.mp3</sfile>
+    <start>424</start>
+    <stop>528</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND20" index="11" track="0" vol="1" tts="0">
+    <sfile>ugc.7f6d956.mp3</sfile>
+    <start>322</start>
+    <stop>381</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND52" index="12" track="1" vol="1" tts="0">
+    <sfile>ugc.5221696.mp3</sfile>
+    <start>1084</start>
+    <stop>1695</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND104" index="13" track="1" vol="4" tts="0">
+    <sfile>ugc.5221696.mp3</sfile>
+    <start>1696</start>
+    <stop>1806</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND17" index="14" track="1" vol="8" tts="0">
+    <sfile>ugc.1d57fc0.mp3</sfile>
+    <start>229</start>
+    <stop>321</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND9" index="15" track="1" vol="8" tts="0">
+    <sfile>ugc.3d3f31a.mp3</sfile>
+    <start>31</start>
+    <stop>150</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND46" index="16" track="1" vol="8" tts="0">
+    <sfile>common.balloon_pop_15.mp3</sfile>
+    <start>970</start>
+    <stop>981</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND38" index="17" track="1" vol="8" tts="0">
+    <sfile>ugc.1d57fc0.mp3</sfile>
+    <start>655</start>
+    <stop>747</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND34" index="18" track="1" vol="1" tts="0">
+    <sfile>ugc.3db0ca3.mp3</sfile>
+    <start>595</start>
+    <stop>654</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND28" index="19" track="1" vol="8" tts="0">
+    <sfile>ugc.470463c.mp3</sfile>
+    <start>424</start>
+    <stop>528</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND102" index="20" track="2" vol="4" tts="0">
+    <sfile>ugc.b2b8518.mp3</sfile>
+    <start>1084</start>
+    <stop>1806</stop>
+    <trimStart>7</trimStart>
+    <trimEnd>730</trimEnd>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND107" index="21" track="2" vol="0.75" tts="0">
+    <sfile>ugc.e739987.mp3</sfile>
+    <start>322</start>
+    <stop>1083</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND18" index="22" track="2" vol="8" tts="0">
+    <sfile>ugc.1d57fc0.mp3</sfile>
+    <start>229</start>
+    <stop>321</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND10" index="23" track="2" vol="8" tts="0">
+    <sfile>ugc.3d3f31a.mp3</sfile>
+    <start>31</start>
+    <stop>150</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND6" index="0" track="0" vol="8" tts="1">
+    <sfile>ugc.a1d2af4.mp3</sfile>
+    <start>31</start>
+    <stop>150</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Yaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaay! It's Santa Claus Time!]]></text>
+      <voice><![CDATA[ivy1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND25" index="1" track="0" vol="8" tts="1">
+    <sfile>ugc.afef6b3.mp3</sfile>
+    <start>424</start>
+    <stop>528</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Shut The Fuck Up Cra! Because They Naughty List! You're Bad Boy Today!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND30" index="2" track="0" vol="1" tts="1">
+    <sfile>ugc.0a0f0fc.mp3</sfile>
+    <start>529</start>
+    <stop>561</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[But! What I Do?]]></text>
+      <voice><![CDATA[ivy1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND32" index="3" track="0" vol="1" tts="1">
+    <sfile>ugc.7e4b7a6.mp3</sfile>
+    <start>562</start>
+    <stop>591</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Follow Me Dork!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND40" index="4" track="0" vol="1" tts="1">
+    <sfile>ugc.1db604d.mp3</sfile>
+    <start>748</start>
+    <stop>789</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[See? What Did I Do Crap!]]></text>
+      <voice><![CDATA[ivy1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND42" index="5" track="0" vol="1" tts="1">
+    <sfile>ugc.ce74675.mp3</sfile>
+    <start>790</start>
+    <stop>888</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Too Bad! Are You Black Ops Site! Do You Black Ops Site?]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND44" index="6" track="0" vol="1" tts="1">
+    <sfile>ugc.6bc8f37.mp3</sfile>
+    <start>889</start>
+    <stop>969</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Do You Want To Go To Black Ops Site! You're Bad Nerd!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND48" index="7" track="0" vol="1" tts="1">
+    <sfile>ugc.8948325.mp3</sfile>
+    <start>976</start>
+    <stop>1083</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND58" index="8" track="0" vol="1" tts="1">
+    <sfile>ugc.6ba0126.mp3</sfile>
+    <start>1807</start>
+    <stop>1893</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Yay! I Killed Bob Kid, Anyways Let's Party!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND35" index="9" track="0" vol="8" tts="1">
+    <sfile>ugc.631809d.mp3</sfile>
+    <start>655</start>
+    <stop>747</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND22" index="10" track="0" vol="1" tts="1">
+    <sfile>ugc.0f6ad9a.mp3</sfile>
+    <start>382</start>
+    <stop>423</stop>
+    <trimEnd>42</trimEnd>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Um! Jacob, What Are You?]]></text>
+      <voice><![CDATA[ivy1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND14" index="11" track="0" vol="8" tts="1">
+    <sfile>ugc.631809d.mp3</sfile>
+    <start>229</start>
+    <stop>321</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND108" index="12" track="0" vol="8" tts="1">
+    <sfile>ugc.9add3ed.mp3</sfile>
+    <start>1084</start>
+    <stop>1806</stop>
+    <trimEnd>723</trimEnd>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND26" index="13" track="1" vol="8" tts="1">
+    <sfile>ugc.afef6b3.mp3</sfile>
+    <start>424</start>
+    <stop>528</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Shut The Fuck Up Cra! Because They Naughty List! You're Bad Boy Today!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND7" index="14" track="1" vol="8" tts="1">
+    <sfile>ugc.a1d2af4.mp3</sfile>
+    <start>31</start>
+    <stop>150</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Yaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaay! It's Santa Claus Time!]]></text>
+      <voice><![CDATA[ivy1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND15" index="15" track="1" vol="8" tts="1">
+    <sfile>ugc.631809d.mp3</sfile>
+    <start>229</start>
+    <stop>321</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND36" index="16" track="1" vol="8" tts="1">
+    <sfile>ugc.631809d.mp3</sfile>
+    <start>655</start>
+    <stop>747</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <linkage>SOUND6,~~~AVATOR338,SCENE3~~~</linkage>
+  <linkage>SOUND22,~~~AVATOR338</linkage>
+  <linkage>SOUND25,~~~AVATOR442,SCENE9~~~</linkage>
+  <linkage>SOUND30,~~~AVATOR338,SCENE10~~~</linkage>
+  <linkage>SOUND32,~~~AVATOR442,SCENE11~~~</linkage>
+  <linkage>SOUND40,~~~AVATOR338,SCENE14~~~</linkage>
+  <linkage>SOUND42,~~~AVATOR442,SCENE15~~~</linkage>
+  <linkage>SOUND44,~~~AVATOR442,SCENE16~~~</linkage>
+  <linkage>SOUND48,~~~AVATOR338,SCENE18~~~</linkage>
+  <linkage>SOUND58,~~~AVATOR442,SCENE20~~~</linkage>
+</film>

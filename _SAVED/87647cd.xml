@@ -1,0 +1,303 @@
+<film copyable="0" duration="124.0" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[E D I T E D G U Y I S N E C K H U R T S]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="2976" lock="Y" index="0" color="16777215" guid="7A676A03-AE49-8E44-CF2D-A3AA1C7D053A">
+    <bg id="BG134" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR136" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.fbc4f72.dance.xml</action>
+      <head id="PROP8" raceCode="1">
+        <file>ugc.fbc4f72.head.head_cry.xml</file>
+      </head>
+      <x>452.1867399</x>
+      <y>318.9045903</y>
+      <xscale>0.8020408</xscale>
+      <yscale>0.8020408</yscale>
+      <rotation>90.2971964</rotation>
+    </char>
+    <char id="AVATOR139" index="4" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.laugh.xml</action>
+      <x>275.922007</x>
+      <y>237.225</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR140" index="5" raceCode="1">
+      <action face="-1" motionface="1">ugc.1ce783c.laugh.xml</action>
+      <x>210.2120662</x>
+      <y>240.075</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR141" index="6" raceCode="1">
+      <action face="-1" motionface="1">ugc.5968966.laugh.xml</action>
+      <x>158.5</x>
+      <y>240.05</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR142" index="9" raceCode="1">
+      <action face="-1" motionface="1">ugc.eda201d.laugh.xml</action>
+      <x>130.5257603</x>
+      <y>246.9478346</y>
+      <xscale>0.9157697</xscale>
+      <yscale>0.9157697</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR143" index="11" raceCode="1">
+      <action face="-1" motionface="1">ugc.b2e76b7.laugh.xml</action>
+      <x>187.2923203</x>
+      <y>327.4398724</y>
+      <xscale>0.7083023</xscale>
+      <yscale>0.7083023</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR144" index="13" raceCode="1">
+      <action face="-1" motionface="1">ugc.8430d59.laugh.xml</action>
+      <x>243.0308049</x>
+      <y>330.0490226</y>
+      <xscale>0.5975992</xscale>
+      <yscale>0.5975992</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR145" index="14" raceCode="1">
+      <action face="-1" motionface="1">ugc.798f99d.laugh.xml</action>
+      <x>145.7142114</x>
+      <y>329.0555982</y>
+      <xscale>0.7298283</xscale>
+      <yscale>0.7298283</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR146" index="15" raceCode="1">
+      <action face="-1" motionface="1">ugc.5f821dd.laugh.xml</action>
+      <x>296.0657767</x>
+      <y>330.717368</y>
+      <xscale>0.7192555</xscale>
+      <yscale>0.7192555</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR147" index="16" raceCode="1">
+      <action face="-1" motionface="1">ugc.0af433f.laugh.xml</action>
+      <x>267.370866</x>
+      <y>334.7455361</y>
+      <xscale>0.6041978</xscale>
+      <yscale>0.6041978</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR148" index="17" raceCode="1">
+      <action face="-1" motionface="1">ugc.7b83d73.laugh.xml</action>
+      <x>114.7996541</x>
+      <y>329.5462031</y>
+      <xscale>0.7523625</xscale>
+      <yscale>0.7523625</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR149" index="18" raceCode="1">
+      <action face="-1" motionface="1">ugc.b07248b.laugh.xml</action>
+      <x>77.4120662</x>
+      <y>240.45</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR150" index="19" raceCode="1">
+      <action face="-1" motionface="1">ugc.fd42955.laugh.xml</action>
+      <x>65.725</x>
+      <y>343.675</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR151" index="7" raceCode="1">
+      <action face="-1" motionface="1">ugc.dd34d0b.laugh.xml</action>
+      <x>276.3889255</x>
+      <y>270.8895634</y>
+      <xscale>0.7402397</xscale>
+      <yscale>0.7402397</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR152" index="12" raceCode="1">
+      <action face="-1" motionface="1">ugc.4197ada.laugh.xml</action>
+      <x>323.9628053</x>
+      <y>270.8970508</y>
+      <xscale>0.7407013</xscale>
+      <yscale>0.7407013</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR153" index="20" raceCode="1">
+      <action face="-1" motionface="1">ugc.820d7be.laugh.xml</action>
+      <x>216.6645959</x>
+      <y>306.639863</y>
+      <xscale>0.4257404</xscale>
+      <yscale>0.4257404</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR154" index="21" raceCode="1">
+      <action face="-1" motionface="1">ugc.8ce9bdc.laugh.xml</action>
+      <x>339.3513856</x>
+      <y>292.6712146</y>
+      <xscale>0.5694491</xscale>
+      <yscale>0.5694491</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR156" index="22" raceCode="1">
+      <action face="-1" motionface="1">ugc.23a4222.laugh.xml</action>
+      <x>320.024587</x>
+      <y>301.3228815</y>
+      <xscale>0.4756806</xscale>
+      <yscale>0.4756806</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR157" index="10" raceCode="1">
+      <action face="-1" motionface="1">ugc.ce51c0a.laugh.xml</action>
+      <x>163.4529676</x>
+      <y>264.0232922</y>
+      <xscale>0.799776</xscale>
+      <yscale>0.799776</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR158" index="8" raceCode="1">
+      <action face="-1" motionface="1">ugc.f9ad7a4.laugh.xml</action>
+      <x>226.768277</x>
+      <y>250.5087547</y>
+      <xscale>0.8309554</xscale>
+      <yscale>0.8309554</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR159" index="23" raceCode="1">
+      <action face="-1" motionface="1">ugc.3e0636b.laugh.xml</action>
+      <x>64.3604052</x>
+      <y>305.3390088</y>
+      <xscale>0.4583792</xscale>
+      <yscale>0.4583792</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR160" index="24" raceCode="1">
+      <action face="-1" motionface="1">ugc.8ad757c.laugh.xml</action>
+      <x>100.5843442</x>
+      <y>302.9791085</y>
+      <xscale>0.4608606</xscale>
+      <yscale>0.4608606</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR161" index="25" raceCode="1">
+      <action face="-1" motionface="1">ugc.3a0411a.laugh.xml</action>
+      <x>173.3178191</x>
+      <y>310.8388063</y>
+      <xscale>0.393703</xscale>
+      <yscale>0.393703</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR162" index="26" raceCode="1">
+      <action face="-1" motionface="1">ugc.5936834.laugh.xml</action>
+      <x>145.7014229</x>
+      <y>317.134592</y>
+      <xscale>0.2944457</xscale>
+      <yscale>0.2944457</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR163" index="27" raceCode="1">
+      <action face="-1" motionface="1">ugc.32e881e.laugh.xml</action>
+      <x>201.5654995</x>
+      <y>307.4714232</y>
+      <xscale>0.3904619</xscale>
+      <yscale>0.3904619</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR164" index="3" raceCode="1">
+      <action face="-1" motionface="1">ugc.48467cf.laugh.xml</action>
+      <x>323.6</x>
+      <y>226.575</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR165" index="28" raceCode="1">
+      <action face="-1" motionface="1">ugc.8adbb54.laugh.xml</action>
+      <x>57.3483623</x>
+      <y>318.15292</y>
+      <xscale>0.3289428</xscale>
+      <yscale>0.3289428</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR166" index="29" raceCode="1">
+      <action face="-1" motionface="1">ugc.08112dd.laugh.xml</action>
+      <x>91.8141904</x>
+      <y>313.8661441</y>
+      <xscale>0.3542349</xscale>
+      <yscale>0.3542349</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR167" index="30" raceCode="1">
+      <action face="-1" motionface="1">ugc.ee57322.laugh.xml</action>
+      <x>236.6104392</x>
+      <y>301.6068998</y>
+      <xscale>0.4692258</xscale>
+      <yscale>0.4692258</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR168" index="1" raceCode="1">
+      <action face="-1" motionface="1">ugc.40ab815.laugh.xml</action>
+      <x>77.2710423</x>
+      <y>183.9437118</y>
+      <xscale>1.1686798</xscale>
+      <yscale>1.1686798</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="31">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND1" index="0" track="0" vol="4" tts="0">
+    <sfile>ugc.211d85d.mp3</sfile>
+    <start>1</start>
+    <stop>2976</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND2" index="1" track="1" vol="4" tts="0">
+    <sfile>ugc.211d85d.mp3</sfile>
+    <start>1</start>
+    <stop>2976</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND3" index="2" track="2" vol="4" tts="0">
+    <sfile>ugc.211d85d.mp3</sfile>
+    <start>1</start>
+    <stop>2976</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+</film>

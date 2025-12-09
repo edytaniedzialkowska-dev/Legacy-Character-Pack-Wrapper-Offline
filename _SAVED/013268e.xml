@@ -1,0 +1,1721 @@
+<film copyable="0" duration="70.6" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Jacob's Cam: Szymon Gets Naughty List!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+      <color value="140000"/>
+      <color value="0"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="60" lock="N" index="0" color="16777215" guid="52DB5098-FD99-6383-D3BC-6FAF0B25362B" combgId="custom.cbg_boy_rm">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR140" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.stand.xml</action>
+      <head id="PROP10" raceCode="1">
+        <file>ugc.2dea75b.head.head_asleep.xml</file>
+      </head>
+      <x>286.81264</x>
+      <y>227.3645284</y>
+      <xscale>0.5895782</xscale>
+      <yscale>0.5895782</yscale>
+      <rotation>59.3151879</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP7" index="4" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="3" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>89</x>
+      <y>257</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP5" index="2" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket02.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="7">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="false" isPan="true"/>
+      <x>47,226.9451613</x>
+      <y>24,152.3716129</y>
+      <width>550,165.7096774</width>
+      <height>354,106.6567742</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT1" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="bumpyride" type="BUMPYRIDE"/>
+      <x>322</x>
+      <y>179</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT2" index="6">
+      <effect id="DV_screen.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.DV_screen.swf</file>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE1" adelay="105" lock="N" index="1" color="16777215" guid="EDDB3500-1821-AE04-90FF-FB8253CCC29A">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR140" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.stand.xml</action>
+      <head id="PROP11" raceCode="1">
+        <file>ugc.2dea75b.head.head_asleep.xml</file>
+      </head>
+      <x>286.81264</x>
+      <y>227.3645284</y>
+      <xscale>0.5895782</xscale>
+      <yscale>0.5895782</yscale>
+      <rotation>59.3151879</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="2" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket02.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="3" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>89</x>
+      <y>257</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="4" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="7">
+      <effect x="0" y="0" w="165.7096774" h="93.4" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>226.9451613</x>
+      <y>152.3716129</y>
+      <width>165.7096774</width>
+      <height>106.6567742</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT9" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="hovering" type="HOVERING"/>
+      <x>322</x>
+      <y>179</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT10" index="6">
+      <effect id="DV_screen.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.DV_screen.swf</file>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE2" adelay="33" lock="Y" index="2" color="16777215" guid="F70FC6DF-4B10-8AF0-F3AA-7CA5EAD8D942">
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR140" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.stand.xml</action>
+      <head id="PROP22" raceCode="1">
+        <file>ugc.2dea75b.head.head_yawn.xml</file>
+      </head>
+      <x>286.81264</x>
+      <y>227.3645284</y>
+      <xscale>0.5895782</xscale>
+      <yscale>0.5895782</yscale>
+      <rotation>59.3151879</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="2" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket02.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="3" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>89</x>
+      <y>257</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="4" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT9" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="hovering" type="HOVERING"/>
+      <x>47</x>
+      <y>2</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT10" index="6">
+      <effect id="DV_screen.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.DV_screen.swf</file>
+    </effectAsset>
+    <effectAsset id="EFFECT0" themecode="common" index="7">
+      <effect x="0" y="0" w="165.7096774" h="93.4" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>226.9451613</x>
+      <y>152.3716129</y>
+      <width>165.7096774</width>
+      <height>106.6567742</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE3" adelay="72" lock="N" index="3" color="16777215" guid="718C182A-F2F6-177F-F9BC-8725429D22FD">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR140" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.stand.xml</action>
+      <head id="PROP30" raceCode="1">
+        <file>ugc.2dea75b.head.head_surprised.xml</file>
+      </head>
+      <x>286.81264</x>
+      <y>227.3645284</y>
+      <xscale>0.5895782</xscale>
+      <yscale>0.5895782</yscale>
+      <rotation>59.3151879</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="2" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket02.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="3" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>89</x>
+      <y>257</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="4" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT9" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="hovering" type="HOVERING"/>
+      <x>47</x>
+      <y>46</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT10" index="6">
+      <effect id="DV_screen.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.DV_screen.swf</file>
+    </effectAsset>
+    <effectAsset id="EFFECT0" themecode="common" index="7">
+      <effect x="0" y="0" w="165.7096774" h="93.4" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>226.9451613</x>
+      <y>152.3716129</y>
+      <width>165.7096774</width>
+      <height>106.6567742</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE4" adelay="243" lock="Y" index="4" color="16777215" guid="00488E14-D38D-B404-4EC0-159A1B3B6C7D">
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR140" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.stand.xml</action>
+      <head id="PROP36" raceCode="1">
+        <file>ugc.2dea75b.head.head_shocked.xml</file>
+      </head>
+      <x>286.81264</x>
+      <y>227.3645284</y>
+      <xscale>0.5895782</xscale>
+      <yscale>0.5895782</yscale>
+      <rotation>59.3151879</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="2" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket02.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="3" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>89</x>
+      <y>257</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="4" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT9" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="hovering" type="HOVERING"/>
+      <x>47</x>
+      <y>2</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT10" index="6">
+      <effect id="DV_screen.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.DV_screen.swf</file>
+    </effectAsset>
+    <effectAsset id="EFFECT0" themecode="common" index="7">
+      <effect x="0" y="0" w="165.7096774" h="93.4" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>226.9451613</x>
+      <y>152.3716129</y>
+      <width>165.7096774</width>
+      <height>106.6567742</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE5" adelay="42" lock="Y" index="5" color="16777215" guid="11AA8170-B21A-EC40-D021-DC2E8CF4F075">
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR140" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.stand.xml</action>
+      <head id="PROP37" raceCode="1">
+        <file>ugc.2dea75b.head.head_shocked.xml</file>
+      </head>
+      <x>288.53764</x>
+      <y>228.8395284</y>
+      <xscale>0.5895782</xscale>
+      <yscale>0.5895782</yscale>
+      <rotation>59.3151879</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="2" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket02.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="3" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>89</x>
+      <y>257</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="4" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT9" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="hovering" type="HOVERING"/>
+      <x>47</x>
+      <y>46</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT10" index="6">
+      <effect id="DV_screen.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.DV_screen.swf</file>
+    </effectAsset>
+    <effectAsset id="EFFECT0" themecode="common" index="7">
+      <effect x="0" y="0" w="165.7096774" h="93.4" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>226.9451613</x>
+      <y>152.3716129</y>
+      <width>165.7096774</width>
+      <height>106.6567742</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE6" adelay="60" lock="Y" index="6" color="16777215" guid="CC35C1C0-5A25-0FA7-8040-6DD2E0B19389">
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR140" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.stand.xml</action>
+      <head id="PROP46" raceCode="1">
+        <file>ugc.2dea75b.head.head_angry.xml</file>
+      </head>
+      <x>288.53764</x>
+      <y>228.8395284</y>
+      <xscale>0.5895782</xscale>
+      <yscale>0.5895782</yscale>
+      <rotation>59.3151879</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="2" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket02.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="3" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>89</x>
+      <y>257</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="4" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT9" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="hovering" type="HOVERING"/>
+      <x>47</x>
+      <y>2</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT10" index="6">
+      <effect id="DV_screen.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.DV_screen.swf</file>
+    </effectAsset>
+    <effectAsset id="EFFECT0" themecode="common" index="7">
+      <effect x="0" y="0" w="165.7096774" h="93.4" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>226.9451613</x>
+      <y>152.3716129</y>
+      <width>165.7096774</width>
+      <height>106.6567742</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE7" adelay="78" lock="N" index="7" color="16777215" guid="C73D4019-7326-4612-612D-E981DE72F2E9">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR140" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.2dea75b.stand.xml</action>
+      <head id="PROP47" raceCode="1">
+        <file>ugc.2dea75b.head.head_angry.xml</file>
+      </head>
+      <x>288.53764</x>
+      <y>228.8395284</y>
+      <xscale>0.5895782</xscale>
+      <yscale>0.5895782</yscale>
+      <rotation>59.3151879</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="2" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket02.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="3" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>89</x>
+      <y>257</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="4" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT9" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="hovering" type="HOVERING"/>
+      <x>47</x>
+      <y>46</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT10" index="6">
+      <effect id="DV_screen.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.DV_screen.swf</file>
+    </effectAsset>
+    <effectAsset id="EFFECT0" themecode="common" index="7">
+      <effect x="0" y="0" w="165.7096774" h="93.4" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>226.9451613</x>
+      <y>152.3716129</y>
+      <width>165.7096774</width>
+      <height>106.6567742</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE8" adelay="39" lock="Y" index="8" color="16777215" guid="706C7550-F22B-E7B0-11E0-60FE01D07CF9">
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR140" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.e713ae6.stand.xml</action>
+      <head id="PROP56" raceCode="1">
+        <file>ugc.e713ae6.head.head_angry.xml</file>
+      </head>
+      <x>288.53764</x>
+      <y>228.8395284</y>
+      <xscale>0.5895782</xscale>
+      <yscale>0.5895782</yscale>
+      <rotation>59.3151879</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="2" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket02.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="3" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>89</x>
+      <y>257</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="4" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT9" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="hovering" type="HOVERING"/>
+      <x>47</x>
+      <y>2</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT10" index="6">
+      <effect id="DV_screen.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.DV_screen.swf</file>
+    </effectAsset>
+    <effectAsset id="EFFECT0" themecode="common" index="7">
+      <effect x="0" y="0" w="165.7096774" h="93.4" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>226.9451613</x>
+      <y>152.3716129</y>
+      <width>165.7096774</width>
+      <height>106.6567742</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE9" adelay="81" lock="N" index="9" color="16777215" guid="41BD047F-0C0E-847A-DDA5-1CBA0D8A68B6">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR140" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.e713ae6.dance.xml</action>
+      <head id="PROP57" raceCode="1">
+        <file>ugc.e713ae6.head.head_angry.xml</file>
+      </head>
+      <x>298.9897552</x>
+      <y>237.4717211</y>
+      <xscale>0.5895782</xscale>
+      <yscale>0.5895782</yscale>
+      <rotation>59.3151879</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="2" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket02.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="3" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>89</x>
+      <y>257</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="4" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="7">
+      <effect x="0" y="0" w="165.7096774" h="93.4" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>226.9451613</x>
+      <y>152.3716129</y>
+      <width>165.7096774</width>
+      <height>106.6567742</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT35" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="earthquake" type="EARTHQUAKE"/>
+      <x>322</x>
+      <y>179</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT36" index="6">
+      <effect id="DV_screen.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.DV_screen.swf</file>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE10" adelay="60" lock="Y" index="10" color="16777215" guid="C7C3E653-B19E-37FA-25B7-73BB77B54A7C">
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR140" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.e713ae6.dance.xml</action>
+      <head id="PROP61" raceCode="1">
+        <file>ugc.e713ae6.head.head_angry.xml</file>
+      </head>
+      <x>298.9897552</x>
+      <y>237.4717211</y>
+      <xscale>0.5895782</xscale>
+      <yscale>0.5895782</yscale>
+      <rotation>59.3151879</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="2" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket02.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="3" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>88.95</x>
+      <y>262.85</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="4" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT35" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="earthquake" type="EARTHQUAKE"/>
+      <x>47</x>
+      <y>2</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT36" index="6">
+      <effect id="DV_screen.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.DV_screen.swf</file>
+    </effectAsset>
+    <effectAsset id="EFFECT0" themecode="common" index="7">
+      <effect x="0" y="0" w="165.7096774" h="93.4" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>226.9451613</x>
+      <y>152.3716129</y>
+      <width>165.7096774</width>
+      <height>106.6567742</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE11" adelay="69" lock="Y" index="11" color="16777215" guid="95211E26-2387-B6ED-077F-0B8985B257F8">
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR140" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.e713ae6.stand.xml</action>
+      <head id="PROP65" raceCode="1">
+        <file>ugc.e713ae6.head.head_angry.xml</file>
+      </head>
+      <x>286.3397552</x>
+      <y>223.406195</y>
+      <xscale>0.5895782</xscale>
+      <yscale>0.5895782</yscale>
+      <rotation>59.3151879</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="2" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket02.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="3" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>88.95</x>
+      <y>262.85</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="4" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT36" index="5">
+      <effect id="DV_screen.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.DV_screen.swf</file>
+    </effectAsset>
+    <effectAsset id="EFFECT0" themecode="common" index="7">
+      <effect x="0" y="0" w="165.7096774" h="93.4" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>226.9451613</x>
+      <y>152.3716129</y>
+      <width>165.7096774</width>
+      <height>106.6567742</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT63" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="hovering" type="HOVERING"/>
+      <x>322</x>
+      <y>179</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE12" adelay="81" lock="N" index="12" color="16777215" guid="AAE7EAF3-8A2E-5044-3518-3F63408E73BD">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR140" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.e713ae6.stand.xml</action>
+      <head id="PROP69" raceCode="1">
+        <file>ugc.e713ae6.head.head_angry.xml</file>
+      </head>
+      <x>286.3397552</x>
+      <y>223.406195</y>
+      <xscale>0.5895782</xscale>
+      <yscale>0.5895782</yscale>
+      <rotation>59.3151879</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="2" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket02.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="3" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>88.95</x>
+      <y>262.825</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="4" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT36" index="5">
+      <effect id="DV_screen.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.DV_screen.swf</file>
+    </effectAsset>
+    <effectAsset id="EFFECT0" themecode="common" index="7">
+      <effect x="0" y="0" w="165.7096774" h="93.4" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>226.9451613</x>
+      <y>152.3716129</y>
+      <width>165.7096774</width>
+      <height>106.6567742</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT63" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="hovering" type="HOVERING"/>
+      <x>322</x>
+      <y>179</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE13" adelay="258" lock="N" index="13" color="16777215" guid="24604C35-8F7D-977E-AB29-94098BE6615D">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR140" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.e713ae6.dance.xml</action>
+      <head id="PROP73" raceCode="1">
+        <file>ugc.e713ae6.head.head_angry.xml</file>
+      </head>
+      <x>307.0397552</x>
+      <y>237.4717211</y>
+      <xscale>0.5895782</xscale>
+      <yscale>0.5895782</yscale>
+      <rotation>59.3151879</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="2" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket02.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="3" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>88.95</x>
+      <y>262.825</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="4" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT35" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="earthquake" type="EARTHQUAKE"/>
+      <x>47</x>
+      <y>46</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT36" index="6">
+      <effect id="DV_screen.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.DV_screen.swf</file>
+    </effectAsset>
+    <effectAsset id="EFFECT0" themecode="common" index="7">
+      <effect x="0" y="0" w="165.7096774" h="93.4" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>226.9451613</x>
+      <y>152.3716129</y>
+      <width>165.7096774</width>
+      <height>106.6567742</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE14" adelay="147" lock="N" index="14" color="16777215" guid="4504B255-6213-1DF8-D6C3-D33336AE436E">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR140" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.e713ae6.xarms.xml</action>
+      <head id="PROP77" raceCode="1">
+        <file>ugc.e713ae6.head.head_angry.xml</file>
+      </head>
+      <x>295.23764</x>
+      <y>223.406195</y>
+      <xscale>0.5895782</xscale>
+      <yscale>0.5895782</yscale>
+      <rotation>59.3151879</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="2" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket02.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="3" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>88.95</x>
+      <y>262.825</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="4" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT36" index="5">
+      <effect id="DV_screen.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.DV_screen.swf</file>
+    </effectAsset>
+    <effectAsset id="EFFECT0" themecode="common" index="7">
+      <effect x="0" y="0" w="165.7096774" h="93.4" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>226.9451613</x>
+      <y>152.3716129</y>
+      <width>165.7096774</width>
+      <height>106.6567742</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT64" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="hovering" type="HOVERING"/>
+      <x>322</x>
+      <y>179</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE15" adelay="57" lock="Y" index="15" color="16777215" guid="FD6D9665-DDA0-E4E0-0490-39E137F2A2DB">
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR140" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.ef2d524.xarms.xml</action>
+      <head id="PROP86" raceCode="1">
+        <file>ugc.ef2d524.head.head_angry.xml</file>
+      </head>
+      <x>296.93764</x>
+      <y>223.406195</y>
+      <xscale>0.5895782</xscale>
+      <yscale>0.5895782</yscale>
+      <rotation>59.3151879</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="2" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket02.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="3" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>88.95</x>
+      <y>262.825</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="4" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT36" index="5">
+      <effect id="DV_screen.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.DV_screen.swf</file>
+    </effectAsset>
+    <effectAsset id="EFFECT0" themecode="common" index="7">
+      <effect x="0" y="0" w="165.7096774" h="93.4" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>226.9451613</x>
+      <y>152.3716129</y>
+      <width>165.7096774</width>
+      <height>106.6567742</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT64" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="hovering" type="HOVERING"/>
+      <x>322</x>
+      <y>179</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE16" adelay="6" lock="Y" index="16" color="16777215" guid="69183625-4E16-4246-6AB9-7182348A8057">
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR140" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.ef2d524.excited.xml</action>
+      <head id="PROP87" raceCode="1">
+        <file>ugc.ef2d524.head.head_angry.xml</file>
+      </head>
+      <x>296.93764</x>
+      <y>223.406195</y>
+      <xscale>0.5895782</xscale>
+      <yscale>0.5895782</yscale>
+      <rotation>59.3151879</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="2" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket02.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="3" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>88.95</x>
+      <y>262.825</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="4" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP91" index="5">
+      <file>common.ncc_stone.swf</file>
+      <x>343.6,314.275</x>
+      <y>221.2728249,205.7</y>
+      <xscale>0.1231656,1.92394</xscale>
+      <yscale>0.1231656,2.91558</yscale>
+      <face>1,1</face>
+      <rotation>0,59.1016116</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT36" index="6">
+      <effect id="DV_screen.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.DV_screen.swf</file>
+    </effectAsset>
+    <effectAsset id="EFFECT0" themecode="common" index="8">
+      <effect x="0" y="0" w="165.7096774" h="93.4" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>226.9451613</x>
+      <y>152.3716129</y>
+      <width>165.7096774</width>
+      <height>106.6567742</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT64" themecode="common" index="7">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="hovering" type="HOVERING"/>
+      <x>322</x>
+      <y>179</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="PROP91" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE17" adelay="27" lock="Y" index="17" color="0" guid="CDA3688B-4CBB-5409-A096-47AF51D3FDA1">
+    <effectAsset id="EFFECT61" themecode="common" index="1">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <trans id="GoTrans" index="1">
+      <fx dur="6" type="flashEff.FESBadTransmission.out" ease="null"/>
+    </trans>
+  </scene>
+  <scene id="SCENE18" adelay="177" lock="N" index="18" color="0" guid="22A99E6C-1D7F-3541-0B2E-9AA88D526978">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <effectAsset id="EFFECT61" themecode="common" index="1">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND74" index="0" track="0" vol="8" tts="0">
+    <sfile>ugc.aa1d464.mp3</sfile>
+    <start>1519</start>
+    <stop>1695</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND68" index="1" track="0" vol="8" tts="0">
+    <sfile>ugc.a153af6.mp3</sfile>
+    <start>1492</start>
+    <stop>1518</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND67" index="2" track="0" vol="1" tts="0">
+    <sfile>common.slide_whistle_down_04.mp3</sfile>
+    <start>1486</start>
+    <stop>1491</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND64" index="3" track="0" vol="8" tts="0">
+    <sfile>ugc.cc8cf85.mp3</sfile>
+    <start>1429</start>
+    <stop>1485</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND58" index="4" track="0" vol="8" tts="0">
+    <sfile>ugc.3e2e94e.mp3</sfile>
+    <start>1282</start>
+    <stop>1428</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND52" index="5" track="0" vol="8" tts="0">
+    <sfile>ugc.6870fb6.mp3</sfile>
+    <start>1024</start>
+    <stop>1281</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND46" index="6" track="0" vol="8" tts="0">
+    <sfile>ugc.aa77e9b.mp3</sfile>
+    <start>943</start>
+    <stop>1023</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND37" index="7" track="0" vol="8" tts="0">
+    <sfile>ugc.8b8ea36.mp3</sfile>
+    <start>814</start>
+    <stop>873</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND31" index="8" track="0" vol="8" tts="0">
+    <sfile>ugc.aa77e9b.mp3</sfile>
+    <start>733</start>
+    <stop>813</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND20" index="9" track="0" vol="8" tts="0">
+    <sfile>common.artillery_explosion_09.mp3</sfile>
+    <start>694</start>
+    <stop>732</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND15" index="10" track="0" vol="8" tts="0">
+    <sfile>ugc.a24310b.mp3</sfile>
+    <start>556</start>
+    <stop>615</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND3" index="11" track="0" vol="1" tts="0">
+    <sfile>ugc.8c2d0ca.mp3</sfile>
+    <start>166</start>
+    <stop>216</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND0" index="12" track="0" vol="1" tts="0">
+    <sfile>ugc.7f6d956.mp3</sfile>
+    <start>1</start>
+    <stop>60</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND75" index="13" track="1" vol="8" tts="0">
+    <sfile>ugc.aa1d464.mp3</sfile>
+    <start>1519</start>
+    <stop>1695</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND69" index="14" track="1" vol="8" tts="0">
+    <sfile>ugc.a153af6.mp3</sfile>
+    <start>1492</start>
+    <stop>1518</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND65" index="15" track="1" vol="8" tts="0">
+    <sfile>ugc.cc8cf85.mp3</sfile>
+    <start>1429</start>
+    <stop>1485</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND59" index="16" track="1" vol="8" tts="0">
+    <sfile>ugc.3e2e94e.mp3</sfile>
+    <start>1282</start>
+    <stop>1428</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND53" index="17" track="1" vol="8" tts="0">
+    <sfile>ugc.6870fb6.mp3</sfile>
+    <start>1024</start>
+    <stop>1281</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND47" index="18" track="1" vol="8" tts="0">
+    <sfile>ugc.aa77e9b.mp3</sfile>
+    <start>943</start>
+    <stop>1023</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND38" index="19" track="1" vol="8" tts="0">
+    <sfile>ugc.8b8ea36.mp3</sfile>
+    <start>814</start>
+    <stop>873</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND32" index="20" track="1" vol="8" tts="0">
+    <sfile>ugc.aa77e9b.mp3</sfile>
+    <start>733</start>
+    <stop>813</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND21" index="21" track="1" vol="8" tts="0">
+    <sfile>common.artillery_explosion_09.mp3</sfile>
+    <start>694</start>
+    <stop>732</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND16" index="22" track="1" vol="8" tts="0">
+    <sfile>ugc.a24310b.mp3</sfile>
+    <start>556</start>
+    <stop>615</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND76" index="23" track="2" vol="8" tts="0">
+    <sfile>ugc.aa1d464.mp3</sfile>
+    <start>1519</start>
+    <stop>1695</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND70" index="24" track="2" vol="8" tts="0">
+    <sfile>ugc.a153af6.mp3</sfile>
+    <start>1492</start>
+    <stop>1518</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND66" index="25" track="2" vol="8" tts="0">
+    <sfile>ugc.cc8cf85.mp3</sfile>
+    <start>1429</start>
+    <stop>1485</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND60" index="26" track="2" vol="8" tts="0">
+    <sfile>ugc.3e2e94e.mp3</sfile>
+    <start>1282</start>
+    <stop>1428</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND54" index="27" track="2" vol="8" tts="0">
+    <sfile>ugc.6870fb6.mp3</sfile>
+    <start>1024</start>
+    <stop>1281</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND48" index="28" track="2" vol="8" tts="0">
+    <sfile>ugc.aa77e9b.mp3</sfile>
+    <start>943</start>
+    <stop>1023</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND39" index="29" track="2" vol="8" tts="0">
+    <sfile>ugc.8b8ea36.mp3</sfile>
+    <start>814</start>
+    <stop>873</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND33" index="30" track="2" vol="8" tts="0">
+    <sfile>ugc.aa77e9b.mp3</sfile>
+    <start>733</start>
+    <stop>813</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND22" index="31" track="2" vol="8" tts="0">
+    <sfile>common.artillery_explosion_09.mp3</sfile>
+    <start>694</start>
+    <stop>732</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND17" index="32" track="2" vol="8" tts="0">
+    <sfile>ugc.a24310b.mp3</sfile>
+    <start>556</start>
+    <stop>615</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND2" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.8c1b45f.mp3</sfile>
+    <start>61</start>
+    <stop>165</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Szymon, Wake Up Right Now! What's Your Present For Christmas!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND5" index="1" track="0" vol="1" tts="1">
+    <sfile>ugc.3976487.mp3</sfile>
+    <start>199</start>
+    <stop>270</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[a Nintendo Switch 2 + Mario Kart World?]]></text>
+      <voice><![CDATA[justin1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND7" index="2" track="0" vol="1" tts="1">
+    <sfile>ugc.c4d5a6e.mp3</sfile>
+    <start>271</start>
+    <stop>513</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Oh! No No No No No No No No No No No No No No No No No, No! There's No Way Nintendo Switch 2 + Mario Kart World!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND11" index="3" track="0" vol="1" tts="1">
+    <sfile>ugc.f85fb2f.mp3</sfile>
+    <start>514</start>
+    <stop>555</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[And Because They Enough Money!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND13" index="4" track="0" vol="8" tts="1">
+    <sfile>ugc.048cf57.mp3</sfile>
+    <start>556</start>
+    <stop>615</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[What? Are You Joking Bro?]]></text>
+      <voice><![CDATA[kidaroo]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND19" index="5" track="0" vol="1" tts="1">
+    <sfile>ugc.4edb45d.mp3</sfile>
+    <start>616</start>
+    <stop>693</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Because You're Naughty List And The Coal For Christmas!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND29" index="6" track="0" vol="8" tts="1">
+    <sfile>ugc.dce4501.mp3</sfile>
+    <start>733</start>
+    <stop>813</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[I Want Nintendo Switch 2 + Mario Kart World!]]></text>
+      <voice><![CDATA[kidaroo]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND35" index="7" track="0" vol="8" tts="1">
+    <sfile>ugc.39c0332.mp3</sfile>
+    <start>814</start>
+    <stop>873</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[You Son of a Tried Piece Of Shit Bitch!]]></text>
+      <voice><![CDATA[kidaroo]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND41" index="8" track="0" vol="1" tts="1">
+    <sfile>ugc.6aef4fb.mp3</sfile>
+    <start>874</start>
+    <stop>942</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Szymon, Stop Shouting Me Like That!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND43" index="9" track="0" vol="8" tts="1">
+    <sfile>ugc.8b1d08d.mp3</sfile>
+    <start>943</start>
+    <stop>1023</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[I Want Nintendo Switch 2 + Mario Kart World!]]></text>
+      <voice><![CDATA[kidaroo]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND50" index="10" track="0" vol="8" tts="1">
+    <sfile>ugc.5059eb6.mp3</sfile>
+    <start>1024</start>
+    <stop>1281</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[I Want Nintendo Switch 2 + Mario Kart World I Want Nintendo Switch 2 + Mario Kart World I Want Nintendo Switch 2 + Mario Kart Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaar!]]></text>
+      <voice><![CDATA[kidaroo]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND56" index="11" track="0" vol="8" tts="1">
+    <sfile>ugc.2263383.mp3</sfile>
+    <start>1282</start>
+    <stop>1428</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Szymon, I Said No! You're Not Wanted To Nintendo Switch 2 + Mario Kart World!]]></text>
+      <voice><![CDATA[eric]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND62" index="12" track="0" vol="8" tts="1">
+    <sfile>ugc.dcf40b8.mp3</sfile>
+    <start>1429</start>
+    <stop>1485</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[That's It! Fuck Off You Bitch Nigger!]]></text>
+      <voice><![CDATA[kidaroo]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND72" index="13" track="0" vol="8" tts="1">
+    <sfile>ugc.2b3b688.mp3</sfile>
+    <start>1519</start>
+    <stop>1695</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[That's It Szymon! Because You Broke Of This Camera, You're Grounded For 895013 Years!]]></text>
+      <voice><![CDATA[eric]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND73" index="14" track="1" vol="8" tts="1">
+    <sfile>ugc.2b3b688.mp3</sfile>
+    <start>1519</start>
+    <stop>1695</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[That's It Szymon! Because You Broke Of This Camera, You're Grounded For 895013 Years!]]></text>
+      <voice><![CDATA[eric]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND57" index="15" track="1" vol="8" tts="1">
+    <sfile>ugc.2263383.mp3</sfile>
+    <start>1282</start>
+    <stop>1428</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Szymon, I Said No! You're Not Wanted To Nintendo Switch 2 + Mario Kart World!]]></text>
+      <voice><![CDATA[eric]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND51" index="16" track="1" vol="8" tts="1">
+    <sfile>ugc.5059eb6.mp3</sfile>
+    <start>1024</start>
+    <stop>1281</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[I Want Nintendo Switch 2 + Mario Kart World I Want Nintendo Switch 2 + Mario Kart World I Want Nintendo Switch 2 + Mario Kart Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaar!]]></text>
+      <voice><![CDATA[kidaroo]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND30" index="17" track="1" vol="8" tts="1">
+    <sfile>ugc.dce4501.mp3</sfile>
+    <start>733</start>
+    <stop>813</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[I Want Nintendo Switch 2 + Mario Kart World!]]></text>
+      <voice><![CDATA[kidaroo]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND14" index="18" track="1" vol="8" tts="1">
+    <sfile>ugc.048cf57.mp3</sfile>
+    <start>556</start>
+    <stop>615</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[What? Are You Joking Bro?]]></text>
+      <voice><![CDATA[kidaroo]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND36" index="19" track="1" vol="8" tts="1">
+    <sfile>ugc.39c0332.mp3</sfile>
+    <start>814</start>
+    <stop>873</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[You Son of a Tried Piece Of Shit Bitch!]]></text>
+      <voice><![CDATA[kidaroo]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND44" index="20" track="1" vol="8" tts="1">
+    <sfile>ugc.8b1d08d.mp3</sfile>
+    <start>943</start>
+    <stop>1023</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[I Want Nintendo Switch 2 + Mario Kart World!]]></text>
+      <voice><![CDATA[kidaroo]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND63" index="21" track="1" vol="8" tts="1">
+    <sfile>ugc.dcf40b8.mp3</sfile>
+    <start>1429</start>
+    <stop>1485</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[That's It! Fuck Off You Bitch Nigger!]]></text>
+      <voice><![CDATA[kidaroo]]></voice>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND2,SCENE1~~~</linkage>
+  <linkage>SOUND5,~~~AVATOR140,SCENE3~~~</linkage>
+  <linkage>SOUND7,SCENE4~~~</linkage>
+  <linkage>SOUND11,SCENE5~~~</linkage>
+  <linkage>SOUND13,~~~AVATOR140,SCENE6~~~</linkage>
+  <linkage>SOUND19,SCENE7~~~</linkage>
+  <linkage>SOUND29,~~~AVATOR140,SCENE9~~~</linkage>
+  <linkage>SOUND35,~~~AVATOR140,SCENE10~~~</linkage>
+  <linkage>SOUND41,SCENE11~~~</linkage>
+  <linkage>SOUND43,~~~AVATOR140,SCENE12~~~</linkage>
+  <linkage>SOUND50,~~~AVATOR140,SCENE13~~~</linkage>
+  <linkage>SOUND56,SCENE14~~~</linkage>
+  <linkage>SOUND62,~~~AVATOR140,SCENE15~~~</linkage>
+  <linkage>SOUND72,SCENE18~~~</linkage>
+</film>

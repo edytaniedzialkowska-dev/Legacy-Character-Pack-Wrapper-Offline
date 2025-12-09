@@ -1,0 +1,800 @@
+<film copyable="0" duration="40.5" published="1" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Jacob2010's Reversed Sing Challenge!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="7"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="39" lock="Y" index="0" color="16777215" guid="BDF64AC6-E488-804F-2427-CBBB9E8DD7BF">
+    <char id="AVATOR138" index="1" raceCode="1" faceCamera="true">
+      <action face="-1" motionface="1">ugc.853cf38.stand.xml</action>
+      <prop id="PROP77" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>223.6140078</x>
+      <y>335.3768116</y>
+      <xscale>2.1668615</xscale>
+      <yscale>2.1668615</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR140" index="2" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6bcaf6c.stand.xml</action>
+      <x>427.1189469</x>
+      <y>345.1514526</y>
+      <xscale>2.0815494</xscale>
+      <yscale>2.0815494</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE1" adelay="6" lock="Y" index="1" color="16777215" guid="21BC9894-4C7B-F7FC-CC0C-C0D760730ADB">
+    <char id="AVATOR138" index="1" raceCode="1" faceCamera="true">
+      <action face="-1" motionface="1">ugc.853cf38.stand.xml</action>
+      <prop id="PROP4" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>223.6140078</x>
+      <y>335.3768116</y>
+      <xscale>2.1668615</xscale>
+      <yscale>2.1668615</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR140" index="2" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6bcaf6c.stand.xml</action>
+      <x>427.1189469</x>
+      <y>345.1514526</y>
+      <xscale>2.0815494</xscale>
+      <yscale>2.0815494</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE2" adelay="39" lock="Y" index="2" color="16777215" guid="837F0B78-8620-B9DA-BC3A-A1973CD69B86">
+    <char id="AVATOR138" index="1" raceCode="1" faceCamera="true">
+      <action face="-1" motionface="1">ugc.853cf38.stand.xml</action>
+      <x>223.6140078</x>
+      <y>335.3768116</y>
+      <xscale>2.1668615</xscale>
+      <yscale>2.1668615</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR140" index="2" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6bcaf6c.stand.xml</action>
+      <prop id="PROP7" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>427.1189469</x>
+      <y>345.1514526</y>
+      <xscale>2.0815494</xscale>
+      <yscale>2.0815494</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE3" adelay="30" lock="Y" index="3" color="16777215" guid="A26E323E-8A7A-42E3-7024-106AA0A3F1BA">
+    <char id="AVATOR138" index="1" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.stand.xml</action>
+      <x>223.6140078</x>
+      <y>335.3768116</y>
+      <xscale>2.1668615</xscale>
+      <yscale>2.1668615</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR140" index="2" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6bcaf6c.stand.xml</action>
+      <prop id="PROP14" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>427.1189469</x>
+      <y>345.1514526</y>
+      <xscale>2.0815494</xscale>
+      <yscale>2.0815494</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE4" adelay="21" lock="Y" index="4" color="16777215" guid="54914BB5-776D-C06F-9CDC-26AFC548833C">
+    <char id="AVATOR138" index="1" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.stand.xml</action>
+      <x>223.6140078</x>
+      <y>335.3768116</y>
+      <xscale>2.1668615</xscale>
+      <yscale>2.1668615</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR140" index="2" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6bcaf6c.stand.xml</action>
+      <prop id="PROP18" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <head id="PROP24" raceCode="1">
+        <file>ugc.6bcaf6c.head.head_annoyed.xml</file>
+      </head>
+      <x>427.1189469</x>
+      <y>345.1514526</y>
+      <xscale>2.0815494</xscale>
+      <yscale>2.0815494</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE5" adelay="36" lock="Y" index="5" color="16777215" guid="78BF155B-3501-D652-D384-8FB25C080A0E">
+    <char id="AVATOR138" index="1" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.stand.xml</action>
+      <x>223.6140078</x>
+      <y>335.3768116</y>
+      <xscale>2.1668615</xscale>
+      <yscale>2.1668615</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR140" index="2" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6bcaf6c.stand.xml</action>
+      <prop id="PROP22" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>427.1189469</x>
+      <y>345.1514526</y>
+      <xscale>2.0815494</xscale>
+      <yscale>2.0815494</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE6" adelay="39" lock="Y" index="6" color="16777215" guid="148D4311-B306-3415-7F93-225366BA100D">
+    <char id="AVATOR138" index="1" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.stand.xml</action>
+      <prop id="PROP26" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>223.6140078</x>
+      <y>335.3768116</y>
+      <xscale>2.1668615</xscale>
+      <yscale>2.1668615</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR140" index="2" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6bcaf6c.stand.xml</action>
+      <x>427.1189469</x>
+      <y>345.1514526</y>
+      <xscale>2.0815494</xscale>
+      <yscale>2.0815494</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE7" adelay="114" lock="N" index="7" color="16777215" guid="6030215D-A7A9-B386-B6A7-23EA85068740">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <char id="AVATOR138" index="1" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.laugh.xml</action>
+      <prop id="PROP82" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <head id="PROP45" raceCode="1">
+        <file>ugc.853cf38.head.head_laugh.xml</file>
+      </head>
+      <x>210.9140078</x>
+      <y>335.3265778</y>
+      <xscale>2.1668615</xscale>
+      <yscale>2.1668615</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR140" index="2" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6bcaf6c.stand.xml</action>
+      <x>427.1189469</x>
+      <y>345.1514526</y>
+      <xscale>2.0815494</xscale>
+      <yscale>2.0815494</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE8" adelay="75" lock="N" index="8" color="16777215" guid="0C035D6A-A0C7-9D6C-8F99-A96A8C843791">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <char id="AVATOR138" index="1" raceCode="1" faceCamera="true">
+      <action face="-1" motionface="1">ugc.853cf38.stand.xml</action>
+      <prop id="PROP32" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>223.6140078</x>
+      <y>335.3768116</y>
+      <xscale>2.1668615</xscale>
+      <yscale>2.1668615</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR140" index="2" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6bcaf6c.stand.xml</action>
+      <x>427.1189469</x>
+      <y>345.1514526</y>
+      <xscale>2.0815494</xscale>
+      <yscale>2.0815494</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE9" adelay="111" lock="N" index="9" color="16777215" guid="6282CAB9-B231-4337-ECCC-DB6480A615C1">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <char id="AVATOR138" index="1" raceCode="1" faceCamera="true">
+      <action face="-1" motionface="1">ugc.853cf38.stand.xml</action>
+      <prop id="PROP35" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>223.6140078</x>
+      <y>335.3768116</y>
+      <xscale>2.1668615</xscale>
+      <yscale>2.1668615</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR140" index="2" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6bcaf6c.stand.xml</action>
+      <prop id="PROP38" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>427.1189469</x>
+      <y>345.1514526</y>
+      <xscale>2.0815494</xscale>
+      <yscale>2.0815494</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE10" adelay="102" lock="Y" index="10" color="16777215" guid="C3A35648-C991-336E-E8AD-95C6A897AA89">
+    <char id="AVATOR138" index="1" raceCode="1" faceCamera="true">
+      <action face="-1" motionface="1">ugc.853cf38.stand.xml</action>
+      <prop id="PROP49" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>223.6140078</x>
+      <y>335.3768116</y>
+      <xscale>2.1668615</xscale>
+      <yscale>2.1668615</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR140" index="2" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6bcaf6c.stand.xml</action>
+      <prop id="PROP51" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>427.1189469</x>
+      <y>345.1514526</y>
+      <xscale>2.0815494</xscale>
+      <yscale>2.0815494</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE11" adelay="75" lock="Y" index="11" color="16777215" guid="0BEC2FD6-FF22-0EF4-4760-690A08A59847">
+    <char id="AVATOR138" index="1" raceCode="1" faceCamera="true">
+      <action face="-1" motionface="1">ugc.853cf38.stand.xml</action>
+      <prop id="PROP78" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>223.6140078</x>
+      <y>335.3768116</y>
+      <xscale>2.1668615</xscale>
+      <yscale>2.1668615</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR140" index="2" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6bcaf6c.stand.xml</action>
+      <x>427.1189469</x>
+      <y>345.1514526</y>
+      <xscale>2.0815494</xscale>
+      <yscale>2.0815494</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE13" adelay="114" lock="Y" index="12" color="16777215" guid="A042CAA1-0906-8882-EF19-B939F277DBE9">
+    <char id="AVATOR138" index="1" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.laugh.xml</action>
+      <prop id="PROP81" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <head id="PROP65" raceCode="1">
+        <file>ugc.853cf38.head.head_laugh.xml</file>
+      </head>
+      <x>210.9140078</x>
+      <y>335.3265778</y>
+      <xscale>2.1668615</xscale>
+      <yscale>2.1668615</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR140" index="2" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6bcaf6c.stand.xml</action>
+      <x>427.1189469</x>
+      <y>345.1514526</y>
+      <xscale>2.0815494</xscale>
+      <yscale>2.0815494</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE14" adelay="39" lock="Y" index="13" color="16777215" guid="0ED62B28-549E-ED31-18A8-D2C31FCC32A8">
+    <char id="AVATOR138" index="1" raceCode="1" faceCamera="true">
+      <action face="-1" motionface="1">ugc.853cf38.stand.xml</action>
+      <prop id="PROP63" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>223.6140078</x>
+      <y>335.3768116</y>
+      <xscale>2.1668615</xscale>
+      <yscale>2.1668615</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR140" index="2" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6bcaf6c.stand.xml</action>
+      <x>427.1189469</x>
+      <y>345.1514526</y>
+      <xscale>2.0815494</xscale>
+      <yscale>2.0815494</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE15" adelay="33" lock="Y" index="14" color="16777215" guid="06E6F64E-532C-D79F-A8AD-CF6BDEBAE035">
+    <char id="AVATOR138" index="1" raceCode="1" faceCamera="true">
+      <action face="-1" motionface="1">ugc.853cf38.stand.xml</action>
+      <prop id="PROP66" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>223.6140078</x>
+      <y>335.3768116</y>
+      <xscale>2.1668615</xscale>
+      <yscale>2.1668615</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR140" index="2" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6bcaf6c.stand.xml</action>
+      <x>427.1189469</x>
+      <y>345.1514526</y>
+      <xscale>2.0815494</xscale>
+      <yscale>2.0815494</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE16" adelay="36" lock="Y" index="15" color="16777215" guid="EBFF773B-DE1A-7851-B667-BE62C98C2A88">
+    <char id="AVATOR138" index="1" raceCode="1" faceCamera="true">
+      <action face="-1" motionface="1">ugc.853cf38.stand.xml</action>
+      <x>223.6140078</x>
+      <y>335.3768116</y>
+      <xscale>2.1668615</xscale>
+      <yscale>2.1668615</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR140" index="2" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6bcaf6c.stand.xml</action>
+      <prop id="PROP69" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>427.1189469</x>
+      <y>345.1514526</y>
+      <xscale>2.0815494</xscale>
+      <yscale>2.0815494</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE17" adelay="33" lock="Y" index="16" color="16777215" guid="51A65D85-0B2E-ABE7-C3D2-9E1F0F7313DB">
+    <char id="AVATOR138" index="1" raceCode="1" faceCamera="true">
+      <action face="-1" motionface="1">ugc.853cf38.stand.xml</action>
+      <prop id="PROP72" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>223.6140078</x>
+      <y>335.3768116</y>
+      <xscale>2.1668615</xscale>
+      <yscale>2.1668615</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR140" index="2" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6bcaf6c.stand.xml</action>
+      <x>427.1189469</x>
+      <y>345.1514526</y>
+      <xscale>2.0815494</xscale>
+      <yscale>2.0815494</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE18" adelay="30" lock="Y" index="17" color="16777215" guid="BB09BDE6-B618-1F16-C4FD-322ECFA47498">
+    <char id="AVATOR138" index="1" raceCode="1" faceCamera="true">
+      <action face="-1" motionface="1">ugc.853cf38.laugh.xml</action>
+      <prop id="PROP76" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>223.6140078</x>
+      <y>335.3768116</y>
+      <xscale>2.1668615</xscale>
+      <yscale>2.1668615</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR140" index="2" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.6bcaf6c.stand.xml</action>
+      <x>427.1189469</x>
+      <y>345.1514526</y>
+      <xscale>2.0815494</xscale>
+      <yscale>2.0815494</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND25" index="0" track="0" vol="1" tts="0">
+    <sfile>common.laugh_4.swf</sfile>
+    <start>688</start>
+    <stop>801</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND14" index="1" track="0" vol="8" tts="0">
+    <sfile>ugc.aa910a7.mp3</sfile>
+    <start>211</start>
+    <stop>324</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND2" index="2" track="0" vol="1" tts="0">
+    <sfile>common.2357_04.mp3</sfile>
+    <start>40</start>
+    <stop>45</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND5" index="3" track="0" vol="1" tts="0">
+    <sfile>common.sigh_02.mp3</sfile>
+    <start>115</start>
+    <stop>135</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND15" index="4" track="1" vol="8" tts="0">
+    <sfile>ugc.aa910a7.mp3</sfile>
+    <start>211</start>
+    <stop>324</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND16" index="5" track="2" vol="8" tts="0">
+    <sfile>ugc.aa910a7.mp3</sfile>
+    <start>211</start>
+    <stop>324</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND1" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.c6a6bc9.mp3</sfile>
+    <start>1</start>
+    <stop>39</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Oppa Gangnam Style!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND4" index="1" track="0" vol="1" tts="1">
+    <sfile>ugc.33f9f67.mp3</sfile>
+    <start>46</start>
+    <stop>84</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[elytS mangnaG appO]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND7" index="2" track="0" vol="1" tts="1">
+    <sfile>ugc.7d3b52b.mp3</sfile>
+    <start>136</start>
+    <stop>171</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[elytS mangnaG Pop Pop!]]></text>
+      <voice><![CDATA[lee]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND10" index="3" track="0" vol="1" tts="1">
+    <sfile>ugc.b537fbb.mp3</sfile>
+    <start>172</start>
+    <stop>210</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Opo Opo Gangnam Style!]]></text>
+      <voice><![CDATA[lee]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND12" index="4" track="0" vol="8" tts="1">
+    <sfile>ugc.b0c5427.mp3</sfile>
+    <start>211</start>
+    <stop>324</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[lib]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND18" index="5" track="0" vol="1" tts="1">
+    <sfile>ugc.2d71ede.mp3</sfile>
+    <start>325</start>
+    <stop>399</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Happy Birthday To You! Nobody Likes You!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND20" index="6" track="0" vol="1" tts="1">
+    <sfile>ugc.d4b1732.mp3</sfile>
+    <start>400</start>
+    <stop>510</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[!uoY sekiL ydoboN !uoY oT yadhtriB yppaH]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND22" index="7" track="0" vol="1" tts="1">
+    <sfile>ugc.5e728d4.mp3</sfile>
+    <start>511</start>
+    <stop>612</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[!uoY sekiL ydoboN !uoY oT yadhtriB yppaH]]></text>
+      <voice><![CDATA[lee]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND24" index="8" track="0" vol="1" tts="1">
+    <sfile>ugc.b33bee7.mp3</sfile>
+    <start>613</start>
+    <stop>687</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Happy Birthday To You! Nobody Likes You!]]></text>
+      <voice><![CDATA[lee]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND27" index="9" track="0" vol="1" tts="1">
+    <sfile>ugc.57293f7.mp3</sfile>
+    <start>802</start>
+    <stop>840</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Everyday I'm Shuffling!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND29" index="10" track="0" vol="1" tts="1">
+    <sfile>ugc.3a433db.mp3</sfile>
+    <start>841</start>
+    <stop>873</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[gnilffuhS m'I yadyrevE]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND31" index="11" track="0" vol="1" tts="1">
+    <sfile>ugc.c1eb3b5.mp3</sfile>
+    <start>874</start>
+    <stop>909</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[gnilffuhS m'I yadyrevE]]></text>
+      <voice><![CDATA[lee]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND33" index="12" track="0" vol="1" tts="1">
+    <sfile>ugc.34f70d9.mp3</sfile>
+    <start>910</start>
+    <stop>942</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Everyday I'm Shuffling!]]></text>
+      <voice><![CDATA[lee]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND35" index="13" track="0" vol="1" tts="1">
+    <sfile>ugc.409fc56.mp3</sfile>
+    <start>943</start>
+    <stop>972</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Shuffling You?]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND13" index="14" track="1" vol="8" tts="1">
+    <sfile>ugc.b0c5427.mp3</sfile>
+    <start>211</start>
+    <stop>324</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[lib]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND1,~~~AVATOR138,SCENE0~~~</linkage>
+  <linkage>SOUND4,SCENE2~~~</linkage>
+  <linkage>SOUND7,~~~AVATOR140,SCENE5~~~</linkage>
+  <linkage>SOUND10,SCENE6~~~</linkage>
+  <linkage>SOUND12,~~~AVATOR138,SCENE7~~~</linkage>
+  <linkage>SOUND18,~~~AVATOR138,SCENE8~~~</linkage>
+  <linkage>SOUND20,SCENE9~~~</linkage>
+  <linkage>SOUND22,~~~AVATOR140,SCENE10~~~</linkage>
+  <linkage>SOUND24,SCENE11~~~</linkage>
+  <linkage>SOUND27,~~~AVATOR138,SCENE14~~~</linkage>
+  <linkage>SOUND29,SCENE15~~~</linkage>
+  <linkage>SOUND31,~~~AVATOR140,SCENE16~~~</linkage>
+  <linkage>SOUND33,SCENE17~~~</linkage>
+  <linkage>SOUND35,~~~AVATOR138,SCENE18~~~</linkage>
+</film>

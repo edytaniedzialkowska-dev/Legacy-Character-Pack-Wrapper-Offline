@@ -1,0 +1,74 @@
+<film copyable="0" duration="124.0" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[New Year's Eve Jacob2010 Lover 2025 Song 2]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="2976" lock="Y" index="0" color="16777215" guid="411861AE-3F84-0876-6D40-480E382B39E3">
+    <bg id="BG129" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <bubbleAsset id="BUBBLE130" index="1">
+      <x>322.0021254</x>
+      <y>201.0343826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-254.425876" y="-71.7263844" w="508.851752" h="143.4527687" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Oswald" size="46" align="center" bold="false" italic="false" embed="true"><![CDATA[New Year's Eve Jacob2010 Lover 2025 Song 2]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <effectAsset id="EFFECT0" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND0" index="0" track="0" vol="4" tts="0">
+    <sfile>ugc.64c7901.mp3</sfile>
+    <start>1</start>
+    <stop>2976</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND1" index="1" track="1" vol="4" tts="0">
+    <sfile>ugc.64c7901.mp3</sfile>
+    <start>1</start>
+    <stop>2976</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND2" index="2" track="2" vol="4" tts="0">
+    <sfile>ugc.64c7901.mp3</sfile>
+    <start>1</start>
+    <stop>2976</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+</film>

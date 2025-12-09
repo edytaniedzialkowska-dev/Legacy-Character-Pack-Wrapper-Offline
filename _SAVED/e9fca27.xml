@@ -1,0 +1,238 @@
+<film copyable="0" duration="22.4" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[I Meet a My Friend Little Boy!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="141" lock="N" index="0" color="16777215" guid="D8E0434D-D351-2BDF-5182-BD8C2D282A52">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.853cf38.talk.xml</action>
+      <x>331.2</x>
+      <y>226.5</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE1" adelay="66" lock="Y" index="1" color="16777215" guid="8D5C4F1D-522E-2F2A-2326-57F6B1E26F56">
+    <bg id="BG130" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.853cf38.excited.xml</action>
+      <x>331.2</x>
+      <y>226.5</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE2" adelay="111" lock="N" index="2" color="16777215" guid="123F4050-116F-240D-F408-07A102E2ED95">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="-1" motionface="1">ugc.853cf38.pt_at.xml</action>
+      <x>250.0083333</x>
+      <y>226.5</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR138" index="2" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.a6b2bbb.stand.xml</action>
+      <x>396.025</x>
+      <y>226.5</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE3" adelay="18" lock="Y" index="3" color="16777215" guid="DDA584F3-767F-6BE0-A18E-AC356835BE55">
+    <bg id="BG130" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="-1,-1" motionface="-1">ugc.853cf38.walk.xml</action>
+      <x>250.0083333,326.6583333</x>
+      <y>226.5,225.2</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="AVATOR131" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE4" adelay="141" lock="N" index="4" color="16777215" guid="E0A3F192-9253-E0A2-49CD-62FB31F0DB0B">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="-1">ugc.853cf38.xarms.xml</action>
+      <x>314.7083333</x>
+      <y>225.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE5" adelay="60" lock="N" index="5" color="16777215" guid="24FEF946-C0BB-4FB6-BA84-85E06A9DFFAA">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1">
+      <action face="1,1" motionface="1">ugc.853cf38.walk.xml</action>
+      <x>314.7,-62.8916667</x>
+      <y>225.175,226.55</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="1" target="AVATOR131" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <sound id="SOUND9" index="0" track="0" vol="1" tts="0">
+    <sfile>ugc.7f6d956.mp3</sfile>
+    <start>478</start>
+    <stop>537</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND6" index="1" track="0" vol="1" tts="0">
+    <sfile>ugc.7f6d956.mp3</sfile>
+    <start>319</start>
+    <stop>336</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND1" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.7161a8e.mp3</sfile>
+    <start>1</start>
+    <stop>141</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Hey Y'all, It's Me Jacob2010 Fans Here, And Do You Know Why?]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND3" index="1" track="0" vol="1" tts="1">
+    <sfile>ugc.3e4f8ac.mp3</sfile>
+    <start>142</start>
+    <stop>207</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[I Finally Meeting a My Friend Little Boy!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND5" index="2" track="0" vol="1" tts="1">
+    <sfile>ugc.3a5576e.mp3</sfile>
+    <start>208</start>
+    <stop>318</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[In The Room and For Christmas 2025 and Santa Claus!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND8" index="3" track="0" vol="1" tts="1">
+    <sfile>ugc.ee13d3d.mp3</sfile>
+    <start>337</start>
+    <stop>477</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[So Anyways This is Me Jacob2010 Fans Signing Off, See You Soon!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND1,~~~AVATOR131,SCENE0~~~</linkage>
+  <linkage>SOUND3,~~~AVATOR131,SCENE1~~~</linkage>
+  <linkage>SOUND5,~~~AVATOR131,SCENE2~~~</linkage>
+  <linkage>SOUND8,~~~AVATOR131,SCENE4~~~</linkage>
+</film>
