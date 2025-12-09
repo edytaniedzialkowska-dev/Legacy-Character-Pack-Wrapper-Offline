@@ -1,6 +1,71 @@
 {
 	"assets": [
 		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "bandicam 2025-12-09 18-08-39-370.jpg",
+			"ptype": "placeable",
+			"id": "16334a9.jpg"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "bandicam 2025-12-09 18-06-13-198.jpg",
+			"ptype": "placeable",
+			"id": "702479b.jpg"
+		},
+		{
+			"type": "sound",
+			"subtype": "bgmusic",
+			"title": "Skrillex - My Name Is Skrillex (Reversed) (mp3cut (mp3cut.net).mp3",
+			"duration": 21055,
+			"id": "2bf5610.mp3"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "Disco Light (Transparent).swf",
+			"ptype": "placeable",
+			"id": "860c1f0.swf"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "Disco Light.swf",
+			"ptype": "placeable",
+			"id": "2a0bd9b.swf"
+		},
+		{
+			"type": "sound",
+			"subtype": "bgmusic",
+			"title": "Christmas Village - Aaron Kenny.mp3",
+			"duration": 90619,
+			"id": "2d39372.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "bgmusic",
+			"title": "Inside the Snow Globe - Adventure in the Snow Globe (online-audio-converter.com).mp3",
+			"duration": 277760,
+			"id": "df5eb3e.mp3"
+		},
+		{
+			"id": "a8c8074",
+			"duration": "00:02",
+			"date": "2025-12-09T16:16:12.683Z",
+			"title": "My Custom School Background! (Snow Version)",
+			"sceneCount": 1,
+			"type": "movie"
+		},
+		{
+			"id": "4adc0d6",
+			"duration": "00:02",
+			"date": "2025-12-09T16:14:56.805Z",
+			"title": "My Custom School Background!",
+			"sceneCount": 1,
+			"type": "movie"
+		},
+		{
 			"type": "char",
 			"subtype": 0,
 			"title": "Untitled",
@@ -4456,6 +4521,13 @@
 		}
 	],
 	"movies": [
+		{
+			"id": "e85a1a1",
+			"duration": "02:21",
+			"date": "2025-12-09T17:14:12.561Z",
+			"title": "New Year's Eve Jacob2010 Lover 2025 Song 3!",
+			"sceneCount": 1
+		},
 		{
 			"id": "e9fca27",
 			"duration": "00:22",

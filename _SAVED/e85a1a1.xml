@@ -1,0 +1,91 @@
+<film copyable="0" duration="141.8" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[New Year's Eve Jacob2010 Lover 2025 Song 3!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+      <color value="fecf94"/>
+      <color value="fecf94"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="3402" lock="Y" index="0" color="16777215" guid="51891E14-56D3-302B-8AEA-5206DAB39C7E">
+    <bubbleAsset id="BUBBLE283" index="2">
+      <x>455.9870662</x>
+      <y>69.1343826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-141.0255048" y="-30.9484436" w="282.0510096" h="61.8968872" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Oswald" size="19" align="center" bold="false" italic="false" embed="true"><![CDATA[New Year's Eve Jacob2010 Lover 2025 Song 3]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="PROP31" index="1">
+      <file>ugc.16334a9.jpg</file>
+      <x>322</x>
+      <y>201</y>
+      <xscale>0.6982759</xscale>
+      <yscale>0.6982759</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT2" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT3" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="earthquake" type="EARTHQUAKE"/>
+      <x>322</x>
+      <y>179</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT4" index="4">
+      <effect id="ncc_sci004fx.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.ncc_sci004fx.swf</file>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND12" index="0" track="0" vol="4" tts="1">
+    <sfile>ugc.16872e7.mp3</sfile>
+    <start>1</start>
+    <stop>3402</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND13" index="1" track="1" vol="4" tts="1">
+    <sfile>ugc.16872e7.mp3</sfile>
+    <start>1</start>
+    <stop>3402</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+</film>
