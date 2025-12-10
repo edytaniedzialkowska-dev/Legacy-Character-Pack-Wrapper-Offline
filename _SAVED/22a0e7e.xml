@@ -1,0 +1,209 @@
+<film copyable="0" duration="15.0" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Caillou Gets Grounded Be Like!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="279" lock="N" index="0" color="16777215" guid="09FF6DDC-DE13-B4E2-6ABE-3F32860C402C" combgId="custom.cbg_sittingroom">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR261" index="5" raceCode="1">
+      <action face="-1" motionface="1">ugc.b1a850e.excited.xml</action>
+      <prop id="PROP27" handstyle="flat">
+        <file>common.ncc_03paper.swf</file>
+      </prop>
+      <head id="PROP10" raceCode="1">
+        <file>ugc.b1a850e.head.head_angry.xml</file>
+      </head>
+      <x>228.8083333</x>
+      <y>233.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR269" index="6" raceCode="1">
+      <action face="1" motionface="1">ugc.8265c7d.cry.xml</action>
+      <x>396.0021254</x>
+      <y>233.225</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP9" index="4" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="7">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE1" adelay="81" lock="Y" index="1" color="16777215" guid="76E91419-B9B4-AF0C-5130-828E1AF3DE96">
+    <bg id="cbg_sittingroom_BG260" index="0">
+      <file>custom.sitting_room_bg.swf</file>
+    </bg>
+    <char id="AVATOR261" index="5" raceCode="1">
+      <action face="-1" motionface="1">ugc.b1a850e.excited.xml</action>
+      <prop id="PROP26" handstyle="flat">
+        <file>common.ncc_03paper.swf</file>
+      </prop>
+      <head id="PROP19" raceCode="1">
+        <file>ugc.b1a850e.head.head_angry.xml</file>
+      </head>
+      <x>228.8083333</x>
+      <y>233.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR269" index="6" raceCode="1">
+      <action face="-1,-1" motionface="-1">ugc.8265c7d.walk.xml</action>
+      <head id="PROP24" raceCode="1">
+        <file>ugc.8265c7d.head.head_cry.xml</file>
+      </head>
+      <x>396.0021254,674.1521254</x>
+      <y>233.225,261.225</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="cbg_sittingroom_PROP74" index="1" attached="Y">
+      <file>custom.sitting_room_lamp.swf</file>
+      <x>446</x>
+      <y>246</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="2" attached="Y">
+      <file>custom.sitting_room_sofa2.swf</file>
+      <x>290</x>
+      <y>256</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_sittingroom_PROP75" index="3" attached="Y">
+      <file>custom.sitting_room_plant.swf</file>
+      <x>107</x>
+      <y>245</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="4" attached="Y">
+      <file>custom.sitting_room_sofa.swf</file>
+      <x>561</x>
+      <y>279</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="7">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="AVATOR269" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <sound id="SOUND4" index="0" track="0" vol="1" tts="0">
+    <sfile>ugc.7f6d956.mp3</sfile>
+    <start>280</start>
+    <stop>360</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND1" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.f97f873.mp3</sfile>
+    <start>1</start>
+    <stop>279</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Oh Oh Oh Oh Oh Oh Caillou How Dear You Getting a F In Your Report Card! That's It! You're Grounded Grounded Grounded Grounded Grounded Grounded! Go To Your Room Right Now!]]></text>
+      <voice><![CDATA[james]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND3" index="1" track="0" vol="1" tts="1">
+    <sfile>ugc.2868bcc.mp3</sfile>
+    <start>280</start>
+    <stop>357</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!]]></text>
+      <voice><![CDATA[ivy1]]></voice>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND1,~~~AVATOR261,SCENE0~~~</linkage>
+  <linkage>SOUND3,~~~AVATOR269,SCENE1~~~</linkage>
+</film>

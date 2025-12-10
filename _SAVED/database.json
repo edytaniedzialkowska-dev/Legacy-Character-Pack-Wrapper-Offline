@@ -1,6 +1,262 @@
 {
 	"assets": [
 		{
+			"duration": 914,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Justin] Are You High?",
+			"id": "3ff15d5.mp3"
+		},
+		{
+			"duration": 3265,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Skippy] Sorry To Say This, There Is No More Christmas Food Left!",
+			"id": "dec0c0f.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "bloxy-cola (mp3cut.net).mp3",
+			"duration": 1008,
+			"id": "48d0e72.mp3"
+		},
+		{
+			"duration": 6896,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Skippy] Today Is Christmas Eve, And We're Going To Eating and Drinking Chicken, Banana, Orange, And More! So Enjoy!",
+			"id": "e9a04f9.mp3"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "Cup-PNG-Picture.png",
+			"ptype": "placeable",
+			"id": "30886d9.png"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "16-162707_blue-cup-png-clipart-cup-png.png",
+			"ptype": "placeable",
+			"id": "1612b93.png"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "a-traditional-holiday-roast-chicken-cut-out-clipping-path-isolated-on-a-transparent-background-png.png",
+			"ptype": "placeable",
+			"id": "ee59e8e.png"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "banana-png-32.png",
+			"ptype": "placeable",
+			"id": "61d3eb7.png"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "bandicam_2025-12-10_20-43-57-406-removebg-preview.png",
+			"ptype": "placeable",
+			"id": "ff42da7.png"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "fruit-1218158_1280.png",
+			"ptype": "placeable",
+			"id": "200a90e.png"
+		},
+		{
+			"duration": 3422,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian] Bob Kid, Get Up! We're Gonna Be Late For School!",
+			"id": "e5161be.mp3"
+		},
+		{
+			"duration": 3344,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Ivy] Oh I Know, I'm Going To Bed and Having a School Tomorrow!",
+			"id": "b487062.mp3"
+		},
+		{
+			"duration": 2429,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Skippy] Anyways, Have a Good Day On School!",
+			"id": "a26eb20.mp3"
+		},
+		{
+			"duration": 705,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Ivy] Oh Man!",
+			"id": "01b469f.mp3"
+		},
+		{
+			"duration": 1933,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Skippy] The Bomb Explosion Doesn't Have Here!",
+			"id": "a4af1f5.mp3"
+		},
+		{
+			"duration": 4127,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Ivy] Please Ma'am Gummy, Can I Have a Bomb Explosion On Christmas Eve?",
+			"id": "57dc032.mp3"
+		},
+		{
+			"duration": 5512,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Skippy] Today We Have a Tomorrow On Christmas Eve On December 19th, 2025 The All!",
+			"id": "7e585bf.mp3"
+		},
+		{
+			"id": "9c2d479",
+			"duration": "00:02",
+			"date": "2025-12-10T19:21:04.265Z",
+			"title": "My Custom Sybau #4",
+			"sceneCount": 1,
+			"type": "movie"
+		},
+		{
+			"id": "5362c18",
+			"duration": "00:02",
+			"date": "2025-12-10T19:20:17.380Z",
+			"title": "My Custom Sybau #3",
+			"sceneCount": 1,
+			"type": "movie"
+		},
+		{
+			"id": "019a0b1",
+			"duration": "00:02",
+			"date": "2025-12-10T19:19:44.894Z",
+			"title": "My Custom Sybau #2",
+			"sceneCount": 1,
+			"type": "movie"
+		},
+		{
+			"id": "920e5eb",
+			"duration": "00:02",
+			"date": "2025-12-10T19:19:19.005Z",
+			"title": "My Custom Sybau #1",
+			"sceneCount": 1,
+			"type": "movie"
+		},
+		{
+			"duration": 3291,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Ivy] waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!",
+			"id": "2868bcc.mp3"
+		},
+		{
+			"duration": 11572,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[James] Oh Oh Oh Oh Oh Oh Caillou How Dear You Getting a F In Your Report Card! That's It! You're Grounded Grounded Grounded Grounded Grounded Grounded! Go To Your Room Right Now!",
+			"id": "f97f873.mp3"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "b1a850e"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "31956f2"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "f58c327"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "de0fc52"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "0f920f7"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "8265c7d"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "83a9f0a"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "946e540"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "e90a9d2"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "09e2736"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "f48f268"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "61de840"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "ff2325d"
+		},
+		{
 			"duration": 940,
 			"type": "sound",
 			"subtype": "tts",
@@ -4696,6 +4952,27 @@
 		}
 	],
 	"movies": [
+		{
+			"id": "583448e",
+			"duration": "01:50",
+			"date": "2025-12-10T20:02:53.015Z",
+			"title": "GoAnimate City SPSK (Christmas Eve)",
+			"sceneCount": 28
+		},
+		{
+			"id": "1de44ea",
+			"duration": "00:02",
+			"date": "2025-12-10T19:19:03.318Z",
+			"title": "My Custom Sybau!",
+			"sceneCount": 1
+		},
+		{
+			"id": "22a0e7e",
+			"duration": "00:15",
+			"date": "2025-12-10T19:13:37.247Z",
+			"title": "Caillou Gets Grounded Be Like!",
+			"sceneCount": 2
+		},
 		{
 			"id": "0d38588",
 			"duration": "00:30",

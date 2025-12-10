@@ -1,0 +1,4931 @@
+<film copyable="0" duration="110.1" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[GoAnimate City SPSK (Christmas Eve)]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE2" adelay="27" lock="Y" index="0" color="16777215" guid="51891E14-56D3-302B-8AEA-5206DAB39C7E" combgId="custom.cbg_school_ext">
+    <bg id="cbg_school_ext_BG2" index="0">
+      <file>custom.school_ext_bg.swf</file>
+    </bg>
+    <bubbleAsset id="BUBBLE135" index="8">
+      <x>477.4521254</x>
+      <y>298.0093826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-43.3971292" y="-13.0456026" w="86.7942584" h="26.0912052" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Oswald" size="7" align="center" bold="false" italic="false" embed="true"><![CDATA[GoAnimate City SPSK Elementary School]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="cbg_school_ext_PROP3" index="1" attached="Y">
+      <file>custom.school_ext_gate.swf</file>
+      <x>287</x>
+      <y>248</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP11" index="2">
+      <file>common.msp_snow.msp_snow_nccxmas_snow01.swf</file>
+      <x>408.45</x>
+      <y>293.3</y>
+      <xscale>1.8442653</xscale>
+      <yscale>0.3913951</yscale>
+      <face>1</face>
+      <rotation>-0.0326628</rotation>
+    </prop>
+    <prop id="PROP13" index="3">
+      <file>common.msp_snowball.msp_snowball_nccxmas_03snowball01.swf</file>
+      <x>466.6968005</x>
+      <y>369.575</y>
+      <xscale>12.9360102</xscale>
+      <yscale>2.8529412</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP7" index="4">
+      <file>common.msp_snow.msp_snow_nccxmas_snow01.swf</file>
+      <x>122.45</x>
+      <y>293.35</y>
+      <xscale>0.6865513</xscale>
+      <yscale>0.4055092</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_school_ext_PROP0" index="5" attached="Y">
+      <file>custom.school_ext_tree01.swf</file>
+      <x>79</x>
+      <y>215</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_school_ext_PROP1" index="6" attached="Y">
+      <file>custom.school_ext_tree02.swf</file>
+      <x>520</x>
+      <y>228</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_school_ext_PROP2" index="7" attached="Y">
+      <file>custom.school_ext_flag.swf</file>
+      <x>466</x>
+      <y>203</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="9">
+      <file>common.msp_snow.msp_snow_nccxmas_snow01.swf</file>
+      <x>79.025</x>
+      <y>324.85</y>
+      <xscale>0.6865513</xscale>
+      <yscale>0.4055092</yscale>
+      <face>1</face>
+      <rotation>-17.1132443</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="13">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT3" index="10">
+      <effect id="snow01.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.snow01.swf</file>
+    </effectAsset>
+    <effectAsset id="EFFECT4" index="11">
+      <effect id="snow02.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.snow02.swf</file>
+    </effectAsset>
+    <effectAsset id="EFFECT5" index="12">
+      <effect id="snow.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.snow.swf</file>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE4" adelay="21" lock="Y" index="1" color="16777215" guid="4E823F1F-2FDC-8DDA-82A5-04F5B4FF2F2D" combgId="custom.cbg_classroom">
+    <bg id="BG2" index="0">
+      <file>custom.classroom_bg.swf</file>
+      <dcsn>9538</dcsn>
+      <color r="ccColorA" oc="0x0">8754265</color>
+    </bg>
+    <char id="AVATOR210" index="1" raceCode="1">
+      <action face="-1" motionface="1">ugc.b33cd74.stand.xml</action>
+      <x>186.75</x>
+      <y>212.975</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR211" index="4" raceCode="1">
+      <action face="1" motionface="1">ugc.52b6a8a.sit.xml</action>
+      <x>528.7341499</x>
+      <y>223.5128242</y>
+      <xscale>0.6023055</xscale>
+      <yscale>0.6023055</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR212" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.944fe87.sit.xml</action>
+      <x>607.014095</x>
+      <y>260.3357938</y>
+      <xscale>0.7522255</xscale>
+      <yscale>0.7522255</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR213" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.5e4d59e.sit.xml</action>
+      <x>562.9965987</x>
+      <y>245.7265214</y>
+      <xscale>0.6914131</xscale>
+      <yscale>0.6914131</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR233" index="18" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.sit.xml</action>
+      <x>496.6160027</x>
+      <y>264.8685348</y>
+      <xscale>0.5671843</xscale>
+      <yscale>0.5671843</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR234" index="15" raceCode="1">
+      <action face="1" motionface="1">ugc.1649ee4.sit.xml</action>
+      <x>455.9526891</x>
+      <y>248.727533</y>
+      <xscale>0.462873</xscale>
+      <yscale>0.462873</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP4" index="11" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>551.5</x>
+      <y>318</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="9" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>599.5</x>
+      <y>296</y>
+      <xscale>1.12</xscale>
+      <yscale>1.12</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP3" index="8" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>512.5</x>
+      <y>289</y>
+      <xscale>0.8</xscale>
+      <yscale>0.8</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="6" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>558.5</x>
+      <y>275</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP2" index="5" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>476.5</x>
+      <y>263</y>
+      <xscale>0.65</xscale>
+      <yscale>0.65</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP1" index="3" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>523.5</x>
+      <y>255</y>
+      <xscale>0.79</xscale>
+      <yscale>0.79</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP0" index="2" attached="Y">
+      <file>custom.classrm_tech_table.swf</file>
+      <x>236</x>
+      <y>287</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP40" index="12" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>411.275</x>
+      <y>255.025</y>
+      <xscale>0.79</xscale>
+      <yscale>0.79</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP41" index="13" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>364.275</x>
+      <y>263.025</y>
+      <xscale>0.65</xscale>
+      <yscale>0.65</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP42" index="14" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>446.275</x>
+      <y>275.025</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP43" index="16" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>400.275</x>
+      <y>289.025</y>
+      <xscale>0.8</xscale>
+      <yscale>0.8</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP44" index="17" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>487.275</x>
+      <y>296.025</y>
+      <xscale>1.12</xscale>
+      <yscale>1.12</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP45" index="19" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>439.275</x>
+      <y>318.025</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT17" themecode="common" index="20">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE5" adelay="132" lock="N" index="2" color="16777215" guid="2059BDBD-B542-F5F9-5AC7-0DB46A8E76AF">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG2" index="0">
+      <file>custom.classroom_bg.swf</file>
+      <color r="ccColorA" oc="0x0">8754265</color>
+    </bg>
+    <char id="AVATOR210" index="1" raceCode="1">
+      <action face="-1" motionface="1">ugc.b33cd74.talk.xml</action>
+      <x>186.75</x>
+      <y>212.975</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR211" index="4" raceCode="1">
+      <action face="1" motionface="1">ugc.52b6a8a.sit.xml</action>
+      <x>528.7341499</x>
+      <y>223.5128242</y>
+      <xscale>0.6023055</xscale>
+      <yscale>0.6023055</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR213" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.5e4d59e.sit.xml</action>
+      <x>562.9965987</x>
+      <y>245.7265214</y>
+      <xscale>0.6914131</xscale>
+      <yscale>0.6914131</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR212" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.944fe87.sit.xml</action>
+      <x>607.014095</x>
+      <y>260.3357938</y>
+      <xscale>0.7522255</xscale>
+      <yscale>0.7522255</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR234" index="15" raceCode="1">
+      <action face="1" motionface="1">ugc.1649ee4.sit.xml</action>
+      <x>455.9526891</x>
+      <y>248.727533</y>
+      <xscale>0.462873</xscale>
+      <yscale>0.462873</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR233" index="18" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.sit.xml</action>
+      <x>496.6160027</x>
+      <y>264.8685348</y>
+      <xscale>0.5671843</xscale>
+      <yscale>0.5671843</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP0" index="2" attached="Y">
+      <file>custom.classrm_tech_table.swf</file>
+      <x>236</x>
+      <y>287</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP1" index="3" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>523.5</x>
+      <y>255</y>
+      <xscale>0.79</xscale>
+      <yscale>0.79</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP2" index="5" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>476.5</x>
+      <y>263</y>
+      <xscale>0.65</xscale>
+      <yscale>0.65</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="6" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>558.5</x>
+      <y>275</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP3" index="8" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>512.5</x>
+      <y>289</y>
+      <xscale>0.8</xscale>
+      <yscale>0.8</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="9" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>599.5</x>
+      <y>296</y>
+      <xscale>1.12</xscale>
+      <yscale>1.12</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP4" index="11" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>551.5</x>
+      <y>318</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP40" index="12" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>411.275</x>
+      <y>255.025</y>
+      <xscale>0.79</xscale>
+      <yscale>0.79</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP41" index="13" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>364.275</x>
+      <y>263.025</y>
+      <xscale>0.65</xscale>
+      <yscale>0.65</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP42" index="14" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>446.275</x>
+      <y>275.025</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP43" index="16" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>400.275</x>
+      <y>289.025</y>
+      <xscale>0.8</xscale>
+      <yscale>0.8</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP44" index="17" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>487.275</x>
+      <y>296.025</y>
+      <xscale>1.12</xscale>
+      <yscale>1.12</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP45" index="19" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>439.275</x>
+      <y>318.025</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT17" themecode="common" index="20">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE6" adelay="99" lock="N" index="3" color="16777215" guid="780F7FA0-A859-20FA-01D2-1FC7F7827A37">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG2" index="0">
+      <file>custom.classroom_bg.swf</file>
+      <color r="ccColorA" oc="0x0">8754265</color>
+    </bg>
+    <char id="AVATOR210" index="1" raceCode="1">
+      <action face="-1" motionface="1">ugc.b33cd74.talk.xml</action>
+      <head id="PROP73" raceCode="1">
+        <file>ugc.b33cd74.head.head_neutral.xml</file>
+      </head>
+      <x>186.75</x>
+      <y>213</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR211" index="4" raceCode="1">
+      <action face="1" motionface="1">ugc.52b6a8a.sit.xml</action>
+      <x>528.7341499</x>
+      <y>223.5128242</y>
+      <xscale>0.6023055</xscale>
+      <yscale>0.6023055</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR213" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.5e4d59e.sit.xml</action>
+      <x>562.9965987</x>
+      <y>245.7265214</y>
+      <xscale>0.6914131</xscale>
+      <yscale>0.6914131</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR212" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.944fe87.sit.xml</action>
+      <x>607.014095</x>
+      <y>260.3357938</y>
+      <xscale>0.7522255</xscale>
+      <yscale>0.7522255</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR234" index="15" raceCode="1">
+      <action face="1" motionface="1">ugc.1649ee4.sit.xml</action>
+      <x>455.9526891</x>
+      <y>248.727533</y>
+      <xscale>0.462873</xscale>
+      <yscale>0.462873</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR233" index="18" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.sit.xml</action>
+      <x>496.6160027</x>
+      <y>264.8685348</y>
+      <xscale>0.5671843</xscale>
+      <yscale>0.5671843</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP0" index="2" attached="Y">
+      <file>custom.classrm_tech_table.swf</file>
+      <x>236</x>
+      <y>287</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP1" index="3" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>523.5</x>
+      <y>255</y>
+      <xscale>0.79</xscale>
+      <yscale>0.79</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP2" index="5" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>476.5</x>
+      <y>263</y>
+      <xscale>0.65</xscale>
+      <yscale>0.65</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="6" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>558.5</x>
+      <y>275</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP3" index="8" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>512.5</x>
+      <y>289</y>
+      <xscale>0.8</xscale>
+      <yscale>0.8</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="9" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>599.5</x>
+      <y>296</y>
+      <xscale>1.12</xscale>
+      <yscale>1.12</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP4" index="11" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>551.5</x>
+      <y>318</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP40" index="12" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>411.275</x>
+      <y>255.025</y>
+      <xscale>0.79</xscale>
+      <yscale>0.79</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP41" index="13" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>364.275</x>
+      <y>263.025</y>
+      <xscale>0.65</xscale>
+      <yscale>0.65</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP42" index="14" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>446.275</x>
+      <y>275.025</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP43" index="16" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>400.275</x>
+      <y>289.025</y>
+      <xscale>0.8</xscale>
+      <yscale>0.8</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP44" index="17" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>487.275</x>
+      <y>296.025</y>
+      <xscale>1.12</xscale>
+      <yscale>1.12</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP45" index="19" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>439.275</x>
+      <y>318.025</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT17" themecode="common" index="20">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE7" adelay="48" lock="Y" index="4" color="16777215" guid="6934C068-E0AC-01AB-C6CD-579D1E1BACD4">
+    <bg id="BG2" index="0">
+      <file>custom.classroom_bg.swf</file>
+      <color r="ccColorA" oc="0x0">8754265</color>
+    </bg>
+    <char id="AVATOR210" index="1" raceCode="1">
+      <action face="-1" motionface="1">ugc.b33cd74.talk.xml</action>
+      <head id="PROP74" raceCode="1">
+        <file>ugc.b33cd74.head.head_neutral.xml</file>
+      </head>
+      <x>186.75</x>
+      <y>213</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR211" index="4" raceCode="1">
+      <action face="1" motionface="1">ugc.52b6a8a.sit.xml</action>
+      <x>528.7341499</x>
+      <y>223.5128242</y>
+      <xscale>0.6023055</xscale>
+      <yscale>0.6023055</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR213" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.5e4d59e.sit.xml</action>
+      <x>562.9965987</x>
+      <y>245.7265214</y>
+      <xscale>0.6914131</xscale>
+      <yscale>0.6914131</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR212" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.944fe87.sit.xml</action>
+      <x>607.014095</x>
+      <y>260.3357938</y>
+      <xscale>0.7522255</xscale>
+      <yscale>0.7522255</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR234" index="15" raceCode="1">
+      <action face="1" motionface="1">ugc.1649ee4.sit.xml</action>
+      <x>455.9526891</x>
+      <y>248.727533</y>
+      <xscale>0.462873</xscale>
+      <yscale>0.462873</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR233" index="18" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.sit.xml</action>
+      <x>496.6160027</x>
+      <y>264.8685348</y>
+      <xscale>0.5671843</xscale>
+      <yscale>0.5671843</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP0" index="2" attached="Y">
+      <file>custom.classrm_tech_table.swf</file>
+      <x>236</x>
+      <y>287</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP1" index="3" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>523.5</x>
+      <y>255</y>
+      <xscale>0.79</xscale>
+      <yscale>0.79</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP2" index="5" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>476.5</x>
+      <y>263</y>
+      <xscale>0.65</xscale>
+      <yscale>0.65</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="6" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>558.5</x>
+      <y>275</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP3" index="8" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>512.5</x>
+      <y>289</y>
+      <xscale>0.8</xscale>
+      <yscale>0.8</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="9" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>599.5</x>
+      <y>296</y>
+      <xscale>1.12</xscale>
+      <yscale>1.12</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP4" index="11" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>551.5</x>
+      <y>318</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP40" index="12" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>411.275</x>
+      <y>255.025</y>
+      <xscale>0.79</xscale>
+      <yscale>0.79</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP41" index="13" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>364.275</x>
+      <y>263.025</y>
+      <xscale>0.65</xscale>
+      <yscale>0.65</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP42" index="14" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>446.275</x>
+      <y>275.025</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP43" index="16" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>400.275</x>
+      <y>289.025</y>
+      <xscale>0.8</xscale>
+      <yscale>0.8</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP44" index="17" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>487.275</x>
+      <y>296.025</y>
+      <xscale>1.12</xscale>
+      <yscale>1.12</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP45" index="19" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>439.275</x>
+      <y>318.025</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT17" themecode="common" index="20">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE8" adelay="18" lock="Y" index="5" color="16777215" guid="6454C783-AC67-327C-C6D6-3BCCC98089D1">
+    <bg id="BG2" index="0">
+      <file>custom.classroom_bg.swf</file>
+      <color r="ccColorA" oc="0x0">8754265</color>
+    </bg>
+    <char id="AVATOR210" index="1" raceCode="1">
+      <action face="-1" motionface="1">ugc.b33cd74.talk.xml</action>
+      <head id="PROP88" raceCode="1">
+        <file>ugc.b33cd74.head.head_neutral.xml</file>
+      </head>
+      <x>186.75</x>
+      <y>213</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR211" index="4" raceCode="1">
+      <action face="1" motionface="1">ugc.52b6a8a.sit.xml</action>
+      <x>528.7341499</x>
+      <y>223.5128242</y>
+      <xscale>0.6023055</xscale>
+      <yscale>0.6023055</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR213" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.5e4d59e.sit.xml</action>
+      <x>562.9965987</x>
+      <y>245.7265214</y>
+      <xscale>0.6914131</xscale>
+      <yscale>0.6914131</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR212" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.944fe87.sit.xml</action>
+      <x>607.014095</x>
+      <y>260.3357938</y>
+      <xscale>0.7522255</xscale>
+      <yscale>0.7522255</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR234" index="15" raceCode="1">
+      <action face="1" motionface="1">ugc.1649ee4.sit.xml</action>
+      <x>455.9526891</x>
+      <y>248.727533</y>
+      <xscale>0.462873</xscale>
+      <yscale>0.462873</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR233" index="18" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.sit.xml</action>
+      <head id="PROP103" raceCode="1">
+        <file>ugc.fce0727.head.head_sad.xml</file>
+      </head>
+      <x>496.6160027</x>
+      <y>264.8185348</y>
+      <xscale>0.5671843</xscale>
+      <yscale>0.5671843</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP0" index="2" attached="Y">
+      <file>custom.classrm_tech_table.swf</file>
+      <x>236</x>
+      <y>287</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP1" index="3" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>523.5</x>
+      <y>255</y>
+      <xscale>0.79</xscale>
+      <yscale>0.79</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP2" index="5" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>476.5</x>
+      <y>263</y>
+      <xscale>0.65</xscale>
+      <yscale>0.65</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="6" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>558.5</x>
+      <y>275</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP3" index="8" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>512.5</x>
+      <y>289</y>
+      <xscale>0.8</xscale>
+      <yscale>0.8</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="9" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>599.5</x>
+      <y>296</y>
+      <xscale>1.12</xscale>
+      <yscale>1.12</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP4" index="11" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>551.5</x>
+      <y>318</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP40" index="12" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>411.275</x>
+      <y>255.025</y>
+      <xscale>0.79</xscale>
+      <yscale>0.79</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP41" index="13" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>364.275</x>
+      <y>263.025</y>
+      <xscale>0.65</xscale>
+      <yscale>0.65</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP42" index="14" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>446.275</x>
+      <y>275.025</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP43" index="16" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>400.275</x>
+      <y>289.025</y>
+      <xscale>0.8</xscale>
+      <yscale>0.8</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP44" index="17" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>487.275</x>
+      <y>296.025</y>
+      <xscale>1.12</xscale>
+      <yscale>1.12</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP45" index="19" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>439.275</x>
+      <y>318.025</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT17" themecode="common" index="20">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE9" adelay="21" lock="Y" index="6" color="16777215" guid="39B47BEA-85F7-23B0-898C-AE9398D2A0EF">
+    <bg id="BG2" index="0">
+      <file>custom.classroom_bg.swf</file>
+      <color r="ccColorA" oc="0x0">8754265</color>
+    </bg>
+    <char id="AVATOR210" index="1" raceCode="1">
+      <action face="-1" motionface="1">ugc.b33cd74.talk.xml</action>
+      <head id="PROP104" raceCode="1">
+        <file>ugc.b33cd74.head.head_neutral.xml</file>
+      </head>
+      <x>186.75</x>
+      <y>213</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR211" index="4" raceCode="1">
+      <action face="1" motionface="1">ugc.52b6a8a.sit.xml</action>
+      <x>528.7341499</x>
+      <y>223.5128242</y>
+      <xscale>0.6023055</xscale>
+      <yscale>0.6023055</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR213" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.5e4d59e.sit.xml</action>
+      <x>562.9965987</x>
+      <y>245.7265214</y>
+      <xscale>0.6914131</xscale>
+      <yscale>0.6914131</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR212" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.944fe87.sit.xml</action>
+      <x>607.014095</x>
+      <y>260.3357938</y>
+      <xscale>0.7522255</xscale>
+      <yscale>0.7522255</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR234" index="15" raceCode="1">
+      <action face="1" motionface="1">ugc.1649ee4.sit.xml</action>
+      <x>455.9526891</x>
+      <y>248.727533</y>
+      <xscale>0.462873</xscale>
+      <yscale>0.462873</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR233" index="18" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.sit.xml</action>
+      <head id="PROP117" raceCode="1">
+        <file>ugc.fce0727.head.head_sad.xml</file>
+      </head>
+      <x>496.6160027</x>
+      <y>264.8185348</y>
+      <xscale>0.5671843</xscale>
+      <yscale>0.5671843</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP0" index="2" attached="Y">
+      <file>custom.classrm_tech_table.swf</file>
+      <x>236</x>
+      <y>287</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP1" index="3" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>523.5</x>
+      <y>255</y>
+      <xscale>0.79</xscale>
+      <yscale>0.79</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP2" index="5" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>476.5</x>
+      <y>263</y>
+      <xscale>0.65</xscale>
+      <yscale>0.65</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="6" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>558.5</x>
+      <y>275</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP3" index="8" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>512.5</x>
+      <y>289</y>
+      <xscale>0.8</xscale>
+      <yscale>0.8</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="9" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>599.5</x>
+      <y>296</y>
+      <xscale>1.12</xscale>
+      <yscale>1.12</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP4" index="11" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>551.5</x>
+      <y>318</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP40" index="12" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>411.275</x>
+      <y>255.025</y>
+      <xscale>0.79</xscale>
+      <yscale>0.79</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP41" index="13" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>364.275</x>
+      <y>263.025</y>
+      <xscale>0.65</xscale>
+      <yscale>0.65</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP42" index="14" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>446.275</x>
+      <y>275.025</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP43" index="16" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>400.275</x>
+      <y>289.025</y>
+      <xscale>0.8</xscale>
+      <yscale>0.8</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP44" index="17" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>487.275</x>
+      <y>296.025</y>
+      <xscale>1.12</xscale>
+      <yscale>1.12</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP45" index="19" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>439.275</x>
+      <y>318.025</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT17" themecode="common" index="20">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE10" adelay="57" lock="Y" index="7" color="16777215" guid="5E9D8348-0E52-890A-2D6F-57B5CDA4A210">
+    <bg id="BG2" index="0">
+      <file>custom.classroom_bg.swf</file>
+      <color r="ccColorA" oc="0x0">8754265</color>
+    </bg>
+    <char id="AVATOR210" index="1" raceCode="1">
+      <action face="-1" motionface="1">ugc.b33cd74.talk.xml</action>
+      <head id="PROP119" raceCode="1">
+        <file>ugc.b33cd74.head.head_neutral.xml</file>
+      </head>
+      <x>186.75</x>
+      <y>213</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR211" index="4" raceCode="1">
+      <action face="1" motionface="1">ugc.52b6a8a.sit.xml</action>
+      <x>528.7341499</x>
+      <y>223.5128242</y>
+      <xscale>0.6023055</xscale>
+      <yscale>0.6023055</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR213" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.5e4d59e.sit.xml</action>
+      <x>562.9965987</x>
+      <y>245.7265214</y>
+      <xscale>0.6914131</xscale>
+      <yscale>0.6914131</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR212" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.944fe87.sit.xml</action>
+      <x>607.014095</x>
+      <y>260.3357938</y>
+      <xscale>0.7522255</xscale>
+      <yscale>0.7522255</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR234" index="15" raceCode="1">
+      <action face="1" motionface="1">ugc.1649ee4.sit.xml</action>
+      <x>455.9526891</x>
+      <y>248.727533</y>
+      <xscale>0.462873</xscale>
+      <yscale>0.462873</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR233" index="18" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.sit.xml</action>
+      <head id="PROP135" raceCode="1">
+        <file>ugc.fce0727.head.head_sad.xml</file>
+      </head>
+      <x>496.6160027</x>
+      <y>264.8185348</y>
+      <xscale>0.5671843</xscale>
+      <yscale>0.5671843</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP0" index="2" attached="Y">
+      <file>custom.classrm_tech_table.swf</file>
+      <x>236</x>
+      <y>287</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP1" index="3" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>523.5</x>
+      <y>255</y>
+      <xscale>0.79</xscale>
+      <yscale>0.79</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP2" index="5" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>476.5</x>
+      <y>263</y>
+      <xscale>0.65</xscale>
+      <yscale>0.65</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="6" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>558.5</x>
+      <y>275</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP3" index="8" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>512.5</x>
+      <y>289</y>
+      <xscale>0.8</xscale>
+      <yscale>0.8</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="9" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>599.5</x>
+      <y>296</y>
+      <xscale>1.12</xscale>
+      <yscale>1.12</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP4" index="11" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>551.5</x>
+      <y>318</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP40" index="12" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>411.275</x>
+      <y>255.025</y>
+      <xscale>0.79</xscale>
+      <yscale>0.79</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP41" index="13" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>364.275</x>
+      <y>263.025</y>
+      <xscale>0.65</xscale>
+      <yscale>0.65</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP42" index="14" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>446.275</x>
+      <y>275.025</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP43" index="16" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>400.275</x>
+      <y>289.025</y>
+      <xscale>0.8</xscale>
+      <yscale>0.8</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP44" index="17" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>487.275</x>
+      <y>296.025</y>
+      <xscale>1.12</xscale>
+      <yscale>1.12</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP45" index="19" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>439.275</x>
+      <y>318.025</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT17" themecode="common" index="20">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE11" adelay="87" lock="Y" index="8" color="16777215" guid="0283624C-7408-4482-132F-B02F0D962806">
+    <bg id="BG2" index="0">
+      <file>custom.classroom_bg.swf</file>
+      <color r="ccColorA" oc="0x0">8754265</color>
+    </bg>
+    <char id="AVATOR210" index="1" raceCode="1">
+      <action face="-1" motionface="1">ugc.b33cd74.talk.xml</action>
+      <head id="PROP137" raceCode="1">
+        <file>ugc.b33cd74.head.head_neutral.xml</file>
+      </head>
+      <x>186.75</x>
+      <y>213</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR211" index="4" raceCode="1">
+      <action face="1" motionface="1">ugc.52b6a8a.sit.xml</action>
+      <x>528.7341499</x>
+      <y>223.5128242</y>
+      <xscale>0.6023055</xscale>
+      <yscale>0.6023055</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR213" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.5e4d59e.sit.xml</action>
+      <x>562.9965987</x>
+      <y>245.7265214</y>
+      <xscale>0.6914131</xscale>
+      <yscale>0.6914131</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR212" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.944fe87.sit.xml</action>
+      <x>607.014095</x>
+      <y>260.3357938</y>
+      <xscale>0.7522255</xscale>
+      <yscale>0.7522255</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR234" index="15" raceCode="1">
+      <action face="1" motionface="1">ugc.1649ee4.sit.xml</action>
+      <x>455.9526891</x>
+      <y>248.727533</y>
+      <xscale>0.462873</xscale>
+      <yscale>0.462873</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR233" index="18" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.sit.xml</action>
+      <head id="PROP150" raceCode="1">
+        <file>ugc.fce0727.head.head_sad.xml</file>
+      </head>
+      <x>496.6160027</x>
+      <y>264.8185348</y>
+      <xscale>0.5671843</xscale>
+      <yscale>0.5671843</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP0" index="2" attached="Y">
+      <file>custom.classrm_tech_table.swf</file>
+      <x>236</x>
+      <y>287</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP1" index="3" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>523.5</x>
+      <y>255</y>
+      <xscale>0.79</xscale>
+      <yscale>0.79</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP2" index="5" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>476.5</x>
+      <y>263</y>
+      <xscale>0.65</xscale>
+      <yscale>0.65</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="6" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>558.5</x>
+      <y>275</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP3" index="8" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>512.5</x>
+      <y>289</y>
+      <xscale>0.8</xscale>
+      <yscale>0.8</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="9" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>599.5</x>
+      <y>296</y>
+      <xscale>1.12</xscale>
+      <yscale>1.12</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP4" index="11" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>551.5</x>
+      <y>318</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP40" index="12" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>411.275</x>
+      <y>255.025</y>
+      <xscale>0.79</xscale>
+      <yscale>0.79</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP41" index="13" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>364.275</x>
+      <y>263.025</y>
+      <xscale>0.65</xscale>
+      <yscale>0.65</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP42" index="14" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>446.275</x>
+      <y>275.025</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP43" index="16" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>400.275</x>
+      <y>289.025</y>
+      <xscale>0.8</xscale>
+      <yscale>0.8</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP44" index="17" attached="Y">
+      <file>custom.classrm_tech_chair.swf</file>
+      <x>487.275</x>
+      <y>296.025</y>
+      <xscale>1.12</xscale>
+      <yscale>1.12</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP45" index="19" attached="Y">
+      <file>custom.classrm_stu_table.swf</file>
+      <x>439.275</x>
+      <y>318.025</y>
+      <xscale>0.92</xscale>
+      <yscale>0.92</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT17" themecode="common" index="20">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE12" adelay="735" lock="Y" index="9" color="16777215" guid="3542BEB5-DCB7-CCE6-EA76-110B66B69FC7" combgId="common.cbg_ncc_bedroom">
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR233" index="13" raceCode="1">
+      <action face="-1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP170" raceCode="1">
+        <file>ugc.fce0727.head.head_thinking.xml</file>
+      </head>
+      <x>315.9</x>
+      <y>226.525</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP55" index="12" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="11" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front_empty.swf</file>
+      <x>161.4</x>
+      <y>259.1</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP53" index="10" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <effectAsset id="EFFECT26" themecode="common" index="14">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE13" adelay="81" lock="N" index="10" color="16777215" guid="D951D6FA-90EA-82B7-CB4F-7A3781CC740C">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR233" index="13" raceCode="1">
+      <action face="-1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP185" raceCode="1">
+        <file>ugc.fce0727.head.head_schemeing.xml</file>
+      </head>
+      <x>315.9</x>
+      <y>226.525</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP53" index="10" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="11" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front_empty.swf</file>
+      <x>161.4</x>
+      <y>259.1</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="12" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT26" themecode="common" index="14">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE14" adelay="18" lock="Y" index="11" color="16777215" guid="CB349C5F-F88C-AEBA-1C24-A4B7A04DB035">
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR233" index="13" raceCode="1">
+      <action face="1,1" motionface="1">ugc.fce0727.walk.xml</action>
+      <head id="PROP198" raceCode="1">
+        <file>ugc.fce0727.head.head_schemeing.xml</file>
+      </head>
+      <x>315.9,238.3</x>
+      <y>226.525,227.025</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP53" index="10" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="11" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front_empty.swf</file>
+      <x>161.4</x>
+      <y>259.1</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="12" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT26" themecode="common" index="14">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="AVATOR233" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE15" adelay="78" lock="Y" index="12" color="16777215" guid="91EC37D9-1B42-2BF4-32F4-6025E79CC82C">
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR233" index="10" raceCode="1">
+      <action face="1" motionface="-1">ugc.fce0727.stand.xml</action>
+      <head id="PROP216" raceCode="1">
+        <file>ugc.fce0727.head.head_asleep.xml</file>
+      </head>
+      <x>235.2652846</x>
+      <y>214.1871079</y>
+      <xscale>0.7006774</xscale>
+      <yscale>0.7006774</yscale>
+      <rotation>45.0576416</rotation>
+    </char>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP53" index="11" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="12" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front.swf</file>
+      <x>163.29</x>
+      <y>245.37125</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="13" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT26" themecode="common" index="14">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE16" adelay="102" lock="Y" index="13" color="16777215" guid="42E5B148-8191-B588-814E-30A52F1DFF54">
+    <bubbleAsset id="BUBBLE513" index="2">
+      <x>322.022007</x>
+      <y>298.4843826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-180.6307278" y="-58.4395973" w="361.2614555" h="116.8791946" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Oswald" size="75" align="center" bold="false" italic="false" embed="true"><![CDATA[At 7:00 AM]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="PROP230" index="1">
+      <file>common.msp_clock01.msp_clock01_ncc_clock_fast.swf</file>
+      <x>322</x>
+      <y>134.6</y>
+      <xscale>2.1873536</xscale>
+      <yscale>2.1873536</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT31" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE18" adelay="78" lock="Y" index="14" color="16777215" guid="2F18CAAA-B9A3-B395-D53E-EFBA6EA1B688">
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR233" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP241" raceCode="1">
+        <file>ugc.fce0727.head.head_asleep.xml</file>
+      </head>
+      <x>235.2652846</x>
+      <y>214.1871079</y>
+      <xscale>0.7006774</xscale>
+      <yscale>0.7006774</yscale>
+      <rotation>45.0576416</rotation>
+    </char>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP53" index="11" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="12" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front.swf</file>
+      <x>163.29</x>
+      <y>245.37125</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="13" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT26" themecode="common" index="14">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE19" adelay="81" lock="N" index="15" color="16777215" guid="5508F3A5-1786-DE8E-00BF-8CC3C69BF9BD">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR233" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP254" raceCode="1">
+        <file>ugc.fce0727.head.head_asleep.xml</file>
+      </head>
+      <x>235.2652846</x>
+      <y>214.1871079</y>
+      <xscale>0.7006774</xscale>
+      <yscale>0.7006774</yscale>
+      <rotation>45.0576416</rotation>
+    </char>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP53" index="11" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="12" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front.swf</file>
+      <x>163.29</x>
+      <y>245.37125</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="13" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT26" themecode="common" index="14">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE20" adelay="60" lock="Y" index="16" color="16777215" guid="A46FCCBF-59E6-D984-B904-3B9CF1B65D46">
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR233" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP272" raceCode="1">
+        <file>ugc.fce0727.head.head_yawn.xml</file>
+      </head>
+      <x>235.2652846</x>
+      <y>214.1871079</y>
+      <xscale>0.7006774</xscale>
+      <yscale>0.7006774</yscale>
+      <rotation>45.0576416</rotation>
+    </char>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP53" index="11" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="12" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front.swf</file>
+      <x>163.29</x>
+      <y>245.37125</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="13" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT26" themecode="common" index="14">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE21" adelay="60" lock="N" index="17" color="16777215" guid="ED2BBF2A-856D-6AB5-4DA5-59FB362218F6">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR233" index="12" raceCode="1">
+      <action face="-1,-1" motionface="-1">ugc.fce0727.walk.xml</action>
+      <x>288.3477743,676.5977743</x>
+      <y>266.394053,270.025</y>
+      <xscale>0.7006774,0.7006774</xscale>
+      <yscale>0.7006774,0.7006774</yscale>
+      <rotation>1.6279681,1.6279681</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP53" index="10" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="11" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front.swf</file>
+      <x>163.29</x>
+      <y>245.37125</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="13" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT26" themecode="common" index="14">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="1" target="AVATOR233" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE23" adelay="87" lock="Y" index="18" color="16777215" guid="02F09C49-B9A1-6047-1162-262BDA09F033" combgId="custom.cbg_classroom">
+    <bg id="BG2" index="0">
+      <file>custom.classroom_bg.swf</file>
+      <dcsn>9538</dcsn>
+      <color r="ccColorA" oc="0x0">8754265</color>
+    </bg>
+    <char id="AVATOR690" index="8" raceCode="1">
+      <action face="1" motionface="1">ugc.52b6a8a.sit.xml</action>
+      <x>478.8091503</x>
+      <y>185.437824</y>
+      <xscale>0.6023055</xscale>
+      <yscale>0.6023055</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR693" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.5e4d59e.sit.xml</action>
+      <x>423.5465988</x>
+      <y>191.3015214</y>
+      <xscale>0.6914131</xscale>
+      <yscale>0.6914131</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR696" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.944fe87.sit.xml</action>
+      <x>360.1032225</x>
+      <y>191.0732514</y>
+      <xscale>0.6718178</xscale>
+      <yscale>0.6718178</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR701" index="14" raceCode="1">
+      <action face="1" motionface="1">ugc.1649ee4.sit.xml</action>
+      <x>303.852689</x>
+      <y>199.877533</y>
+      <xscale>0.462873</xscale>
+      <yscale>0.462873</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR704" index="12" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.sit.xml</action>
+      <x>238.5410021</x>
+      <y>192.068535</y>
+      <xscale>0.5671843</xscale>
+      <yscale>0.5671843</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR707" index="16" raceCode="1">
+      <action face="-1" motionface="1">ugc.b33cd74.stand.xml</action>
+      <x>143.5</x>
+      <y>226.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP321" index="9">
+      <file>custom.cc_table03.swf</file>
+      <x>582.9021254</x>
+      <y>252.6760492</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <dcsn>9188</dcsn>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP329" index="10">
+      <file>custom.cc_table03.swf</file>
+      <x>430.1021254</x>
+      <y>252.6416667</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP330" index="15">
+      <file>custom.cc_table03.swf</file>
+      <x>275.2521254</x>
+      <y>252.675</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP335" index="11">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>230.3333333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP337" index="13">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>293.7333333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP339" index="3">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>353.35</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP341" index="1">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>413.6666667</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP347" index="5">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>593.8</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP348" index="6">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>470.725</x>
+      <y>220.3</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP349" index="4">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>534.1833333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP376" index="17">
+      <file>ugc.ff42da7.png</file>
+      <x>340.875</x>
+      <y>200.925</y>
+      <xscale>0.0594248</xscale>
+      <yscale>0.0594248</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP377" index="18">
+      <file>ugc.200a90e.png</file>
+      <x>319.625</x>
+      <y>210.225</y>
+      <xscale>0.0240374</xscale>
+      <yscale>0.0240374</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP378" index="19">
+      <file>ugc.61d3eb7.png</file>
+      <x>294.6</x>
+      <y>214.5</y>
+      <xscale>0.1182853</xscale>
+      <yscale>0.1182853</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP392" index="20">
+      <file>ugc.ee59e8e.png</file>
+      <x>381.175</x>
+      <y>210.2</y>
+      <xscale>0.1275748</xscale>
+      <yscale>0.1275748</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP395" index="21">
+      <file>ugc.30886d9.png</file>
+      <x>275.225</x>
+      <y>210.2</y>
+      <xscale>0.0383157</xscale>
+      <yscale>0.0383157</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT26" themecode="common" index="22">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE24" adelay="165" lock="N" index="19" color="16777215" guid="D95DA599-2B60-FFA1-85A4-6332CFC3618D">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG2" index="0">
+      <file>custom.classroom_bg.swf</file>
+      <color r="ccColorA" oc="0x0">8754265</color>
+    </bg>
+    <char id="AVATOR693" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.5e4d59e.sit.xml</action>
+      <x>423.5465988</x>
+      <y>191.3015214</y>
+      <xscale>0.6914131</xscale>
+      <yscale>0.6914131</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR696" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.944fe87.sit.xml</action>
+      <x>360.1032225</x>
+      <y>191.0732514</y>
+      <xscale>0.6718178</xscale>
+      <yscale>0.6718178</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR690" index="8" raceCode="1">
+      <action face="1" motionface="1">ugc.52b6a8a.sit.xml</action>
+      <x>478.8091503</x>
+      <y>185.437824</y>
+      <xscale>0.6023055</xscale>
+      <yscale>0.6023055</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR704" index="12" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.sit.xml</action>
+      <x>238.5410021</x>
+      <y>192.068535</y>
+      <xscale>0.5671843</xscale>
+      <yscale>0.5671843</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR701" index="14" raceCode="1">
+      <action face="1" motionface="1">ugc.1649ee4.sit.xml</action>
+      <x>303.852689</x>
+      <y>199.877533</y>
+      <xscale>0.462873</xscale>
+      <yscale>0.462873</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR707" index="16" raceCode="1">
+      <action face="-1" motionface="1">ugc.b33cd74.talk.xml</action>
+      <x>143.5</x>
+      <y>226.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP341" index="1">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>413.6666667</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP339" index="3">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>353.35</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP349" index="4">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>534.1833333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP347" index="5">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>593.8</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP348" index="6">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>470.725</x>
+      <y>220.3</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP321" index="9">
+      <file>custom.cc_table03.swf</file>
+      <x>582.9021254</x>
+      <y>252.6760492</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP329" index="10">
+      <file>custom.cc_table03.swf</file>
+      <x>430.1021254</x>
+      <y>252.6416667</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP335" index="11">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>230.3333333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP337" index="13">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>293.7333333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP330" index="15">
+      <file>custom.cc_table03.swf</file>
+      <x>275.2521254</x>
+      <y>252.675</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP376" index="17">
+      <file>ugc.ff42da7.png</file>
+      <x>340.875</x>
+      <y>200.925</y>
+      <xscale>0.0594248</xscale>
+      <yscale>0.0594248</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP377" index="18">
+      <file>ugc.200a90e.png</file>
+      <x>319.625</x>
+      <y>210.225</y>
+      <xscale>0.0240374</xscale>
+      <yscale>0.0240374</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP378" index="19">
+      <file>ugc.61d3eb7.png</file>
+      <x>294.6</x>
+      <y>214.5</y>
+      <xscale>0.1182853</xscale>
+      <yscale>0.1182853</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP392" index="20">
+      <file>ugc.ee59e8e.png</file>
+      <x>381.175</x>
+      <y>210.2</y>
+      <xscale>0.1275748</xscale>
+      <yscale>0.1275748</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP395" index="21">
+      <file>ugc.30886d9.png</file>
+      <x>275.225</x>
+      <y>210.2</y>
+      <xscale>0.0383157</xscale>
+      <yscale>0.0383157</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT26" themecode="common" index="22">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE25" adelay="30" lock="Y" index="20" color="16777215" guid="7CEA5757-E52A-B386-0772-4E54A086E7B6">
+    <bg id="BG2" index="0">
+      <file>custom.classroom_bg.swf</file>
+      <color r="ccColorA" oc="0x0">8754265</color>
+    </bg>
+    <char id="AVATOR693" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.5e4d59e.sit.xml</action>
+      <x>423.5465988</x>
+      <y>191.3015214</y>
+      <xscale>0.6914131</xscale>
+      <yscale>0.6914131</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR696" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.944fe87.sit.xml</action>
+      <x>360.1032225</x>
+      <y>191.0732514</y>
+      <xscale>0.6718178</xscale>
+      <yscale>0.6718178</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR690" index="8" raceCode="1">
+      <action face="1" motionface="1">ugc.52b6a8a.sit.xml</action>
+      <x>478.8091503</x>
+      <y>185.437824</y>
+      <xscale>0.6023055</xscale>
+      <yscale>0.6023055</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR704" index="12" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.sit.xml</action>
+      <x>238.5410021</x>
+      <y>192.068535</y>
+      <xscale>0.5671843</xscale>
+      <yscale>0.5671843</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR701" index="14" raceCode="1">
+      <action face="1" motionface="1">ugc.1649ee4.sit.xml</action>
+      <x>303.852689</x>
+      <y>199.877533</y>
+      <xscale>0.462873</xscale>
+      <yscale>0.462873</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR707" index="16" raceCode="1">
+      <action face="1,1" motionface="1">ugc.b33cd74.walk.xml</action>
+      <x>143.5,-45.25</x>
+      <y>226.6,252.6666667</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="PROP341" index="1">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>413.6666667</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP339" index="3">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>353.35</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP349" index="4">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>534.1833333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP347" index="5">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>593.8</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP348" index="6">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>470.725</x>
+      <y>220.3</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP321" index="9">
+      <file>custom.cc_table03.swf</file>
+      <x>582.9021254</x>
+      <y>252.6760492</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP329" index="10">
+      <file>custom.cc_table03.swf</file>
+      <x>430.1021254</x>
+      <y>252.6416667</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP335" index="11">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>230.3333333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP337" index="13">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>293.7333333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP330" index="15">
+      <file>custom.cc_table03.swf</file>
+      <x>275.2521254</x>
+      <y>252.675</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP376" index="17">
+      <file>ugc.ff42da7.png</file>
+      <x>340.875</x>
+      <y>200.925</y>
+      <xscale>0.0594248</xscale>
+      <yscale>0.0594248</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP377" index="18">
+      <file>ugc.200a90e.png</file>
+      <x>319.625</x>
+      <y>210.225</y>
+      <xscale>0.0240374</xscale>
+      <yscale>0.0240374</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP378" index="19">
+      <file>ugc.61d3eb7.png</file>
+      <x>294.6</x>
+      <y>214.5</y>
+      <xscale>0.1182853</xscale>
+      <yscale>0.1182853</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP392" index="20">
+      <file>ugc.ee59e8e.png</file>
+      <x>381.175</x>
+      <y>210.2</y>
+      <xscale>0.1275748</xscale>
+      <yscale>0.1275748</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP395" index="21">
+      <file>ugc.30886d9.png</file>
+      <x>275.225</x>
+      <y>210.2</y>
+      <xscale>0.0383157</xscale>
+      <yscale>0.0383157</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT26" themecode="common" index="22">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="9" target="AVATOR707" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE26" adelay="15" lock="Y" index="21" color="16777215" guid="5E91A10B-8822-8208-6821-D28313BCBC2A">
+    <bg id="BG2" index="0">
+      <file>custom.classroom_bg.swf</file>
+      <color r="ccColorA" oc="0x0">8754265</color>
+    </bg>
+    <char id="AVATOR693" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.5e4d59e.sit.xml</action>
+      <x>423.5465988</x>
+      <y>191.3015214</y>
+      <xscale>0.6914131</xscale>
+      <yscale>0.6914131</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR696" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.944fe87.sit.xml</action>
+      <x>360.1032225</x>
+      <y>191.0732514</y>
+      <xscale>0.6718178</xscale>
+      <yscale>0.6718178</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR690" index="8" raceCode="1">
+      <action face="1" motionface="1">ugc.52b6a8a.sit.xml</action>
+      <x>478.8091503</x>
+      <y>185.437824</y>
+      <xscale>0.6023055</xscale>
+      <yscale>0.6023055</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR704" index="12" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.sit.xml</action>
+      <x>238.5410021</x>
+      <y>192.068535</y>
+      <xscale>0.5671843</xscale>
+      <yscale>0.5671843</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR701" index="14" raceCode="1">
+      <action face="1" motionface="1">ugc.1649ee4.sit.xml</action>
+      <x>303.852689</x>
+      <y>199.877533</y>
+      <xscale>0.462873</xscale>
+      <yscale>0.462873</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR707" index="16" raceCode="1">
+      <action face="1" motionface="-1">ugc.b33cd74.stand.xml</action>
+      <x>-45.25</x>
+      <y>252.6666667</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP341" index="1">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>413.6666667</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP339" index="3">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>353.35</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP349" index="4">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>534.1833333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP347" index="5">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>593.8</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP348" index="6">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>470.725</x>
+      <y>220.3</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP321" index="9">
+      <file>custom.cc_table03.swf</file>
+      <x>582.9021254</x>
+      <y>252.6760492</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP329" index="10">
+      <file>custom.cc_table03.swf</file>
+      <x>430.1021254</x>
+      <y>252.6416667</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP335" index="11">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>230.3333333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP337" index="13">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>293.7333333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP330" index="15">
+      <file>custom.cc_table03.swf</file>
+      <x>275.2521254</x>
+      <y>252.675</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP376" index="17">
+      <file>ugc.ff42da7.png</file>
+      <x>340.875</x>
+      <y>200.925</y>
+      <xscale>0.0594248</xscale>
+      <yscale>0.0594248</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP377" index="18">
+      <file>ugc.200a90e.png</file>
+      <x>319.625</x>
+      <y>210.225</y>
+      <xscale>0.0240374</xscale>
+      <yscale>0.0240374</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP378" index="19">
+      <file>ugc.61d3eb7.png</file>
+      <x>294.6</x>
+      <y>214.5</y>
+      <xscale>0.1182853</xscale>
+      <yscale>0.1182853</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP392" index="20">
+      <file>ugc.ee59e8e.png</file>
+      <x>381.175</x>
+      <y>210.2</y>
+      <xscale>0.1275748</xscale>
+      <yscale>0.1275748</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP395" index="21">
+      <file>ugc.30886d9.png</file>
+      <x>275.225</x>
+      <y>210.2</y>
+      <xscale>0.0383157</xscale>
+      <yscale>0.0383157</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT26" themecode="common" index="22">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE27" adelay="384" lock="Y" index="22" color="16777215" guid="5E5ECE91-C835-B744-D30C-A7A4496D3FD7">
+    <bg id="BG2" index="0">
+      <file>custom.classroom_bg.swf</file>
+      <color r="ccColorA" oc="0x0">8754265</color>
+    </bg>
+    <char id="AVATOR693" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.5e4d59e.sit.xml</action>
+      <head id="PROP463" raceCode="1">
+        <file>ugc.5e4d59e.head.head_chewing.xml</file>
+      </head>
+      <x>423.5465988</x>
+      <y>191.3015214</y>
+      <xscale>0.6914131</xscale>
+      <yscale>0.6914131</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR696" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.944fe87.sit.xml</action>
+      <head id="PROP461" raceCode="1">
+        <file>ugc.944fe87.head.head_chewing.xml</file>
+      </head>
+      <x>361.3532225</x>
+      <y>190.9982514</y>
+      <xscale>0.6718178</xscale>
+      <yscale>0.6718178</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR690" index="8" raceCode="1">
+      <action face="1" motionface="1">ugc.52b6a8a.sit.xml</action>
+      <x>478.8091503</x>
+      <y>185.437824</y>
+      <xscale>0.6023055</xscale>
+      <yscale>0.6023055</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR704" index="12" raceCode="1">
+      <action face="-1" motionface="1">ugc.fce0727.sit.xml</action>
+      <head id="PROP457" raceCode="1">
+        <file>ugc.fce0727.head.head_chewing.xml</file>
+      </head>
+      <x>238.5410021</x>
+      <y>192.068535</y>
+      <xscale>0.5671843</xscale>
+      <yscale>0.5671843</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR701" index="14" raceCode="1">
+      <action face="1" motionface="1">ugc.1649ee4.sit.xml</action>
+      <head id="PROP459" raceCode="1">
+        <file>ugc.1649ee4.head.head_chewing.xml</file>
+      </head>
+      <x>303.852689</x>
+      <y>199.877533</y>
+      <xscale>0.462873</xscale>
+      <yscale>0.462873</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR707" index="16" raceCode="1">
+      <action face="1" motionface="1">ugc.b33cd74.stand.xml</action>
+      <x>-45.25</x>
+      <y>252.6666667</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP341" index="1">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>413.6666667</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP339" index="3">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>353.35</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP349" index="4">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>534.1833333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP347" index="5">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>593.8</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP348" index="6">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>470.725</x>
+      <y>220.3</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP321" index="9">
+      <file>custom.cc_table03.swf</file>
+      <x>582.9021254</x>
+      <y>252.6760492</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP329" index="10">
+      <file>custom.cc_table03.swf</file>
+      <x>430.1021254</x>
+      <y>252.6416667</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP335" index="11">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>230.3333333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP337" index="13">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>293.7333333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP330" index="15">
+      <file>custom.cc_table03.swf</file>
+      <x>275.2521254</x>
+      <y>252.675</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP376" index="17">
+      <file>ugc.ff42da7.png</file>
+      <x>340.8</x>
+      <y>151.75</y>
+      <xscale>0.0594248</xscale>
+      <yscale>0.0594248</yscale>
+      <face>1</face>
+      <rotation>122.0109517</rotation>
+    </prop>
+    <prop id="PROP377" index="18">
+      <file>ugc.200a90e.png</file>
+      <x>319.625</x>
+      <y>210.225</y>
+      <xscale>0.0240374</xscale>
+      <yscale>0.0240374</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP378" index="19">
+      <file>ugc.61d3eb7.png</file>
+      <x>294.6</x>
+      <y>214.5</y>
+      <xscale>0.1182853</xscale>
+      <yscale>0.1182853</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP392" index="20">
+      <file>ugc.ee59e8e.png</file>
+      <x>381.175</x>
+      <y>210.2</y>
+      <xscale>0.1275748</xscale>
+      <yscale>0.1275748</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP395" index="21">
+      <file>ugc.30886d9.png</file>
+      <x>275.225</x>
+      <y>210.2</y>
+      <xscale>0.0383157</xscale>
+      <yscale>0.0383157</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT26" themecode="common" index="22">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE28" adelay="15" lock="Y" index="23" color="16777215" guid="5EE5F9BC-C4B5-E1C2-B6DF-064BD34FDB2B">
+    <bg id="BG2" index="0">
+      <file>custom.classroom_bg.swf</file>
+      <color r="ccColorA" oc="0x0">8754265</color>
+    </bg>
+    <char id="AVATOR693" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.5e4d59e.sit.xml</action>
+      <x>423.5465988</x>
+      <y>191.3015214</y>
+      <xscale>0.6914131</xscale>
+      <yscale>0.6914131</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR696" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.944fe87.sit.xml</action>
+      <head id="PROP470" raceCode="1">
+        <file>ugc.944fe87.head.head_chewing.xml</file>
+      </head>
+      <x>361.3532225</x>
+      <y>190.9982514</y>
+      <xscale>0.6718178</xscale>
+      <yscale>0.6718178</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR690" index="8" raceCode="1">
+      <action face="1" motionface="1">ugc.52b6a8a.sit.xml</action>
+      <x>478.8091503</x>
+      <y>185.437824</y>
+      <xscale>0.6023055</xscale>
+      <yscale>0.6023055</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR704" index="12" raceCode="1">
+      <action face="-1" motionface="1">ugc.fce0727.sit.xml</action>
+      <x>238.5410021</x>
+      <y>192.068535</y>
+      <xscale>0.5671843</xscale>
+      <yscale>0.5671843</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR701" index="14" raceCode="1">
+      <action face="1" motionface="1">ugc.1649ee4.sit.xml</action>
+      <x>303.852689</x>
+      <y>199.877533</y>
+      <xscale>0.462873</xscale>
+      <yscale>0.462873</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR707" index="16" raceCode="1">
+      <action face="1" motionface="1">ugc.b33cd74.stand.xml</action>
+      <x>-45.25</x>
+      <y>252.6666667</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP341" index="1">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>413.6666667</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP339" index="3">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>353.35</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP349" index="4">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>534.1833333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP347" index="5">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>593.8</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP348" index="6">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>470.725</x>
+      <y>220.3</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP321" index="9">
+      <file>custom.cc_table03.swf</file>
+      <x>582.9021254</x>
+      <y>252.6760492</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP329" index="10">
+      <file>custom.cc_table03.swf</file>
+      <x>430.1021254</x>
+      <y>252.6416667</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP335" index="11">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>230.3333333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP337" index="13">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>293.7333333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP330" index="15">
+      <file>custom.cc_table03.swf</file>
+      <x>275.2521254</x>
+      <y>252.675</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP376" index="17">
+      <file>ugc.ff42da7.png</file>
+      <x>341.125</x>
+      <y>195.45</y>
+      <xscale>0.0594248</xscale>
+      <yscale>0.0594248</yscale>
+      <face>1</face>
+      <rotation>0.950956</rotation>
+    </prop>
+    <prop id="PROP395" index="18">
+      <file>ugc.30886d9.png</file>
+      <x>322.125</x>
+      <y>210.225</y>
+      <xscale>0.0383157</xscale>
+      <yscale>0.0383157</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT26" themecode="common" index="19">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE29" adelay="18" lock="Y" index="24" color="16777215" guid="B2BEAFC7-3722-41AC-C7EF-F7BBB332272A">
+    <bg id="BG2" index="0">
+      <file>custom.classroom_bg.swf</file>
+      <color r="ccColorA" oc="0x0">8754265</color>
+    </bg>
+    <char id="AVATOR693" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.5e4d59e.sit.xml</action>
+      <x>423.5465988</x>
+      <y>191.3015214</y>
+      <xscale>0.6914131</xscale>
+      <yscale>0.6914131</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR696" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.944fe87.sit.xml</action>
+      <head id="PROP488" raceCode="1">
+        <file>ugc.944fe87.head.head_chewing.xml</file>
+      </head>
+      <x>361.3532225</x>
+      <y>190.9982514</y>
+      <xscale>0.6718178</xscale>
+      <yscale>0.6718178</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR690" index="8" raceCode="1">
+      <action face="1" motionface="1">ugc.52b6a8a.sit.xml</action>
+      <x>478.8091503</x>
+      <y>185.437824</y>
+      <xscale>0.6023055</xscale>
+      <yscale>0.6023055</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR704" index="12" raceCode="1">
+      <action face="-1" motionface="1">ugc.fce0727.sit.xml</action>
+      <x>238.5410021</x>
+      <y>192.068535</y>
+      <xscale>0.5671843</xscale>
+      <yscale>0.5671843</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR701" index="14" raceCode="1">
+      <action face="1" motionface="1">ugc.1649ee4.sit.xml</action>
+      <x>303.852689</x>
+      <y>199.877533</y>
+      <xscale>0.462873</xscale>
+      <yscale>0.462873</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR707" index="16" raceCode="1">
+      <action face="-1,-1" motionface="-1">ugc.b33cd74.walk.xml</action>
+      <head id="PROP499" raceCode="1">
+        <file>ugc.b33cd74.head.head_sad.xml</file>
+      </head>
+      <x>-45.25,386.85</x>
+      <y>252.6666667,236.2</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="PROP341" index="1">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>413.6666667</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP339" index="3">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>353.35</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP349" index="4">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>534.1833333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP347" index="5">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>593.8</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP348" index="6">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>470.725</x>
+      <y>220.3</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP321" index="9">
+      <file>custom.cc_table03.swf</file>
+      <x>582.9021254</x>
+      <y>252.6760492</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP329" index="10">
+      <file>custom.cc_table03.swf</file>
+      <x>430.1021254</x>
+      <y>252.6416667</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP335" index="11">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>230.3333333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP337" index="13">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>293.7333333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP330" index="15">
+      <file>custom.cc_table03.swf</file>
+      <x>275.2521254</x>
+      <y>252.675</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP376" index="17">
+      <file>ugc.ff42da7.png</file>
+      <x>341.125</x>
+      <y>195.45</y>
+      <xscale>0.0594248</xscale>
+      <yscale>0.0594248</yscale>
+      <face>1</face>
+      <rotation>0.950956</rotation>
+    </prop>
+    <prop id="PROP395" index="18">
+      <file>ugc.30886d9.png</file>
+      <x>322.125</x>
+      <y>210.225</y>
+      <xscale>0.0383157</xscale>
+      <yscale>0.0383157</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT26" themecode="common" index="19">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="10" target="AVATOR707" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE30" adelay="75" lock="Y" index="25" color="16777215" guid="B7E81C90-CD7B-41DB-AB17-BFBF0476B639">
+    <bg id="BG2" index="0">
+      <file>custom.classroom_bg.swf</file>
+      <color r="ccColorA" oc="0x0">8754265</color>
+    </bg>
+    <char id="AVATOR693" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.5e4d59e.sit.xml</action>
+      <x>423.5465988</x>
+      <y>191.3015214</y>
+      <xscale>0.6914131</xscale>
+      <yscale>0.6914131</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR696" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.944fe87.sit.xml</action>
+      <head id="PROP505" raceCode="1">
+        <file>ugc.944fe87.head.head_chewing.xml</file>
+      </head>
+      <x>361.3532225</x>
+      <y>190.9982514</y>
+      <xscale>0.6718178</xscale>
+      <yscale>0.6718178</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR690" index="8" raceCode="1">
+      <action face="1" motionface="1">ugc.52b6a8a.sit.xml</action>
+      <head id="PROP517" raceCode="1">
+        <file>ugc.52b6a8a.head.head_shocked.xml</file>
+      </head>
+      <x>478.8091503</x>
+      <y>185.437824</y>
+      <xscale>0.6023055</xscale>
+      <yscale>0.6023055</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR704" index="12" raceCode="1">
+      <action face="-1" motionface="1">ugc.fce0727.sit.xml</action>
+      <x>238.5410021</x>
+      <y>192.068535</y>
+      <xscale>0.5671843</xscale>
+      <yscale>0.5671843</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR701" index="14" raceCode="1">
+      <action face="1" motionface="1">ugc.1649ee4.sit.xml</action>
+      <x>303.852689</x>
+      <y>199.877533</y>
+      <xscale>0.462873</xscale>
+      <yscale>0.462873</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR707" index="18" raceCode="1">
+      <action face="-1" motionface="-1">ugc.b33cd74.talk.xml</action>
+      <head id="PROP511" raceCode="1">
+        <file>ugc.b33cd74.head.head_sad.xml</file>
+      </head>
+      <x>386.85</x>
+      <y>236.85</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP341" index="1">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>413.6666667</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP339" index="3">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>353.35</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP349" index="4">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>534.1833333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP347" index="5">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>593.8</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP348" index="6">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>470.725</x>
+      <y>220.3</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP321" index="9">
+      <file>custom.cc_table03.swf</file>
+      <x>582.9021254</x>
+      <y>252.6760492</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP329" index="10">
+      <file>custom.cc_table03.swf</file>
+      <x>430.1021254</x>
+      <y>252.6416667</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP335" index="11">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>230.3333333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP337" index="13">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>293.7333333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP330" index="15">
+      <file>custom.cc_table03.swf</file>
+      <x>275.2521254</x>
+      <y>252.675</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP376" index="16">
+      <file>ugc.ff42da7.png</file>
+      <x>341.125</x>
+      <y>195.45</y>
+      <xscale>0.0594248</xscale>
+      <yscale>0.0594248</yscale>
+      <face>1</face>
+      <rotation>0.950956</rotation>
+    </prop>
+    <prop id="PROP395" index="17">
+      <file>ugc.30886d9.png</file>
+      <x>322.125</x>
+      <y>210.225</y>
+      <xscale>0.0383157</xscale>
+      <yscale>0.0383157</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT26" themecode="common" index="19">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE31" adelay="21" lock="Y" index="26" color="16777215" guid="EC4FB87F-D537-7036-C5BE-1A3F1553BA62">
+    <bg id="BG2" index="0">
+      <file>custom.classroom_bg.swf</file>
+      <color r="ccColorA" oc="0x0">8754265</color>
+    </bg>
+    <char id="AVATOR693" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.5e4d59e.sit.xml</action>
+      <x>423.5465988</x>
+      <y>191.3015214</y>
+      <xscale>0.6914131</xscale>
+      <yscale>0.6914131</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR696" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.944fe87.sit.xml</action>
+      <head id="PROP523" raceCode="1">
+        <file>ugc.944fe87.head.head_chewing.xml</file>
+      </head>
+      <x>361.3532225</x>
+      <y>190.9982514</y>
+      <xscale>0.6718178</xscale>
+      <yscale>0.6718178</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR690" index="8" raceCode="1">
+      <action face="1" motionface="1">ugc.52b6a8a.sit.xml</action>
+      <head id="PROP534" raceCode="1">
+        <file>ugc.52b6a8a.head.head_angry.xml</file>
+      </head>
+      <x>478.8091503</x>
+      <y>185.437824</y>
+      <xscale>0.6023055</xscale>
+      <yscale>0.6023055</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR704" index="12" raceCode="1">
+      <action face="-1" motionface="1">ugc.fce0727.sit.xml</action>
+      <x>238.5410021</x>
+      <y>192.068535</y>
+      <xscale>0.5671843</xscale>
+      <yscale>0.5671843</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR701" index="14" raceCode="1">
+      <action face="1" motionface="1">ugc.1649ee4.sit.xml</action>
+      <x>303.852689</x>
+      <y>199.877533</y>
+      <xscale>0.462873</xscale>
+      <yscale>0.462873</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR707" index="18" raceCode="1">
+      <action face="-1" motionface="1">ugc.b33cd74.talk.xml</action>
+      <head id="PROP532" raceCode="1">
+        <file>ugc.b33cd74.head.head_sad.xml</file>
+      </head>
+      <x>386.85</x>
+      <y>236.85</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP341" index="1">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>413.6666667</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP339" index="3">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>353.35</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP349" index="4">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>534.1833333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP347" index="5">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>593.8</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP348" index="6">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>470.725</x>
+      <y>220.3</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP321" index="9">
+      <file>custom.cc_table03.swf</file>
+      <x>582.9021254</x>
+      <y>252.6760492</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP329" index="10">
+      <file>custom.cc_table03.swf</file>
+      <x>430.1021254</x>
+      <y>252.6416667</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP335" index="11">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>230.3333333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP337" index="13">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>293.7333333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP330" index="15">
+      <file>custom.cc_table03.swf</file>
+      <x>275.2521254</x>
+      <y>252.675</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP376" index="16">
+      <file>ugc.ff42da7.png</file>
+      <x>341.125</x>
+      <y>195.45</y>
+      <xscale>0.0594248</xscale>
+      <yscale>0.0594248</yscale>
+      <face>1</face>
+      <rotation>0.950956</rotation>
+    </prop>
+    <prop id="PROP395" index="17">
+      <file>ugc.30886d9.png</file>
+      <x>322.125</x>
+      <y>210.225</y>
+      <xscale>0.0383157</xscale>
+      <yscale>0.0383157</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT26" themecode="common" index="19">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE32" adelay="30" lock="Y" index="27" color="16777215" guid="5BADE2D1-5FFE-3B1D-3518-50190EEF032B">
+    <bg id="BG2" index="0">
+      <file>custom.classroom_bg.swf</file>
+      <color r="ccColorA" oc="0x0">8754265</color>
+    </bg>
+    <char id="AVATOR693" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.5e4d59e.sit.xml</action>
+      <x>423.5465988</x>
+      <y>191.3015214</y>
+      <xscale>0.6914131</xscale>
+      <yscale>0.6914131</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR696" index="7" raceCode="1">
+      <action face="1" motionface="1">ugc.944fe87.sit.xml</action>
+      <head id="PROP540" raceCode="1">
+        <file>ugc.944fe87.head.head_chewing.xml</file>
+      </head>
+      <x>361.3532225</x>
+      <y>190.9982514</y>
+      <xscale>0.6718178</xscale>
+      <yscale>0.6718178</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR690" index="8" raceCode="1">
+      <action face="1" motionface="1">ugc.52b6a8a.sit.xml</action>
+      <head id="PROP541" raceCode="1">
+        <file>ugc.52b6a8a.head.head_angry.xml</file>
+      </head>
+      <x>478.8091503</x>
+      <y>185.437824</y>
+      <xscale>0.6023055</xscale>
+      <yscale>0.6023055</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR704" index="12" raceCode="1">
+      <action face="-1" motionface="1">ugc.fce0727.sit.xml</action>
+      <x>238.5410021</x>
+      <y>192.068535</y>
+      <xscale>0.5671843</xscale>
+      <yscale>0.5671843</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR701" index="14" raceCode="1">
+      <action face="1" motionface="1">ugc.1649ee4.sit.xml</action>
+      <x>303.852689</x>
+      <y>199.877533</y>
+      <xscale>0.462873</xscale>
+      <yscale>0.462873</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR707" index="18" raceCode="1">
+      <action face="-1" motionface="1">ugc.b33cd74.talk.xml</action>
+      <head id="PROP549" raceCode="1">
+        <file>ugc.b33cd74.head.head_sad.xml</file>
+      </head>
+      <x>386.85</x>
+      <y>236.85</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP341" index="1">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>413.6666667</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP339" index="3">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>353.35</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP349" index="4">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>534.1833333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP347" index="5">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>593.8</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP348" index="6">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>470.725</x>
+      <y>220.3</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP321" index="9">
+      <file>custom.cc_table03.swf</file>
+      <x>582.9021254</x>
+      <y>252.6760492</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP329" index="10">
+      <file>custom.cc_table03.swf</file>
+      <x>430.1021254</x>
+      <y>252.6416667</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP335" index="11">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>230.3333333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP337" index="13">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_front.swf</file>
+      <x>293.7333333</x>
+      <y>220.35</y>
+      <xscale>0.7300672</xscale>
+      <yscale>0.7300672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP330" index="15">
+      <file>custom.cc_table03.swf</file>
+      <x>275.2521254</x>
+      <y>252.675</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10910285</color>
+    </prop>
+    <prop id="PROP376" index="16">
+      <file>ugc.ff42da7.png</file>
+      <x>341.125</x>
+      <y>195.45</y>
+      <xscale>0.0594248</xscale>
+      <yscale>0.0594248</yscale>
+      <face>1</face>
+      <rotation>0.950956</rotation>
+    </prop>
+    <prop id="PROP395" index="17">
+      <file>ugc.30886d9.png</file>
+      <x>322.125</x>
+      <y>210.225</y>
+      <xscale>0.0383157</xscale>
+      <yscale>0.0383157</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT26" themecode="common" index="19">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND29" index="0" track="0" vol="0.5" tts="0">
+    <sfile>ugc.df5eb3e.mp3</sfile>
+    <start>1804</start>
+    <stop>8469</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND2" index="1" track="0" vol="0.5" tts="0">
+    <sfile>ugc.2d39372.mp3</sfile>
+    <start>1</start>
+    <stop>510</stop>
+    <trimEnd>510</trimEnd>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND28" index="2" track="0" vol="1" tts="0">
+    <sfile>ugc.3db0ca3.mp3</sfile>
+    <start>1744</start>
+    <stop>1803</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND23" index="3" track="0" vol="1" tts="0">
+    <sfile>common.strange_human_snore2.swf</sfile>
+    <start>1345</start>
+    <stop>1422</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND22" index="4" track="0" vol="1" tts="0">
+    <sfile>ugc.3db0ca3.mp3</sfile>
+    <start>1327</start>
+    <stop>1344</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND19" index="5" track="0" vol="1" tts="0">
+    <sfile>ugc.385cdc3.mp3</sfile>
+    <start>511</start>
+    <stop>1245</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND24" index="6" track="0" vol="1" tts="0">
+    <sfile>common.cuckoo_clock_ring_03_x2.mp3</sfile>
+    <start>1423</start>
+    <stop>1524</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND25" index="7" track="0" vol="1" tts="0">
+    <sfile>common.strange_human_snore2.swf</sfile>
+    <start>1525</start>
+    <stop>1602</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND39" index="8" track="1" vol="1" tts="0">
+    <sfile>ugc.3db0ca3.mp3</sfile>
+    <start>2500</start>
+    <stop>2517</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND37" index="9" track="1" vol="8" tts="0">
+    <sfile>common.pigs_eating_04.mp3</sfile>
+    <start>2101</start>
+    <stop>2484</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND35" index="10" track="1" vol="1" tts="0">
+    <sfile>ugc.3db0ca3.mp3</sfile>
+    <start>2056</start>
+    <stop>2085</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND32" index="11" track="1" vol="1" tts="0">
+    <sfile>ugc.f2c2a41.mp3</sfile>
+    <start>1804</start>
+    <stop>1890</stop>
+    <trimStart>34</trimStart>
+    <trimEnd>121</trimEnd>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND15" index="12" track="1" vol="1" tts="0">
+    <sfile>ugc.f2c2a41.mp3</sfile>
+    <start>424</start>
+    <stop>510</stop>
+    <trimStart>34</trimStart>
+    <trimEnd>121</trimEnd>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND30" index="13" track="1" vol="0.5" tts="0">
+    <sfile>ugc.ab00674.mp3</sfile>
+    <start>1246</start>
+    <stop>1803</stop>
+    <trimEnd>558</trimEnd>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND36" index="14" track="1" vol="1" tts="0">
+    <sfile>ugc.607ed4b.mp3</sfile>
+    <start>2086</start>
+    <stop>2100</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND38" index="15" track="2" vol="1" tts="0">
+    <sfile>ugc.48d0e72.mp3</sfile>
+    <start>2101</start>
+    <stop>2484</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND4" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.7e585bf.mp3</sfile>
+    <start>49</start>
+    <stop>180</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Today We Have a Tomorrow On Christmas Eve On December 19th, 2025 The All!]]></text>
+      <voice><![CDATA[skippy]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND6" index="1" track="0" vol="1" tts="1">
+    <sfile>ugc.57dc032.mp3</sfile>
+    <start>181</start>
+    <stop>279</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Please Ma'am Gummy, Can I Have a Bomb Explosion On Christmas Eve?]]></text>
+      <voice><![CDATA[ivy1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND8" index="2" track="0" vol="1" tts="1">
+    <sfile>ugc.a4af1f5.mp3</sfile>
+    <start>280</start>
+    <stop>324</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[The Bomb Explosion Doesn't Have Here!]]></text>
+      <voice><![CDATA[skippy]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND10" index="3" track="0" vol="1" tts="1">
+    <sfile>ugc.01b469f.mp3</sfile>
+    <start>328</start>
+    <stop>345</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Oh Man!]]></text>
+      <voice><![CDATA[ivy1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND12" index="4" track="0" vol="1" tts="1">
+    <sfile>ugc.a26eb20.mp3</sfile>
+    <start>367</start>
+    <stop>423</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Anyways, Have a Good Day On School!]]></text>
+      <voice><![CDATA[skippy]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND21" index="5" track="0" vol="1" tts="1">
+    <sfile>ugc.b487062.mp3</sfile>
+    <start>1246</start>
+    <stop>1326</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Oh I Know, I'm Going To Bed and Having a School Tomorrow!]]></text>
+      <voice><![CDATA[ivy1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND27" index="6" track="0" vol="1" tts="1">
+    <sfile>ugc.e5161be.mp3</sfile>
+    <start>1603</start>
+    <stop>1683</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Bob Kid, Get Up! We're Gonna Be Late For School!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND34" index="7" track="0" vol="1" tts="1">
+    <sfile>ugc.e9a04f9.mp3</sfile>
+    <start>1891</start>
+    <stop>2055</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Today Is Christmas Eve, And We're Going To Eating and Drinking Chicken, Banana, Orange, And More! So Enjoy!]]></text>
+      <voice><![CDATA[skippy]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND41" index="8" track="0" vol="1" tts="1">
+    <sfile>ugc.dec0c0f.mp3</sfile>
+    <start>2518</start>
+    <stop>2592</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Sorry To Say This, There Is No More Christmas Food Left!]]></text>
+      <voice><![CDATA[skippy]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND43" index="9" track="0" vol="1" tts="1">
+    <sfile>ugc.3ff15d5.mp3</sfile>
+    <start>2593</start>
+    <stop>2613</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Are You High?]]></text>
+      <voice><![CDATA[justin1]]></voice>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND4,~~~AVATOR210,SCENE5~~~</linkage>
+  <linkage>SOUND6,~~~AVATOR233,SCENE6~~~</linkage>
+  <linkage>SOUND8,~~~AVATOR210,SCENE7~~~</linkage>
+  <linkage>SOUND10,~~~AVATOR233,SCENE8~~~</linkage>
+  <linkage>SOUND12,~~~AVATOR210,SCENE10~~~</linkage>
+  <linkage>SOUND21,~~~AVATOR233,SCENE13~~~</linkage>
+  <linkage>SOUND27,SCENE19~~~</linkage>
+  <linkage>SOUND34,~~~AVATOR707,SCENE24~~~</linkage>
+  <linkage>SOUND41,~~~AVATOR707,SCENE30~~~</linkage>
+  <linkage>SOUND43,~~~AVATOR690,SCENE31~~~</linkage>
+</film>
