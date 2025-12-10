@@ -1,6 +1,125 @@
 {
 	"assets": [
 		{
+			"duration": 940,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Ivy] I'm Not Now?",
+			"id": "16593ba.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "9ada9ee.mp3",
+			"duration": 993,
+			"id": "59d0e99.mp3"
+		},
+		{
+			"duration": 993,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian] Sleeps!",
+			"id": "9ada9ee.mp3"
+		},
+		{
+			"duration": 1724,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Ivy] Fine! I'm Coming Now",
+			"id": "0967e60.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "ee3ee25.mp3",
+			"duration": 3004,
+			"id": "e21a9c9.mp3"
+		},
+		{
+			"duration": 3004,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian] We Will 5 Minutes Piss Off Also Time!",
+			"id": "ee3ee25.mp3"
+		},
+		{
+			"duration": 1358,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Ivy] Not We Will Come!",
+			"id": "4721d18.mp3"
+		},
+		{
+			"duration": 1881,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian] The Police We Will Come For You!",
+			"id": "83e69d7.mp3"
+		},
+		{
+			"duration": 1437,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian] Get Up Right Now!",
+			"id": "05b53c5.mp3"
+		},
+		{
+			"duration": 731,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Ivy] What?",
+			"id": "3eb219b.mp3"
+		},
+		{
+			"duration": 784,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Ivy] What Now?",
+			"id": "16e4fc1.mp3"
+		},
+		{
+			"duration": 836,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian] Bob Kid!",
+			"id": "829c563.mp3"
+		},
+		{
+			"duration": 2978,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Ivy] No I'm Not Going To School and I'm So Sick Right Now!",
+			"id": "d5e2272.mp3"
+		},
+		{
+			"duration": 2247,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian] Get Up You're Gonna Be Late For School!",
+			"id": "4eaaac8.mp3"
+		},
+		{
+			"duration": 679,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Ivy] No!",
+			"id": "0e4f2db.mp3"
+		},
+		{
+			"duration": 1123,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian] Now Get Up!",
+			"id": "061cda3.mp3"
+		},
+		{
+			"duration": 1228,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian] Go To School!",
+			"id": "d4a2074.mp3"
+		},
+		{
 			"type": "sound",
 			"subtype": "soundeffect",
 			"title": "641ab54.mp3",
@@ -4577,6 +4696,13 @@
 		}
 	],
 	"movies": [
+		{
+			"id": "0d38588",
+			"duration": "00:30",
+			"date": "2025-12-10T18:30:11.661Z",
+			"title": "Bob Kid Refuses To Go To School!",
+			"sceneCount": 24
+		},
 		{
 			"id": "a30d238",
 			"duration": "01:01",
