@@ -1,0 +1,5276 @@
+<film copyable="0" duration="70.6" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Bob Kid Misbehvaes At Church!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+      <color value="ffce95"/>
+      <color value="ffce95"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="18" lock="Y" index="0" color="16777215" guid="74981B3B-54BC-DA8C-8A10-707A2E20A9EB" combgId="common.cbg_ncc_bedroom">
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR143" index="14" raceCode="1">
+      <action face="1,1" motionface="1">ugc.853cf38.walk.xml</action>
+      <x>661.55,341.35</x>
+      <y>243.025,231.375</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <char id="AVATOR144" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP16" raceCode="1">
+        <file>ugc.fce0727.head.head_asleep.xml</file>
+      </head>
+      <x>237.9565527</x>
+      <y>213.1401072</y>
+      <xscale>0.5778518</xscale>
+      <yscale>0.5778518</yscale>
+      <rotation>41.7358901</rotation>
+    </char>
+    <prop id="PROP55" index="13" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="12" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front.swf</file>
+      <x>163.29</x>
+      <y>245.37125</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP53" index="11" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="15">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="AVATOR143" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE1" adelay="93" lock="N" index="1" color="16777215" guid="A8FC337C-54A6-A484-12B6-2E685CFA17FF">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR144" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP31" raceCode="1">
+        <file>ugc.fce0727.head.head_shocked.xml</file>
+      </head>
+      <x>237.9565527</x>
+      <y>213.1401072</y>
+      <xscale>0.5778518</xscale>
+      <yscale>0.5778518</yscale>
+      <rotation>41.7358901</rotation>
+    </char>
+    <char id="AVATOR143" index="14" raceCode="1">
+      <action face="1" motionface="-1">ugc.853cf38.excited.xml</action>
+      <head id="PROP33" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>341.35</x>
+      <y>231.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP53" index="11" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="12" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front.swf</file>
+      <x>163.29</x>
+      <y>245.37125</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="13" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="15">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE2" adelay="15" lock="Y" index="2" color="16777215" guid="99A93542-1F1F-01A4-B30C-3394B596FA20">
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR144" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP43" raceCode="1">
+        <file>ugc.fce0727.head.head_shocked.xml</file>
+      </head>
+      <x>237.9565527</x>
+      <y>213.1401072</y>
+      <xscale>0.5778518</xscale>
+      <yscale>0.5778518</yscale>
+      <rotation>41.7358901</rotation>
+    </char>
+    <char id="AVATOR143" index="14" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <head id="PROP59" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>341.35</x>
+      <y>231.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP53" index="11" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="12" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front.swf</file>
+      <x>163.29</x>
+      <y>245.37125</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="13" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="15">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE3" adelay="30" lock="Y" index="3" color="16777215" guid="D2517301-54E1-4A75-FAAA-C51127FB0D60">
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR144" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP69" raceCode="1">
+        <file>ugc.fce0727.head.head_shocked.xml</file>
+      </head>
+      <x>237.9565527</x>
+      <y>213.1401072</y>
+      <xscale>0.5778518</xscale>
+      <yscale>0.5778518</yscale>
+      <rotation>41.7358901</rotation>
+    </char>
+    <char id="AVATOR143" index="14" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <head id="PROP73" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>341.35</x>
+      <y>231.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP53" index="11" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="12" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front.swf</file>
+      <x>163.29</x>
+      <y>245.37125</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="13" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="15">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE4" adelay="6" lock="Y" index="4" color="16777215" guid="5852A600-FEEF-7C42-7782-1FF72970DEFA">
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR144" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.fce0727.stand.xml</action>
+      <head id="PROP83" raceCode="1">
+        <file>ugc.fce0727.head.head_shocked.xml</file>
+      </head>
+      <x>237.9565527</x>
+      <y>213.1401072</y>
+      <xscale>0.5778518</xscale>
+      <yscale>0.5778518</yscale>
+      <rotation>41.7358901</rotation>
+    </char>
+    <char id="AVATOR143" index="14" raceCode="1">
+      <action face="1,1" motionface="1">ugc.853cf38.run.xml</action>
+      <head id="PROP87" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>341.3,236.025</x>
+      <y>231.3,231.7</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP53" index="11" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="12" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front.swf</file>
+      <x>163.29</x>
+      <y>245.37125</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="13" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="15">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="1" target="AVATOR143" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE5" adelay="99" lock="Y" index="5" color="16777215" guid="32438CF8-085D-B692-1755-03CE16A9279D" combgId="custom.cbg_house_ext">
+    <bg id="cbg_house_ext_BG2" index="0">
+      <file>custom.house_ext_bg.swf</file>
+    </bg>
+    <effectAsset id="EFFECT6" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT7" themecode="common" index="1">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="earthquake" type="EARTHQUAKE"/>
+      <x>322</x>
+      <y>179</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE6" adelay="33" lock="Y" index="6" color="16777215" guid="41EBA3DA-D2F0-7F36-6F99-58EE19B4A609">
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR144" index="12" raceCode="1">
+      <action face="-1" motionface="1">ugc.fce0727.xarms.xml</action>
+      <head id="PROP122" raceCode="1">
+        <file>ugc.fce0727.head.head_angry.xml</file>
+      </head>
+      <x>243.3094782</x>
+      <y>260.2104298</y>
+      <xscale>0.7770371</xscale>
+      <yscale>0.7770371</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="14" raceCode="1">
+      <action face="1" motionface="-1">ugc.853cf38.stand.xml</action>
+      <head id="PROP118" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>339.65</x>
+      <y>230.075</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP53" index="10" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="11" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front_empty.swf</file>
+      <x>161.4</x>
+      <y>259.1</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="13" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="15">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE7" adelay="63" lock="Y" index="7" color="16777215" guid="51C12A15-71E8-851D-98BF-7D05F539D24D">
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR144" index="12" raceCode="1">
+      <action face="-1" motionface="1">ugc.fce0727.xarms.xml</action>
+      <head id="PROP137" raceCode="1">
+        <file>ugc.fce0727.head.head_angry.xml</file>
+      </head>
+      <x>243.3094782</x>
+      <y>260.2104298</y>
+      <xscale>0.7770371</xscale>
+      <yscale>0.7770371</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="14" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.excited.xml</action>
+      <head id="PROP147" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>339.65</x>
+      <y>230.025</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP53" index="10" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="11" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front_empty.swf</file>
+      <x>161.4</x>
+      <y>259.1</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="13" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="15">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE8" adelay="42" lock="Y" index="8" color="16777215" guid="628F4617-17B9-C4AC-C08A-A4758717B247">
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR144" index="12" raceCode="1">
+      <action face="-1" motionface="1">ugc.fce0727.xarms.xml</action>
+      <head id="PROP159" raceCode="1">
+        <file>ugc.fce0727.head.head_angry.xml</file>
+      </head>
+      <x>243.3094782</x>
+      <y>260.2104298</y>
+      <xscale>0.7770371</xscale>
+      <yscale>0.7770371</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="14" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.pt_at.xml</action>
+      <head id="PROP161" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>339.65</x>
+      <y>230.025</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP53" index="10" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="11" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front_empty.swf</file>
+      <x>161.4</x>
+      <y>259.1</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="13" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="15">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE9" adelay="39" lock="Y" index="9" color="16777215" guid="1D03B816-A302-D915-09B5-C890D15B207A">
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR144" index="12" raceCode="1">
+      <action face="-1" motionface="1">ugc.fce0727.xarms.xml</action>
+      <head id="PROP173" raceCode="1">
+        <file>ugc.fce0727.head.head_angry.xml</file>
+      </head>
+      <x>243.3094782</x>
+      <y>260.2104298</y>
+      <xscale>0.7770371</xscale>
+      <yscale>0.7770371</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="14" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <head id="PROP175" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>339.65</x>
+      <y>230.025</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP53" index="10" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="11" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front_empty.swf</file>
+      <x>161.4</x>
+      <y>259.1</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="13" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="15">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE10" adelay="69" lock="N" index="10" color="16777215" guid="EF0D272E-AE04-EAB9-6B5A-C55DEE41F775">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR144" index="12" raceCode="1">
+      <action face="-1" motionface="1">ugc.fce0727.xarms.xml</action>
+      <head id="PROP187" raceCode="1">
+        <file>ugc.fce0727.head.head_angry.xml</file>
+      </head>
+      <x>243.3094782</x>
+      <y>260.2104298</y>
+      <xscale>0.7770371</xscale>
+      <yscale>0.7770371</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="14" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <head id="PROP189" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>339.65</x>
+      <y>230.025</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP53" index="10" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="11" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front_empty.swf</file>
+      <x>161.4</x>
+      <y>259.1</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="13" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="15">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE11" adelay="6" lock="Y" index="11" color="16777215" guid="F37B519D-AEB0-5D0F-FC64-53E55A4F57D6">
+    <bg id="cbg_ncc_bedroom_BG9" index="0">
+      <file>common.ncc_interior_left02.swf</file>
+      <color r="sidewall">16310185</color>
+      <color r="wall">16509896</color>
+      <color r="floor">13341780</color>
+    </bg>
+    <char id="AVATOR144" index="12" raceCode="1">
+      <action face="-1" motionface="1">ugc.fce0727.xarms.xml</action>
+      <head id="PROP201" raceCode="1">
+        <file>ugc.fce0727.head.head_angry.xml</file>
+      </head>
+      <x>243.3094782</x>
+      <y>260.2104298</y>
+      <xscale>0.7770371</xscale>
+      <yscale>0.7770371</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="14" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <head id="PROP203" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>339.65</x>
+      <y>230.025</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP44" index="1" attached="Y">
+      <file>common.msp_shelves01.msp_shelves01_shelves01_front.swf</file>
+      <x>255</x>
+      <y>97.2</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">13340502</color>
+    </prop>
+    <prop id="PROP45" index="2" attached="Y">
+      <file>common.msp_clock02.msp_clock02_ncc_clock02.swf</file>
+      <x>228.9</x>
+      <y>75.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP46" index="3" attached="Y">
+      <file>common.ncc_toy_astronaut.swf</file>
+      <x>268.9</x>
+      <y>69.8</y>
+      <xscale>0.71</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP47" index="4" attached="Y">
+      <file>common.msp_bed01.msp_bed01_ncc_bed01_front.swf</file>
+      <x>198.2</x>
+      <y>227</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP48" index="5" attached="Y">
+      <file>common.msp_pillow01.msp_pillow01_msp_poster01_ncc_pillow01_front.swf</file>
+      <x>258</x>
+      <y>200.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP49" index="6" attached="Y">
+      <file>common.msp_window01.msp_window01_ncc_window01_day.swf</file>
+      <x>550</x>
+      <y>60</y>
+      <xscale>0.99</xscale>
+      <yscale>0.99</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP50" index="7" attached="Y">
+      <file>common.msp_office_desk.msp_office_desk_office_desk_front.swf</file>
+      <x>499</x>
+      <y>207</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066278</color>
+    </prop>
+    <prop id="PROP51" index="8" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book05.swf</file>
+      <x>438.4</x>
+      <y>137</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP52" index="9" attached="Y">
+      <file>common.msp_book01.msp_book01_ncc_book09.swf</file>
+      <x>452.4</x>
+      <y>139.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10040064</color>
+    </prop>
+    <prop id="PROP53" index="10" attached="Y">
+      <file>common.msp_plant02.msp_plant02_ncc_plant02_flower.swf</file>
+      <x>573.9</x>
+      <y>138.1</y>
+      <xscale>0.77</xscale>
+      <yscale>0.77</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP54" index="11" attached="Y">
+      <file>common.msp_blanket01.msp_blanket01_ncc_blanket01_front_empty.swf</file>
+      <x>161.4</x>
+      <y>259.1</y>
+      <xscale>1.05</xscale>
+      <yscale>1.05</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="13" attached="Y">
+      <file>common.msp_office_chair.msp_office_chair_office_chair_side.swf</file>
+      <x>391.5</x>
+      <y>245.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="15">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE13" adelay="63" lock="N" index="12" color="16777215" guid="27D69922-466D-0040-0224-AB4AA1AAD904" combgId="custom.cbg_toilet">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_toilet_BG2" index="0">
+      <file>custom.toilet_bg.swf</file>
+      <dcsn>9610</dcsn>
+      <color r="ccColorA" oc="0x0">13538451</color>
+    </bg>
+    <char id="AVATOR144" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.xarms.xml</action>
+      <head id="PROP233" raceCode="1">
+        <file>ugc.1b86c4d.head.head_angry.xml</file>
+      </head>
+      <x>290.4790135</x>
+      <y>230.8406661</y>
+      <xscale>1.0111397</xscale>
+      <yscale>1.0111397</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="3" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <head id="PROP231" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>145.85</x>
+      <y>237.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_toilet_PROP0" index="1" attached="Y">
+      <file>custom.msp_toilet_door.msp_toilet_door_toilet_door_open.swf</file>
+      <x>93</x>
+      <y>185</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="4">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE14" adelay="84" lock="N" index="13" color="16777215" guid="0ED55517-336F-2587-BB40-E3C7F7D43DEC">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_toilet_BG2" index="0">
+      <file>custom.toilet_bg.swf</file>
+      <color r="ccColorA" oc="0x0">13538451</color>
+    </bg>
+    <char id="AVATOR144" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.xarms.xml</action>
+      <head id="PROP235" raceCode="1">
+        <file>ugc.1b86c4d.head.head_angry.xml</file>
+      </head>
+      <x>290.4790135</x>
+      <y>230.8406661</y>
+      <xscale>1.0111397</xscale>
+      <yscale>1.0111397</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="3" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <head id="PROP236" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>145.85</x>
+      <y>237.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_toilet_PROP0" index="1" attached="Y">
+      <file>custom.msp_toilet_door.msp_toilet_door_toilet_door_open.swf</file>
+      <x>93</x>
+      <y>185</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="4">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE15" adelay="6" lock="Y" index="14" color="16777215" guid="1C569A6C-CF74-D55C-5504-EFC0493E8EA3">
+    <bg id="cbg_toilet_BG2" index="0">
+      <file>custom.toilet_bg.swf</file>
+      <color r="ccColorA" oc="0x0">13538451</color>
+    </bg>
+    <char id="AVATOR144" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.xarms.xml</action>
+      <head id="PROP238" raceCode="1">
+        <file>ugc.1b86c4d.head.head_angry.xml</file>
+      </head>
+      <x>290.4790135</x>
+      <y>230.8406661</y>
+      <xscale>1.0111397</xscale>
+      <yscale>1.0111397</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="3" raceCode="1">
+      <action face="-1,-1" motionface="-1">ugc.853cf38.run.xml</action>
+      <head id="PROP239" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>145.85,284.075</x>
+      <y>237.4,236.875</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="cbg_toilet_PROP0" index="1" attached="Y">
+      <file>custom.msp_toilet_door.msp_toilet_door_toilet_door_open.swf</file>
+      <x>93</x>
+      <y>185</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="4">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="2" target="AVATOR143" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE16" adelay="81" lock="N" index="15" color="16777215" guid="A8E1BFA2-746C-0ACC-73B1-F8A0F437F0CE">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_house_ext_BG2" index="0">
+      <file>custom.house_ext_bg.swf</file>
+    </bg>
+    <effectAsset id="EFFECT7" themecode="common" index="1">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="earthquake" type="EARTHQUAKE"/>
+      <x>47</x>
+      <y>2</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT6" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE18" adelay="42" lock="Y" index="16" color="16777215" guid="2C595664-30CA-71B3-BE49-346A9877171A" combgId="common.cbg_nccxmas_churchoutdoor">
+    <bg id="cbg_nccxmas_churchoutdoor_BG7" index="0">
+      <file>common.star_night.swf</file>
+      <color r="ccColorB">16777215</color>
+    </bg>
+    <char id="AVATOR144" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.xarms.xml</action>
+      <head id="PROP245" raceCode="1">
+        <file>ugc.1b86c4d.head.head_shocked.xml</file>
+      </head>
+      <x>385.0612152</x>
+      <y>246.1664844</y>
+      <xscale>0.8903729</xscale>
+      <yscale>0.8903729</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="11" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <prop id="PROP310" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>236.35</x>
+      <y>233.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <bubbleAsset id="BUBBLE461" index="12">
+      <x>118.0620662</x>
+      <y>81.3343826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-71.0912052" y="-35.6347555" w="142.1824104" h="71.2695109" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="16514043" alpha="100" font="Oswald" size="15" align="center" bold="false" italic="false" embed="true"><![CDATA[Note: Readloud.net and tts.town Is Not Working For 502 Gateway!]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP16" index="9" attached="Y">
+      <file>common.nccxmas_star01.swf</file>
+      <x>557</x>
+      <y>45</y>
+      <xscale>1.15</xscale>
+      <yscale>1.15</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP15" index="8" attached="Y">
+      <file>common.nccxmas_church.swf</file>
+      <x>450</x>
+      <y>176</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP9" index="7" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>69</x>
+      <y>218</y>
+      <xscale>0.5</xscale>
+      <yscale>0.5</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP12" index="6" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>184</x>
+      <y>216</y>
+      <xscale>0.33</xscale>
+      <yscale>0.33</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP13" index="5" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>106</x>
+      <y>218</y>
+      <xscale>0.27</xscale>
+      <yscale>0.27</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP14" index="4" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>132</x>
+      <y>210</y>
+      <xscale>0.24</xscale>
+      <yscale>0.24</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP11" index="3" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>206</x>
+      <y>219</y>
+      <xscale>0.17</xscale>
+      <yscale>0.17</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP18" index="2" attached="Y">
+      <file>common.ncc_trapeziform02.swf</file>
+      <x>259.9</x>
+      <y>343.9</y>
+      <xscale>0.24</xscale>
+      <yscale>5.24</yscale>
+      <face>1</face>
+      <rotation>59.5</rotation>
+      <color r="ccColorA">9328130</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP8" index="1" attached="Y">
+      <file>common.nccha_grave_prop02.swf</file>
+      <x>322</x>
+      <y>310</y>
+      <xscale>1</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="13">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE19" adelay="129" lock="N" index="17" color="16777215" guid="77ABAC75-20E7-7E75-C66B-065570508F74">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_nccxmas_churchoutdoor_BG7" index="0">
+      <file>common.star_night.swf</file>
+      <color r="ccColorB">16777215</color>
+    </bg>
+    <char id="AVATOR144" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.pt_at.xml</action>
+      <head id="PROP259" raceCode="1">
+        <file>ugc.1b86c4d.head.head_shocked.xml</file>
+      </head>
+      <x>385.0612152</x>
+      <y>246.1664844</y>
+      <xscale>0.8903729</xscale>
+      <yscale>0.8903729</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="11" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <prop id="PROP262" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>236.35</x>
+      <y>233.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP8" index="1" attached="Y">
+      <file>common.nccha_grave_prop02.swf</file>
+      <x>322</x>
+      <y>310</y>
+      <xscale>1</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP18" index="2" attached="Y">
+      <file>common.ncc_trapeziform02.swf</file>
+      <x>259.9</x>
+      <y>343.9</y>
+      <xscale>0.24</xscale>
+      <yscale>5.24</yscale>
+      <face>1</face>
+      <rotation>59.5</rotation>
+      <color r="ccColorA">9328130</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP11" index="3" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>206</x>
+      <y>219</y>
+      <xscale>0.17</xscale>
+      <yscale>0.17</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP14" index="4" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>132</x>
+      <y>210</y>
+      <xscale>0.24</xscale>
+      <yscale>0.24</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP13" index="5" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>106</x>
+      <y>218</y>
+      <xscale>0.27</xscale>
+      <yscale>0.27</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP12" index="6" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>184</x>
+      <y>216</y>
+      <xscale>0.33</xscale>
+      <yscale>0.33</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP9" index="7" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>69</x>
+      <y>218</y>
+      <xscale>0.5</xscale>
+      <yscale>0.5</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP15" index="8" attached="Y">
+      <file>common.nccxmas_church.swf</file>
+      <x>450</x>
+      <y>176</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP16" index="9" attached="Y">
+      <file>common.nccxmas_star01.swf</file>
+      <x>557</x>
+      <y>45</y>
+      <xscale>1.15</xscale>
+      <yscale>1.15</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="12">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE20" adelay="69" lock="Y" index="18" color="16777215" guid="11CC5977-A67A-3E1C-0E16-ECE0951EFA3C">
+    <bg id="cbg_nccxmas_churchoutdoor_BG7" index="0">
+      <file>common.star_night.swf</file>
+      <color r="ccColorB">16777215</color>
+    </bg>
+    <char id="AVATOR144" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.pt_at.xml</action>
+      <head id="PROP272" raceCode="1">
+        <file>ugc.1b86c4d.head.head_shocked.xml</file>
+      </head>
+      <x>385.0612152</x>
+      <y>246.1664844</y>
+      <xscale>0.8903729</xscale>
+      <yscale>0.8903729</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="11" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <prop id="PROP277" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <head id="PROP276" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>236.35</x>
+      <y>233.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP8" index="1" attached="Y">
+      <file>common.nccha_grave_prop02.swf</file>
+      <x>322</x>
+      <y>310</y>
+      <xscale>1</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP18" index="2" attached="Y">
+      <file>common.ncc_trapeziform02.swf</file>
+      <x>259.9</x>
+      <y>343.9</y>
+      <xscale>0.24</xscale>
+      <yscale>5.24</yscale>
+      <face>1</face>
+      <rotation>59.5</rotation>
+      <color r="ccColorA">9328130</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP11" index="3" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>206</x>
+      <y>219</y>
+      <xscale>0.17</xscale>
+      <yscale>0.17</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP14" index="4" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>132</x>
+      <y>210</y>
+      <xscale>0.24</xscale>
+      <yscale>0.24</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP13" index="5" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>106</x>
+      <y>218</y>
+      <xscale>0.27</xscale>
+      <yscale>0.27</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP12" index="6" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>184</x>
+      <y>216</y>
+      <xscale>0.33</xscale>
+      <yscale>0.33</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP9" index="7" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>69</x>
+      <y>218</y>
+      <xscale>0.5</xscale>
+      <yscale>0.5</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP15" index="8" attached="Y">
+      <file>common.nccxmas_church.swf</file>
+      <x>450</x>
+      <y>176</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP16" index="9" attached="Y">
+      <file>common.nccxmas_star01.swf</file>
+      <x>557</x>
+      <y>45</y>
+      <xscale>1.15</xscale>
+      <yscale>1.15</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="12">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE21" adelay="12" lock="Y" index="19" color="16777215" guid="A97C65DA-5FC8-E1CB-A1B2-65A3E13F724D">
+    <bg id="cbg_nccxmas_churchoutdoor_BG7" index="0">
+      <file>common.star_night.swf</file>
+      <color r="ccColorB">16777215</color>
+    </bg>
+    <char id="AVATOR144" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.pt_at.xml</action>
+      <head id="PROP287" raceCode="1">
+        <file>ugc.1b86c4d.head.head_shocked.xml</file>
+      </head>
+      <x>385.0612152</x>
+      <y>246.1664844</y>
+      <xscale>0.8903729</xscale>
+      <yscale>0.8903729</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="11" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <prop id="PROP566" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <head id="PROP294" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>236.35</x>
+      <y>233.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP8" index="1" attached="Y">
+      <file>common.nccha_grave_prop02.swf</file>
+      <x>322</x>
+      <y>310</y>
+      <xscale>1</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP18" index="2" attached="Y">
+      <file>common.ncc_trapeziform02.swf</file>
+      <x>259.9</x>
+      <y>343.9</y>
+      <xscale>0.24</xscale>
+      <yscale>5.24</yscale>
+      <face>1</face>
+      <rotation>59.5</rotation>
+      <color r="ccColorA">9328130</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP11" index="3" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>206</x>
+      <y>219</y>
+      <xscale>0.17</xscale>
+      <yscale>0.17</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP14" index="4" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>132</x>
+      <y>210</y>
+      <xscale>0.24</xscale>
+      <yscale>0.24</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP13" index="5" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>106</x>
+      <y>218</y>
+      <xscale>0.27</xscale>
+      <yscale>0.27</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP12" index="6" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>184</x>
+      <y>216</y>
+      <xscale>0.33</xscale>
+      <yscale>0.33</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP9" index="7" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>69</x>
+      <y>218</y>
+      <xscale>0.5</xscale>
+      <yscale>0.5</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP15" index="8" attached="Y">
+      <file>common.nccxmas_church.swf</file>
+      <x>450</x>
+      <y>176</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP16" index="9" attached="Y">
+      <file>common.nccxmas_star01.swf</file>
+      <x>557</x>
+      <y>45</y>
+      <xscale>1.15</xscale>
+      <yscale>1.15</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="12">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE22" adelay="51" lock="Y" index="20" color="16777215" guid="BBAB0644-6125-C89D-5C01-213C67EC44AC">
+    <bg id="cbg_nccxmas_churchoutdoor_BG7" index="0">
+      <file>common.star_night.swf</file>
+      <color r="ccColorB">16777215</color>
+    </bg>
+    <char id="AVATOR144" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.pt_at.xml</action>
+      <head id="PROP305" raceCode="1">
+        <file>ugc.1b86c4d.head.head_shocked.xml</file>
+      </head>
+      <x>385.0612152</x>
+      <y>246.1664844</y>
+      <xscale>0.8903729</xscale>
+      <yscale>0.8903729</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="11" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <prop id="PROP568" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>236.35</x>
+      <y>233.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <bubbleAsset id="BUBBLE543" index="13">
+      <x>118.0620662</x>
+      <y>81.3343826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-71.0912052" y="-35.6347555" w="142.1824104" h="71.2695109" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="16514043" alpha="100" font="Oswald" size="15" align="center" bold="false" italic="false" embed="true"><![CDATA[Note: Readloud.net and tts.town Is Working Today!]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP8" index="1" attached="Y">
+      <file>common.nccha_grave_prop02.swf</file>
+      <x>322</x>
+      <y>310</y>
+      <xscale>1</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP18" index="2" attached="Y">
+      <file>common.ncc_trapeziform02.swf</file>
+      <x>259.9</x>
+      <y>343.9</y>
+      <xscale>0.24</xscale>
+      <yscale>5.24</yscale>
+      <face>1</face>
+      <rotation>59.5</rotation>
+      <color r="ccColorA">9328130</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP11" index="3" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>206</x>
+      <y>219</y>
+      <xscale>0.17</xscale>
+      <yscale>0.17</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP14" index="4" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>132</x>
+      <y>210</y>
+      <xscale>0.24</xscale>
+      <yscale>0.24</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP13" index="5" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>106</x>
+      <y>218</y>
+      <xscale>0.27</xscale>
+      <yscale>0.27</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP12" index="6" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>184</x>
+      <y>216</y>
+      <xscale>0.33</xscale>
+      <yscale>0.33</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP9" index="7" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>69</x>
+      <y>218</y>
+      <xscale>0.5</xscale>
+      <yscale>0.5</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP15" index="8" attached="Y">
+      <file>common.nccxmas_church.swf</file>
+      <x>450</x>
+      <y>176</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP16" index="9" attached="Y">
+      <file>common.nccxmas_star01.swf</file>
+      <x>557</x>
+      <y>45</y>
+      <xscale>1.15</xscale>
+      <yscale>1.15</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP309" index="12">
+      <file>ugc.9e4ba7a.jpg</file>
+      <x>203.85</x>
+      <y>226.575</y>
+      <xscale>0.1223595</xscale>
+      <yscale>0.1223595</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="14">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE23" adelay="63" lock="Y" index="21" color="16777215" guid="937CC3AC-49AA-FFC2-F801-D72A1C73760F">
+    <bg id="cbg_nccxmas_churchoutdoor_BG7" index="0">
+      <file>common.star_night.swf</file>
+      <color r="ccColorB">16777215</color>
+    </bg>
+    <char id="AVATOR144" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.pt_at.xml</action>
+      <head id="PROP322" raceCode="1">
+        <file>ugc.1b86c4d.head.head_shocked.xml</file>
+      </head>
+      <x>385.0612152</x>
+      <y>246.1664844</y>
+      <xscale>0.8903729</xscale>
+      <yscale>0.8903729</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="11" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <prop id="PROP326" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>236.35</x>
+      <y>233.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP8" index="1" attached="Y">
+      <file>common.nccha_grave_prop02.swf</file>
+      <x>322</x>
+      <y>310</y>
+      <xscale>1</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP18" index="2" attached="Y">
+      <file>common.ncc_trapeziform02.swf</file>
+      <x>259.9</x>
+      <y>343.9</y>
+      <xscale>0.24</xscale>
+      <yscale>5.24</yscale>
+      <face>1</face>
+      <rotation>59.5</rotation>
+      <color r="ccColorA">9328130</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP11" index="3" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>206</x>
+      <y>219</y>
+      <xscale>0.17</xscale>
+      <yscale>0.17</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP14" index="4" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>132</x>
+      <y>210</y>
+      <xscale>0.24</xscale>
+      <yscale>0.24</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP13" index="5" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>106</x>
+      <y>218</y>
+      <xscale>0.27</xscale>
+      <yscale>0.27</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP12" index="6" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>184</x>
+      <y>216</y>
+      <xscale>0.33</xscale>
+      <yscale>0.33</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP9" index="7" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>69</x>
+      <y>218</y>
+      <xscale>0.5</xscale>
+      <yscale>0.5</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP15" index="8" attached="Y">
+      <file>common.nccxmas_church.swf</file>
+      <x>450</x>
+      <y>176</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP16" index="9" attached="Y">
+      <file>common.nccxmas_star01.swf</file>
+      <x>557</x>
+      <y>45</y>
+      <xscale>1.15</xscale>
+      <yscale>1.15</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="12">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE24" adelay="21" lock="Y" index="22" color="16777215" guid="BA20AC55-57EB-5538-2F1D-1A2D9F7B04A1">
+    <bg id="cbg_nccxmas_churchoutdoor_BG7" index="0">
+      <file>common.star_night.swf</file>
+      <color r="ccColorB">16777215</color>
+    </bg>
+    <char id="AVATOR144" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.pt_at.xml</action>
+      <head id="PROP336" raceCode="1">
+        <file>ugc.1b86c4d.head.head_shocked.xml</file>
+      </head>
+      <x>385.0612152</x>
+      <y>246.1664844</y>
+      <xscale>0.8903729</xscale>
+      <yscale>0.8903729</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="11" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <prop id="PROP339" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>236.35</x>
+      <y>233.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP8" index="1" attached="Y">
+      <file>common.nccha_grave_prop02.swf</file>
+      <x>322</x>
+      <y>310</y>
+      <xscale>1</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP18" index="2" attached="Y">
+      <file>common.ncc_trapeziform02.swf</file>
+      <x>259.9</x>
+      <y>343.9</y>
+      <xscale>0.24</xscale>
+      <yscale>5.24</yscale>
+      <face>1</face>
+      <rotation>59.5</rotation>
+      <color r="ccColorA">9328130</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP11" index="3" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>206</x>
+      <y>219</y>
+      <xscale>0.17</xscale>
+      <yscale>0.17</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP14" index="4" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>132</x>
+      <y>210</y>
+      <xscale>0.24</xscale>
+      <yscale>0.24</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP13" index="5" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>106</x>
+      <y>218</y>
+      <xscale>0.27</xscale>
+      <yscale>0.27</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP12" index="6" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>184</x>
+      <y>216</y>
+      <xscale>0.33</xscale>
+      <yscale>0.33</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP9" index="7" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>69</x>
+      <y>218</y>
+      <xscale>0.5</xscale>
+      <yscale>0.5</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP15" index="8" attached="Y">
+      <file>common.nccxmas_church.swf</file>
+      <x>450</x>
+      <y>176</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP16" index="9" attached="Y">
+      <file>common.nccxmas_star01.swf</file>
+      <x>557</x>
+      <y>45</y>
+      <xscale>1.15</xscale>
+      <yscale>1.15</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="12">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE25" adelay="18" lock="Y" index="23" color="16777215" guid="96D128EC-6C1D-9A09-8DCD-3F46D7AF34F5">
+    <bg id="cbg_nccxmas_churchoutdoor_BG7" index="0">
+      <file>common.star_night.swf</file>
+      <color r="ccColorB">16777215</color>
+    </bg>
+    <char id="AVATOR144" index="10" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.pt_at.xml</action>
+      <head id="PROP349" raceCode="1">
+        <file>ugc.1b86c4d.head.head_shocked.xml</file>
+      </head>
+      <x>385.0612152</x>
+      <y>246.1664844</y>
+      <xscale>0.8903729</xscale>
+      <yscale>0.8903729</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="11" raceCode="1">
+      <action face="-1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <prop id="PROP352" handstyle="flat">
+        <file>common.msp_iphone.msp_iphone_ncc_03iphone.swf</file>
+      </prop>
+      <x>236.35</x>
+      <y>233.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP8" index="1" attached="Y">
+      <file>common.nccha_grave_prop02.swf</file>
+      <x>322</x>
+      <y>310</y>
+      <xscale>1</xscale>
+      <yscale>0.71</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP18" index="2" attached="Y">
+      <file>common.ncc_trapeziform02.swf</file>
+      <x>259.9</x>
+      <y>343.9</y>
+      <xscale>0.24</xscale>
+      <yscale>5.24</yscale>
+      <face>1</face>
+      <rotation>59.5</rotation>
+      <color r="ccColorA">9328130</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP11" index="3" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>206</x>
+      <y>219</y>
+      <xscale>0.17</xscale>
+      <yscale>0.17</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP14" index="4" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>132</x>
+      <y>210</y>
+      <xscale>0.24</xscale>
+      <yscale>0.24</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP13" index="5" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>106</x>
+      <y>218</y>
+      <xscale>0.27</xscale>
+      <yscale>0.27</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP12" index="6" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>184</x>
+      <y>216</y>
+      <xscale>0.33</xscale>
+      <yscale>0.33</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP9" index="7" attached="Y">
+      <file>common.ncc_htree.swf</file>
+      <x>69</x>
+      <y>218</y>
+      <xscale>0.5</xscale>
+      <yscale>0.5</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">16777215</color>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP15" index="8" attached="Y">
+      <file>common.nccxmas_church.swf</file>
+      <x>450</x>
+      <y>176</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_churchoutdoor_PROP16" index="9" attached="Y">
+      <file>common.nccxmas_star01.swf</file>
+      <x>557</x>
+      <y>45</y>
+      <xscale>1.15</xscale>
+      <yscale>1.15</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="12">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE26" adelay="51" lock="Y" index="24" color="16777215" guid="2CA7962A-662F-0E29-F2C7-4964E6B06194" combgId="common.cbg_nccxmas_church01">
+    <bg id="cbg_nccxmas_church01_cbg_street01_BG3" index="0">
+      <file>common.ncc_low.swf</file>
+      <color r="colorB">9375518</color>
+      <color r="colorA">15921618</color>
+    </bg>
+    <char id="AVATOR144" index="11" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.sit.xml</action>
+      <head id="PROP362" raceCode="1">
+        <file>ugc.1b86c4d.head.head_shocked.xml</file>
+      </head>
+      <x>192.6897788</x>
+      <y>182.2705489</y>
+      <xscale>0.8903729</xscale>
+      <yscale>0.8903729</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="12" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.sit.xml</action>
+      <x>234.625</x>
+      <y>200.25</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_nccxmas_church01_PROP18" index="10" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>292.8</x>
+      <y>275</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP17" index="9" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>458.8</x>
+      <y>277</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP16" index="8" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>593.8</x>
+      <y>278</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP15" index="7" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>178.7</x>
+      <y>216.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP14" index="6" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>347.7</x>
+      <y>215.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP13" index="5" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>108.6</x>
+      <y>72.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP12" index="4" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>488.7</x>
+      <y>217.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP11" index="3" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>519.6</x>
+      <y>64.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP10" index="2" attached="Y">
+      <file>common.square01.swf</file>
+      <x>322</x>
+      <y>282</y>
+      <xscale>9.76</xscale>
+      <yscale>1.93</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">9654583</color>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP8" index="1" attached="Y">
+      <file>common.msp_churchwindow1.msp_churchwindow1_nccxmas_churchwindow01_front.swf</file>
+      <x>312</x>
+      <y>66</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="13">
+      <effect x="0" y="0" w="224.2" h="126.3672727" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>80.75</x>
+      <y>79.6483636</y>
+      <width>224.2</width>
+      <height>144.3032727</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE27" adelay="60" lock="N" index="25" color="16777215" guid="D1007724-265A-EDAD-75B3-BFC84A900EA8">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_nccxmas_church01_cbg_street01_BG3" index="0">
+      <file>common.ncc_low.swf</file>
+      <color r="colorB">9375518</color>
+      <color r="colorA">15921618</color>
+    </bg>
+    <char id="AVATOR144" index="11" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.sit.xml</action>
+      <head id="PROP393" raceCode="1">
+        <file>ugc.1b86c4d.head.head_happy.xml</file>
+      </head>
+      <x>192.6897788</x>
+      <y>182.2705489</y>
+      <xscale>0.8903729</xscale>
+      <yscale>0.8903729</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="12" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.sit.xml</action>
+      <x>234.625</x>
+      <y>200.25</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_nccxmas_church01_PROP8" index="1" attached="Y">
+      <file>common.msp_churchwindow1.msp_churchwindow1_nccxmas_churchwindow01_front.swf</file>
+      <x>312</x>
+      <y>66</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP10" index="2" attached="Y">
+      <file>common.square01.swf</file>
+      <x>322</x>
+      <y>282</y>
+      <xscale>9.76</xscale>
+      <yscale>1.93</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">9654583</color>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP11" index="3" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>519.6</x>
+      <y>64.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP12" index="4" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>488.7</x>
+      <y>217.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP13" index="5" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>108.6</x>
+      <y>72.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP14" index="6" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>347.7</x>
+      <y>215.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP15" index="7" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>178.7</x>
+      <y>216.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP16" index="8" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>593.8</x>
+      <y>278</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP17" index="9" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>458.8</x>
+      <y>277</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP18" index="10" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>292.8</x>
+      <y>275</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="13">
+      <effect x="0" y="0" w="224.2" h="126.3672727" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>80.75</x>
+      <y>79.6483636</y>
+      <width>224.2</width>
+      <height>144.3032727</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE29" adelay="90" lock="N" index="26" color="16777215" guid="4F6B6E36-96F3-A727-B57A-D918B445AB27">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_nccxmas_church01_cbg_street01_BG3" index="0">
+      <file>common.ncc_low.swf</file>
+      <color r="colorB">9375518</color>
+      <color r="colorA">15921618</color>
+    </bg>
+    <char id="AVATOR144" index="11" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.sit.xml</action>
+      <head id="PROP406" raceCode="1">
+        <file>ugc.1b86c4d.head.head_shocked.xml</file>
+      </head>
+      <x>192.6897788</x>
+      <y>182.2705489</y>
+      <xscale>0.8903729</xscale>
+      <yscale>0.8903729</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="12" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.sit.xml</action>
+      <head id="PROP408" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>234.625</x>
+      <y>200.25</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_nccxmas_church01_PROP8" index="1" attached="Y">
+      <file>common.msp_churchwindow1.msp_churchwindow1_nccxmas_churchwindow01_front.swf</file>
+      <x>312</x>
+      <y>66</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP10" index="2" attached="Y">
+      <file>common.square01.swf</file>
+      <x>322</x>
+      <y>282</y>
+      <xscale>9.76</xscale>
+      <yscale>1.93</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">9654583</color>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP11" index="3" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>519.6</x>
+      <y>64.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP12" index="4" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>488.7</x>
+      <y>217.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP13" index="5" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>108.6</x>
+      <y>72.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP14" index="6" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>347.7</x>
+      <y>215.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP15" index="7" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>178.7</x>
+      <y>216.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP16" index="8" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>593.8</x>
+      <y>278</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP17" index="9" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>458.8</x>
+      <y>277</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP18" index="10" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>292.8</x>
+      <y>275</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="13">
+      <effect x="0" y="0" w="224.2" h="126.3672727" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>80.75</x>
+      <y>79.6483636</y>
+      <width>224.2</width>
+      <height>144.3032727</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE30" adelay="18" lock="Y" index="27" color="16777215" guid="A10560E0-68C3-2E9D-F8D8-0B0CEC51FD45">
+    <bg id="cbg_nccxmas_church01_cbg_street01_BG3" index="0">
+      <file>common.ncc_low.swf</file>
+      <color r="colorB">9375518</color>
+      <color r="colorA">15921618</color>
+    </bg>
+    <char id="AVATOR144" index="11" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.sit.xml</action>
+      <head id="PROP419" raceCode="1">
+        <file>ugc.1b86c4d.head.head_shocked.xml</file>
+      </head>
+      <x>192.6897788</x>
+      <y>182.2705489</y>
+      <xscale>0.8903729</xscale>
+      <yscale>0.8903729</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="12" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.sit.xml</action>
+      <head id="PROP420" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>234.625</x>
+      <y>200.25</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_nccxmas_church01_PROP8" index="1" attached="Y">
+      <file>common.msp_churchwindow1.msp_churchwindow1_nccxmas_churchwindow01_front.swf</file>
+      <x>312</x>
+      <y>66</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP10" index="2" attached="Y">
+      <file>common.square01.swf</file>
+      <x>322</x>
+      <y>282</y>
+      <xscale>9.76</xscale>
+      <yscale>1.93</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">9654583</color>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP11" index="3" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>519.6</x>
+      <y>64.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP12" index="4" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>488.7</x>
+      <y>217.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP13" index="5" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>108.6</x>
+      <y>72.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP14" index="6" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>347.7</x>
+      <y>215.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP15" index="7" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>178.7</x>
+      <y>216.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP16" index="8" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>593.8</x>
+      <y>278</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP17" index="9" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>458.8</x>
+      <y>277</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP18" index="10" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>292.8</x>
+      <y>275</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="13">
+      <effect x="0" y="0" w="224.2" h="126.3672727" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>80.75</x>
+      <y>79.6483636</y>
+      <width>224.2</width>
+      <height>144.3032727</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE31" adelay="15" lock="Y" index="28" color="16777215" guid="8EDF5A28-D659-5A78-660E-F0384CA591FF">
+    <bg id="cbg_nccxmas_church01_cbg_street01_BG3" index="0">
+      <file>common.ncc_low.swf</file>
+      <color r="colorB">9375518</color>
+      <color r="colorA">15921618</color>
+    </bg>
+    <char id="AVATOR144" index="11" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.sit.xml</action>
+      <head id="PROP431" raceCode="1">
+        <file>ugc.1b86c4d.head.head_shocked.xml</file>
+      </head>
+      <x>192.6897788</x>
+      <y>182.2705489</y>
+      <xscale>0.8903729</xscale>
+      <yscale>0.8903729</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="12" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.sit.xml</action>
+      <head id="PROP432" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>234.625</x>
+      <y>200.25</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_nccxmas_church01_PROP8" index="1" attached="Y">
+      <file>common.msp_churchwindow1.msp_churchwindow1_nccxmas_churchwindow01_front.swf</file>
+      <x>312</x>
+      <y>66</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP10" index="2" attached="Y">
+      <file>common.square01.swf</file>
+      <x>322</x>
+      <y>282</y>
+      <xscale>9.76</xscale>
+      <yscale>1.93</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">9654583</color>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP11" index="3" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>519.6</x>
+      <y>64.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP12" index="4" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>488.7</x>
+      <y>217.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP13" index="5" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>108.6</x>
+      <y>72.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP14" index="6" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>347.7</x>
+      <y>215.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP15" index="7" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>178.7</x>
+      <y>216.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP16" index="8" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>593.8</x>
+      <y>278</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP17" index="9" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>458.8</x>
+      <y>277</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP18" index="10" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>292.8</x>
+      <y>275</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="13">
+      <effect x="0" y="0" w="224.2" h="126.3672727" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>80.75</x>
+      <y>79.6483636</y>
+      <width>224.2</width>
+      <height>144.3032727</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE32" adelay="234" lock="N" index="29" color="16777215" guid="5F46B16C-D5A0-0D38-895B-B0EADAAC6941">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_nccxmas_church01_cbg_street01_BG3" index="0">
+      <file>common.ncc_low.swf</file>
+      <color r="colorB">9375518</color>
+      <color r="colorA">15921618</color>
+    </bg>
+    <char id="AVATOR144" index="11" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.sit.xml</action>
+      <head id="PROP443" raceCode="1">
+        <file>ugc.1b86c4d.head.head_shocked.xml</file>
+      </head>
+      <x>192.6897788</x>
+      <y>182.2705489</y>
+      <xscale>0.8903729</xscale>
+      <yscale>0.8903729</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="12" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.sit.xml</action>
+      <head id="PROP444" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>234.625</x>
+      <y>200.25</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_nccxmas_church01_PROP8" index="1" attached="Y">
+      <file>common.msp_churchwindow1.msp_churchwindow1_nccxmas_churchwindow01_front.swf</file>
+      <x>312</x>
+      <y>66</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP10" index="2" attached="Y">
+      <file>common.square01.swf</file>
+      <x>322</x>
+      <y>282</y>
+      <xscale>9.76</xscale>
+      <yscale>1.93</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">9654583</color>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP11" index="3" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>519.6</x>
+      <y>64.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP12" index="4" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>488.7</x>
+      <y>217.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP13" index="5" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>108.6</x>
+      <y>72.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP14" index="6" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>347.7</x>
+      <y>215.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP15" index="7" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>178.7</x>
+      <y>216.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP16" index="8" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>593.8</x>
+      <y>278</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP17" index="9" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>458.8</x>
+      <y>277</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP18" index="10" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>292.8</x>
+      <y>275</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="13">
+      <effect x="0" y="0" w="224.2" h="126.3672727" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>80.75</x>
+      <y>79.6483636</y>
+      <width>224.2</width>
+      <height>144.3032727</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE33" adelay="15" lock="Y" index="30" color="16777215" guid="F66F1263-C8D4-1940-FE20-685A62A2965B">
+    <bg id="cbg_nccxmas_church01_cbg_street01_BG3" index="0">
+      <file>common.ncc_low.swf</file>
+      <color r="colorB">9375518</color>
+      <color r="colorA">15921618</color>
+    </bg>
+    <char id="AVATOR144" index="11" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.sit.xml</action>
+      <head id="PROP458" raceCode="1">
+        <file>ugc.1b86c4d.head.head_angry.xml</file>
+      </head>
+      <x>192.6897788</x>
+      <y>182.2705489</y>
+      <xscale>0.8903729</xscale>
+      <yscale>0.8903729</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="12" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.sit.xml</action>
+      <head id="PROP456" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>234.625</x>
+      <y>200.25</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_nccxmas_church01_PROP8" index="1" attached="Y">
+      <file>common.msp_churchwindow1.msp_churchwindow1_nccxmas_churchwindow01_front.swf</file>
+      <x>312</x>
+      <y>66</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP10" index="2" attached="Y">
+      <file>common.square01.swf</file>
+      <x>322</x>
+      <y>282</y>
+      <xscale>9.76</xscale>
+      <yscale>1.93</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">9654583</color>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP11" index="3" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>519.6</x>
+      <y>64.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP12" index="4" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>488.7</x>
+      <y>217.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP13" index="5" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>108.6</x>
+      <y>72.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP14" index="6" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>347.7</x>
+      <y>215.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP15" index="7" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>178.7</x>
+      <y>216.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP16" index="8" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>593.8</x>
+      <y>278</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP17" index="9" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>458.8</x>
+      <y>277</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP18" index="10" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>292.8</x>
+      <y>275</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="13">
+      <effect x="0" y="0" w="224.2" h="126.3672727" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>80.75</x>
+      <y>79.6483636</y>
+      <width>224.2</width>
+      <height>144.3032727</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE34" adelay="30" lock="Y" index="31" color="16777215" guid="D6C72352-C70D-28B0-6E86-D308FCDD4F02">
+    <bg id="cbg_nccxmas_church01_cbg_street01_BG3" index="0">
+      <file>common.ncc_low.swf</file>
+      <color r="colorB">9375518</color>
+      <color r="colorA">15921618</color>
+    </bg>
+    <char id="AVATOR144" index="11" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.sit.xml</action>
+      <head id="PROP469" raceCode="1">
+        <file>ugc.1b86c4d.head.head_angry.xml</file>
+      </head>
+      <x>192.6897788</x>
+      <y>182.2705489</y>
+      <xscale>0.8903729</xscale>
+      <yscale>0.8903729</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="12" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.sit.xml</action>
+      <head id="PROP470" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>234.625</x>
+      <y>200.25</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_nccxmas_church01_PROP8" index="1" attached="Y">
+      <file>common.msp_churchwindow1.msp_churchwindow1_nccxmas_churchwindow01_front.swf</file>
+      <x>312</x>
+      <y>66</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP10" index="2" attached="Y">
+      <file>common.square01.swf</file>
+      <x>322</x>
+      <y>282</y>
+      <xscale>9.76</xscale>
+      <yscale>1.93</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">9654583</color>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP11" index="3" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>519.6</x>
+      <y>64.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP12" index="4" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>488.7</x>
+      <y>217.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP13" index="5" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>108.6</x>
+      <y>72.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP14" index="6" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>347.7</x>
+      <y>215.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP15" index="7" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>178.7</x>
+      <y>216.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP16" index="8" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>593.8</x>
+      <y>278</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP17" index="9" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>458.8</x>
+      <y>277</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP18" index="10" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>292.8</x>
+      <y>275</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="13">
+      <effect x="0" y="0" w="224.2" h="126.3672727" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>80.75</x>
+      <y>79.6483636</y>
+      <width>224.2</width>
+      <height>144.3032727</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE35" adelay="6" lock="Y" index="32" color="16777215" guid="7287603B-0072-B7F8-BEB3-97C769B2C48E">
+    <bg id="cbg_nccxmas_church01_cbg_street01_BG3" index="0">
+      <file>common.ncc_low.swf</file>
+      <color r="colorB">9375518</color>
+      <color r="colorA">15921618</color>
+    </bg>
+    <char id="AVATOR144" index="11" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.sit.xml</action>
+      <head id="PROP481" raceCode="1">
+        <file>ugc.1b86c4d.head.head_angry.xml</file>
+      </head>
+      <x>192.6897788</x>
+      <y>182.2705489</y>
+      <xscale>0.8903729</xscale>
+      <yscale>0.8903729</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="12" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.sit.xml</action>
+      <head id="PROP482" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>234.625</x>
+      <y>200.25</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_nccxmas_church01_PROP8" index="1" attached="Y">
+      <file>common.msp_churchwindow1.msp_churchwindow1_nccxmas_churchwindow01_front.swf</file>
+      <x>312</x>
+      <y>66</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP10" index="2" attached="Y">
+      <file>common.square01.swf</file>
+      <x>322</x>
+      <y>282</y>
+      <xscale>9.76</xscale>
+      <yscale>1.93</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">9654583</color>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP11" index="3" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>519.6</x>
+      <y>64.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP12" index="4" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>488.7</x>
+      <y>217.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP13" index="5" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>108.6</x>
+      <y>72.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP14" index="6" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>347.7</x>
+      <y>215.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP15" index="7" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>178.7</x>
+      <y>216.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP16" index="8" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>593.8</x>
+      <y>278</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP17" index="9" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>458.8</x>
+      <y>277</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP18" index="10" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>292.8</x>
+      <y>275</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP483" index="13">
+      <file>common.msp_handshape.msp_handshape_ncc_hand03.swf</file>
+      <x>231.1250229,226.85</x>
+      <y>226.5265132,138.5265132</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <face>1,1</face>
+      <rotation>-1.7342871,-1.7342871</rotation>
+      <color r="ccColorA">16764565</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="14">
+      <effect x="0" y="0" w="224.2" h="126.3672727" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>80.75</x>
+      <y>79.6483636</y>
+      <width>224.2</width>
+      <height>144.3032727</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="3" target="PROP483" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE36" adelay="6" lock="Y" index="33" color="16777215" guid="ADDD8C4A-3393-68ED-104F-197B8EDE9793">
+    <bg id="cbg_nccxmas_church01_cbg_street01_BG3" index="0">
+      <file>common.ncc_low.swf</file>
+      <color r="colorB">9375518</color>
+      <color r="colorA">15921618</color>
+    </bg>
+    <char id="AVATOR144" index="11" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.sit.xml</action>
+      <head id="PROP495" raceCode="1">
+        <file>ugc.1b86c4d.head.head_angry.xml</file>
+      </head>
+      <x>192.6897788</x>
+      <y>182.2705489</y>
+      <xscale>0.8903729</xscale>
+      <yscale>0.8903729</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="12" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.sit.xml</action>
+      <head id="PROP496" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>234.625</x>
+      <y>200.25</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_nccxmas_church01_PROP8" index="1" attached="Y">
+      <file>common.msp_churchwindow1.msp_churchwindow1_nccxmas_churchwindow01_front.swf</file>
+      <x>312</x>
+      <y>66</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP10" index="2" attached="Y">
+      <file>common.square01.swf</file>
+      <x>322</x>
+      <y>282</y>
+      <xscale>9.76</xscale>
+      <yscale>1.93</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">9654583</color>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP11" index="3" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>519.6</x>
+      <y>64.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP12" index="4" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>488.7</x>
+      <y>217.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP13" index="5" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>108.6</x>
+      <y>72.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP14" index="6" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>347.7</x>
+      <y>215.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP15" index="7" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>178.7</x>
+      <y>216.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP16" index="8" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>593.8</x>
+      <y>278</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP17" index="9" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>458.8</x>
+      <y>277</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP18" index="10" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>292.8</x>
+      <y>275</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP483" index="13">
+      <file>common.msp_handshape.msp_handshape_ncc_hand03.swf</file>
+      <x>226.85,231.15</x>
+      <y>138.5265132,197.3</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <face>1,1</face>
+      <rotation>-1.7342871,-1.7342871</rotation>
+      <color r="ccColorA">16764565</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="14">
+      <effect x="0" y="0" w="224.2" h="126.3672727" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>80.75</x>
+      <y>79.6483636</y>
+      <width>224.2</width>
+      <height>144.3032727</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="4" target="PROP483" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE37" adelay="6" lock="Y" index="34" color="16777215" guid="015FC425-48AD-DFE2-6F3B-ABE4593AD43F">
+    <bg id="cbg_nccxmas_church01_cbg_street01_BG3" index="0">
+      <file>common.ncc_low.swf</file>
+      <color r="colorB">9375518</color>
+      <color r="colorA">15921618</color>
+    </bg>
+    <char id="AVATOR144" index="11" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.sit.xml</action>
+      <head id="PROP511" raceCode="1">
+        <file>ugc.1b86c4d.head.head_angry.xml</file>
+      </head>
+      <x>192.6897788</x>
+      <y>182.2705489</y>
+      <xscale>0.8903729</xscale>
+      <yscale>0.8903729</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="12" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.sit.xml</action>
+      <head id="PROP512" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>234.625</x>
+      <y>200.25</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_nccxmas_church01_PROP8" index="1" attached="Y">
+      <file>common.msp_churchwindow1.msp_churchwindow1_nccxmas_churchwindow01_front.swf</file>
+      <x>312</x>
+      <y>66</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP10" index="2" attached="Y">
+      <file>common.square01.swf</file>
+      <x>322</x>
+      <y>282</y>
+      <xscale>9.76</xscale>
+      <yscale>1.93</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">9654583</color>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP11" index="3" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>519.6</x>
+      <y>64.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP12" index="4" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>488.7</x>
+      <y>217.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP13" index="5" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>108.6</x>
+      <y>72.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP14" index="6" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>347.7</x>
+      <y>215.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP15" index="7" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>178.7</x>
+      <y>216.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP16" index="8" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>593.8</x>
+      <y>278</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP17" index="9" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>458.8</x>
+      <y>277</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP18" index="10" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>292.8</x>
+      <y>275</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP483" index="13">
+      <file>common.msp_handshape.msp_handshape_ncc_hand03.swf</file>
+      <x>231.15,201.85</x>
+      <y>197.3,187.85</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <face>1,1</face>
+      <rotation>-1.7342871,-1.7342871</rotation>
+      <color r="ccColorA">16764565</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="14">
+      <effect x="0" y="0" w="224.2" h="126.3672727" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>80.75</x>
+      <y>79.6483636</y>
+      <width>224.2</width>
+      <height>144.3032727</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="5" target="PROP483" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE38" adelay="6" lock="Y" index="35" color="16777215" guid="11585B40-6315-4911-AB56-9224DB790EB9">
+    <bg id="cbg_nccxmas_church01_cbg_street01_BG3" index="0">
+      <file>common.ncc_low.swf</file>
+      <color r="colorB">9375518</color>
+      <color r="colorA">15921618</color>
+    </bg>
+    <char id="AVATOR144" index="11" raceCode="1">
+      <action face="1" motionface="1">ugc.1b86c4d.sit.xml</action>
+      <head id="PROP527" raceCode="1">
+        <file>ugc.1b86c4d.head.head_angry.xml</file>
+      </head>
+      <x>192.6897788</x>
+      <y>182.2705489</y>
+      <xscale>0.8903729</xscale>
+      <yscale>0.8903729</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="12" raceCode="1">
+      <action face="1" motionface="1">ugc.853cf38.sit.xml</action>
+      <head id="PROP528" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>234.625</x>
+      <y>200.25</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_nccxmas_church01_PROP8" index="1" attached="Y">
+      <file>common.msp_churchwindow1.msp_churchwindow1_nccxmas_churchwindow01_front.swf</file>
+      <x>312</x>
+      <y>66</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP10" index="2" attached="Y">
+      <file>common.square01.swf</file>
+      <x>322</x>
+      <y>282</y>
+      <xscale>9.76</xscale>
+      <yscale>1.93</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">9654583</color>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP11" index="3" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>519.6</x>
+      <y>64.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP12" index="4" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>488.7</x>
+      <y>217.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP13" index="5" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>108.6</x>
+      <y>72.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP14" index="6" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>347.7</x>
+      <y>215.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP15" index="7" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>178.7</x>
+      <y>216.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP16" index="8" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>593.8</x>
+      <y>278</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP17" index="9" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>458.8</x>
+      <y>277</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP18" index="10" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>292.8</x>
+      <y>275</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP483" index="13">
+      <file>common.msp_handshape.msp_handshape_ncc_hand03.swf</file>
+      <x>201.85,260.925</x>
+      <y>187.85,187.85</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <face>1,1</face>
+      <rotation>-1.7342871,-1.7342871</rotation>
+      <color r="ccColorA">16764565</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="14">
+      <effect x="0" y="0" w="224.2" h="126.3672727" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>80.75</x>
+      <y>79.6483636</y>
+      <width>224.2</width>
+      <height>144.3032727</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="6" target="PROP483" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE39" adelay="6" lock="Y" index="36" color="16777215" guid="80733AA7-8BD8-F067-C093-6EA561FE6CFA">
+    <bg id="cbg_nccxmas_church01_cbg_street01_BG3" index="0">
+      <file>common.ncc_low.swf</file>
+      <color r="colorB">9375518</color>
+      <color r="colorA">15921618</color>
+    </bg>
+    <char id="AVATOR144" index="11" raceCode="1">
+      <action face="-1" motionface="1">ugc.1b86c4d.sit.xml</action>
+      <head id="PROP550" raceCode="1">
+        <file>ugc.1b86c4d.head.head_shocked.xml</file>
+      </head>
+      <x>179.0844027</x>
+      <y>182.8577801</y>
+      <xscale>0.8903729</xscale>
+      <yscale>0.8903729</yscale>
+      <rotation>1.0593488</rotation>
+    </char>
+    <char id="AVATOR143" index="12" raceCode="1">
+      <action face="1,1" motionface="1">ugc.853cf38.run.xml</action>
+      <head id="PROP544" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>234.625,197.325</x>
+      <y>200.25,198.625</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="cbg_nccxmas_church01_PROP8" index="1" attached="Y">
+      <file>common.msp_churchwindow1.msp_churchwindow1_nccxmas_churchwindow01_front.swf</file>
+      <x>312</x>
+      <y>66</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP10" index="2" attached="Y">
+      <file>common.square01.swf</file>
+      <x>322</x>
+      <y>282</y>
+      <xscale>9.76</xscale>
+      <yscale>1.93</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">9654583</color>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP11" index="3" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>519.6</x>
+      <y>64.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP12" index="4" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>488.7</x>
+      <y>217.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP13" index="5" attached="Y">
+      <file>common.msp_churchwindow2.msp_churchwindow2_nccxmas_churchwindow02_front.swf</file>
+      <x>108.6</x>
+      <y>72.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP14" index="6" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>347.7</x>
+      <y>215.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP15" index="7" attached="Y">
+      <file>common.msp_churchchair.msp_churchchair_nccxmas_churchchair_side.swf</file>
+      <x>178.7</x>
+      <y>216.1</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP16" index="8" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>593.8</x>
+      <y>278</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP17" index="9" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>458.8</x>
+      <y>277</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_nccxmas_church01_PROP18" index="10" attached="Y">
+      <file>common.nccxmas_poinsettia.swf</file>
+      <x>292.8</x>
+      <y>275</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="13">
+      <effect x="0" y="0" w="224.2" h="126.3672727" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>80.75</x>
+      <y>79.6483636</y>
+      <width>224.2</width>
+      <height>144.3032727</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="7" target="AVATOR143" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <sound id="SOUND80" index="0" track="0" vol="0.5" tts="0">
+    <sfile>ugc.8887770.mp3</sfile>
+    <start>1153</start>
+    <stop>3090</stop>
+    <trimStart>34</trimStart>
+    <trimEnd>1972</trimEnd>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND66" index="1" track="0" vol="8" tts="0">
+    <sfile>ugc.044f2b7.mp3</sfile>
+    <start>919</start>
+    <stop>987</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND61" index="2" track="0" vol="8" tts="0">
+    <sfile>ugc.5c8472d.mp3</sfile>
+    <start>790</start>
+    <stop>918</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND50" index="3" track="0" vol="8" tts="0">
+    <sfile>ugc.3e71618.mp3</sfile>
+    <start>667</start>
+    <stop>747</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND46" index="4" track="0" vol="1" tts="0">
+    <sfile>ugc.da6dcac.mp3</sfile>
+    <start>661</start>
+    <stop>666</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND43" index="5" track="0" vol="1" tts="0">
+    <sfile>ugc.777a653.mp3</sfile>
+    <start>514</start>
+    <stop>528</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND37" index="6" track="0" vol="8" tts="0">
+    <sfile>ugc.d057bc8.mp3</sfile>
+    <start>439</start>
+    <stop>507</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND27" index="7" track="0" vol="8" tts="0">
+    <sfile>ugc.8c9ba7a.mp3</sfile>
+    <start>295</start>
+    <stop>357</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND15" index="8" track="0" vol="8" tts="0">
+    <sfile>ugc.66c5f27.mp3</sfile>
+    <start>163</start>
+    <stop>222</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND14" index="9" track="0" vol="1" tts="0">
+    <sfile>ugc.da6dcac.mp3</sfile>
+    <start>157</start>
+    <stop>162</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND6" index="10" track="0" vol="8" tts="0">
+    <sfile>ugc.5e979c8.mp3</sfile>
+    <start>19</start>
+    <stop>111</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND2" index="11" track="0" vol="1" tts="0">
+    <sfile>ugc.7f6d956.mp3</sfile>
+    <start>1</start>
+    <stop>18</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND98" index="12" track="1" vol="1" tts="0">
+    <sfile>ugc.da6dcac.mp3</sfile>
+    <start>1690</start>
+    <stop>1695</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND88" index="13" track="1" vol="8" tts="0">
+    <sfile>ugc.5be93f1.mp3</sfile>
+    <start>1372</start>
+    <stop>1443</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND86" index="14" track="1" vol="8" tts="0">
+    <sfile>ugc.7763293.mp3</sfile>
+    <start>1264</start>
+    <stop>1353</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND67" index="15" track="1" vol="8" tts="0">
+    <sfile>ugc.044f2b7.mp3</sfile>
+    <start>919</start>
+    <stop>987</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND62" index="16" track="1" vol="8" tts="0">
+    <sfile>ugc.5c8472d.mp3</sfile>
+    <start>790</start>
+    <stop>918</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND51" index="17" track="1" vol="8" tts="0">
+    <sfile>ugc.66c5f27.mp3</sfile>
+    <start>667</start>
+    <stop>726</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND38" index="18" track="1" vol="8" tts="0">
+    <sfile>ugc.d057bc8.mp3</sfile>
+    <start>439</start>
+    <stop>507</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND28" index="19" track="1" vol="8" tts="0">
+    <sfile>ugc.8c9ba7a.mp3</sfile>
+    <start>295</start>
+    <stop>357</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND16" index="20" track="1" vol="8" tts="0">
+    <sfile>ugc.66c5f27.mp3</sfile>
+    <start>163</start>
+    <stop>222</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND7" index="21" track="1" vol="8" tts="0">
+    <sfile>ugc.5e979c8.mp3</sfile>
+    <start>19</start>
+    <stop>111</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND93" index="22" track="2" vol="8" tts="0">
+    <sfile>ugc.5f6f1f9.mp3</sfile>
+    <start>1387</start>
+    <stop>1620</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND87" index="23" track="2" vol="8" tts="0">
+    <sfile>ugc.7763293.mp3</sfile>
+    <start>1264</start>
+    <stop>1353</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND68" index="24" track="2" vol="8" tts="0">
+    <sfile>ugc.044f2b7.mp3</sfile>
+    <start>919</start>
+    <stop>987</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND63" index="25" track="2" vol="8" tts="0">
+    <sfile>ugc.5c8472d.mp3</sfile>
+    <start>790</start>
+    <stop>918</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND52" index="26" track="2" vol="8" tts="0">
+    <sfile>ugc.66c5f27.mp3</sfile>
+    <start>667</start>
+    <stop>726</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND39" index="27" track="2" vol="8" tts="0">
+    <sfile>ugc.d057bc8.mp3</sfile>
+    <start>439</start>
+    <stop>507</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND29" index="28" track="2" vol="8" tts="0">
+    <sfile>ugc.8c9ba7a.mp3</sfile>
+    <start>295</start>
+    <stop>357</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND21" index="29" track="2" vol="8" tts="0">
+    <sfile>ugc.3e71618.mp3</sfile>
+    <start>163</start>
+    <stop>261</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND8" index="30" track="2" vol="8" tts="0">
+    <sfile>ugc.5e979c8.mp3</sfile>
+    <start>19</start>
+    <stop>111</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND1" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.e49f57a.mp3</sfile>
+    <start>1</start>
+    <stop>18</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Sweetie!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND4" index="1" track="0" vol="8" tts="1">
+    <sfile>ugc.ff0fd28.mp3</sfile>
+    <start>19</start>
+    <stop>111</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Bob Kid, Get Up Right Now And You're Going To Church Today!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND12" index="2" track="0" vol="8" tts="1">
+    <sfile>ugc.10b84b4.mp3</sfile>
+    <start>127</start>
+    <stop>156</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Bob Kid Get Up!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND18" index="3" track="0" vol="8" tts="1">
+    <sfile>ugc.f356890.mp3</sfile>
+    <start>163</start>
+    <stop>261</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Bob Kid Get Up You're Gonna Be Late For Church Today! Now Get Up!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND23" index="4" track="0" vol="1" tts="1">
+    <sfile>ugc.e7a6f7a.mp3</sfile>
+    <start>262</start>
+    <stop>294</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[You Crunch Off Dork!]]></text>
+      <voice><![CDATA[ivy1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND25" index="5" track="0" vol="8" tts="1">
+    <sfile>ugc.b85102c.mp3</sfile>
+    <start>295</start>
+    <stop>357</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[What Did U Just Say To Me Young Man!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND31" index="6" track="0" vol="1" tts="1">
+    <sfile>ugc.3c4b061.mp3</sfile>
+    <start>358</start>
+    <stop>399</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[And! Freaking Loser!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND33" index="7" track="0" vol="1" tts="1">
+    <sfile>ugc.3cb1691.mp3</sfile>
+    <start>400</start>
+    <stop>438</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Stop Calling Me Loser!]]></text>
+      <voice><![CDATA[ivy1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND35" index="8" track="0" vol="8" tts="1">
+    <sfile>ugc.aa81f55.mp3</sfile>
+    <start>439</start>
+    <stop>507</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[I Don't Give a Fuck! Starting Right Now!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND42" index="9" track="0" vol="1" tts="1">
+    <sfile>ugc.fdd6930.mp3</sfile>
+    <start>514</start>
+    <stop>576</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Bob Kid, Why Are You Sitting a Toilet?]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND45" index="10" track="0" vol="1" tts="1">
+    <sfile>ugc.3aa1382.mp3</sfile>
+    <start>577</start>
+    <stop>660</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Because It's So Stupid! Now Get Out Of The Bathroom Bitch!]]></text>
+      <voice><![CDATA[ivy1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND48" index="11" track="0" vol="8" tts="1">
+    <sfile>ugc.c394ec0.mp3</sfile>
+    <start>667</start>
+    <stop>747</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Starting Fucking Up, You're Gonna Be Late For Church!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND59" index="12" track="0" vol="8" tts="1">
+    <sfile>ugc.4afa80c.mp3</sfile>
+    <start>790</start>
+    <stop>918</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND65" index="13" track="0" vol="8" tts="1">
+    <sfile>ugc.e3648de.mp3</sfile>
+    <start>919</start>
+    <stop>987</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND70" index="14" track="0" vol="1" tts="1">
+    <sfile>ugc.4cd54d5.mp3</sfile>
+    <start>988</start>
+    <stop>999</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND72" index="15" track="0" vol="1" tts="1">
+    <sfile>ugc.f6042e4.mp3</sfile>
+    <start>1000</start>
+    <stop>1050</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Bob Kid See The Picture Today!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND74" index="16" track="0" vol="1" tts="1">
+    <sfile>ugc.aec24f8.mp3</sfile>
+    <start>1051</start>
+    <stop>1113</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Let's Typing To Grandma And Facebook!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND76" index="17" track="0" vol="1" tts="1">
+    <sfile>ugc.2563f8f.mp3</sfile>
+    <start>1114</start>
+    <stop>1134</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[You're Weird!]]></text>
+      <voice><![CDATA[ivy1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND78" index="18" track="0" vol="1" tts="1">
+    <sfile>ugc.2fd9a14.mp3</sfile>
+    <start>1153</start>
+    <stop>1203</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Bob Kid You're Super Quiet Today!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND82" index="19" track="0" vol="1" tts="1">
+    <sfile>ugc.09d8635.mp3</sfile>
+    <start>1204</start>
+    <stop>1260</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Oooooooohohohoohohohoho!]]></text>
+      <voice><![CDATA[ivy1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND84" index="20" track="0" vol="8" tts="1">
+    <sfile>ugc.e55ba8c.mp3</sfile>
+    <start>1264</start>
+    <stop>1353</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Bob Kid, Be Quiet Right Now! You're Stand Dork!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND90" index="21" track="0" vol="8" tts="1">
+    <sfile>ugc.c385faa.mp3</sfile>
+    <start>1387</start>
+    <stop>1620</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Turn Off Your Phone! Turn It Off! Be Quiet! Turn Off Right Now! I'll Will Spank Your Ass Dork, Quiet Right Now! Turn Off Your Phone!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND95" index="22" track="0" vol="1" tts="1">
+    <sfile>ugc.d4e6a3b.mp3</sfile>
+    <start>1621</start>
+    <stop>1635</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Bitch!]]></text>
+      <voice><![CDATA[ivy1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND97" index="23" track="0" vol="1" tts="1">
+    <sfile>ugc.0b430d0.mp3</sfile>
+    <start>1636</start>
+    <stop>1665</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Okay That's It!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND10" index="24" track="0" vol="1" tts="1">
+    <sfile>ugc.d84c68f.mp3</sfile>
+    <start>112</start>
+    <stop>126</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[But!]]></text>
+      <voice><![CDATA[ivy1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND91" index="25" track="1" vol="8" tts="1">
+    <sfile>ugc.c385faa.mp3</sfile>
+    <start>1387</start>
+    <stop>1620</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Turn Off Your Phone! Turn It Off! Be Quiet! Turn Off Right Now! I'll Will Spank Your Ass Dork, Quiet Right Now! Turn Off Your Phone!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND85" index="26" track="1" vol="8" tts="1">
+    <sfile>ugc.e55ba8c.mp3</sfile>
+    <start>1264</start>
+    <stop>1353</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Bob Kid, Be Quiet Right Now! You're Stand Dork!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND60" index="27" track="1" vol="8" tts="1">
+    <sfile>ugc.e3648de.mp3</sfile>
+    <start>919</start>
+    <stop>987</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND57" index="28" track="1" vol="2" tts="1">
+    <sfile>ugc.79843a0.mp3</sfile>
+    <start>748</start>
+    <stop>873</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND49" index="29" track="1" vol="8" tts="1">
+    <sfile>ugc.c394ec0.mp3</sfile>
+    <start>667</start>
+    <stop>747</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Starting Fucking Up, You're Gonna Be Late For Church!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND20" index="30" track="1" vol="8" tts="1">
+    <sfile>ugc.f356890.mp3</sfile>
+    <start>163</start>
+    <stop>261</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Bob Kid Get Up You're Gonna Be Late For Church Today! Now Get Up!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND13" index="31" track="1" vol="8" tts="1">
+    <sfile>ugc.10b84b4.mp3</sfile>
+    <start>127</start>
+    <stop>156</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Bob Kid Get Up!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND5" index="32" track="1" vol="8" tts="1">
+    <sfile>ugc.ff0fd28.mp3</sfile>
+    <start>19</start>
+    <stop>111</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Bob Kid, Get Up Right Now And You're Going To Church Today!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND26" index="33" track="1" vol="8" tts="1">
+    <sfile>ugc.b85102c.mp3</sfile>
+    <start>295</start>
+    <stop>357</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[What Did U Just Say To Me Young Man!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND36" index="34" track="1" vol="8" tts="1">
+    <sfile>ugc.aa81f55.mp3</sfile>
+    <start>439</start>
+    <stop>507</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[I Don't Give a Fuck! Starting Right Now!]]></text>
+      <voice><![CDATA[brian1]]></voice>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND1,~~~AVATOR143,SCENE0~~~</linkage>
+  <linkage>SOUND4,~~~AVATOR143,SCENE1~~~</linkage>
+  <linkage>SOUND10,~~~AVATOR144</linkage>
+  <linkage>SOUND12,~~~AVATOR143,SCENE3~~~</linkage>
+  <linkage>SOUND18,SCENE5~~~</linkage>
+  <linkage>SOUND23,~~~AVATOR144,SCENE6~~~</linkage>
+  <linkage>SOUND25,~~~AVATOR143,SCENE7~~~</linkage>
+  <linkage>SOUND31,~~~AVATOR143,SCENE8~~~</linkage>
+  <linkage>SOUND33,~~~AVATOR144,SCENE9~~~</linkage>
+  <linkage>SOUND35,~~~AVATOR143,SCENE10~~~</linkage>
+  <linkage>SOUND42,~~~AVATOR143,SCENE13~~~</linkage>
+  <linkage>SOUND45,~~~AVATOR144,SCENE14~~~</linkage>
+  <linkage>SOUND48,SCENE16~~~</linkage>
+  <linkage>SOUND57,~~~AVATOR143</linkage>
+  <linkage>SOUND59,~~~AVATOR144,SCENE19~~~</linkage>
+  <linkage>SOUND65,~~~AVATOR143,SCENE20~~~</linkage>
+  <linkage>SOUND70,~~~AVATOR144,SCENE21~~~</linkage>
+  <linkage>SOUND72,~~~AVATOR143,SCENE22~~~</linkage>
+  <linkage>SOUND74,~~~AVATOR143,SCENE23~~~</linkage>
+  <linkage>SOUND76,~~~AVATOR144,SCENE24~~~</linkage>
+  <linkage>SOUND78,~~~AVATOR143,SCENE26~~~</linkage>
+  <linkage>SOUND82,~~~AVATOR144,SCENE27~~~</linkage>
+  <linkage>SOUND84,~~~AVATOR143,SCENE29~~~</linkage>
+  <linkage>SOUND90,~~~AVATOR143,SCENE32~~~</linkage>
+  <linkage>SOUND95,~~~AVATOR144,SCENE33~~~</linkage>
+  <linkage>SOUND97,~~~AVATOR143,SCENE34~~~</linkage>
+</film>
