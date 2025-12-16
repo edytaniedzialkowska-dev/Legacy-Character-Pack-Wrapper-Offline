@@ -1,0 +1,1598 @@
+<film copyable="0" duration="55.4" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Brad Shows Her Bikini On My Stream/Grounded!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[This is a My First Episode of Brad Buttowski Gets Grounded Series!
+
+DON'T TAKE DOWN THIS VIDEO!]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+      <color value="d9e7f2"/>
+      <color value="d9e7f2"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="54" lock="Y" index="0" color="16777215" guid="25253C71-CEAC-97BC-FBD1-51FA96E71E1E" combgId="custom.cbg_boy_rm">
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR266" index="4" raceCode="1">
+      <action face="-1" motionface="1">ugc.2602fd8.sit.xml</action>
+      <head id="PROP11" raceCode="1">
+        <file>ugc.2602fd8.head.head_angry.xml</file>
+      </head>
+      <x>236.5</x>
+      <y>180.575</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP7" index="3" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="2" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>89</x>
+      <y>257</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP5" index="1" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket01.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE1" adelay="75" lock="Y" index="1" color="16777215" guid="8079DA3D-CCB1-C84D-2E3A-A00009DF0B4D">
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR266" index="4" raceCode="1">
+      <action face="-1" motionface="1">ugc.2602fd8.sit.xml</action>
+      <head id="PROP17" raceCode="1">
+        <file>ugc.2602fd8.head.head_schemeing.xml</file>
+      </head>
+      <x>236.5</x>
+      <y>180.525</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="1" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket01.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="2" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>89</x>
+      <y>257</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="3" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE2" adelay="60" lock="N" index="2" color="16777215" guid="04AF2933-C803-3C28-A5F6-C2087BE960E9">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR266" index="4" raceCode="1">
+      <action face="-1,-1" motionface="-1">ugc.2602fd8.walk.xml</action>
+      <head id="PROP21" raceCode="1">
+        <file>ugc.2602fd8.head.head_schemeing.xml</file>
+      </head>
+      <x>236.5,458</x>
+      <y>214.65,232.525</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="1" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket01.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="2" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>89</x>
+      <y>257</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="3" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="AVATOR266" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE3" adelay="69" lock="Y" index="3" color="16777215" guid="79931CB3-21DC-CBCE-B0BD-C45C3E7C9951">
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR266" index="4" raceCode="1">
+      <action face="-1" motionface="-1">ugc.2602fd8.sit.xml</action>
+      <head id="PROP26" raceCode="1">
+        <file>ugc.2602fd8.head.head_schemeing.xml</file>
+      </head>
+      <x>458.35</x>
+      <y>207.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="1" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket01.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="2" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>89</x>
+      <y>257</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="3" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE4" adelay="18" lock="Y" index="4" color="16777215" guid="591B853C-18E8-3EC0-E53C-3C552236A622">
+    <bg id="BG306" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR307" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.853cf38.stand.xml</action>
+      <x>150.9061315</x>
+      <y>375.8986266</y>
+      <xscale>2.322433</xscale>
+      <yscale>2.322433</yscale>
+      <rotation>0</rotation>
+    </char>
+    <bubbleAsset id="BUBBLE309" index="3">
+      <x>367.8021254</x>
+      <y>339.2343826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-63.8946225" y="-27.0289079" w="127.789245" h="54.0578158" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Oswald" size="20" align="center" bold="false" italic="false" embed="true"><![CDATA[Brad Buttowski]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="PROP33" index="2">
+      <file>common.square01.swf</file>
+      <x>661.2120662</x>
+      <y>184.55</y>
+      <xscale>11.9278371</xscale>
+      <yscale>11.9278371</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066329</color>
+    </prop>
+    <effectAsset id="EFFECT6" themecode="common" index="4">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE5" adelay="21" lock="Y" index="5" color="16777215" guid="F07131EF-B8EA-25F1-3213-63C478FB6B64">
+    <bg id="BG306" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR307" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.853cf38.stand.xml</action>
+      <head id="PROP36" raceCode="1">
+        <file>ugc.853cf38.head.head_annoyed.xml</file>
+      </head>
+      <x>150.8561315</x>
+      <y>375.7986266</y>
+      <xscale>2.322433</xscale>
+      <yscale>2.322433</yscale>
+      <rotation>0</rotation>
+    </char>
+    <bubbleAsset id="BUBBLE309" index="3">
+      <x>367.8021254</x>
+      <y>339.2343826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-63.8946225" y="-27.0289079" w="127.789245" h="54.0578158" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Oswald" size="20" align="center" bold="false" italic="false" embed="true"><![CDATA[Brad Buttowski]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="PROP33" index="2">
+      <file>common.square01.swf</file>
+      <x>661.2120662</x>
+      <y>184.55</y>
+      <xscale>11.9278371</xscale>
+      <yscale>11.9278371</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066329</color>
+    </prop>
+    <effectAsset id="EFFECT6" themecode="common" index="4">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE6" adelay="123" lock="N" index="6" color="16777215" guid="165018F9-4C6F-1AB9-90EB-A325AD8E5984">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG306" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR307" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.853cf38.stand.xml</action>
+      <head id="PROP37" raceCode="1">
+        <file>ugc.853cf38.head.head_annoyed.xml</file>
+      </head>
+      <x>150.8061315</x>
+      <y>375.6986266</y>
+      <xscale>2.322433</xscale>
+      <yscale>2.322433</yscale>
+      <rotation>0</rotation>
+    </char>
+    <bubbleAsset id="BUBBLE309" index="3">
+      <x>367.8021254</x>
+      <y>339.2343826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-63.8946225" y="-27.0289079" w="127.789245" h="54.0578158" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Oswald" size="20" align="center" bold="false" italic="false" embed="true"><![CDATA[Brad Buttowski]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="PROP33" index="2">
+      <file>common.square01.swf</file>
+      <x>661.2120662</x>
+      <y>184.55</y>
+      <xscale>11.9278371</xscale>
+      <yscale>11.9278371</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066329</color>
+    </prop>
+    <effectAsset id="EFFECT6" themecode="common" index="4">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE8" adelay="6" lock="Y" index="7" color="16777215" guid="443D0AFA-01C3-FA09-B258-BD859DD712F2">
+    <bg id="BG306" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR307" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.853cf38.stand.xml</action>
+      <head id="PROP45" raceCode="1">
+        <file>ugc.853cf38.head.head_annoyed.xml</file>
+      </head>
+      <x>150.8061315</x>
+      <y>375.6986266</y>
+      <xscale>2.322433</xscale>
+      <yscale>2.322433</yscale>
+      <rotation>0</rotation>
+    </char>
+    <bubbleAsset id="BUBBLE309" index="3">
+      <x>367.8021254</x>
+      <y>339.2343826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-63.8946225" y="-27.0289079" w="127.789245" h="54.0578158" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Oswald" size="20" align="center" bold="false" italic="false" embed="true"><![CDATA[Brad Buttowski]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="PROP33" index="2">
+      <file>common.square01.swf</file>
+      <x>661.2120662</x>
+      <y>184.55</y>
+      <xscale>11.9278371</xscale>
+      <yscale>11.9278371</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066329</color>
+    </prop>
+    <effectAsset id="EFFECT6" themecode="common" index="4">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE7" adelay="93" lock="Y" index="8" color="16777215" guid="4ACC7526-A488-33AB-7DA7-43D6720C433A">
+    <bg id="BG306" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR307" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.853cf38.stand.xml</action>
+      <head id="PROP44" raceCode="1">
+        <file>ugc.853cf38.head.head_shocked.xml</file>
+      </head>
+      <x>150.8061315</x>
+      <y>375.6986266</y>
+      <xscale>2.322433</xscale>
+      <yscale>2.322433</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR329" index="3" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.45561a6.stand.xml</action>
+      <head id="PROP42" raceCode="1">
+        <file>ugc.45561a6.head.head_evillaugh.xml</file>
+      </head>
+      <x>433.639049</x>
+      <y>298.1884096</y>
+      <xscale>1.7897325</xscale>
+      <yscale>1.7897325</yscale>
+      <rotation>0</rotation>
+    </char>
+    <bubbleAsset id="BUBBLE309" index="4">
+      <x>367.8021254</x>
+      <y>339.2343826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-63.8946225" y="-27.0289079" w="127.789245" h="54.0578158" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Oswald" size="20" align="center" bold="false" italic="false" embed="true"><![CDATA[Brad Buttowski]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="PROP33" index="2">
+      <file>common.square01.swf</file>
+      <x>661.2120662</x>
+      <y>184.55</y>
+      <xscale>11.9278371</xscale>
+      <yscale>11.9278371</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066329</color>
+    </prop>
+    <effectAsset id="EFFECT6" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE9" adelay="117" lock="Y" index="9" color="16777215" guid="9C017365-4EDE-55BB-07F6-7CA33D2C3DEE">
+    <bg id="BG306" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR307" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.853cf38.laugh.xml</action>
+      <head id="PROP51" raceCode="1">
+        <file>ugc.853cf38.head.head_sick.xml</file>
+      </head>
+      <x>167.6394866</x>
+      <y>365.586707</y>
+      <xscale>2.322433</xscale>
+      <yscale>2.322433</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR329" index="3" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.45561a6.stand.xml</action>
+      <head id="PROP49" raceCode="1">
+        <file>ugc.45561a6.head.head_evillaugh.xml</file>
+      </head>
+      <x>433.589049</x>
+      <y>298.1634096</y>
+      <xscale>1.7897325</xscale>
+      <yscale>1.7897325</yscale>
+      <rotation>0</rotation>
+    </char>
+    <bubbleAsset id="BUBBLE309" index="4">
+      <x>367.8021254</x>
+      <y>339.2343826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-63.8946225" y="-27.0289079" w="127.789245" h="54.0578158" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Oswald" size="20" align="center" bold="false" italic="false" embed="true"><![CDATA[Brad Buttowski]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="PROP33" index="2">
+      <file>common.square01.swf</file>
+      <x>661.2120662</x>
+      <y>184.55</y>
+      <xscale>11.9278371</xscale>
+      <yscale>11.9278371</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066329</color>
+    </prop>
+    <prop id="PROP52" index="5">
+      <file>common.pumping_shit.swf</file>
+      <x>128.225</x>
+      <y>217.9843826</y>
+      <xscale>3.3466899</xscale>
+      <yscale>3.3466899</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT6" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE10" adelay="30" lock="Y" index="10" color="16777215" guid="8ED062CE-8775-1E17-DFF1-01E0A5BC5F0C">
+    <bg id="BG306" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR307" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.853cf38.laugh.xml</action>
+      <head id="PROP53" raceCode="1">
+        <file>ugc.853cf38.head.head_sick.xml</file>
+      </head>
+      <x>167.6394866</x>
+      <y>365.586707</y>
+      <xscale>2.322433</xscale>
+      <yscale>2.322433</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR329" index="3" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.45561a6.stand.xml</action>
+      <head id="PROP55" raceCode="1">
+        <file>ugc.45561a6.head.head_evillaugh.xml</file>
+      </head>
+      <x>433.589049</x>
+      <y>298.1634096</y>
+      <xscale>1.7897325</xscale>
+      <yscale>1.7897325</yscale>
+      <rotation>0</rotation>
+    </char>
+    <bubbleAsset id="BUBBLE309" index="4">
+      <x>367.8021254</x>
+      <y>339.2343826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-63.8946225" y="-27.0289079" w="127.789245" h="54.0578158" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Oswald" size="20" align="center" bold="false" italic="false" embed="true"><![CDATA[Brad Buttowski]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="PROP33" index="2">
+      <file>common.square01.swf</file>
+      <x>661.2120662</x>
+      <y>184.55</y>
+      <xscale>11.9278371</xscale>
+      <yscale>11.9278371</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066329</color>
+    </prop>
+    <prop id="PROP52" index="5">
+      <file>common.pumping_shit.swf</file>
+      <x>128.225</x>
+      <y>217.9843826</y>
+      <xscale>3.3466899</xscale>
+      <yscale>3.3466899</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT6" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE11" adelay="39" lock="Y" index="11" color="16777215" guid="F47F206D-16D2-C02F-0A67-16494153B5DE">
+    <bg id="BG306" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR307" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <head id="PROP62" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>167.5561315</x>
+      <y>365.4986266</y>
+      <xscale>2.322433</xscale>
+      <yscale>2.322433</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR329" index="3" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.45561a6.stand.xml</action>
+      <head id="PROP59" raceCode="1">
+        <file>ugc.45561a6.head.head_evillaugh.xml</file>
+      </head>
+      <x>433.589049</x>
+      <y>298.1634096</y>
+      <xscale>1.7897325</xscale>
+      <yscale>1.7897325</yscale>
+      <rotation>0</rotation>
+    </char>
+    <bubbleAsset id="BUBBLE309" index="4">
+      <x>367.8021254</x>
+      <y>339.2343826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-63.8946225" y="-27.0289079" w="127.789245" h="54.0578158" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Oswald" size="20" align="center" bold="false" italic="false" embed="true"><![CDATA[Brad Buttowski]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="PROP33" index="2">
+      <file>common.square01.swf</file>
+      <x>661.2120662</x>
+      <y>184.55</y>
+      <xscale>11.9278371</xscale>
+      <yscale>11.9278371</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066329</color>
+    </prop>
+    <effectAsset id="EFFECT6" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE12" adelay="30" lock="Y" index="12" color="16777215" guid="7A70CFCB-A45E-9F99-53AB-A491821D6566">
+    <bg id="BG306" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR307" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <head id="PROP63" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>167.5561315</x>
+      <y>365.4986266</y>
+      <xscale>2.322433</xscale>
+      <yscale>2.322433</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR329" index="3" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.45561a6.stand.xml</action>
+      <head id="PROP65" raceCode="1">
+        <file>ugc.45561a6.head.head_evillaugh.xml</file>
+      </head>
+      <x>433.589049</x>
+      <y>298.1634096</y>
+      <xscale>1.7897325</xscale>
+      <yscale>1.7897325</yscale>
+      <rotation>0</rotation>
+    </char>
+    <bubbleAsset id="BUBBLE309" index="4">
+      <x>367.8021254</x>
+      <y>339.2343826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-63.8946225" y="-27.0289079" w="127.789245" h="54.0578158" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Oswald" size="20" align="center" bold="false" italic="false" embed="true"><![CDATA[Brad Buttowski]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="PROP33" index="2">
+      <file>common.square01.swf</file>
+      <x>661.2120662</x>
+      <y>184.55</y>
+      <xscale>11.9278371</xscale>
+      <yscale>11.9278371</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066329</color>
+    </prop>
+    <effectAsset id="EFFECT6" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE13" adelay="30" lock="Y" index="13" color="16777215" guid="F8236258-5B6A-4F50-467B-5C699089A691">
+    <bg id="BG306" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR307" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <head id="PROP66" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>167.5561315</x>
+      <y>365.4986266</y>
+      <xscale>2.322433</xscale>
+      <yscale>2.322433</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR329" index="3" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.45561a6.stand.xml</action>
+      <head id="PROP68" raceCode="1">
+        <file>ugc.45561a6.head.head_evillaugh.xml</file>
+      </head>
+      <x>433.589049</x>
+      <y>298.1634096</y>
+      <xscale>1.7897325</xscale>
+      <yscale>1.7897325</yscale>
+      <rotation>0</rotation>
+    </char>
+    <bubbleAsset id="BUBBLE309" index="4">
+      <x>367.8021254</x>
+      <y>339.2343826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-63.8946225" y="-27.0289079" w="127.789245" h="54.0578158" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Oswald" size="20" align="center" bold="false" italic="false" embed="true"><![CDATA[Brad Buttowski]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="PROP33" index="2">
+      <file>common.square01.swf</file>
+      <x>661.2120662</x>
+      <y>184.55</y>
+      <xscale>11.9278371</xscale>
+      <yscale>11.9278371</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066329</color>
+    </prop>
+    <effectAsset id="EFFECT6" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE14" adelay="27" lock="Y" index="14" color="16777215" guid="E021F04F-653D-85E9-1FA0-C0CB314EC00B">
+    <bg id="BG306" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR307" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <head id="PROP69" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>167.5561315</x>
+      <y>365.4986266</y>
+      <xscale>2.322433</xscale>
+      <yscale>2.322433</yscale>
+      <rotation>0</rotation>
+    </char>
+    <bubbleAsset id="BUBBLE309" index="3">
+      <x>367.8021254</x>
+      <y>339.2343826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-63.8946225" y="-27.0289079" w="127.789245" h="54.0578158" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Oswald" size="20" align="center" bold="false" italic="false" embed="true"><![CDATA[Brad Buttowski]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="PROP33" index="2">
+      <file>common.square01.swf</file>
+      <x>661.2120662</x>
+      <y>184.55</y>
+      <xscale>11.9278371</xscale>
+      <yscale>11.9278371</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066329</color>
+    </prop>
+    <effectAsset id="EFFECT6" themecode="common" index="4">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE15" adelay="18" lock="Y" index="15" color="16777215" guid="EA02A4D1-DDC0-01FA-9A9C-E747C9C39364">
+    <bg id="BG306" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR307" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.853cf38.xarms.xml</action>
+      <head id="PROP72" raceCode="1">
+        <file>ugc.853cf38.head.head_angry.xml</file>
+      </head>
+      <x>167.5561315</x>
+      <y>365.4986266</y>
+      <xscale>2.322433</xscale>
+      <yscale>2.322433</yscale>
+      <rotation>0</rotation>
+    </char>
+    <bubbleAsset id="BUBBLE309" index="3">
+      <x>367.8021254</x>
+      <y>339.2343826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-63.8946225" y="-27.0289079" w="127.789245" h="54.0578158" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Oswald" size="20" align="center" bold="false" italic="false" embed="true"><![CDATA[Brad Buttowski]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="PROP33" index="2">
+      <file>common.square01.swf</file>
+      <x>661.2120662</x>
+      <y>184.55</y>
+      <xscale>11.9278371</xscale>
+      <yscale>11.9278371</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066329</color>
+    </prop>
+    <effectAsset id="EFFECT6" themecode="common" index="4">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE16" adelay="24" lock="Y" index="16" color="16777215" guid="C15D7D0A-0119-B049-75FC-19318534897C">
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR266" index="4" raceCode="1">
+      <action face="-1" motionface="1">ugc.2602fd8.sit.xml</action>
+      <head id="PROP79" raceCode="1">
+        <file>ugc.2602fd8.head.head_shocked.xml</file>
+      </head>
+      <x>458.35</x>
+      <y>207.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="1" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket01.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="2" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>89</x>
+      <y>257</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="3" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE17" adelay="66" lock="N" index="17" color="16777215" guid="357DA0D0-D43A-FF56-DD81-81CE25854862">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR266" index="4" raceCode="1">
+      <action face="-1" motionface="1">ugc.2602fd8.sit.xml</action>
+      <head id="PROP83" raceCode="1">
+        <file>ugc.2602fd8.head.head_shocked.xml</file>
+      </head>
+      <x>458.35</x>
+      <y>207.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR417" index="5" raceCode="1">
+      <action face="1,1" motionface="1">ugc.7c1db43.walk.xml</action>
+      <head id="PROP87" raceCode="1">
+        <file>ugc.7c1db43.head.head_angry.xml</file>
+      </head>
+      <x>695.2620662,524.05</x>
+      <y>241.025,231.325</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="1" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket01.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="2" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>89</x>
+      <y>257</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="3" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="1" target="AVATOR417" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE18" adelay="228" lock="Y" index="18" color="16777215" guid="454244FA-64E7-C496-1410-82520C341948">
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR266" index="4" raceCode="1">
+      <action face="-1" motionface="1">ugc.2602fd8.sit.xml</action>
+      <head id="PROP91" raceCode="1">
+        <file>ugc.2602fd8.head.head_shocked.xml</file>
+      </head>
+      <x>458.35</x>
+      <y>207.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR417" index="5" raceCode="1">
+      <action face="1" motionface="-1">ugc.7c1db43.stand.xml</action>
+      <head id="PROP92" raceCode="1">
+        <file>ugc.7c1db43.head.head_angry.xml</file>
+      </head>
+      <x>524.05</x>
+      <y>231.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="1" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket01.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="2" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>89</x>
+      <y>257</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="3" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE19" adelay="81" lock="Y" index="19" color="16777215" guid="2DB81C5A-2FA0-A4AC-FB4B-D0724637966F">
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR266" index="4" raceCode="1">
+      <action face="-1" motionface="1">ugc.2602fd8.sit.xml</action>
+      <head id="PROP98" raceCode="1">
+        <file>ugc.2602fd8.head.head_shocked.xml</file>
+      </head>
+      <x>458.35</x>
+      <y>207.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR417" index="5" raceCode="1">
+      <action face="1" motionface="1">ugc.7c1db43.stand.xml</action>
+      <head id="PROP99" raceCode="1">
+        <file>ugc.7c1db43.head.head_angry.xml</file>
+      </head>
+      <x>524.05</x>
+      <y>231.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="1" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket01.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="2" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>89</x>
+      <y>257</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="3" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE20" adelay="18" lock="Y" index="20" color="16777215" guid="94140F28-DAA8-2CDC-3B88-952FE99D986D">
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR266" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.2602fd8.stand.xml</action>
+      <head id="PROP108" raceCode="1">
+        <file>ugc.2602fd8.head.head_sad.xml</file>
+      </head>
+      <x>280.2078213</x>
+      <y>221.1304556</y>
+      <xscale>0.5572601</xscale>
+      <yscale>0.5572601</yscale>
+      <rotation>65.0784887</rotation>
+    </char>
+    <char id="AVATOR417" index="5" raceCode="1">
+      <action face="-1" motionface="1">ugc.7c1db43.grab.xml</action>
+      <head id="PROP104" raceCode="1">
+        <file>ugc.7c1db43.head.head_angry.xml</file>
+      </head>
+      <x>476.625</x>
+      <y>216.95</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="2" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket02.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="3" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>89</x>
+      <y>257</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="4" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE21" adelay="60" lock="N" index="21" color="16777215" guid="61D0A74D-4184-2E72-2FFC-59B5C67F3A40">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR266" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.2602fd8.stand.xml</action>
+      <head id="PROP109" raceCode="1">
+        <file>ugc.2602fd8.head.head_sad.xml</file>
+      </head>
+      <x>280.2078213</x>
+      <y>221.1304556</y>
+      <xscale>0.5572601</xscale>
+      <yscale>0.5572601</yscale>
+      <rotation>65.0784887</rotation>
+    </char>
+    <char id="AVATOR417" index="6" raceCode="1">
+      <action face="-1,-1" motionface="-1">ugc.7c1db43.walk.xml</action>
+      <head id="PROP113" raceCode="1">
+        <file>ugc.7c1db43.head.head_angry.xml</file>
+      </head>
+      <x>466.575,668.25</x>
+      <y>216.95,239.05</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="2" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket02.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="4" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>89</x>
+      <y>257</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="5" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP114" index="3">
+      <file>common.square01.swf</file>
+      <x>531.8</x>
+      <y>165.3</y>
+      <xscale>1.5716082</xscale>
+      <yscale>1.5716082</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">14280690</color>
+    </prop>
+    <prop id="PROP117" index="7">
+      <file>ugc.021e501.png</file>
+      <x>467.125,678.675</x>
+      <y>223.375,252.6666667</y>
+      <xscale>0.2112303,0.2112303</xscale>
+      <yscale>0.2112303,0.2112303</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="8">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="2" target="AVATOR417" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="3" target="PROP117" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE22" adelay="42" lock="Y" index="22" color="16777215" guid="D4C19EFD-5AFE-EE1B-5790-0B046555605A">
+    <bg id="cbg_boy_rm_BG6" index="0">
+      <file>custom.boy_rm_bg.swf</file>
+    </bg>
+    <char id="AVATOR266" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.2602fd8.stand.xml</action>
+      <head id="PROP119" raceCode="1">
+        <file>ugc.2602fd8.head.head_sad.xml</file>
+      </head>
+      <x>280.2078213</x>
+      <y>221.1304556</y>
+      <xscale>0.5572601</xscale>
+      <yscale>0.5572601</yscale>
+      <rotation>65.0784887</rotation>
+    </char>
+    <char id="AVATOR417" index="6" raceCode="1">
+      <action face="-1" motionface="-1">ugc.7c1db43.stand.xml</action>
+      <head id="PROP125" raceCode="1">
+        <file>ugc.7c1db43.head.head_angry.xml</file>
+      </head>
+      <x>668.25</x>
+      <y>239.05</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="cbg_boy_rm_PROP5" index="2" attached="Y">
+      <file>custom.msp_boy_rm_blanket.msp_boy_rm_blanket_boy_rm_blanket02.swf</file>
+      <x>219</x>
+      <y>255</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP114" index="3">
+      <file>common.square01.swf</file>
+      <x>531.8</x>
+      <y>165.3</y>
+      <xscale>1.5716082</xscale>
+      <yscale>1.5716082</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">14280690</color>
+    </prop>
+    <prop id="cbg_boy_rm_PROP6" index="4" attached="Y">
+      <file>custom.boy_rm_chair02.swf</file>
+      <x>89</x>
+      <y>257</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_boy_rm_PROP7" index="5" attached="Y">
+      <file>custom.boy_rm_chair01.swf</file>
+      <x>458</x>
+      <y>264</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP117" index="7">
+      <file>ugc.021e501.png</file>
+      <x>678.675</x>
+      <y>252.6666667</y>
+      <xscale>0.2112303</xscale>
+      <yscale>0.2112303</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="8">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND34" index="0" track="0" vol="1" tts="0">
+    <sfile>ugc.7f6d956.mp3</sfile>
+    <start>1228</start>
+    <stop>1287</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND26" index="1" track="0" vol="1" tts="0">
+    <sfile>ugc.6ddddf1.mp3</sfile>
+    <start>811</start>
+    <stop>846</stop>
+    <trimStart>7</trimStart>
+    <trimEnd>43</trimEnd>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND13" index="2" track="0" vol="8" tts="0">
+    <sfile>ugc.1d57fc0.mp3</sfile>
+    <start>427</start>
+    <stop>519</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND24" index="3" track="0" vol="1" tts="0">
+    <sfile>ugc.3ca6b78.mp3</sfile>
+    <start>766</start>
+    <stop>792</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND16" index="4" track="0" vol="8" tts="0">
+    <sfile>ugc.26cad64.mp3</sfile>
+    <start>520</start>
+    <stop>666</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND4" index="5" track="0" vol="1" tts="0">
+    <sfile>ugc.7f6d956.mp3</sfile>
+    <start>130</start>
+    <stop>189</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND7" index="6" track="0" vol="1" tts="0">
+    <sfile>common.sigh_02.mp3</sfile>
+    <start>277</start>
+    <stop>297</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND10" index="7" track="0" vol="1" tts="0">
+    <sfile>common.computer_mouse_click_01.mp3</sfile>
+    <start>421</start>
+    <stop>426</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND35" index="8" track="0" vol="1" tts="0">
+    <sfile>ugc.607ed4b.mp3</sfile>
+    <start>1288</start>
+    <stop>1302</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND29" index="9" track="1" vol="1" tts="0">
+    <sfile>ugc.7f6d956.mp3</sfile>
+    <start>835</start>
+    <stop>900</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND17" index="10" track="1" vol="8" tts="0">
+    <sfile>ugc.26cad64.mp3</sfile>
+    <start>520</start>
+    <stop>666</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND14" index="11" track="1" vol="8" tts="0">
+    <sfile>ugc.1d57fc0.mp3</sfile>
+    <start>427</start>
+    <stop>519</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND18" index="12" track="2" vol="8" tts="0">
+    <sfile>ugc.26cad64.mp3</sfile>
+    <start>520</start>
+    <stop>666</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND15" index="13" track="2" vol="8" tts="0">
+    <sfile>ugc.1d57fc0.mp3</sfile>
+    <start>427</start>
+    <stop>519</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND1" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.2e9c78d.mp3</sfile>
+    <start>1</start>
+    <stop>54</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Man, I'm So Bored Right Now!]]></text>
+      <voice><![CDATA[adam1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND3" index="1" track="0" vol="1" tts="1">
+    <sfile>ugc.12fff85.mp3</sfile>
+    <start>55</start>
+    <stop>129</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Oh I Know, I'm Going Showing Bikini On Stream!]]></text>
+      <voice><![CDATA[adam1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND6" index="2" track="0" vol="1" tts="1">
+    <sfile>ugc.68463ea.mp3</sfile>
+    <start>190</start>
+    <stop>258</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Now Time To Showing Bikini On Discord Stream!]]></text>
+      <voice><![CDATA[adam1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND9" index="3" track="0" vol="1" tts="1">
+    <sfile>ugc.7fdd092.mp3</sfile>
+    <start>298</start>
+    <stop>420</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND20" index="4" track="0" vol="1" tts="1">
+    <sfile>ugc.979a9c0.mp3</sfile>
+    <start>667</start>
+    <stop>705</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND22" index="5" track="0" vol="1" tts="1">
+    <sfile>ugc.6a75622.mp3</sfile>
+    <start>736</start>
+    <stop>765</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND28" index="6" track="0" vol="1" tts="1">
+    <sfile>ugc.72d6f04.mp3</sfile>
+    <start>835</start>
+    <stop>900</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Oh No! The Dad Is Coming!]]></text>
+      <voice><![CDATA[adam1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND31" index="7" track="0" vol="1" tts="1">
+    <sfile>ugc.1a137ca.mp3</sfile>
+    <start>901</start>
+    <stop>1128</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Brad, How Dear You Showing Bikini On Stream, You Know This is Not a inappropriate! That's It! You're Grounded For Until Christmas 2025 and Getting a Coal!]]></text>
+      <voice><![CDATA[oc_steven]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND33" index="8" track="0" vol="1" tts="1">
+    <sfile>ugc.17e524f.mp3</sfile>
+    <start>1129</start>
+    <stop>1209</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Now Go To Bed Right Now, And I'll Taking Your Computer For You!]]></text>
+      <voice><![CDATA[oc_steven]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND11" index="9" track="0" vol="8" tts="1">
+    <sfile>ugc.631809d.mp3</sfile>
+    <start>427</start>
+    <stop>519</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND12" index="10" track="1" vol="8" tts="1">
+    <sfile>ugc.631809d.mp3</sfile>
+    <start>427</start>
+    <stop>519</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <linkage>SOUND1,~~~AVATOR266,SCENE0~~~</linkage>
+  <linkage>SOUND3,~~~AVATOR266,SCENE1~~~</linkage>
+  <linkage>SOUND6,~~~AVATOR266,SCENE3~~~</linkage>
+  <linkage>SOUND9,~~~AVATOR307,SCENE6~~~</linkage>
+  <linkage>SOUND20,~~~AVATOR307,SCENE11~~~</linkage>
+  <linkage>SOUND22,~~~AVATOR307,SCENE13~~~</linkage>
+  <linkage>SOUND28,~~~AVATOR266,SCENE17~~~</linkage>
+  <linkage>SOUND31,~~~AVATOR417,SCENE18~~~</linkage>
+  <linkage>SOUND33,~~~AVATOR417,SCENE19~~~</linkage>
+</film>
