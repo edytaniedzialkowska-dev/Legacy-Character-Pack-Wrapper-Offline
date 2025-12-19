@@ -1,0 +1,62 @@
+<film copyable="0" duration="10.0" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Pracy Kuby!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="240" lock="Y" index="0" color="16777215" guid="4914B227-26D9-C2CB-4A83-438D78BDD9E5">
+    <bg id="BG130" index="0">
+      <file>ugc.251f920.png</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1">
+      <action face="-1" motionface="1">ugc.cb384a7.drive.xml</action>
+      <x>253.6757533</x>
+      <y>272.3810316</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>-3.1608872</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT2" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="bumpyride" type="BUMPYRIDE"/>
+      <x>322</x>
+      <y>179</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND0" index="0" track="0" vol="1" tts="0">
+    <sfile>ugc.363b0a8.mp3</sfile>
+    <start>1</start>
+    <stop>723</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+</film>

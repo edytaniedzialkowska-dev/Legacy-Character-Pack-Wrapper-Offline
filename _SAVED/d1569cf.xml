@@ -1,0 +1,541 @@
+<film copyable="0" duration="29.1" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Penguin (Penguin Diner) Voices (By Jacob2010)]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[Community_Library,penguin]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="15"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="72" lock="Y" index="0" color="16777215" guid="33E81A89-B3CD-0807-5B3D-FBA8DFFCE89A">
+    <char id="AVATOR130" index="1" raceCode="0">
+      <action face="1" motionface="1">Community_Library.penguin.talk.swf</action>
+      <x>321</x>
+      <y>217.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE1" adelay="54" lock="Y" index="1" color="16777215" guid="B6AF1586-A253-F6EB-7413-D307404C7D2E">
+    <char id="AVATOR130" index="1" raceCode="0">
+      <action face="1" motionface="1">Community_Library.penguin.talk.swf</action>
+      <x>321</x>
+      <y>217.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE2" adelay="24" lock="Y" index="2" color="16777215" guid="EAA5091E-88B6-348D-C044-B9D4FC525B8F">
+    <char id="AVATOR130" index="1" raceCode="0">
+      <action face="1" motionface="1">Community_Library.penguin.talk.swf</action>
+      <x>321</x>
+      <y>217.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE3" adelay="69" lock="Y" index="3" color="16777215" guid="89816E6F-AC5C-FC85-FD7C-6CCFEFE8C252">
+    <char id="AVATOR130" index="1" raceCode="0">
+      <action face="1" motionface="1">Community_Library.penguin.talk.swf</action>
+      <x>321</x>
+      <y>217.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE4" adelay="72" lock="N" index="4" color="16777215" guid="D046CC4D-F68F-945B-A013-03F15FC3A88D">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <char id="AVATOR130" index="1" raceCode="0">
+      <action face="1" motionface="1">Community_Library.penguin.talk.swf</action>
+      <x>321</x>
+      <y>217.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE5" adelay="21" lock="Y" index="5" color="16777215" guid="BA4F8EE2-56B9-B92D-F696-B1DF371254EB">
+    <char id="AVATOR130" index="1" raceCode="0">
+      <action face="1" motionface="1">Community_Library.penguin.talk.swf</action>
+      <x>321</x>
+      <y>217.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE6" adelay="15" lock="Y" index="6" color="16777215" guid="798AAEC1-79C0-F45D-CE96-9A58C60E4771">
+    <char id="AVATOR130" index="1" raceCode="0">
+      <action face="1" motionface="1">Community_Library.penguin.talk.swf</action>
+      <x>321</x>
+      <y>217.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE7" adelay="48" lock="Y" index="7" color="16777215" guid="82B1FB1E-584E-1E84-2BD4-2C5D96A8D8F4">
+    <char id="AVATOR130" index="1" raceCode="0">
+      <action face="1" motionface="1">Community_Library.penguin.talk.swf</action>
+      <x>321</x>
+      <y>217.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE8" adelay="84" lock="N" index="8" color="16777215" guid="EDACF390-4B56-EC63-C4A1-B27534C6215D">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <char id="AVATOR130" index="1" raceCode="0">
+      <action face="1" motionface="1">Community_Library.penguin.talk.swf</action>
+      <x>321</x>
+      <y>217.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE9" adelay="21" lock="Y" index="9" color="16777215" guid="758A95B6-CFE8-4261-9933-6C4F9B4E1CDA">
+    <char id="AVATOR130" index="1" raceCode="0">
+      <action face="1" motionface="1">Community_Library.penguin.talk.swf</action>
+      <x>321</x>
+      <y>217.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE10" adelay="27" lock="Y" index="10" color="16777215" guid="0665AE92-8C3B-6292-7F25-A8AA1574F646">
+    <char id="AVATOR130" index="1" raceCode="0">
+      <action face="1" motionface="1">Community_Library.penguin.talk.swf</action>
+      <x>321</x>
+      <y>217.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE11" adelay="21" lock="Y" index="11" color="16777215" guid="EDBAB959-6AED-3375-41B2-889933F46736">
+    <char id="AVATOR130" index="1" raceCode="0">
+      <action face="1" motionface="1">Community_Library.penguin.talk.swf</action>
+      <x>321</x>
+      <y>217.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE12" adelay="21" lock="Y" index="12" color="16777215" guid="FF97B4AD-817C-E314-2CAB-1095F2971B4A">
+    <char id="AVATOR130" index="1" raceCode="0">
+      <action face="1" motionface="1">Community_Library.penguin.talk.swf</action>
+      <x>321</x>
+      <y>217.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE13" adelay="63" lock="Y" index="13" color="16777215" guid="C278058E-92F3-0A19-CB6F-6FD59EC51924">
+    <char id="AVATOR130" index="1" raceCode="0">
+      <action face="1" motionface="1">Community_Library.penguin.talk.swf</action>
+      <x>321</x>
+      <y>217.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE14" adelay="12" lock="Y" index="14" color="16777215" guid="10FCBC33-BF59-FC45-3359-1EC858355148">
+    <char id="AVATOR130" index="1" raceCode="0">
+      <action face="1" motionface="1">Community_Library.penguin.normal.swf</action>
+      <x>321</x>
+      <y>217.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE16" adelay="66" lock="Y" index="15" color="16777215" guid="2A212D62-A40B-F6EA-897B-7FDF0FB48243">
+    <char id="AVATOR130" index="1" raceCode="0">
+      <action face="1" motionface="1">Community_Library.penguin.angry.swf</action>
+      <x>321</x>
+      <y>217.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE17" adelay="9" lock="Y" index="16" color="16777215" guid="F6274923-0ECF-643B-1F9D-7625CBA5AE10">
+    <char id="AVATOR130" index="1" raceCode="0">
+      <action face="1,1" motionface="-1">Community_Library.penguin.angry.swf</action>
+      <x>321,790.1</x>
+      <y>217.2,224.55</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,-162.126489</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="AVATOR130" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <sound id="SOUND1" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.8b22b78.mp3</sfile>
+    <start>1</start>
+    <stop>72</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND3" index="1" track="0" vol="1" tts="1">
+    <sfile>ugc.c4e795f.mp3</sfile>
+    <start>73</start>
+    <stop>126</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND5" index="2" track="0" vol="1" tts="1">
+    <sfile>ugc.d9d6492.mp3</sfile>
+    <start>127</start>
+    <stop>147</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND7" index="3" track="0" vol="1" tts="1">
+    <sfile>ugc.b606955.mp3</sfile>
+    <start>151</start>
+    <stop>219</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND9" index="4" track="0" vol="1" tts="1">
+    <sfile>ugc.c2ac5d5.mp3</sfile>
+    <start>220</start>
+    <stop>291</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND11" index="5" track="0" vol="1" tts="1">
+    <sfile>ugc.5efed25.mp3</sfile>
+    <start>292</start>
+    <stop>312</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND13" index="6" track="0" vol="1" tts="1">
+    <sfile>ugc.3f9e62b.mp3</sfile>
+    <start>313</start>
+    <stop>327</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND15" index="7" track="0" vol="1" tts="1">
+    <sfile>ugc.7ed2398.mp3</sfile>
+    <start>328</start>
+    <stop>372</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND17" index="8" track="0" vol="1" tts="1">
+    <sfile>ugc.48245e1.mp3</sfile>
+    <start>376</start>
+    <stop>459</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND19" index="9" track="0" vol="1" tts="1">
+    <sfile>ugc.1760364.mp3</sfile>
+    <start>460</start>
+    <stop>480</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND21" index="10" track="0" vol="1" tts="1">
+    <sfile>ugc.9115939.mp3</sfile>
+    <start>481</start>
+    <stop>504</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND23" index="11" track="0" vol="1" tts="1">
+    <sfile>ugc.96effa2.mp3</sfile>
+    <start>508</start>
+    <stop>528</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND25" index="12" track="0" vol="1" tts="1">
+    <sfile>ugc.711ac4e.mp3</sfile>
+    <start>529</start>
+    <stop>546</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND27" index="13" track="0" vol="1" tts="1">
+    <sfile>ugc.4ae16d5.mp3</sfile>
+    <start>550</start>
+    <stop>612</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND29" index="14" track="0" vol="1" tts="1">
+    <sfile>ugc.af03412.mp3</sfile>
+    <start>613</start>
+    <stop>624</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND31" index="15" track="0" vol="8" tts="1">
+    <sfile>ugc.058049c.mp3</sfile>
+    <start>625</start>
+    <stop>723</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND32" index="16" track="1" vol="8" tts="1">
+    <sfile>ugc.058049c.mp3</sfile>
+    <start>625</start>
+    <stop>723</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND1,~~~AVATOR130,SCENE0~~~</linkage>
+  <linkage>SOUND3,~~~AVATOR130,SCENE1~~~</linkage>
+  <linkage>SOUND5,~~~AVATOR130,SCENE2~~~</linkage>
+  <linkage>SOUND7,~~~AVATOR130,SCENE3~~~</linkage>
+  <linkage>SOUND9,~~~AVATOR130,SCENE4~~~</linkage>
+  <linkage>SOUND11,~~~AVATOR130,SCENE5~~~</linkage>
+  <linkage>SOUND13,~~~AVATOR130,SCENE6~~~</linkage>
+  <linkage>SOUND15,~~~AVATOR130,SCENE7~~~</linkage>
+  <linkage>SOUND17,~~~AVATOR130,SCENE8~~~</linkage>
+  <linkage>SOUND19,~~~AVATOR130,SCENE9~~~</linkage>
+  <linkage>SOUND21,~~~AVATOR130,SCENE10~~~</linkage>
+  <linkage>SOUND23,~~~AVATOR130,SCENE11~~~</linkage>
+  <linkage>SOUND25,~~~AVATOR130,SCENE12~~~</linkage>
+  <linkage>SOUND27,~~~AVATOR130,SCENE13~~~</linkage>
+  <linkage>SOUND29,~~~AVATOR130,SCENE14~~~</linkage>
+  <linkage>SOUND31,~~~AVATOR130</linkage>
+</film>
