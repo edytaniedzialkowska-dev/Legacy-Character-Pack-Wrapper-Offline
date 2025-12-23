@@ -1,0 +1,131 @@
+<film copyable="0" duration="13.5" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Jacob Sings Soda Pop Brainrot!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="51" lock="Y" index="0" color="16777215" guid="19403512-7AC1-B377-551E-E5CF8E843561">
+    <bg id="BG130" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.290fb6b.stand.xml</action>
+      <head id="PROP4" raceCode="1">
+        <file>ugc.290fb6b.head.head_sing.xml</file>
+      </head>
+      <x>314.0117824</x>
+      <y>222.2156085</y>
+      <xscale>1.1629687</xscale>
+      <yscale>1.1629687</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE1" adelay="177" lock="Y" index="1" color="16777215" guid="38C81BE2-69C2-A901-FD2F-FBB084254203">
+    <bg id="BG130" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.290fb6b.dance.xml</action>
+      <head id="PROP7" raceCode="1">
+        <file>ugc.290fb6b.head.head_happy.xml</file>
+      </head>
+      <x>332.6617824</x>
+      <y>222.1940512</y>
+      <xscale>1.1629687</xscale>
+      <yscale>1.1629687</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE2" adelay="96" lock="Y" index="2" color="16777215" guid="B7FA867A-56B6-AA26-F5DB-749EDAA6716B">
+    <bg id="BG130" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.290fb6b.xarms.xml</action>
+      <head id="PROP10" raceCode="1">
+        <file>ugc.290fb6b.head.head_shocked.xml</file>
+      </head>
+      <x>324.0245038</x>
+      <y>222.1156085</y>
+      <xscale>1.1629687</xscale>
+      <yscale>1.1629687</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND2" index="0" track="0" vol="1" tts="0">
+    <sfile>common.approved_weird_crowdlau.swf</sfile>
+    <start>52</start>
+    <stop>228</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND3" index="1" track="0" vol="1" tts="0">
+    <sfile>common.kazoo_you_lose_01.mp3</sfile>
+    <start>229</start>
+    <stop>252</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND4" index="2" track="1" vol="1" tts="0">
+    <sfile>common.audience_boo_01.mp3</sfile>
+    <start>229</start>
+    <stop>324</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND1" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.8c890a4.mp3</sfile>
+    <start>1</start>
+    <stop>228</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND1,~~~AVATOR131</linkage>
+</film>

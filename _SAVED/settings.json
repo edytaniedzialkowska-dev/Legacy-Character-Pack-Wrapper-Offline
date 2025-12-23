@@ -1,6 +1,12 @@
 {
-	"DISCORD_RPC": true,
+	"DISCORD_RPC": false,
 	"TRUNCATED_THEMELIST": true,
 	"SHOW_WAVEFORMS": true,
-	"IS_WIDE": "1"
+	"DEFAULT_WATERMARK": "twoLines",
+	"IS_WIDE": "1",
+	"GE_ASPECT": "16:9",
+	"GE_RESOLUTION": "720p",
+	"GE_OPEN_FOLDER": true,
+	"GE_OUTRO": true,
+	"GE_REQUIRE_OBS": false
 }

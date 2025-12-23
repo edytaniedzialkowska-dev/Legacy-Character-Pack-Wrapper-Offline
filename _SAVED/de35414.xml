@@ -1,0 +1,60 @@
+<film copyable="0" duration="8.5" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Jacob Sings Bad Word Song!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="204" lock="N" index="0" color="16777215" guid="F9068E3E-5A71-EF12-3639-0ECA8EBC0FB6">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG262" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR263" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.290fb6b.dance.xml</action>
+      <x>343.2011878</x>
+      <y>214.1400953</y>
+      <xscale>1.2322745</xscale>
+      <yscale>1.2322745</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT2" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND1" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.63c817a.mp3</sfile>
+    <start>1</start>
+    <stop>204</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND1,~~~AVATOR263,SCENE0~~~</linkage>
+</film>

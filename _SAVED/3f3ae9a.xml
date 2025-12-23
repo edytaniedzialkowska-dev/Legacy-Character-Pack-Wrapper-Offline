@@ -1,0 +1,91 @@
+<film copyable="0" duration="12.8" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Gummy Dihh Is MPK?!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="306" lock="N" index="0" color="16777215" guid="AEC0ABB4-1970-F534-913A-869425951682" combgId="custom.cbg_bedroom">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_bedroom_BG65" index="0">
+      <file>custom.bedroom_bg.swf</file>
+    </bg>
+    <char id="AVATOR136" index="4" raceCode="1">
+      <action face="1,1" motionface="1">ugc.fa555f9.stand.xml</action>
+      <x>331.3021254,276.85,206.8,145.45,150.1,220.15,286.9,420.3,517.05,367.6,234.85,78.7,130.75,178.8,226.85,336.9,461.7,477.125</x>
+      <y>226.6343826,88.1,266.25,121.45,211.5,198.85,261.55,144.8,249.55,216.2,248.2,162.8,92.1,290.25,133.45,268.25,259.55,267.15</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,90.2933889</rotation>
+      <assetMotion pathOriented="1" ver="2"/>
+    </char>
+    <prop id="PROP124" index="3" attached="Y">
+      <file>custom.bedroom_blanket_bed.swf</file>
+      <x>434</x>
+      <y>251</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP126" index="2" attached="Y">
+      <file>custom.bedroom_lamp.swf</file>
+      <x>422</x>
+      <y>207</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP127" index="1" attached="Y">
+      <file>custom.bedroom_drawer02.swf</file>
+      <x>422.6</x>
+      <y>280.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="AVATOR136" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <sound id="SOUND1" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.cf69c08.mp3</sfile>
+    <start>1</start>
+    <stop>306</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND1,~~~AVATOR136,SCENE0~~~</linkage>
+</film>

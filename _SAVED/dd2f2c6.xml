@@ -1,0 +1,286 @@
+<film copyable="0" duration="60.0" published="1" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Rest In Peace Alkhalif Animate's Account!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="1440" lock="Y" index="0" color="16777215" guid="8BDAD440-E010-75D2-F3B1-C61BB88B50D1" combgId="common.cbg_ncc_graveyard">
+    <bg id="cbg_ncc_graveyard_BG7" index="0">
+      <file>common.ncc_gradient.swf</file>
+      <color r="colorA">3623305</color>
+      <color r="colorB">987683</color>
+    </bg>
+    <char id="AVATOR157" index="21" raceCode="1">
+      <action face="1" motionface="1">ugc.290fb6b.pt_at.xml</action>
+      <head id="PROP23" raceCode="1">
+        <file>ugc.290fb6b.head.head_sad.xml</file>
+      </head>
+      <x>280.525</x>
+      <y>226.775</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR156" index="24" raceCode="1">
+      <action face="1" motionface="1">ugc.26de104.cry.xml</action>
+      <x>213.825</x>
+      <y>226.6</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR160" index="25" raceCode="1">
+      <action face="1" motionface="1">ugc.39d4521.excited.xml</action>
+      <x>330.5391949</x>
+      <y>240.9269068</y>
+      <xscale>0.9237288</xscale>
+      <yscale>0.9237288</yscale>
+      <rotation>0</rotation>
+    </char>
+    <bubbleAsset id="BUBBLE154" index="23">
+      <x>117.397007</x>
+      <y>292.4343826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>-10.3699712</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-33.4517689" y="-20.6013084" w="66.9035377" h="41.2026168" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Oswald" size="8" align="center" bold="false" italic="false" embed="true"><![CDATA[R.I.PAlkhalif Animate's Account]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="cbg_ncc_graveyard_PROP14" index="1" attached="Y">
+      <file>common.ncc_cloud.swf</file>
+      <x>335.1</x>
+      <y>45.6</y>
+      <xscale>2.06</xscale>
+      <yscale>0.56</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP8" index="2" attached="Y">
+      <file>common.nccha_grave_backdrop.swf</file>
+      <x>567</x>
+      <y>148</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP9" index="3" attached="Y">
+      <file>common.nccha_grave_castle.swf</file>
+      <x>213.1</x>
+      <y>133.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP10" index="4" attached="Y">
+      <file>common.msp_nccha_driedtree.msp_nccha_driedtree_nccha_dried_tree01.swf</file>
+      <x>67</x>
+      <y>131</y>
+      <xscale>0.45</xscale>
+      <yscale>0.45</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">135971</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP11" index="5" attached="Y">
+      <file>common.nccha_grave_prop02.swf</file>
+      <x>322</x>
+      <y>281</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP12" index="6" attached="Y">
+      <file>common.msp_nccha_driedtree.msp_nccha_driedtree_nccha_dried_tree02.swf</file>
+      <x>93.2</x>
+      <y>133.3</y>
+      <xscale>0.45</xscale>
+      <yscale>0.45</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">135971</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP13" index="7" attached="Y">
+      <file>common.msp_nccha_driedtree.msp_nccha_driedtree_nccha_dried_tree03.swf</file>
+      <x>121.5</x>
+      <y>132.5</y>
+      <xscale>0.36</xscale>
+      <yscale>0.36</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">135971</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP15" index="8" attached="Y">
+      <file>common.ncc_cloud.swf</file>
+      <x>345.1</x>
+      <y>55.6</y>
+      <xscale>2.06</xscale>
+      <yscale>0.56</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP16" index="9" attached="Y">
+      <file>common.nccha_grave_cross.swf</file>
+      <x>389</x>
+      <y>186.9</y>
+      <xscale>0.45</xscale>
+      <yscale>0.45</yscale>
+      <face>1</face>
+      <rotation>-17.8</rotation>
+      <color r="ccColorA">3355443</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP17" index="10" attached="Y">
+      <file>common.nccha_grave_cross.swf</file>
+      <x>208</x>
+      <y>178.9</y>
+      <xscale>0.45</xscale>
+      <yscale>0.45</yscale>
+      <face>1</face>
+      <rotation>6.5</rotation>
+      <color r="ccColorA">3355443</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP18" index="11" attached="Y">
+      <file>common.nccha_grave_cross.swf</file>
+      <x>68</x>
+      <y>170.9</y>
+      <xscale>0.45</xscale>
+      <yscale>0.45</yscale>
+      <face>1</face>
+      <rotation>-17.8</rotation>
+      <color r="ccColorA">3355443</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP19" index="12" attached="Y">
+      <file>common.nccha_grave_soil01.swf</file>
+      <x>90.1</x>
+      <y>190</y>
+      <xscale>0.5</xscale>
+      <yscale>0.5</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP20" index="13" attached="Y">
+      <file>common.nccha_grave_tombstone04.swf</file>
+      <x>297.2</x>
+      <y>202</y>
+      <xscale>0.82</xscale>
+      <yscale>0.82</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP21" index="14" attached="Y">
+      <file>common.nccha_grave_cross.swf</file>
+      <x>155</x>
+      <y>173.9</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>-14.4</rotation>
+      <color r="ccColorA">13421772</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP22" index="15" attached="Y">
+      <file>common.nccha_grave_tombstone04.swf</file>
+      <x>382.2</x>
+      <y>224</y>
+      <xscale>1.2</xscale>
+      <yscale>1.2</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP24" index="16" attached="Y">
+      <file>common.nccha_grave_house.swf</file>
+      <x>569.6</x>
+      <y>211</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP25" index="17" attached="Y">
+      <file>common.nccha_grave_cross.swf</file>
+      <x>439</x>
+      <y>238.9</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>16.3</rotation>
+      <color r="ccColorA">13421772</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP27" index="18" attached="Y">
+      <file>common.nccha_grave_tombstone03.swf</file>
+      <x>243.1</x>
+      <y>241</y>
+      <xscale>0.89</xscale>
+      <yscale>0.89</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP28" index="19" attached="Y">
+      <file>common.msp_nccha_tombstone01.msp_nccha_tombstone01_nccha_grave_tombstone01.swf</file>
+      <x>102.1</x>
+      <y>295</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>-9.6</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP29" index="20" attached="Y">
+      <file>common.ncc_grass01.swf</file>
+      <x>227.1</x>
+      <y>298</y>
+      <xscale>0.6</xscale>
+      <yscale>0.6</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP30" index="22" attached="Y">
+      <file>common.ncc_grass01.swf</file>
+      <x>572.1</x>
+      <y>272</y>
+      <xscale>0.7</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>30</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="26">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND0" index="0" track="0" vol="1" tts="0">
+    <sfile>common.Romance.swf</sfile>
+    <start>1</start>
+    <stop>1440</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+</film>

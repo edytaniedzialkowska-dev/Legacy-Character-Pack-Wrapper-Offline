@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cc_char xscale="1" yscale="1" hxscale="1" hyscale="1" headdx="0" headdy="0" version="1.0">
+  <color r="ccSkinColor" oc="0xFFE1C4">0x944903</color>
+  <color r="ccEyeLib">0xFEBD9D</color>
+  <color r="ccEyeIris">0x000000</color>
+  <color r="ccGlassesFrame">0x000000</color>
+  <color r="ccGlassesLens">0x846116</color>
+  <color r="ccMouthLip">0xCA8730</color>
+  <color r="ccMustache">0x360202</color>
+  <color r="ccBeard">0x360202</color>
+  <color r="ccEyebrow">0x640F0F</color>
+  <color r="ccUpperMain" oc="0x336699">0xE0B200</color>
+  <color r="ccUpperMinor" oc="0xE5E5E5">0x333333</color>
+  <color r="ccLowerMain" oc="0xCCBC9A">0x7B6C16</color>
+  <color r="ccLowerMinor" oc="0xEEEEEE">0x934A00</color>
+  <color r="ccDecMajor" targetComponent="ID5993">0x944903</color>
+  <color r="ccDecMajor" targetComponent="ID7328">0x944903</color>
+  <color r="ccDecMajor" targetComponent="ID4004">0x000000</color>
+  <color r="ccDecMajor" targetComponent="ID1698">0xFFFB07</color>
+  <color r="ccDecMajor" targetComponent="ID1730">0x0065CC</color>
+  <color r="ccDecMajor" targetComponent="ID660">0xBA9F1C</color>
+  <color r="ccDecMajor" targetComponent="ID669">0xFE7930</color>
+  <color r="ccDecMajor" targetComponent="ID3262">0xFB06FC</color>
+  <component type="bodyshape" component_id="bob" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
+  <component type="skeleton" component_id="bob_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
+  <component type="faceshape" component_id="013" theme_id="family" x="3" y="17" xscale="1.42" yscale="1.42" offset="0" rotation="-5"/>
+  <component type="lower_body" component_id="bob_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
+  <component type="mouth" component_id="201" theme_id="family" x="-2" y="-5" xscale="1.07" yscale="0.9" offset="0" rotation="4"/>
+  <component type="upper_body" component_id="bob_009" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
+  <component type="eye" component_id="006" theme_id="family" x="5" y="-4" xscale="2.37" yscale="2.31" offset="-7" rotation="0"/>
+  <component type="facedecoration" component_id="072" theme_id="family" x="41" y="-35" xscale="5.41" yscale="5.41" offset="0" rotation="58" id="ID5993"/>
+  <component type="facedecoration" component_id="072" theme_id="family" x="-39" y="-40" xscale="4.56" yscale="4.56" offset="0" rotation="113" id="ID7328"/>
+  <component type="facedecoration" component_id="072" theme_id="family" x="-10" y="-25" xscale="1.06" yscale="1.06" offset="0" rotation="0" id="ID4004"/>
+  <component type="facedecoration" component_id="018" theme_id="family" x="32" y="60" xscale="1" yscale="1" offset="0" rotation="-89" id="ID1698"/>
+  <component type="facedecoration" component_id="008" theme_id="family" x="-68" y="9" xscale="2.83" yscale="2.83" offset="0" rotation="71" id="ID1730"/>
+  <component type="facedecoration" component_id="045" theme_id="family" x="23" y="38" xscale="2.81" yscale="2.81" offset="0" rotation="0" id="ID660"/>
+  <component type="facedecoration" component_id="045" theme_id="family" x="24" y="68" xscale="2.85" yscale="2.85" offset="0" rotation="0" id="ID6950"/>
+  <component type="facedecoration" component_id="045" theme_id="family" x="-21" y="38" xscale="2.58" yscale="2.58" offset="0" rotation="0" id="ID669"/>
+  <component type="facedecoration" component_id="045" theme_id="family" x="-23" y="68" xscale="2.7" yscale="2.7" offset="0" rotation="0" id="ID3262"/>
+</cc_char>

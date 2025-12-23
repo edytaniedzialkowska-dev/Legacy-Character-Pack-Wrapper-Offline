@@ -1,0 +1,147 @@
+<film copyable="0" duration="17.1" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[I Meeting a Alkhalif Animate's VC!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="135" lock="N" index="0" color="16777215" guid="0B12BD19-D9DD-E074-2AB1-B2A0D9BE47D7">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.290fb6b.talk.xml</action>
+      <x>307.1554844</x>
+      <y>212.3159013</y>
+      <xscale>1.2167636</xscale>
+      <yscale>1.2167636</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE1" adelay="78" lock="Y" index="1" color="16777215" guid="15642C41-E7E2-D90C-AD2D-3ECB4F1C8F4C">
+    <bg id="BG130" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.290fb6b.excited.xml</action>
+      <x>307.1554844</x>
+      <y>212.3159013</y>
+      <xscale>1.2167636</xscale>
+      <yscale>1.2167636</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE2" adelay="138" lock="Y" index="2" color="16777215" guid="B4D0919F-18A8-7D35-DAEC-713A4046EF64">
+    <bg id="BG130" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.290fb6b.xarms.xml</action>
+      <x>307.1554844</x>
+      <y>212.3159013</y>
+      <xscale>1.2167636</xscale>
+      <yscale>1.2167636</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE3" adelay="60" lock="N" index="3" color="16777215" guid="FA40235B-1848-0151-007E-0D2468D0496A">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1">
+      <action face="1,1" motionface="1">ugc.290fb6b.walk.xml</action>
+      <x>307.1554844,-61.0445156</x>
+      <y>212.3159013,212.3159013</y>
+      <xscale>1.2167636,1.2167636</xscale>
+      <yscale>1.2167636,1.2167636</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="AVATOR131" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <sound id="SOUND10" index="0" track="0" vol="1" tts="0">
+    <sfile>ugc.7f6d956.mp3</sfile>
+    <start>352</start>
+    <stop>411</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND7" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.9a1d54f.mp3</sfile>
+    <start>1</start>
+    <stop>135</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND12" index="1" track="0" vol="1" tts="1">
+    <sfile>ugc.fea3500.mp3</sfile>
+    <start>136</start>
+    <stop>351</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND7,~~~AVATOR131,SCENE0~~~</linkage>
+  <linkage>SOUND12,~~~AVATOR131</linkage>
+</film>
