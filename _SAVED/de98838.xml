@@ -1,0 +1,253 @@
+<film copyable="0" duration="31.4" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Bad News #2]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="168" lock="N" index="0" color="16777215" guid="0DC40105-11D6-6102-79F6-64B56A45C1A6">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>business.g4b_mbg025.swf</file>
+      <color r="Color_A">632273</color>
+    </bg>
+    <char id="AVATOR132" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.91457a6.talk.xml</action>
+      <head id="PROP6" raceCode="1">
+        <file>ugc.91457a6.head.head_sad.xml</file>
+      </head>
+      <x>321.1357089</x>
+      <y>201.5160199</y>
+      <xscale>1.2900499</xscale>
+      <yscale>1.2900499</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE1" adelay="60" lock="N" index="1" color="16777215" guid="561CB910-BBA9-377A-9059-64B35F89D9E0">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>business.g4b_mbg025.swf</file>
+      <color r="Color_A">632273</color>
+    </bg>
+    <char id="AVATOR132" index="1" raceCode="1">
+      <action face="-1" motionface="1">ugc.91457a6.pt_at.xml</action>
+      <head id="PROP7" raceCode="1">
+        <file>ugc.91457a6.head.head_sad.xml</file>
+      </head>
+      <x>217.6247886</x>
+      <y>201.5160199</y>
+      <xscale>1.2900499</xscale>
+      <yscale>1.2900499</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP8" index="2">
+      <file>ugc.7dcb38d.jpg</file>
+      <x>459.4</x>
+      <y>210.625</y>
+      <xscale>0.1611774</xscale>
+      <yscale>0.1611774</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE2" adelay="153" lock="N" index="2" color="16777215" guid="2F5BB3B4-6464-5B8D-F05A-7D152AD32F40">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>business.g4b_mbg025.swf</file>
+      <color r="Color_A">632273</color>
+    </bg>
+    <char id="AVATOR132" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.91457a6.xarms.xml</action>
+      <head id="PROP9" raceCode="1">
+        <file>ugc.91457a6.head.head_sad.xml</file>
+      </head>
+      <x>322.9997886</x>
+      <y>201.5160199</y>
+      <xscale>1.2900499</xscale>
+      <yscale>1.2900499</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE3" adelay="81" lock="Y" index="3" color="16777215" guid="ED07EB03-00DD-BEE4-F719-0E18C003BF06">
+    <bg id="BG130" index="0">
+      <file>business.g4b_mbg025.swf</file>
+      <color r="Color_A">632273</color>
+    </bg>
+    <char id="AVATOR132" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.91457a6.talk.xml</action>
+      <head id="PROP11" raceCode="1">
+        <file>ugc.91457a6.head.head_sad.xml</file>
+      </head>
+      <x>320.7672014</x>
+      <y>201.5160199</y>
+      <xscale>1.2900499</xscale>
+      <yscale>1.2900499</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE4" adelay="231" lock="N" index="4" color="16777215" guid="BA351E03-BFA2-3C84-DE0E-F78D4AA37B15">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>business.g4b_mbg025.swf</file>
+      <color r="Color_A">632273</color>
+    </bg>
+    <char id="AVATOR132" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.91457a6.xarms.xml</action>
+      <head id="PROP14" raceCode="1">
+        <file>ugc.91457a6.head.head_annoyed.xml</file>
+      </head>
+      <x>320.7672014</x>
+      <y>201.5160199</y>
+      <xscale>1.2900499</xscale>
+      <yscale>1.2900499</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE5" adelay="60" lock="N" index="5" color="16777215" guid="EFECAF79-3A27-A0A3-A3A7-3E437C8671A0">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>business.g4b_mbg025.swf</file>
+      <color r="Color_A">632273</color>
+    </bg>
+    <char id="AVATOR132" index="1" raceCode="1">
+      <action face="1,1" motionface="1">ugc.91457a6.walk.xml</action>
+      <head id="PROP15" raceCode="1">
+        <file>ugc.91457a6.head.head_annoyed.xml</file>
+      </head>
+      <x>320.7672014,-36.7827986</x>
+      <y>201.5160199,201</y>
+      <xscale>1.2900499,1.2900499</xscale>
+      <yscale>1.2900499,1.2900499</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="AVATOR132" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <sound id="SOUND8" index="0" track="0" vol="1" tts="0">
+    <sfile>ugc.7f6d956.mp3</sfile>
+    <start>694</start>
+    <stop>753</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND1" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.2716a7e.mp3</sfile>
+    <start>1</start>
+    <stop>168</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Hey Y'all, I'm Have Some Bad News! The Parking is prohibited at Spodek in Katowice. See Look!]]></text>
+      <voice><![CDATA[brian]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND3" index="1" track="0" vol="1" tts="1">
+    <sfile>ugc.ca74121.mp3</sfile>
+    <start>229</start>
+    <stop>381</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[See? It Is True! The Parking is prohibited at Spodek in Katowice. So,]]></text>
+      <voice><![CDATA[brian]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND5" index="2" track="0" vol="1" tts="1">
+    <sfile>ugc.5d9dbdd.mp3</sfile>
+    <start>382</start>
+    <stop>459</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[And The New Year Eve In Poland Program TV Anymore!]]></text>
+      <voice><![CDATA[brian]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND7" index="3" track="0" vol="1" tts="1">
+    <sfile>ugc.43e861a.mp3</sfile>
+    <start>463</start>
+    <stop>693</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[And I'm Going Making a Grounded Videos and Ungrounded Videos, Rant Videos and Salute Videos The All! And So! Goodbye and Peace Out!]]></text>
+      <voice><![CDATA[brian]]></voice>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND1,~~~AVATOR132,SCENE0~~~</linkage>
+  <linkage>SOUND3,~~~AVATOR132,SCENE2~~~</linkage>
+  <linkage>SOUND5,~~~AVATOR132,SCENE3~~~</linkage>
+  <linkage>SOUND7,~~~AVATOR132,SCENE4~~~</linkage>
+</film>

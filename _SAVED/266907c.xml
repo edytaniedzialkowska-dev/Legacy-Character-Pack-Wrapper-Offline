@@ -1,0 +1,146 @@
+<film copyable="0" duration="13.6" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[AND EXTRAAAAAAAAAAAAAAAAAAAAAAA!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="285" lock="N" index="0" color="16777215" guid="27AB2A72-5F58-94C0-9218-6E490945BF38">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG129" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR130" index="1" raceCode="1">
+      <action face="1" motionface="1">ugc.5057e60.xarms.xml</action>
+      <head id="PROP4" raceCode="1">
+        <file>ugc.5057e60.head.head_shocked.xml</file>
+      </head>
+      <x>322.6359856</x>
+      <y>210.6238706</y>
+      <xscale>1.2874743</xscale>
+      <yscale>1.2874743</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT0" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE1" adelay="42" lock="Y" index="1" color="16777215" guid="27D4AD71-AD93-E524-C893-359DECB96B2C">
+    <bg id="BG129" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <prop id="PROP6" index="1">
+      <file>ugc.f14ac77.swf</file>
+      <x>322</x>
+      <y>218.6343826</y>
+      <xscale>1.191621</xscale>
+      <yscale>1.191621</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND9" index="0" track="0" vol="8" tts="0">
+    <sfile>ugc.a97bb45.mp3</sfile>
+    <start>286</start>
+    <stop>435</stop>
+    <trimStart>7</trimStart>
+    <trimEnd>157</trimEnd>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND3" index="1" track="0" vol="8" tts="0">
+    <sfile>ugc.e93470e.mp3</sfile>
+    <start>1</start>
+    <stop>285</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND10" index="2" track="1" vol="8" tts="0">
+    <sfile>ugc.a97bb45.mp3</sfile>
+    <start>286</start>
+    <stop>435</stop>
+    <trimStart>7</trimStart>
+    <trimEnd>157</trimEnd>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND4" index="3" track="1" vol="8" tts="0">
+    <sfile>ugc.e93470e.mp3</sfile>
+    <start>1</start>
+    <stop>285</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND5" index="4" track="2" vol="8" tts="0">
+    <sfile>ugc.e93470e.mp3</sfile>
+    <start>1</start>
+    <stop>285</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND11" index="5" track="2" vol="8" tts="0">
+    <sfile>ugc.a97bb45.mp3</sfile>
+    <start>286</start>
+    <stop>435</stop>
+    <trimStart>7</trimStart>
+    <trimEnd>157</trimEnd>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND1" index="0" track="0" vol="8" tts="1">
+    <sfile>ugc.bc44250.mp3</sfile>
+    <start>1</start>
+    <stop>285</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[look for the album in stores on november 13th with lots of music videos and extraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!]]></text>
+      <voice><![CDATA[brian]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND2" index="1" track="1" vol="8" tts="1">
+    <sfile>ugc.bc44250.mp3</sfile>
+    <start>1</start>
+    <stop>285</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[look for the album in stores on november 13th with lots of music videos and extraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!]]></text>
+      <voice><![CDATA[brian]]></voice>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND1,~~~AVATOR130,SCENE0~~~</linkage>
+</film>

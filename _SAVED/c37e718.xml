@@ -1,0 +1,275 @@
+<film copyable="0" duration="22.1" published="1" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[YOUR NOT WELCOME NEW YEAR EVE ZDUNIAKA!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[>:(]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="288" lock="N" index="0" color="632273" guid="0C28DF99-D37B-7DE2-D97E-63B500A2CBD0">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>business.g4b_mbg025.swf</file>
+      <color r="Color_A">632273</color>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.d4a1abd.furious.xml</action>
+      <head id="PROP12" raceCode="1">
+        <file>ugc.d4a1abd.head.head_furious.xml</file>
+      </head>
+      <x>322.6534875</x>
+      <y>584.8532773</y>
+      <xscale>5.0100841</xscale>
+      <yscale>5.0100841</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT2" index="2">
+      <effect id="ncc_sci004fx.swf" type="ANIME"/>
+      <x>47</x>
+      <y>24</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <file>common.ncc_sci004fx.swf</file>
+    </effectAsset>
+    <effectAsset id="EFFECT3" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="earthquake" type="EARTHQUAKE"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT1" themecode="common" index="4">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE1" adelay="30" lock="Y" index="1" color="632273" guid="0F64DA74-94FC-1A4C-0C8F-1216DEDC8ED7">
+    <bg id="BG130" index="0">
+      <file>business.g4b_mbg025.swf</file>
+      <color r="Color_A">632273</color>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.d4a1abd.furious.xml</action>
+      <head id="PROP16" raceCode="1">
+        <file>ugc.d4a1abd.head.head_furious.xml</file>
+      </head>
+      <x>325.7121192</x>
+      <y>204.777058</y>
+      <xscale>1.3140245</xscale>
+      <yscale>1.3140245</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE3" adelay="6" lock="Y" index="2" color="632273" guid="73556698-6394-BEF9-348B-097687D6DEF7">
+    <bg id="BG130" index="0">
+      <file>business.g4b_mbg025.swf</file>
+      <color r="Color_A">632273</color>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.d4a1abd.furious.xml</action>
+      <head id="PROP9" raceCode="1">
+        <file>ugc.d4a1abd.head.head_furious.xml</file>
+      </head>
+      <x>325.7121192</x>
+      <y>204.777058</y>
+      <xscale>1.3140245</xscale>
+      <yscale>1.3140245</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR154" index="2" raceCode="1">
+      <action face="1,1" motionface="-1">ugc.e62aed7.excited.xml</action>
+      <head id="PROP18" raceCode="1">
+        <file>ugc.e62aed7.head.head_angry.xml</file>
+      </head>
+      <x>321.4951614,344.8</x>
+      <y>218.145573,836.15</y>
+      <xscale>0.0380952,8.0681783</xscale>
+      <yscale>0.0380952,8.0681783</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="4">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT7" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="earthquake" type="EARTHQUAKE"/>
+      <x>322</x>
+      <y>179</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="AVATOR154" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE4" adelay="207" lock="Y" index="3" color="632273" guid="C49F3174-49F4-0CB5-D1B0-24A50429F4B7">
+    <bg id="BG130" index="0">
+      <file>business.g4b_mbg025.swf</file>
+      <color r="Color_A">632273</color>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.d4a1abd.furious.xml</action>
+      <head id="PROP14" raceCode="1">
+        <file>ugc.d4a1abd.head.head_furious.xml</file>
+      </head>
+      <x>325.7121192</x>
+      <y>204.777058</y>
+      <xscale>1.3140245</xscale>
+      <yscale>1.3140245</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR154" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.e62aed7.excited.xml</action>
+      <head id="PROP15" raceCode="1">
+        <file>ugc.e62aed7.head.head_angry.xml</file>
+      </head>
+      <x>344.7539718</x>
+      <y>777.4516731</y>
+      <xscale>8.0681783</xscale>
+      <yscale>8.0681783</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="4">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT7" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="earthquake" type="EARTHQUAKE"/>
+      <x>322</x>
+      <y>179</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND9" index="0" track="0" vol="8" tts="0">
+    <sfile>ugc.3a2614f.mp3</sfile>
+    <start>319</start>
+    <stop>531</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND3" index="1" track="0" vol="8" tts="0">
+    <sfile>ugc.7bc344f.mp3</sfile>
+    <start>1</start>
+    <stop>288</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND10" index="2" track="1" vol="8" tts="0">
+    <sfile>ugc.3a2614f.mp3</sfile>
+    <start>319</start>
+    <stop>531</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND4" index="3" track="1" vol="8" tts="0">
+    <sfile>ugc.7bc344f.mp3</sfile>
+    <start>1</start>
+    <stop>288</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND11" index="4" track="2" vol="8" tts="0">
+    <sfile>ugc.3a2614f.mp3</sfile>
+    <start>319</start>
+    <stop>531</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND5" index="5" track="2" vol="8" tts="0">
+    <sfile>ugc.7bc344f.mp3</sfile>
+    <start>1</start>
+    <stop>288</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND1" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.462cd90.mp3</sfile>
+    <start>1</start>
+    <stop>288</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND7" index="1" track="0" vol="8" tts="1">
+    <sfile>ugc.3a3b6a0.mp3</sfile>
+    <start>319</start>
+    <stop>531</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[What Did U Does New Year's Eve Your Welcome And Be You Your Grounded Grounded Grounded Grounded Grounded Grounded Grounded Grounded Grounded Grounded Grounded For Life!]]></text>
+      <voice><![CDATA[eric]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND2" index="2" track="1" vol="1" tts="1">
+    <sfile>ugc.462cd90.mp3</sfile>
+    <start>1</start>
+    <stop>288</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND8" index="3" track="1" vol="8" tts="1">
+    <sfile>ugc.3a3b6a0.mp3</sfile>
+    <start>319</start>
+    <stop>531</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[What Did U Does New Year's Eve Your Welcome And Be You Your Grounded Grounded Grounded Grounded Grounded Grounded Grounded Grounded Grounded Grounded Grounded For Life!]]></text>
+      <voice><![CDATA[eric]]></voice>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND1,~~~AVATOR131,SCENE0~~~</linkage>
+  <linkage>SOUND7,~~~AVATOR154</linkage>
+</film>

@@ -1,0 +1,510 @@
+<film copyable="0" duration="32.8" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Rest In Peace: SMG4 (2011-2025)]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+      <color value="797bf9"/>
+      <color value="8486ff"/>
+      <color value="3c59fc"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="786" lock="Y" index="0" color="16777215" guid="A05036A9-339E-8A77-D46A-DE72305B8009" combgId="common.cbg_ncc_graveyard">
+    <bg id="cbg_ncc_graveyard_BG7" index="0">
+      <file>common.ncc_gradient.swf</file>
+      <color r="colorA">632273</color>
+      <color r="colorB">3955196</color>
+      <color r="colorC">8370961</color>
+    </bg>
+    <char id="AVATOR157" index="22" raceCode="1">
+      <action face="1" motionface="1">ugc.91457a6.cry.xml</action>
+      <x>413.3</x>
+      <y>195.9343826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR158" index="24" raceCode="1">
+      <action face="1" motionface="1">ugc.26de104.cry.xml</action>
+      <x>461.5</x>
+      <y>206.725</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR159" index="25" raceCode="1">
+      <action face="1" motionface="1">ugc.3c07368.cry.xml</action>
+      <x>514.2</x>
+      <y>209.75</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR161" index="26" raceCode="1">
+      <action face="1" motionface="1">ugc.452fd26.cry.xml</action>
+      <x>546.45</x>
+      <y>250.6916667</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR163" index="27" raceCode="1">
+      <action face="1" motionface="1">ugc.5774a14.cry.xml</action>
+      <x>579.325236</x>
+      <y>297.6752822</y>
+      <xscale>0.6329776</xscale>
+      <yscale>0.6330639</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR164" index="28" raceCode="1">
+      <action face="1" motionface="1">ugc.846bb83.cry.xml</action>
+      <x>461.2334155</x>
+      <y>279.0188564</y>
+      <xscale>0.8406613</xscale>
+      <yscale>0.8410575</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR167" index="29" raceCode="1">
+      <action face="1" motionface="1">ugc.11d4130.cry.xml</action>
+      <x>474.4038905</x>
+      <y>285.0867435</y>
+      <xscale>0.6532181</xscale>
+      <yscale>0.6532181</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR168" index="30" raceCode="1">
+      <action face="1" motionface="1">ugc.b66be15.cry.xml</action>
+      <x>491.5999554</x>
+      <y>297.1988403</y>
+      <xscale>0.5477252</xscale>
+      <yscale>0.5477252</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR169" index="31" raceCode="1">
+      <action face="1" motionface="1">ugc.fe63d7a.cry.xml</action>
+      <x>401.4336753</x>
+      <y>279.9848573</y>
+      <xscale>0.6663693</xscale>
+      <yscale>0.6663693</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR170" index="32" raceCode="1">
+      <action face="1" motionface="1">ugc.502e2be.sad.xml</action>
+      <x>416.8605405</x>
+      <y>298.0831274</y>
+      <xscale>0.4532819</xscale>
+      <yscale>0.4532819</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR171" index="34" raceCode="1">
+      <action face="1" motionface="1">ugc.2e479b4.sad.xml</action>
+      <x>572.9902196</x>
+      <y>311.3930491</y>
+      <xscale>0.3932817</xscale>
+      <yscale>0.3932817</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR172" index="36" raceCode="1">
+      <action face="1" motionface="1">ugc.2409afa.sad.xml</action>
+      <x>506.2109376</x>
+      <y>310.9306344</y>
+      <xscale>0.377232</xscale>
+      <yscale>0.377232</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR173" index="37" raceCode="1">
+      <action face="-1" motionface="1">ugc.89cefee.cry.xml</action>
+      <x>237.5536732</x>
+      <y>214.98497</y>
+      <xscale>0.7301349</xscale>
+      <yscale>0.7301349</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR174" index="38" raceCode="1">
+      <action face="-1" motionface="1">ugc.d049396.cry.xml</action>
+      <x>212.1024323</x>
+      <y>230.3368613</y>
+      <xscale>0.8066962</xscale>
+      <yscale>0.8066962</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR175" index="39" raceCode="1">
+      <action face="-1" motionface="1">ugc.15e2896.cry.xml</action>
+      <x>199.8076435</x>
+      <y>240.3185416</y>
+      <xscale>0.5648886</xscale>
+      <yscale>0.5648886</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR176" index="40" raceCode="1">
+      <action face="-1" motionface="1">ugc.36e6167.cry.xml</action>
+      <x>188.6817093</x>
+      <y>275.9279299</y>
+      <xscale>0.6276007</xscale>
+      <yscale>0.6276007</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR177" index="41" raceCode="1">
+      <action face="-1" motionface="1">ugc.222a38c.sad.xml</action>
+      <x>239.25</x>
+      <y>293.1253839</y>
+      <xscale>0.5285916</xscale>
+      <yscale>0.5285916</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR178" index="42" raceCode="1">
+      <action face="-1" motionface="1">ugc.24ee5d6.cry.xml</action>
+      <x>274.9024933</x>
+      <y>292.2671774</y>
+      <xscale>0.5260754</xscale>
+      <yscale>0.5260754</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR179" index="43" raceCode="1">
+      <action face="-1" motionface="1">ugc.d0aa1d2.excited.xml</action>
+      <x>172.1003759</x>
+      <y>300.4575842</y>
+      <xscale>0.5505067</xscale>
+      <yscale>0.5505067</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR180" index="44" raceCode="1">
+      <action face="-1" motionface="1">ugc.5d1d6cc.excited.xml</action>
+      <x>146.8043163</x>
+      <y>296.9569665</y>
+      <xscale>0.6365987</xscale>
+      <yscale>0.6365987</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR181" index="45" raceCode="1">
+      <action face="-1" motionface="1">ugc.92875f9.cry.xml</action>
+      <x>104.8</x>
+      <y>241.5</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR182" index="46" raceCode="1">
+      <action face="-1" motionface="1">ugc.8839a7c.cry.xml</action>
+      <x>65.25</x>
+      <y>256.9</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR183" index="47" raceCode="1">
+      <action face="-1" motionface="1">ugc.aadedf6.cry.xml</action>
+      <x>204.0032736</x>
+      <y>332.1888954</y>
+      <xscale>0.5960175</xscale>
+      <yscale>0.5960175</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR184" index="48" raceCode="1">
+      <action face="-1" motionface="1">ugc.dcff799.sad.xml</action>
+      <x>109.3409033</x>
+      <y>315.8281871</y>
+      <xscale>0.3420884</xscale>
+      <yscale>0.3420884</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR185" index="35" raceCode="1">
+      <action face="-1" motionface="1">ugc.34b3a63.cry.xml</action>
+      <x>218.9866733</x>
+      <y>192.4777702</y>
+      <xscale>0.7496994</xscale>
+      <yscale>0.7496994</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR186" index="33" raceCode="1">
+      <action face="-1" motionface="1">ugc.b3aee6d.cry.xml</action>
+      <x>194.4737029</x>
+      <y>176.1544458</y>
+      <xscale>0.7237987</xscale>
+      <yscale>0.7237987</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR187" index="49" raceCode="1">
+      <action face="-1" motionface="1">ugc.52b6a8a.excited.xml</action>
+      <x>163.8286003</x>
+      <y>314.4447915</y>
+      <xscale>0.3572006</xscale>
+      <yscale>0.3572006</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR188" index="50" raceCode="1">
+      <action face="1" motionface="1">ugc.5e4d59e.cry.xml</action>
+      <x>436.8773047</x>
+      <y>295.7381641</y>
+      <xscale>0.5828125</xscale>
+      <yscale>0.5828125</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR189" index="51" raceCode="1">
+      <action face="1" motionface="1">ugc.944fe87.cry.xml</action>
+      <x>368.8954427</x>
+      <y>303.0605469</y>
+      <xscale>0.4447917</xscale>
+      <yscale>0.4447917</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR190" index="52" raceCode="1">
+      <action face="-1" motionface="1">ugc.b33cd74.sad.xml</action>
+      <x>314.9407164</x>
+      <y>309.5260467</y>
+      <xscale>0.4104776</xscale>
+      <yscale>0.4104776</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR191" index="53" raceCode="1">
+      <action face="1" motionface="1">ugc.0af433f.cry.xml</action>
+      <x>345.8516043</x>
+      <y>339.4848344</y>
+      <xscale>0.411319</xscale>
+      <yscale>0.411319</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR192" index="23" raceCode="1">
+      <action face="1" motionface="1">ugc.e769198.excited.xml</action>
+      <x>558.05</x>
+      <y>232.325</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <bubbleAsset id="BUBBLE156" index="21">
+      <x>339.597007</x>
+      <y>245.3093826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-38.5920771" y="-16.265625" w="77.1841542" h="32.53125" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="true">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65" paddingHorizontal="0" paddingVertical="0"/>
+        <text rgb="0" alpha="100" font="Oswald" size="18" align="center" bold="false" italic="false" embed="true"><![CDATA[2011-2025]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="cbg_ncc_graveyard_PROP30" index="19" attached="Y">
+      <file>common.ncc_grass01.swf</file>
+      <x>572.1</x>
+      <y>272</y>
+      <xscale>0.7</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>30</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP28" index="18" attached="Y">
+      <file>common.msp_nccha_tombstone01.msp_nccha_tombstone01_nccha_grave_tombstone01.swf</file>
+      <x>322.069486</x>
+      <y>227.8855274</y>
+      <xscale>1.3960516</xscale>
+      <yscale>1.3960516</yscale>
+      <face>1</face>
+      <rotation>0.5150705</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP25" index="17" attached="Y">
+      <file>common.nccha_grave_cross.swf</file>
+      <x>439</x>
+      <y>238.9</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>16.3</rotation>
+      <color r="ccColorA">13421772</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP24" index="16" attached="Y">
+      <file>common.nccha_grave_house.swf</file>
+      <x>569.6</x>
+      <y>211</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP22" index="15" attached="Y">
+      <file>common.nccha_grave_tombstone04.swf</file>
+      <x>382.2</x>
+      <y>224</y>
+      <xscale>1.2</xscale>
+      <yscale>1.2</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP21" index="14" attached="Y">
+      <file>common.nccha_grave_cross.swf</file>
+      <x>155</x>
+      <y>173.9</y>
+      <xscale>0.78</xscale>
+      <yscale>0.78</yscale>
+      <face>1</face>
+      <rotation>-14.4</rotation>
+      <color r="ccColorA">13421772</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP20" index="13" attached="Y">
+      <file>common.nccha_grave_tombstone04.swf</file>
+      <x>297.2</x>
+      <y>202</y>
+      <xscale>0.82</xscale>
+      <yscale>0.82</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP19" index="12" attached="Y">
+      <file>common.nccha_grave_soil01.swf</file>
+      <x>90.1</x>
+      <y>190</y>
+      <xscale>0.5</xscale>
+      <yscale>0.5</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP18" index="11" attached="Y">
+      <file>common.nccha_grave_cross.swf</file>
+      <x>68</x>
+      <y>170.9</y>
+      <xscale>0.45</xscale>
+      <yscale>0.45</yscale>
+      <face>1</face>
+      <rotation>-17.8</rotation>
+      <color r="ccColorA">3355443</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP17" index="10" attached="Y">
+      <file>common.nccha_grave_cross.swf</file>
+      <x>208</x>
+      <y>178.9</y>
+      <xscale>0.45</xscale>
+      <yscale>0.45</yscale>
+      <face>1</face>
+      <rotation>6.5</rotation>
+      <color r="ccColorA">3355443</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP16" index="9" attached="Y">
+      <file>common.nccha_grave_cross.swf</file>
+      <x>389</x>
+      <y>186.9</y>
+      <xscale>0.45</xscale>
+      <yscale>0.45</yscale>
+      <face>1</face>
+      <rotation>-17.8</rotation>
+      <color r="ccColorA">3355443</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP15" index="8" attached="Y">
+      <file>common.ncc_cloud.swf</file>
+      <x>345.1</x>
+      <y>55.6</y>
+      <xscale>2.06</xscale>
+      <yscale>0.56</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP13" index="7" attached="Y">
+      <file>common.msp_nccha_driedtree.msp_nccha_driedtree_nccha_dried_tree03.swf</file>
+      <x>121.5</x>
+      <y>132.5</y>
+      <xscale>0.36</xscale>
+      <yscale>0.36</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">135971</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP12" index="6" attached="Y">
+      <file>common.msp_nccha_driedtree.msp_nccha_driedtree_nccha_dried_tree02.swf</file>
+      <x>93.2</x>
+      <y>133.3</y>
+      <xscale>0.45</xscale>
+      <yscale>0.45</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">135971</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP11" index="5" attached="Y">
+      <file>common.nccha_grave_prop02.swf</file>
+      <x>322</x>
+      <y>281</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP10" index="4" attached="Y">
+      <file>common.msp_nccha_driedtree.msp_nccha_driedtree_nccha_dried_tree01.swf</file>
+      <x>67</x>
+      <y>131</y>
+      <xscale>0.45</xscale>
+      <yscale>0.45</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">135971</color>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP9" index="3" attached="Y">
+      <file>common.nccha_grave_castle.swf</file>
+      <x>213.1</x>
+      <y>133.2</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP8" index="2" attached="Y">
+      <file>common.nccha_grave_backdrop.swf</file>
+      <x>567</x>
+      <y>148</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_ncc_graveyard_PROP14" index="1" attached="Y">
+      <file>common.ncc_cloud.swf</file>
+      <x>335.1</x>
+      <y>45.6</y>
+      <xscale>2.06</xscale>
+      <yscale>0.56</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP25" index="20">
+      <file>ugc.6cc41f9.png</file>
+      <x>339.625</x>
+      <y>217.525</y>
+      <xscale>0.028146</xscale>
+      <yscale>0.028146</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="54">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND2" index="0" track="0" vol="1" tts="0">
+    <sfile>common.sad_touching.mp3</sfile>
+    <start>1</start>
+    <stop>786</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+</film>

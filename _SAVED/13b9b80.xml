@@ -1,0 +1,472 @@
+<film copyable="0" duration="22.3" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Jacob Falling In The Ice!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="114" lock="Y" index="0" color="632273" guid="B7EE511E-84E1-AE06-233D-C1D0FD7DE7C5">
+    <char id="AVATOR132" index="2" raceCode="1">
+      <action face="-1,-1" motionface="-1">ugc.290fb6b.walk.xml</action>
+      <head id="PROP7" raceCode="1">
+        <file>ugc.290fb6b.head.head_shocked.xml</file>
+      </head>
+      <x>-26.3,171.722007</x>
+      <y>186.475,185.8843826</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>common.square01.swf</file>
+      <x>316.1905388</x>
+      <y>418.75</y>
+      <xscale>13.3784494</xscale>
+      <yscale>4.646595</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066329</color>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="AVATOR132" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE1" adelay="6" lock="Y" index="1" color="632273" guid="AB939B5B-1C4A-09BC-0E41-C43FC6449737">
+    <char id="AVATOR132" index="2" raceCode="1">
+      <action face="-1,-1" motionface="-1">ugc.290fb6b.run.xml</action>
+      <head id="PROP9" raceCode="1">
+        <file>ugc.290fb6b.head.head_shocked.xml</file>
+      </head>
+      <x>171.722007,204.15,230.3333333</x>
+      <y>185.8843826,188.15,168.525</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,-80.2609886</rotation>
+      <assetMotion pathOriented="1" ver="2"/>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>common.square01.swf</file>
+      <x>316.1905388</x>
+      <y>418.75</y>
+      <xscale>13.3784494</xscale>
+      <yscale>4.646595</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066329</color>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="1" target="AVATOR132" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE2" adelay="6" lock="Y" index="2" color="632273" guid="61BC5A3D-0D39-0827-2C7A-CBF43440A971">
+    <char id="AVATOR132" index="2" raceCode="1">
+      <action face="1,1" motionface="1">ugc.290fb6b.fearful.xml</action>
+      <head id="PROP14" raceCode="1">
+        <file>ugc.290fb6b.head.head_shocked.xml</file>
+      </head>
+      <x>230.3333333,195.0333333</x>
+      <y>168.525,274.625</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>-80.2609886,-91.2536375</rotation>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>common.square01.swf</file>
+      <x>316.1905388</x>
+      <y>418.75</y>
+      <xscale>13.3784494</xscale>
+      <yscale>4.646595</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066329</color>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="2" target="AVATOR132" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE3" adelay="24" lock="Y" index="3" color="632273" guid="0673B6EE-2042-D59E-EC40-0C2443B780A5">
+    <char id="AVATOR132" index="2" raceCode="1">
+      <action face="1" motionface="-1">ugc.6c4aa39.chuckle_strongly.xml</action>
+      <head id="PROP23" raceCode="1">
+        <file>ugc.6c4aa39.head.head_shocked.xml</file>
+      </head>
+      <x>194.5050588</x>
+      <y>271.2859392</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>-91.2536375</rotation>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>common.square01.swf</file>
+      <x>316.1905388</x>
+      <y>418.75</y>
+      <xscale>13.3784494</xscale>
+      <yscale>4.646595</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066329</color>
+    </prop>
+    <prop id="PROP26" index="3">
+      <file>common.square01.swf</file>
+      <x>137.45,-138.85</x>
+      <y>279.275,161.175</y>
+      <xscale>0.2158731,0.2158731</xscale>
+      <yscale>0.8258427,0.8258427</yscale>
+      <face>1,1</face>
+      <rotation>0,-45.2501211</rotation>
+      <color r="ccColorA">16514043</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP31" index="4">
+      <file>common.square01.swf</file>
+      <x>156.4482177,-31.45</x>
+      <y>268.694906,128.475</y>
+      <xscale>0.2158731,0.2158731</xscale>
+      <yscale>0.8258427,0.8258427</yscale>
+      <face>1,1</face>
+      <rotation>70.7166223,128.1345101</rotation>
+      <color r="ccColorA">16514043</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP36" index="5">
+      <file>common.square01.swf</file>
+      <x>166.4010951,-131.55</x>
+      <y>292.7447154,335.65</y>
+      <xscale>0.2158731,0.2158731</xscale>
+      <yscale>0.8258427,0.8258427</yscale>
+      <face>1,1</face>
+      <rotation>101.7072334,128.1345101</rotation>
+      <color r="ccColorA">16514043</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP41" index="6">
+      <file>common.square01.swf</file>
+      <x>118.3486762,-148.2</x>
+      <y>268.6802319,117.125</y>
+      <xscale>0.2158731,0.2158731</xscale>
+      <yscale>0.8258427,0.8258427</yscale>
+      <face>1,1</face>
+      <rotation>-75.8007201,128.1345101</rotation>
+      <color r="ccColorA">16514043</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP46" index="7">
+      <file>common.square01.swf</file>
+      <x>118.2510864,-256.95</x>
+      <y>292.7052863,252.6666667</y>
+      <xscale>0.2158731,0.2158731</xscale>
+      <yscale>0.8258427,0.8258427</yscale>
+      <face>1,1</face>
+      <rotation>-101.6135456,128.1345101</rotation>
+      <color r="ccColorA">16514043</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="8">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="5" target="PROP31" type="MotionPath" atype="Prop" direction="2" section="5" timing="3" duration="6" delay="0">null</aTran>
+      <aTran id="3" target="PROP26" type="MotionPath" atype="Prop" direction="2" section="5" timing="3" duration="6" delay="0">null</aTran>
+      <aTran id="7" target="PROP36" type="MotionPath" atype="Prop" direction="2" section="5" timing="3" duration="6" delay="0">null</aTran>
+      <aTran id="9" target="PROP41" type="MotionPath" atype="Prop" direction="2" section="5" timing="3" duration="6" delay="0">null</aTran>
+      <aTran id="11" target="PROP46" type="MotionPath" atype="Prop" direction="2" section="5" timing="3" duration="6" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE4" adelay="69" lock="N" index="4" color="632273" guid="787FF085-DC0F-283E-FCD6-A5026113AE78">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <char id="AVATOR132" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.6c4aa39.chuckle_strongly.xml</action>
+      <head id="PROP53" raceCode="1">
+        <file>ugc.6c4aa39.head.head_cry.xml</file>
+      </head>
+      <x>194.5050588</x>
+      <y>271.2859392</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>-91.2536375</rotation>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>common.square01.swf</file>
+      <x>316.1905388</x>
+      <y>418.75</y>
+      <xscale>13.3784494</xscale>
+      <yscale>4.646595</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066329</color>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE5" adelay="42" lock="Y" index="5" color="632273" guid="50F9486E-22F9-CEE7-24D1-4832323EE1C0">
+    <char id="AVATOR132" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.6c4aa39.chuckle_strongly.xml</action>
+      <head id="PROP55" raceCode="1">
+        <file>ugc.6c4aa39.head.head_cry.xml</file>
+      </head>
+      <x>194.5050588</x>
+      <y>271.2859392</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>-91.2536375</rotation>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>common.square01.swf</file>
+      <x>316.1905388</x>
+      <y>418.75</y>
+      <xscale>13.3784494</xscale>
+      <yscale>4.646595</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066329</color>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE6" adelay="273" lock="N" index="6" color="632273" guid="E1CBA09B-E86F-AFA8-712D-334E5BE8BA4E">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <char id="AVATOR132" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.6c4aa39.chuckle_strongly.xml</action>
+      <head id="PROP57" raceCode="1">
+        <file>ugc.6c4aa39.head.head_cry.xml</file>
+      </head>
+      <x>194.5050588</x>
+      <y>271.2859392</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>-91.2536375</rotation>
+    </char>
+    <prop id="PROP3" index="1">
+      <file>common.square01.swf</file>
+      <x>316.1905388</x>
+      <y>418.75</y>
+      <xscale>13.3784494</xscale>
+      <yscale>4.646595</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <color r="ccColorA">10066329</color>
+    </prop>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND20" index="0" track="0" vol="8" tts="0">
+    <sfile>ugc.1632473.mp3</sfile>
+    <start>262</start>
+    <stop>534</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND8" index="1" track="0" vol="8" tts="0">
+    <sfile>ugc.0169209.mp3</sfile>
+    <start>127</start>
+    <stop>150</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND0" index="2" track="0" vol="1" tts="0">
+    <sfile>ugc.7f6d956.mp3</sfile>
+    <start>1</start>
+    <stop>114</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND21" index="3" track="1" vol="8" tts="0">
+    <sfile>ugc.1632473.mp3</sfile>
+    <start>262</start>
+    <stop>534</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND9" index="4" track="1" vol="8" tts="0">
+    <sfile>ugc.0169209.mp3</sfile>
+    <start>127</start>
+    <stop>150</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND10" index="5" track="2" vol="8" tts="0">
+    <sfile>ugc.0169209.mp3</sfile>
+    <start>127</start>
+    <stop>150</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND22" index="6" track="2" vol="8" tts="0">
+    <sfile>ugc.1632473.mp3</sfile>
+    <start>262</start>
+    <stop>534</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND2" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.98e26e1.mp3</sfile>
+    <start>1</start>
+    <stop>84</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND6" index="1" track="0" vol="8" tts="1">
+    <sfile>ugc.57f7199.mp3</sfile>
+    <start>127</start>
+    <stop>150</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND12" index="2" track="0" vol="8" tts="1">
+    <sfile>ugc.0e4008b.mp3</sfile>
+    <start>151</start>
+    <stop>219</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND15" index="3" track="0" vol="8" tts="1">
+    <sfile>ugc.1a8c408.mp3</sfile>
+    <start>220</start>
+    <stop>261</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND18" index="4" track="0" vol="8" tts="1">
+    <sfile>ugc.cac1920.mp3</sfile>
+    <start>262</start>
+    <stop>534</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[lib]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND19" index="5" track="1" vol="8" tts="1">
+    <sfile>ugc.cac1920.mp3</sfile>
+    <start>262</start>
+    <stop>534</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[lib]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND16" index="6" track="1" vol="8" tts="1">
+    <sfile>ugc.1a8c408.mp3</sfile>
+    <start>220</start>
+    <stop>261</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND13" index="7" track="1" vol="8" tts="1">
+    <sfile>ugc.0e4008b.mp3</sfile>
+    <start>151</start>
+    <stop>219</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND7" index="8" track="1" vol="8" tts="1">
+    <sfile>ugc.57f7199.mp3</sfile>
+    <start>127</start>
+    <stop>150</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[file]]></type>
+      <text><![CDATA[]]></text>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND2,~~~AVATOR132,SCENE0~~~</linkage>
+  <linkage>SOUND6,~~~AVATOR132,SCENE3~~~</linkage>
+  <linkage>SOUND12,~~~AVATOR132,SCENE4~~~</linkage>
+  <linkage>SOUND15,~~~AVATOR132,SCENE5~~~</linkage>
+  <linkage>SOUND18,~~~AVATOR132,SCENE6~~~</linkage>
+</film>

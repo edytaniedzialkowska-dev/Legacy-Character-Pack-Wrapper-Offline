@@ -1,0 +1,196 @@
+<film copyable="0" duration="11.5" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Althea Andrea Sings Brainrot Soda Pop!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="54" lock="Y" index="0" color="16777215" guid="7AFDC4A7-DC04-EC3F-E375-9FDEA01F8EC8" combgId="custom.cbg_bedroom">
+    <bg id="cbg_bedroom_BG65" index="0">
+      <file>custom.bedroom_bg.swf</file>
+    </bg>
+    <char id="AVATOR129" index="4" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.f24de05.stand.xml</action>
+      <x>322.9620662</x>
+      <y>226.6343826</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP124" index="3" attached="Y">
+      <file>custom.bedroom_blanket_bed.swf</file>
+      <x>434</x>
+      <y>251</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP126" index="2" attached="Y">
+      <file>custom.bedroom_lamp.swf</file>
+      <x>422</x>
+      <y>207</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP127" index="1" attached="Y">
+      <file>custom.bedroom_drawer02.swf</file>
+      <x>422.6</x>
+      <y>280.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE1" adelay="192" lock="Y" index="1" color="16777215" guid="3243C69A-C1A9-8E89-1AC7-B23E70DCB878">
+    <bg id="cbg_bedroom_BG65" index="0">
+      <file>custom.bedroom_bg.swf</file>
+    </bg>
+    <char id="AVATOR129" index="4" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.f24de05.dance.xml</action>
+      <x>322.925</x>
+      <y>226.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP127" index="1" attached="Y">
+      <file>custom.bedroom_drawer02.swf</file>
+      <x>422.6</x>
+      <y>280.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP126" index="2" attached="Y">
+      <file>custom.bedroom_lamp.swf</file>
+      <x>422</x>
+      <y>207</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP124" index="3" attached="Y">
+      <file>custom.bedroom_blanket_bed.swf</file>
+      <x>434</x>
+      <y>251</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE2" adelay="30" lock="Y" index="2" color="16777215" guid="B663114A-250A-5F5E-B983-D0956037F698">
+    <bg id="cbg_bedroom_BG65" index="0">
+      <file>custom.bedroom_bg.swf</file>
+    </bg>
+    <char id="AVATOR129" index="4" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.f24de05.dance.xml</action>
+      <x>322.925</x>
+      <y>226.55</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP127" index="1" attached="Y">
+      <file>custom.bedroom_drawer02.swf</file>
+      <x>422.6</x>
+      <y>280.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP126" index="2" attached="Y">
+      <file>custom.bedroom_lamp.swf</file>
+      <x>422</x>
+      <y>207</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP124" index="3" attached="Y">
+      <file>custom.bedroom_blanket_bed.swf</file>
+      <x>434</x>
+      <y>251</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="5">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND2" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.89f222d.mp3</sfile>
+    <start>1</start>
+    <stop>54</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Hello! I'm Althea Andera!]]></text>
+      <voice><![CDATA[oc_elizabeth]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND4" index="1" track="0" vol="1" tts="1">
+    <sfile>ugc.ff123d0.mp3</sfile>
+    <start>55</start>
+    <stop>246</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Quee K Cra In Night! Morning At The Mango! Morning At The Mango! 67 Mango Pop, My Little Soda Pop!]]></text>
+      <voice><![CDATA[oc_elizabeth]]></voice>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND2,~~~AVATOR129,SCENE0~~~</linkage>
+  <linkage>SOUND4,~~~AVATOR129,SCENE1~~~</linkage>
+</film>

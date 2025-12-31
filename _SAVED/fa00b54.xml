@@ -1,0 +1,87 @@
+<film copyable="0" duration="9.0" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Welcome New Year's Eve At Jacob's!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="186" lock="N" index="0" color="632273" guid="D21C1208-4F20-7A54-1F47-2B8BDDDB0C01">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG131" index="0">
+      <file>business.g4b_mbg025.swf</file>
+      <color r="Color_A">632273</color>
+    </bg>
+    <char id="AVATOR132" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.d4a1abd.talk.xml</action>
+      <x>321.0210231</x>
+      <y>202.2901252</y>
+      <xscale>1.3503129</xscale>
+      <yscale>1.3503129</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE1" adelay="30" lock="Y" index="1" color="632273" guid="9E4F547F-ABA3-A753-4086-20DDB78D5149">
+    <bg id="BG131" index="0">
+      <file>business.g4b_mbg025.swf</file>
+      <color r="Color_A">632273</color>
+    </bg>
+    <char id="AVATOR132" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.d4a1abd.talk.xml</action>
+      <head id="PROP4" raceCode="1">
+        <file>ugc.d4a1abd.head.head_neutral.xml</file>
+      </head>
+      <x>320.8859918</x>
+      <y>202.2651252</y>
+      <xscale>1.3503129</xscale>
+      <yscale>1.3503129</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND1" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.b9b0b1a.mp3</sfile>
+    <start>1</start>
+    <stop>186</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Okay, I Invite And Your Turn To New Year's Eve At Jacob's And The TV Program In Poland The All, And So, Welcome!]]></text>
+      <voice><![CDATA[brian]]></voice>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND1,~~~AVATOR132,SCENE0~~~</linkage>
+</film>

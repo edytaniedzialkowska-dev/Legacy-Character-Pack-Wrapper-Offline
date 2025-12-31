@@ -1,0 +1,58 @@
+<film copyable="0" duration="5.0" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Jacob Hugging Alkhalif Animate!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="120" lock="Y" index="0" color="16777215" guid="4D050FD2-8395-A9BA-E950-3266C3DEF510">
+    <bg id="BG262" index="0">
+      <file>ugc.def2f68.png</file>
+    </bg>
+    <char id="AVATOR263" index="1" raceCode="1">
+      <action face="-1" motionface="1">ugc.290fb6b.pt_at.xml</action>
+      <x>259.222007</x>
+      <y>233.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <char id="AVATOR264" index="2" raceCode="1">
+      <action face="1" motionface="1">ugc.26de104.stand.xml</action>
+      <head id="PROP10" raceCode="1">
+        <file>ugc.26de104.head.head_happy.xml</file>
+      </head>
+      <x>347.6620662</x>
+      <y>233.3</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT2" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+</film>
