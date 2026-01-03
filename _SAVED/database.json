@@ -1,6 +1,69 @@
 {
 	"assets": [
 		{
+			"type": "char",
+			"subtype": 0,
+			"title": "70b0b861.xml",
+			"themeId": "family",
+			"id": "4efd3ff"
+		},
+		{
+			"duration": 575,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Ivy] test",
+			"id": "fb0b29a.mp3"
+		},
+		{
+			"duration": 3892,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Brian] Happy New Year 2026, And Thank You So Much!",
+			"id": "eff1e7b.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "c333e34.mp3",
+			"duration": 4320,
+			"id": "1437741.mp3"
+		},
+		{
+			"duration": 4320,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Kidaroo] HAPPY NEW YEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAR!",
+			"id": "c333e34.mp3"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "41442ba"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "b6b3bd1"
+		},
+		{
+			"duration": 731,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Julie] test",
+			"id": "c80e920.mp3"
+		},
+		{
+			"duration": 601,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Paul] test",
+			"id": "f6a071e.mp3"
+		},
+		{
 			"type": "sound",
 			"subtype": "soundeffect",
 			"title": "3a3b6a0.mp3",
@@ -9556,6 +9619,13 @@
 		}
 	],
 	"movies": [
+		{
+			"id": "914874d",
+			"duration": "00:08",
+			"date": "2026-01-01T12:59:04.421Z",
+			"title": "Message To Everyone!",
+			"sceneCount": 2
+		},
 		{
 			"id": "c37e718",
 			"duration": "00:22",

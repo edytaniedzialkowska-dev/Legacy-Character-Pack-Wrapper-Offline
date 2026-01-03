@@ -1,0 +1,139 @@
+<film copyable="0" duration="8.3" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Message To Everyone!]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="105" lock="N" index="0" color="632273" guid="F02476B9-793E-C1F7-B7F7-B2EF71825CC0">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>business.g4b_mbg025.swf</file>
+      <color r="Color_A">632273</color>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.d4a1abd.excited.xml</action>
+      <x>321.0294511</x>
+      <y>202.1104752</y>
+      <xscale>1.3386881</xscale>
+      <yscale>1.3386881</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="3">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <effectAsset id="EFFECT3" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="earthquake" type="EARTHQUAKE"/>
+      <x>322</x>
+      <y>179</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE1" adelay="93" lock="N" index="1" color="632273" guid="F7D113DB-6BEF-F393-45AA-44E4E9404E84">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="BG130" index="0">
+      <file>business.g4b_mbg025.swf</file>
+      <color r="Color_A">632273</color>
+    </bg>
+    <char id="AVATOR131" index="1" raceCode="1" faceCamera="true">
+      <action face="1" motionface="1">ugc.d4a1abd.xarms.xml</action>
+      <x>321.0447791</x>
+      <y>202.1104752</y>
+      <xscale>1.3386881</xscale>
+      <yscale>1.3386881</yscale>
+      <rotation>0</rotation>
+    </char>
+    <effectAsset id="EFFECT1" themecode="common" index="2">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND3" index="0" track="0" vol="8" tts="0">
+    <sfile>ugc.1437741.mp3</sfile>
+    <start>1</start>
+    <stop>105</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND4" index="1" track="1" vol="8" tts="0">
+    <sfile>ugc.1437741.mp3</sfile>
+    <start>1</start>
+    <stop>105</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND5" index="2" track="2" vol="8" tts="0">
+    <sfile>ugc.1437741.mp3</sfile>
+    <start>1</start>
+    <stop>105</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND1" index="0" track="0" vol="8" tts="1">
+    <sfile>ugc.c333e34.mp3</sfile>
+    <start>1</start>
+    <stop>105</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[HAPPY NEW YEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAR!]]></text>
+      <voice><![CDATA[Kidaroo]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND7" index="1" track="0" vol="1" tts="1">
+    <sfile>ugc.eff1e7b.mp3</sfile>
+    <start>106</start>
+    <stop>198</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[Happy New Year 2026, And Thank You So Much!]]></text>
+      <voice><![CDATA[brian]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND2" index="2" track="1" vol="8" tts="1">
+    <sfile>ugc.c333e34.mp3</sfile>
+    <start>1</start>
+    <stop>105</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[HAPPY NEW YEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAR!]]></text>
+      <voice><![CDATA[Kidaroo]]></voice>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND1,~~~AVATOR131,SCENE0~~~</linkage>
+  <linkage>SOUND7,~~~AVATOR131,SCENE1~~~</linkage>
+</film>
